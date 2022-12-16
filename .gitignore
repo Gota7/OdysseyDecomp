@@ -1,0 +1,5 @@
+*.nso
+tools/*
+data/*.py
+*.map
+.vscode/*
