@@ -3,3 +3,4 @@ tools/*
 data/*.py
 *.map
 .vscode/*
+build/*

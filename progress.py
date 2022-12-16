@@ -1,7 +1,7 @@
 import os, sys
 
 done_size = 0
-TOTAL_GAME_SIZE = 21045460
+TOTAL_GAME_SIZE = 0xAE6374
 
 func_sizes = { }
 
