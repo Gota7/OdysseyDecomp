@@ -10,7 +10,7 @@ if "-non-matching" in sys.argv:
     nonmatching_str = "-DNON_MATCHING"
     print("Non-functions matches will be compiled")
 
-COMPILER_CMD = f"-x c++ -target aarch64-linux-elf -std=c++11 -stdlib=libc++ -nostdlib -fno-common -mno-implicit-float -fno-strict-aliasing -fno-short-enums -fdata-sections -mcpu=cortex-a57+fp+simd+crypto+crc -fPIC -O3 -g -fno-slp-vectorize -fno-exceptions -fomit-frame-pointer -Wall {nonmatching_str} -I include -I lib/agl -I lib/al -I lib/eui -I lib/nn -I lib/rs -I lib/sead -c "
+COMPILER_CMD = f"-x c++ -O3 -target aarch64-linux-elf -std=c++11 -stdlib=libc++ -nostdlib -mno-implicit-float -fno-strict-aliasing -fno-short-enums -fdata-sections -mcpu=cortex-a57+fp+simd+crypto+crc -fPIC -g -fno-slp-vectorize -fno-exceptions -Wall {nonmatching_str} -I include -I lib/agl -I lib/al -I lib/eui -I lib/nn -I lib/rs -I lib/sead -c "
 COMPILER_PATH = pathlib.Path("tools/clang++.exe")
 OBJDUMP_PATH = pathlib.Path("tools/llvm-objdump.exe")
 
