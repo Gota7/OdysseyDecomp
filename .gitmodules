@@ -1,0 +1,9 @@
+[submodule "lib/nnheaders"]
+	path = lib/nnheaders
+	url = https://github.com/open-ead/nnheaders.git
+[submodule "lib/agl"]
+	path = lib/agl
+	url = https://github.com/open-ead/agl.git
+[submodule "lib/sead"]
+	path = lib/sead
+	url = https://github.com/open-ead/sead.git
