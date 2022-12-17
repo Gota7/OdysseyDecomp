@@ -35,7 +35,7 @@ namespace al {
 
     void SensorHitGroup::clear() const {
         for (auto i = 0; i < mCurrentSensorCount; i++) {
-            mHitSensors[i]->_1E = 0;
+            mHitSensors[i]->mSensorCount = 0;
         }
     }
 };
