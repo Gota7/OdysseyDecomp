@@ -10,9 +10,9 @@ if "-non-matching" in sys.argv:
     nonmatching_str = "-DNON_MATCHING"
     print("Non-functions matches will be compiled")
 
-COMPILER_CMD = f"-x c++ -O3 -std=gnu++14 -mno-implicit-float -fomit-frame-pointer -fno-strict-aliasing -fno-short-enums -fdata-sections -mcpu=cortex-a57+fp+simd+crypto+crc -fPIC -g -fno-slp-vectorize -fno-exceptions -Wall {nonmatching_str} -I include -I tools/nx/aarch64/include/c++/v1 -c "
-COMPILER_PATH = pathlib.Path("tools/nx/aarch64/bin/clang++.exe")
-OBJDUMP_PATH = pathlib.Path("tools/nx/aarch64/bin/llvm-objdump.exe")
+COMPILER_CMD = f"-x c++ -O3 -std=gnu++1z --target=aarch64-linux-elf -mcpu=cortex-a57+fp+simd+crypto+crc -fno-exceptions -mno-implicit-float -fno-strict-aliasing -fno-short-enums -fdata-sections -fPIC -g -Wall {nonmatching_str} -I include -c "
+COMPILER_PATH = pathlib.Path("tools/clang/bin/clang")
+OBJDUMP_PATH = pathlib.Path("tools/clang/bin/llvm-objdump")
 
 tasks = list()
 
