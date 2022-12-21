@@ -6,7 +6,7 @@
 
 
 # JointRippleGenerator.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20JointRippleGeneratorC2EPKNS_9LiveActorE` | `al::JointRippleGenerator::JointRippleGenerator(al::LiveActor const*)` | :white_check_mark: |
 | `_ZN2al20JointRippleGenerator5resetEv` | `al::JointRippleGenerator::reset(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ModelCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9ModelCtrlC2Ev` | `al::ModelCtrl::ModelCtrl(void)` | :white_check_mark: |
 | `_ZN2al9ModelCtrlD2Ev` | `al::ModelCtrl::~ModelCtrl()` | :white_check_mark: |

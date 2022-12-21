@@ -6,7 +6,7 @@
 
 
 # ActorParamHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16ActorParamHolder11getYamlNameEv` | `al::ActorParamHolder::getYamlName(void)` | :white_check_mark: |
 | `_ZN2al14ActorParamInfoC2Ev` | `al::ActorParamInfo::ActorParamInfo(void)` | :white_check_mark: |

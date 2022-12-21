@@ -6,7 +6,7 @@
 
 
 # GraphicsPreset.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14GraphicsPresetC2EPKcPKNS_8ResourceE` | `al::GraphicsPreset::GraphicsPreset(char const*,al::Resource const*)` | :white_check_mark: |
 | `_ZN2al14GraphicsPreset7endInitEPNS_22MaterialCategoryKeeperEPKNS_20GraphicsAreaDirectorE` | `al::GraphicsPreset::endInit(al::MaterialCategoryKeeper *,al::GraphicsAreaDirector const*)` | :white_check_mark: |

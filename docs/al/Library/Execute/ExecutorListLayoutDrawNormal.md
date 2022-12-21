@@ -6,7 +6,7 @@
 
 
 # ExecutorListLayoutDrawNormal.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28ExecutorListLayoutDrawNormalC1EPKciRKNS_21ExecuteSystemInitInfoE` | `al::ExecutorListLayoutDrawNormal::ExecutorListLayoutDrawNormal(char const*,int,al::ExecuteSystemInitInfo const&)` | :white_check_mark: |
 | `_ZNK2al28ExecutorListLayoutDrawNormal9startDrawEv` | `al::ExecutorListLayoutDrawNormal::startDraw(void)const` | :white_check_mark: |

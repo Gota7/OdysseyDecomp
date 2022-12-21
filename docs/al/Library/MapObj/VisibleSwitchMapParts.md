@@ -6,7 +6,7 @@
 
 
 # VisibleSwitchMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21VisibleSwitchMapPartsC2EPKc` | `al::VisibleSwitchMapParts::VisibleSwitchMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al21VisibleSwitchMapPartsC1EPKc` | `al::VisibleSwitchMapParts::VisibleSwitchMapParts(char const*)` | :white_check_mark: |

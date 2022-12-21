@@ -6,7 +6,7 @@
 
 
 # ClippingGroupHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ClippingGroupHolderC2Ev` | `al::ClippingGroupHolder::ClippingGroupHolder(void)` | :white_check_mark: |
 | `_ZN2al19ClippingGroupHolder6updateEPKNS_13ClippingJudgeE` | `al::ClippingGroupHolder::update(al::ClippingJudge const*)` | :white_check_mark: |

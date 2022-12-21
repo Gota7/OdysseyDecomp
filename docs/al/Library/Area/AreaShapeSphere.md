@@ -6,7 +6,7 @@
 
 
 # AreaShapeSphere.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15AreaShapeSphereC2Ev` | `al::AreaShapeSphere::AreaShapeSphere(void)` | :white_check_mark: |
 | `_ZNK2al15AreaShapeSphere20calcLocalBoundingBoxEPN4sead9BoundBox3IfEE` | `al::AreaShapeSphere::calcLocalBoundingBox(sead::BoundBox3<float> *)const` | :white_check_mark: |

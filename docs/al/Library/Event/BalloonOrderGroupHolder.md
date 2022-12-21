@@ -6,7 +6,7 @@
 
 
 # BalloonOrderGroupHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23BalloonOrderGroupHolderC2Ev` | `al::BalloonOrderGroupHolder::BalloonOrderGroupHolder(void)` | :white_check_mark: |
 | `_ZNK2al23BalloonOrderGroupHolder12tryFindGroupERKNS_13PlacementInfoE` | `al::BalloonOrderGroupHolder::tryFindGroup(al::PlacementInfo const&)const` | :white_check_mark: |

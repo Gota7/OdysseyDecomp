@@ -6,7 +6,7 @@
 
 
 # CameraLimitRailKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21CameraLimitRailKeeperC2Ev` | `al::CameraLimitRailKeeper::CameraLimitRailKeeper(void)` | :white_check_mark: |
 | `_ZN2al21CameraLimitRailKeeper4initERKNS_13PlacementInfoEi` | `al::CameraLimitRailKeeper::init(al::PlacementInfo const&,int)` | :white_check_mark: |

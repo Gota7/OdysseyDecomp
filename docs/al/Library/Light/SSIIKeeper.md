@@ -6,7 +6,7 @@
 
 
 # SSIIKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9SSIIParam4initEv` | `al::SSIIParam::init(void)` | :white_check_mark: |
 | `_ZNK2al9SSIIParameqERKS0_` | `al::SSIIParam::operator==(al::SSIIParam const&)const` | :white_check_mark: |

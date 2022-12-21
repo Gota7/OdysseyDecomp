@@ -6,7 +6,7 @@
 
 
 # ActorResourceFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20isExistModelResourceEPKNS_9LiveActorE` | `al::isExistModelResource(al::LiveActor const*)` | :white_check_mark: |
 | `_ZN2al19isExistAnimResourceEPKNS_9LiveActorE` | `al::isExistAnimResource(al::LiveActor const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # SkyDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al8SkyParamC2Ev` | `al::SkyParam::SkyParam(void)` | :white_check_mark: |
 | `_ZNK2al8SkyParam7isEqualERKNS_16IUseRequestParamE` | `al::SkyParam::isEqual(al::IUseRequestParam const&)const` | :white_check_mark: |

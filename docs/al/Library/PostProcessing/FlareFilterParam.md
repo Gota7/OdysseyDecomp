@@ -6,7 +6,7 @@
 
 
 # FlareFilterParam.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16FlareFilterParamC2Ev` | `al::FlareFilterParam::FlareFilterParam(void)` | :white_check_mark: |
 | `_ZN2al16FlareFilterParam7isEqualERKS0_` | `al::FlareFilterParam::isEqual(al::FlareFilterParam const&)` | :white_check_mark: |

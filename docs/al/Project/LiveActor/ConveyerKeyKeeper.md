@@ -6,7 +6,7 @@
 
 
 # ConveyerKeyKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17ConveyerKeyKeeperC2Ev` | `al::ConveyerKeyKeeper::ConveyerKeyKeeper(void)` | :white_check_mark: |
 | `_ZN2al17ConveyerKeyKeeper4initERKNS_13ActorInitInfoE` | `al::ConveyerKeyKeeper::init(al::ActorInitInfo const&)` | :white_check_mark: |

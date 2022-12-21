@@ -6,7 +6,7 @@
 
 
 # AtmosScatterRequester.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21AtmosScatterRequesterC2EPKc` | `al::AtmosScatterRequester::AtmosScatterRequester(char const*)` | :white_check_mark: |
 | `_ZN2al21AtmosScatterRequesterC1EPKc` | `al::AtmosScatterRequester::AtmosScatterRequester(char const*)` | :white_check_mark: |

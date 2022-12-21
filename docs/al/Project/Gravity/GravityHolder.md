@@ -6,7 +6,7 @@
 
 
 # GravityHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13GravityHolderC2Ev` | `al::GravityHolder::GravityHolder(void)` | :white_check_mark: |
 | `_ZN2al13GravityHolder4initEv` | `al::GravityHolder::init(void)` | :white_check_mark: |

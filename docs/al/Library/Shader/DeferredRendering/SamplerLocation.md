@@ -6,7 +6,7 @@
 
 
 # SamplerLocation.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN3agl20UniformBlockLocationD2Ev` | `agl::UniformBlockLocation::~UniformBlockLocation()` | :white_check_mark: |
 | `_ZN3agl15SamplerLocationD2Ev` | `agl::SamplerLocation::~SamplerLocation()` | :white_check_mark: |

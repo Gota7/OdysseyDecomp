@@ -6,7 +6,7 @@
 
 
 # AudioEffectLevelDetector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24AudioEffectLevelDetectorC2Ev` | `al::AudioEffectLevelDetector::AudioEffectLevelDetector(void)` | :white_check_mark: |
 | `_ZN2al24AudioEffectLevelDetector9setParamsEPKNS_19AudioEffectProcInfoE` | `al::AudioEffectLevelDetector::setParams(al::AudioEffectProcInfo const*)` | :white_check_mark: |

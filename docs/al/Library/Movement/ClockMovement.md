@@ -6,7 +6,7 @@
 
 
 # ClockMovement.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13ClockMovementC2ERKNS_13ActorInitInfoE` | `al::ClockMovement::ClockMovement(al::ActorInitInfo const&)` | :white_check_mark: |
 | `_ZN2al13ClockMovement8exeDelayEv` | `al::ClockMovement::exeDelay(void)` | :white_check_mark: |

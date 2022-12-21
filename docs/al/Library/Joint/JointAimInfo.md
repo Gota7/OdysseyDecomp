@@ -6,7 +6,7 @@
 
 
 # JointAimInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12JointAimInfoC2Ev` | `al::JointAimInfo::JointAimInfo(void)` | :white_check_mark: |
 | `_ZNK2al12JointAimInfo12makeTurnQuatEPN4sead4QuatIfEERKNS1_7Vector3IfEE` | `al::JointAimInfo::makeTurnQuat(sead::Quat<float> *,sead::Vector3<float> const&)const` | :white_check_mark: |

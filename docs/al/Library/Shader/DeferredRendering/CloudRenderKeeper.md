@@ -6,7 +6,7 @@
 
 
 # CloudRenderKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13CloudRendererC1EPNS_18GraphicsSystemInfoEPN4sead6RandomE` | `al::CloudRenderer::CloudRenderer(al::GraphicsSystemInfo *,sead::Random *)` | :white_check_mark: |
 | `_ZN2al13CloudRendererD2Ev` | `al::CloudRenderer::~CloudRenderer()` | :white_check_mark: |

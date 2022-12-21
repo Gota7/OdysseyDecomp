@@ -6,7 +6,7 @@
 
 
 # MessageHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21initRegionAndLanguageEv` | `al::initRegionAndLanguage(void)` | :white_check_mark: |
 | `_ZN2al17forceInitLanguageE10alLanguage` | `al::forceInitLanguage(alLanguage)` | :white_check_mark: |

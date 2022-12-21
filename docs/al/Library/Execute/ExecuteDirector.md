@@ -6,7 +6,7 @@
 
 
 # ExecuteDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15ExecuteDirectorC2Ei` | `al::ExecuteDirector::ExecuteDirector(int)` | :white_check_mark: |
 | `_ZN2al15ExecuteDirectorD2Ev` | `al::ExecuteDirector::~ExecuteDirector()` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # PrePassLightKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18PrePassLightKeeper27isForceReducedBufferRequestEv` | `al::PrePassLightKeeper::isForceReducedBufferRequest(void)` | :white_check_mark: |
 | `_ZN2al18PrePassLightKeeperC2EPNS_18GraphicsSystemInfoEi` | `al::PrePassLightKeeper::PrePassLightKeeper(al::GraphicsSystemInfo *,int)` | :white_check_mark: |

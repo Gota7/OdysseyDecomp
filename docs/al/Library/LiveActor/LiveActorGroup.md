@@ -6,7 +6,7 @@
 
 
 # LiveActorGroup.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14LiveActorGroupC2EPKci` | `al::LiveActorGroup::LiveActorGroup(char const*,int)` | :white_check_mark: |
 | `_ZN2al14LiveActorGroup13registerActorEPNS_9LiveActorE` | `al::LiveActorGroup::registerActor(al::LiveActor *)` | :white_check_mark: |

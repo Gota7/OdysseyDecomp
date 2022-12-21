@@ -6,7 +6,7 @@
 
 
 # CameraPoserAnim.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15CameraPoserAnimC2Ev` | `al::CameraPoserAnim::CameraPoserAnim(void)` | :white_check_mark: |
 | `_ZN2al15CameraPoserAnim16initAnimResourceEPKNS_8ResourceEPKN4sead8Matrix34IfEE` | `al::CameraPoserAnim::initAnimResource(al::Resource const*,sead::Matrix34<float> const*)` | :white_check_mark: |

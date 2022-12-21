@@ -6,7 +6,7 @@
 
 
 # CameraViewCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al20TransCameraSubTarget13getTargetNameEv` | `al::TransCameraSubTarget::getTargetName(void)const` | :white_check_mark: |
 | `_ZNK2al20TransCameraSubTarget9calcTransEPN4sead7Vector3IfEE` | `al::TransCameraSubTarget::calcTrans(sead::Vector3<float> *)const` | :white_check_mark: |

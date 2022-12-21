@@ -6,7 +6,7 @@
 
 
 # SeBarrierObj.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12SeBarrierObjC2EPKc` | `al::SeBarrierObj::SeBarrierObj(char const*)` | :white_check_mark: |
 | `_ZN2al12SeBarrierObjC1EPKc` | `al::SeBarrierObj::SeBarrierObj(char const*)` | :white_check_mark: |

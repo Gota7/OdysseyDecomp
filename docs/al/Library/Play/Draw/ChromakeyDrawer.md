@@ -6,7 +6,7 @@
 
 
 # ChromakeyDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15ChromakeyDrawerC1EPNS_18GraphicsSystemInfoEPKNS_15ExecuteDirectorEPKNS_12EffectSystemE` | `al::ChromakeyDrawer::ChromakeyDrawer(al::GraphicsSystemInfo *,al::ExecuteDirector const*,al::EffectSystem const*)` | :white_check_mark: |
 | `_ZN2al15ChromakeyDrawer8finalizeEv` | `al::ChromakeyDrawer::finalize(void)` | :white_check_mark: |

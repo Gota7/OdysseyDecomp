@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeActorKill.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22EventFlowNodeActorKillC1EPKc` | `al::EventFlowNodeActorKill::EventFlowNodeActorKill(char const*)` | :white_check_mark: |
 | `_ZN2al22EventFlowNodeActorKill4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeActorKill::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

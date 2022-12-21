@@ -6,7 +6,7 @@
 
 
 # EventFlowMovement.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23EventFlowExecutorHolderC2Ei` | `al::EventFlowExecutorHolder::EventFlowExecutorHolder(int)` | :white_check_mark: |
 | `_ZN2al23EventFlowExecutorHolder16registerExecutorEPNS_17EventFlowExecutorE` | `al::EventFlowExecutorHolder::registerExecutor(al::EventFlowExecutor *)` | :white_check_mark: |

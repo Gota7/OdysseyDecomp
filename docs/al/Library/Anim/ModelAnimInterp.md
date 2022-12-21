@@ -6,7 +6,7 @@
 
 
 # ModelAnimInterp.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15ModelAnimInterpC1EPN2nn3g3d11SkeletonObjE` | `al::ModelAnimInterp::ModelAnimInterp(nn::g3d::SkeletonObj *)` | :white_check_mark: |
 | `_ZN2al15ModelAnimInterp6updateEv` | `al::ModelAnimInterp::update(void)` | :white_check_mark: |

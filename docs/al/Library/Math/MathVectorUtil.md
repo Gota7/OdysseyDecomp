@@ -6,7 +6,7 @@
 
 
 # MathVectorUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26separateScalarAndDirectionEPfPN4sead7Vector2IfEERKS3_` | `al::separateScalarAndDirection(float *,sead::Vector2<float> *,sead::Vector2<float> const&)` | :white_check_mark: |
 | `_ZN2al26separateScalarAndDirectionEPfPN4sead7Vector3IfEERKS3_` | `al::separateScalarAndDirection(float *,sead::Vector3<float> *,sead::Vector3<float> const&)` | :white_check_mark: |

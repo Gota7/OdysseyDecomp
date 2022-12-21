@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeJumpEntry.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22EventFlowNodeJumpEntryC2EPKc` | `al::EventFlowNodeJumpEntry::EventFlowNodeJumpEntry(char const*)` | :white_check_mark: |
 | `_ZN2al22EventFlowNodeJumpEntry4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeJumpEntry::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

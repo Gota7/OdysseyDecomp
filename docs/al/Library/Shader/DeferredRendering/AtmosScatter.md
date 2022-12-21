@@ -6,7 +6,7 @@
 
 
 # AtmosScatter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12AtmosScatterC1EPNS_18GraphicsSystemInfoEi` | `al::AtmosScatter::AtmosScatter(al::GraphicsSystemInfo *,int)` | :white_check_mark: |
 | `_ZN2al12AtmosScatterD2Ev` | `al::AtmosScatter::~AtmosScatter()` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ViewDepthDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18ViewDepthDrawParamC2Ev` | `al::ViewDepthDrawParam::ViewDepthDrawParam(void)` | :white_check_mark: |
 | `_ZNK2al18ViewDepthDrawParam8isEnableEv` | `al::ViewDepthDrawParam::isEnable(void)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # TextureUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11TextureUnitC2EPKc` | `al::TextureUnit::TextureUnit(char const*)` | :white_check_mark: |
 | `_ZN2al11TextureUnit8finalizeEv` | `al::TextureUnit::finalize(void)` | :white_check_mark: |

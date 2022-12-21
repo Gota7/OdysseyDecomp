@@ -6,7 +6,7 @@
 
 
 # ClippingFarAreaObserver.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23ClippingFarAreaObserverC2EPKNS_15AreaObjDirectorEPKNS_12PlayerHolderE` | `al::ClippingFarAreaObserver::ClippingFarAreaObserver(al::AreaObjDirector const*,al::PlayerHolder const*)` | :white_check_mark: |
 | `_ZN2al23ClippingFarAreaObserver25setDefaultFarClipDistanceEf` | `al::ClippingFarAreaObserver::setDefaultFarClipDistance(float)` | :white_check_mark: |

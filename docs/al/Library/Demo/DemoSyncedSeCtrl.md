@@ -6,7 +6,7 @@
 
 
 # DemoSyncedSeCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16DemoSyncedSeCtrl9tryCreateEPNS_13AudioDirectorE` | `al::DemoSyncedSeCtrl::tryCreate(al::AudioDirector *)` | :white_check_mark: |
 | `_ZN2al16DemoSyncedSeCtrlC1EPNS_13AudioDirectorE` | `al::DemoSyncedSeCtrl::DemoSyncedSeCtrl(al::AudioDirector *)` | :white_check_mark: |

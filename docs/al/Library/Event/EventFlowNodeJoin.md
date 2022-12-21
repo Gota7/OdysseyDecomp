@@ -6,6 +6,6 @@
 
 
 # EventFlowNodeJoin.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17EventFlowNodeJoin4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeJoin::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

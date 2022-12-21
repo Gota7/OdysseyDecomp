@@ -6,7 +6,7 @@
 
 
 # MeshDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17MeshDrawerInitArgC1EPKcPKNS_18GraphicsSystemInfoEPKN2nn3g3d8ModelObjEPKNS7_8ShapeObjEPNS_11ModelShaderEi` | `al::MeshDrawerInitArg::MeshDrawerInitArg(char const*,al::GraphicsSystemInfo const*,nn::g3d::ModelObj const*,nn::g3d::ShapeObj const*,al::ModelShader *,int)` | :white_check_mark: |
 | `_ZN2al10MeshDrawerC2ERKNS_17MeshDrawerInitArgE` | `al::MeshDrawer::MeshDrawer(al::MeshDrawerInitArg const&)` | :white_check_mark: |

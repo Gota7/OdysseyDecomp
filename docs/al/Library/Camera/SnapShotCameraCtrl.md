@@ -6,7 +6,7 @@
 
 
 # SnapShotCameraCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18SnapShotCameraCtrlC1EPKNS_23SnapShotCameraSceneInfoE` | `al::SnapShotCameraCtrl::SnapShotCameraCtrl(al::SnapShotCameraSceneInfo const*)` | :white_check_mark: |
 | `_ZN2al18SnapShotCameraCtrl5startEf` | `al::SnapShotCameraCtrl::start(float)` | :white_check_mark: |

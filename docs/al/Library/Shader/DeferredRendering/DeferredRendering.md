@@ -6,7 +6,7 @@
 
 
 # DeferredRendering.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17DeferredRenderingC2EPNS_18GraphicsSystemInfoEi` | `al::DeferredRendering::DeferredRendering(al::GraphicsSystemInfo *,int)` | :white_check_mark: |
 | `_ZN2al17DeferredRenderingD2Ev` | `al::DeferredRendering::~DeferredRendering()` | :white_check_mark: |

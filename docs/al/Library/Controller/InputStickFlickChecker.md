@@ -6,7 +6,7 @@
 
 
 # InputStickFlickChecker.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22InputStickFlickCheckerC2Ev` | `al::InputStickFlickChecker::InputStickFlickChecker(void)` | :white_check_mark: |
 | `_ZN2al22InputStickFlickChecker6updateERKN4sead7Vector2IfEE` | `al::InputStickFlickChecker::update(sead::Vector2<float> const&)` | :white_check_mark: |

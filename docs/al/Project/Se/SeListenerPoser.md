@@ -6,7 +6,7 @@
 
 
 # SeListenerPoser.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15SeListenerPoserC2ERKN4sead14SafeStringBaseIcEEfbRKNS1_7Vector3IfEEbbf` | `al::SeListenerPoser::SeListenerPoser(sead::SafeStringBase<char> const&,float,bool,sead::Vector3<float> const&,bool,bool,float)` | :white_check_mark: |
 | `_ZN2al15SeListenerPoser20setBaseToMiddleRatioEf` | `al::SeListenerPoser::setBaseToMiddleRatio(float)` | :white_check_mark: |

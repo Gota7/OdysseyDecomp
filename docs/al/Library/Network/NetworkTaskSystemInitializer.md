@@ -6,7 +6,7 @@
 
 
 # NetworkTaskSystemInitializer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28NetworkTaskSystemInitializerC2EPN4sead4HeapEPN2nn3nex9NgsFacadeERKNS_11FunctorBaseE` | `al::NetworkTaskSystemInitializer::NetworkTaskSystemInitializer(sead::Heap *,nn::nex::NgsFacade *,al::FunctorBase const&)` | :white_check_mark: |
 | `_ZN2al28NetworkTaskSystemInitializerD2Ev` | `al::NetworkTaskSystemInitializer::~NetworkTaskSystemInitializer()` | :white_check_mark: |

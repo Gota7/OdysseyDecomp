@@ -6,7 +6,7 @@
 
 
 # RollingCubePoseKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21RollingCubePoseKeeperC2Ev` | `al::RollingCubePoseKeeper::RollingCubePoseKeeper(void)` | :white_check_mark: |
 | `_ZN2al21RollingCubePoseKeeper11setCubeSizeERKN4sead9BoundBox3IfEE` | `al::RollingCubePoseKeeper::setCubeSize(sead::BoundBox3<float> const&)` | :white_check_mark: |

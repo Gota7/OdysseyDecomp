@@ -6,7 +6,7 @@
 
 
 # NoiseTextureKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18NoiseTextureKeeperC2EPNS_18GraphicsSystemInfoEPNS_12ShaderHolderE` | `al::NoiseTextureKeeper::NoiseTextureKeeper(al::GraphicsSystemInfo *,al::ShaderHolder *)` | :white_check_mark: |
 | `_ZN2al18NoiseTextureKeeperD2Ev` | `al::NoiseTextureKeeper::~NoiseTextureKeeper()` | :white_check_mark: |

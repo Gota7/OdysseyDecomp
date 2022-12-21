@@ -6,7 +6,7 @@
 
 
 # RailMoveMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16RailMoveMapPartsC2EPKc` | `al::RailMoveMapParts::RailMoveMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al16RailMoveMapPartsC1EPKc` | `al::RailMoveMapParts::RailMoveMapParts(char const*)` | :white_check_mark: |

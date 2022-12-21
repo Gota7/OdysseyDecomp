@@ -6,7 +6,7 @@
 
 
 # ActorItemInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13ActorItemInfoC2EPKcS2_S2_i` | `al::ActorItemInfo::ActorItemInfo(char const*,char const*,char const*,int)` | :white_check_mark: |
 | `_ZNK2al13ActorItemInfo13isEqualTimingEPKc` | `al::ActorItemInfo::isEqualTiming(char const*)const` | :white_check_mark: |

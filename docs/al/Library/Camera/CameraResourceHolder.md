@@ -6,7 +6,7 @@
 
 
 # CameraResourceHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20CameraResourceHolderC1EPKci` | `al::CameraResourceHolder::CameraResourceHolder(char const*,int)` | :white_check_mark: |
 | `_ZN2al20CameraResourceHolder21tryInitCameraResourceEPKNS_8ResourceEi` | `al::CameraResourceHolder::tryInitCameraResource(al::Resource const*,int)` | :white_check_mark: |

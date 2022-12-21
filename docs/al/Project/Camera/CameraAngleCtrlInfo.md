@@ -6,7 +6,7 @@
 
 
 # CameraAngleCtrlInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19CameraAngleCtrlInfoC2Ev` | `al::CameraAngleCtrlInfo::CameraAngleCtrlInfo(void)` | :white_check_mark: |
 | `_ZN2al19CameraAngleCtrlInfo19createWithRelativeHEv` | `al::CameraAngleCtrlInfo::createWithRelativeH(void)` | :white_check_mark: |

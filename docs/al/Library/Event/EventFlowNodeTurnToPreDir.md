@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeTurnToPreDir.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25EventFlowNodeTurnToPreDirC2EPKc` | `al::EventFlowNodeTurnToPreDir::EventFlowNodeTurnToPreDir(char const*)` | :white_check_mark: |
 | `_ZN2al25EventFlowNodeTurnToPreDir4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeTurnToPreDir::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

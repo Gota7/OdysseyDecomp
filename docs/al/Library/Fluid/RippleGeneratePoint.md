@@ -6,7 +6,7 @@
 
 
 # RippleGeneratePoint.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19RippleGeneratePointC2EPKc` | `al::RippleGeneratePoint::RippleGeneratePoint(char const*)` | :white_check_mark: |
 | `_ZN2al19RippleGeneratePointC1EPKc` | `al::RippleGeneratePoint::RippleGeneratePoint(char const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # PartsModel.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10PartsModelC2EPKc` | `al::PartsModel::PartsModel(char const*)` | :white_check_mark: |
 | `_ZN2al10PartsModelC1EPKc` | `al::PartsModel::PartsModel(char const*)` | :white_check_mark: |

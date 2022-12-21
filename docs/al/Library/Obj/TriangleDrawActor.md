@@ -6,7 +6,7 @@
 
 
 # TriangleDrawActor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17TriangleDrawActorC2ERKNS_13ActorInitInfoEib` | `al::TriangleDrawActor::TriangleDrawActor(al::ActorInitInfo const&,int,bool)` | :white_check_mark: |
 | `_ZN2al17TriangleDrawActorC1ERKNS_13ActorInitInfoEib` | `al::TriangleDrawActor::TriangleDrawActor(al::ActorInitInfo const&,int,bool)` | :white_check_mark: |

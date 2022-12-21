@@ -6,7 +6,7 @@
 
 
 # ActorDrawFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al7isAliveEPKNS_9LiveActorE` | `al::isAlive(al::LiveActor const*)` | :white_check_mark: |
 | `_ZN2al6isDeadEPKNS_9LiveActorE` | `al::isDead(al::LiveActor const*)` | :white_check_mark: |

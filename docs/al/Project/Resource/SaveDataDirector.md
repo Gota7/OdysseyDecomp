@@ -6,7 +6,7 @@
 
 
 # SaveDataDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16SaveDataDirectorC2Eji` | `al::SaveDataDirector::SaveDataDirector(unsigned int,int)` | :white_check_mark: |
 | `_ZN2al16SaveDataDirector10threadFuncEv` | `al::SaveDataDirector::threadFunc(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # EventFlowMovementWait.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21EventFlowMovementWaitC2EPNS_9LiveActorE` | `al::EventFlowMovementWait::EventFlowMovementWait(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al21EventFlowMovementWait6appearEv` | `al::EventFlowMovementWait::appear(void)` | :white_check_mark: |

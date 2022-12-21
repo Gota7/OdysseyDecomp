@@ -6,7 +6,7 @@
 
 
 # AnimPlayerSkl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13AnimPlayerSkl9tryCreateEPKNS_18AnimPlayerInitInfoEi` | `al::AnimPlayerSkl::tryCreate(al::AnimPlayerInitInfo const*,int)` | :white_check_mark: |
 | `_ZN2al13AnimPlayerSkl10updateLastEv` | `al::AnimPlayerSkl::updateLast(void)` | :white_check_mark: |

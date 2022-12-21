@@ -6,7 +6,7 @@
 
 
 # GridMeshXZ.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al10GridMeshXZ15getGridMeshTypeEv` | `al::GridMeshXZ::getGridMeshType(void)const` | :white_check_mark: |
 | `_ZNK2al10GridMeshXZ10calcVtxNumEv` | `al::GridMeshXZ::calcVtxNum(void)const` | :white_check_mark: |

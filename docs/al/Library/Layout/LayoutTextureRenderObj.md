@@ -6,7 +6,7 @@
 
 
 # LayoutTextureRenderObj.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22LayoutTextureRenderObjC2EPKcRKNS_14LayoutInitInfoES2_S2_` | `al::LayoutTextureRenderObj::LayoutTextureRenderObj(char const*,al::LayoutInitInfo const&,char const*,char const*)` | :white_check_mark: |
 | `_ZN2al22LayoutTextureRenderObjC1EPKcRKNS_14LayoutInitInfoES2_S2_` | `al::LayoutTextureRenderObj::LayoutTextureRenderObj(char const*,al::LayoutInitInfo const&,char const*,char const*)` | :white_check_mark: |

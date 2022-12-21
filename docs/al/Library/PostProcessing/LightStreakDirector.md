@@ -6,7 +6,7 @@
 
 
 # LightStreakDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16LightStreakParamC2Ev` | `al::LightStreakParam::LightStreakParam(void)` | :white_check_mark: |
 | `_ZNK2al16LightStreakParam8isEnableEv` | `al::LightStreakParam::isEnable(void)const` | :white_check_mark: |

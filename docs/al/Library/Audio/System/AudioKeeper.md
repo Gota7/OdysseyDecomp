@@ -6,7 +6,7 @@
 
 
 # AudioKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11AudioKeeperC1EPKNS_13AudioDirectorE` | `al::AudioKeeper::AudioKeeper(al::AudioDirector const*)` | :white_check_mark: |
 | `_ZN2al11AudioKeeper12initSeKeeperEPKNS_13AudioDirectorEPKcPKN4sead7Vector3IfEEPKNS6_8Matrix34IfEEPKNS_11ModelKeeperEPNS_14CameraDirectorE` | `al::AudioKeeper::initSeKeeper(al::AudioDirector const*,char const*,sead::Vector3<float> const*,sead::Matrix34<float> const*,al::ModelKeeper const*,al::CameraDirector *)` | :white_check_mark: |

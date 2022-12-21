@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeFork.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17EventFlowNodeForkC2EPKc` | `al::EventFlowNodeFork::EventFlowNodeFork(char const*)` | :white_check_mark: |
 | `_ZN2al17EventFlowNodeFork4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeFork::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

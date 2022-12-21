@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeDemoPlayerHide.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al27EventFlowNodeDemoPlayerHideC2EPKc` | `al::EventFlowNodeDemoPlayerHide::EventFlowNodeDemoPlayerHide(char const*)` | :white_check_mark: |
 | `_ZN2al27EventFlowNodeDemoPlayerHide4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeDemoPlayerHide::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # FlashingTimer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13FlashingTimerC2Eiiii` | `al::FlashingTimer::FlashingTimer(int,int,int,int)` | :white_check_mark: |
 | `_ZN2al13FlashingTimer5startEiiii` | `al::FlashingTimer::start(int,int,int,int)` | :white_check_mark: |

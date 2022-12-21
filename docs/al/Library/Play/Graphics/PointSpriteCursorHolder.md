@@ -6,7 +6,7 @@
 
 
 # PointSpriteCursorHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23PointSpriteCursorHolder15setContextBlendEPN4sead18GraphicsContextMRTE` | `al::PointSpriteCursorHolder::setContextBlend(sead::GraphicsContextMRT *)` | :white_check_mark: |
 | `_ZN2al23PointSpriteCursorHolder18setContextBlendAddEPN4sead18GraphicsContextMRTE` | `al::PointSpriteCursorHolder::setContextBlendAdd(sead::GraphicsContextMRT *)` | :white_check_mark: |

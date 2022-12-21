@@ -6,7 +6,7 @@
 
 
 # StageSwitchFunctorListener.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26StageSwitchFunctorListenerC2Ev` | `al::StageSwitchFunctorListener::StageSwitchFunctorListener(void)` | :white_check_mark: |
 | `_ZN2al26StageSwitchFunctorListener12setOnFunctorERKNS_11FunctorBaseE` | `al::StageSwitchFunctorListener::setOnFunctor(al::FunctorBase const&)` | :white_check_mark: |

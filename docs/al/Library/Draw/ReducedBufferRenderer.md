@@ -6,7 +6,7 @@
 
 
 # ReducedBufferRenderer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21ReducedBufferRendererC2EPKNS_12ShaderHolderEPKNS_18FullScreenTriangleE` | `al::ReducedBufferRenderer::ReducedBufferRenderer(al::ShaderHolder const*,al::FullScreenTriangle const*)` | :white_check_mark: |
 | `_ZN2al21ReducedBufferRendererD2Ev` | `al::ReducedBufferRenderer::~ReducedBufferRenderer()` | :white_check_mark: |

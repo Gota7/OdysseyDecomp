@@ -6,7 +6,7 @@
 
 
 # CameraPoserProgramable.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22CameraPoserProgramableC1EPKN4sead7Vector3IfEES5_S5_` | `al::CameraPoserProgramable::CameraPoserProgramable(sead::Vector3<float> const*,sead::Vector3<float> const*,sead::Vector3<float> const*)` | :white_check_mark: |
 | `_ZN2al22CameraPoserProgramableC2Ev` | `al::CameraPoserProgramable::CameraPoserProgramable(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # SePlayArea.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10SePlayAreaC2EPKc` | `al::SePlayArea::SePlayArea(char const*)` | :white_check_mark: |
 | `_ZN2al10SePlayAreaC1EPKc` | `al::SePlayArea::SePlayArea(char const*)` | :white_check_mark: |

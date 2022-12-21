@@ -6,7 +6,7 @@
 
 
 # DemoDynamicsResetInfoHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al27DemoDynamicsResetInfoHolderC1EPKcS2_` | `al::DemoDynamicsResetInfoHolder::DemoDynamicsResetInfoHolder(char const*,char const*)` | :white_check_mark: |
 | `_ZNK2al27DemoDynamicsResetInfoHolder15isResetDynamicsEPKci` | `al::DemoDynamicsResetInfoHolder::isResetDynamics(char const*,int)const` | :white_check_mark: |

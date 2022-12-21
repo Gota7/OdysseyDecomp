@@ -6,7 +6,7 @@
 
 
 # RateParamF32.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12RateParamF32C2Ev` | `al::RateParamF32::RateParamF32(void)` | :white_check_mark: |
 | `_ZN2al12RateParamF328setParamEff` | `al::RateParamF32::setParam(float,float)` | :white_check_mark: |

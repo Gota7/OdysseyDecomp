@@ -6,7 +6,7 @@
 
 
 # EventFlowNode.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23EventFlowMovementWanderC1EPNS_9LiveActorE` | `al::EventFlowMovementWander::EventFlowMovementWander(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al23EventFlowMovementWander4initERKNS_13ActorInitInfoE` | `al::EventFlowMovementWander::init(al::ActorInitInfo const&)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # TraceActorHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16TraceActorHolderC2Ev` | `al::TraceActorHolder::TraceActorHolder(void)` | :white_check_mark: |
 | `_ZN2al16TraceActorHolder4initEPKciRKNS_13ActorInitInfoES2_S2_S2_` | `al::TraceActorHolder::init(char const*,int,al::ActorInitInfo const&,char const*,char const*,char const*)` | :white_check_mark: |

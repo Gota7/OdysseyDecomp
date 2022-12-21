@@ -6,6 +6,6 @@
 
 
 # BgmStagePlayInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16BgmStagePlayInfo10createInfoERKNS_9ByamlIterE` | `al::BgmStagePlayInfo::createInfo(al::ByamlIter const&)` | :white_check_mark: |

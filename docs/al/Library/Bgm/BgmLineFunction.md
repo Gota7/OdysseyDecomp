@@ -6,7 +6,7 @@
 
 
 # BgmLineFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14getBgmDirectorEPKNS_15IUseAudioKeeperE` | `al::getBgmDirector(al::IUseAudioKeeper const*)` | :white_check_mark: |
 | `_ZN2al17tryGetBgmDirectorEPKNS_15IUseAudioKeeperE` | `al::tryGetBgmDirector(al::IUseAudioKeeper const*)` | :white_check_mark: |

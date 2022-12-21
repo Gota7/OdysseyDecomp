@@ -6,7 +6,7 @@
 
 
 # EffectInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14EffectEmitInfoC2Ev` | `al::EffectEmitInfo::EffectEmitInfo(void)` | :white_check_mark: |
 | `_ZN2al16ActionEffectDataC2Ev` | `al::ActionEffectData::ActionEffectData(void)` | :white_check_mark: |

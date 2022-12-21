@@ -6,7 +6,7 @@
 
 
 # RetroColorDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19RetroColorDrawParamC2Ev` | `al::RetroColorDrawParam::RetroColorDrawParam(void)` | :white_check_mark: |
 | `_ZNK2al19RetroColorDrawParam8isEnableEv` | `al::RetroColorDrawParam::isEnable(void)const` | :white_check_mark: |

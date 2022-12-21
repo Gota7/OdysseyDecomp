@@ -6,7 +6,7 @@
 
 
 # TemporalInterlace.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17TemporalInterlaceC1EPNS_12ShaderHolderEii` | `al::TemporalInterlace::TemporalInterlace(al::ShaderHolder *,int,int)` | :white_check_mark: |
 | `_ZN2al17TemporalInterlaceD2Ev` | `al::TemporalInterlace::~TemporalInterlace()` | :white_check_mark: |

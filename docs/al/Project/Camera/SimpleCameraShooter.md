@@ -6,7 +6,7 @@
 
 
 # SimpleCameraShooter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19SimpleCameraShooterC2EPKc` | `al::SimpleCameraShooter::SimpleCameraShooter(char const*)` | :white_check_mark: |
 | `_ZN2al19SimpleCameraShooter27calcAspectRatioByScreenSizeEii` | `al::SimpleCameraShooter::calcAspectRatioByScreenSize(int,int)` | :white_check_mark: |

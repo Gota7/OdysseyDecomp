@@ -6,7 +6,7 @@
 
 
 # AudioEffectCtrlPerBus.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21AudioEffectCtrlPerBusC1EiN2nn3atk12OutputDeviceENS2_6AuxBusE` | `al::AudioEffectCtrlPerBus::AudioEffectCtrlPerBus(int,nn::atk::OutputDevice,nn::atk::AuxBus)` | :white_check_mark: |
 | `_ZN2al21AudioEffectCtrlPerBus4initEv` | `al::AudioEffectCtrlPerBus::init(void)` | :white_check_mark: |

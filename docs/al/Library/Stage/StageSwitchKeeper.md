@@ -6,7 +6,7 @@
 
 
 # StageSwitchKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16StageSyncCounterC2Ev` | `al::StageSyncCounter::StageSyncCounter(void)` | :white_check_mark: |
 | `_ZN2al16StageSyncCounter26initAfterPlacementSceneObjERKNS_13ActorInitInfoE` | `al::StageSyncCounter::initAfterPlacementSceneObj(al::ActorInitInfo const&)` | :white_check_mark: |

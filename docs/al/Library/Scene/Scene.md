@@ -6,7 +6,7 @@
 
 
 # Scene.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al5SceneC2EPKc` | `al::Scene::Scene(char const*)` | :white_check_mark: |
 | `_ZN2al5SceneD2Ev` | `al::Scene::~Scene()` | :white_check_mark: |

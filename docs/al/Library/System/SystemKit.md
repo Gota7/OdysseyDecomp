@@ -6,7 +6,7 @@
 
 
 # SystemKit.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9SystemKitC2Ev` | `al::SystemKit::SystemKit(void)` | :white_check_mark: |
 | `_ZN2al9SystemKit18createMemorySystemEPN4sead4HeapE` | `al::SystemKit::createMemorySystem(sead::Heap *)` | :white_check_mark: |

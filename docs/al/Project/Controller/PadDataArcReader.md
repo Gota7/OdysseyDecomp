@@ -6,7 +6,7 @@
 
 
 # PadDataArcReader.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16PadDataArcReaderC2EPKc` | `al::PadDataArcReader::PadDataArcReader(char const*)` | :white_check_mark: |
 | `_ZN2al16PadDataArcReaderC1EPKcS2_` | `al::PadDataArcReader::PadDataArcReader(char const*,char const*)` | :white_check_mark: |

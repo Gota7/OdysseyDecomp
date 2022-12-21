@@ -6,7 +6,7 @@
 
 
 # PadReplay.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22createReplayControllerEj` | `al::createReplayController(unsigned int)` | :white_check_mark: |
 | `_ZN2al24unregistReplayControllerEj` | `al::unregistReplayController(unsigned int)` | :white_check_mark: |

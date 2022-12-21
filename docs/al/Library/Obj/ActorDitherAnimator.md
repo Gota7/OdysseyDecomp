@@ -6,7 +6,7 @@
 
 
 # ActorDitherAnimator.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ActorDitherAnimator9tryCreateEPNS_9LiveActorEPKNS_8ResourceEPKc` | `al::ActorDitherAnimator::tryCreate(al::LiveActor *,al::Resource const*,char const*)` | :white_check_mark: |
 | `_ZN2al19ActorDitherAnimator9loadParamERKNS_9ByamlIterE` | `al::ActorDitherAnimator::loadParam(al::ByamlIter const&)` | :white_check_mark: |

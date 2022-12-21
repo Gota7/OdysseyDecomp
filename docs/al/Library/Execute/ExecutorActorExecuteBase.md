@@ -6,7 +6,7 @@
 
 
 # ExecutorActorExecuteBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24ExecutorActorExecuteBaseC2EPKc` | `al::ExecutorActorExecuteBase::ExecutorActorExecuteBase(char const*)` | :white_check_mark: |
 | `_ZN2al24ExecutorActorExecuteBase13registerActorEPNS_9LiveActorE` | `al::ExecutorActorExecuteBase::registerActor(al::LiveActor *)` | :white_check_mark: |

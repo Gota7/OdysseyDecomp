@@ -6,7 +6,7 @@
 
 
 # AreaObjGroup.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12AreaObjGroupC2EPKci` | `al::AreaObjGroup::AreaObjGroup(char const*,int)` | :white_check_mark: |
 | `_ZN2al12AreaObjGroup14incrementCountEv` | `al::AreaObjGroup::incrementCount(void)` | :white_check_mark: |

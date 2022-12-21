@@ -6,7 +6,7 @@
 
 
 # OcclusionCullingJudge.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21OcclusionCullingJudgeC1EPNS_18GraphicsSystemInfoE` | `al::OcclusionCullingJudge::OcclusionCullingJudge(al::GraphicsSystemInfo *)` | :white_check_mark: |
 | `_ZN2al21OcclusionCullingJudgeD2Ev` | `al::OcclusionCullingJudge::~OcclusionCullingJudge()` | :white_check_mark: |

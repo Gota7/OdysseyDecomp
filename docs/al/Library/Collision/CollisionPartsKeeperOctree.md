@@ -6,7 +6,7 @@
 
 
 # CollisionPartsKeeperOctree.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13DiskCheckInfoC2ERKN4sead7Vector3IfEEffS5_` | `al::DiskCheckInfo::DiskCheckInfo(sead::Vector3<float> const&,float,float,sead::Vector3<float> const&)` | :white_check_mark: |
 | `nullsub_454` | `` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ShaderSamplerSetter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15DynamicTexAllocC2Eb` | `al::DynamicTexAlloc::DynamicTexAlloc(bool)` | :white_check_mark: |
 | `_ZN2al15DynamicTexAllocD2Ev` | `al::DynamicTexAlloc::~DynamicTexAlloc()` | :white_check_mark: |

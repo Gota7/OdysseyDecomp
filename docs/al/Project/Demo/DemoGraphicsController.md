@@ -6,7 +6,7 @@
 
 
 # DemoGraphicsController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17GraphicsDemoParamC2Ev` | `al::GraphicsDemoParam::GraphicsDemoParam(void)` | :white_check_mark: |
 | `_ZNK2al17GraphicsDemoParam12getParamNameEv` | `al::GraphicsDemoParam::getParamName(void)const` | :white_check_mark: |

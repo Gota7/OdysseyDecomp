@@ -6,7 +6,7 @@
 
 
 # MessageTag.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10MessageTagC2EPKN2nn4font12PrintContextItEE` | `al::MessageTag::MessageTag(nn::font::PrintContext<unsigned short> const*)` | :white_check_mark: |
 | `_ZN2al10MessageTagC1EPKDs` | `al::MessageTag::MessageTag(char16_t const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ExecutorListBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25ExecutorListActorMovementC2EPKci` | `al::ExecutorListActorMovement::ExecutorListActorMovement(char const*,int)` | :white_check_mark: |
 | `_ZNK2al25ExecutorListActorMovement14createExecutorEPKc` | `al::ExecutorListActorMovement::createExecutor(char const*)const` | :white_check_mark: |

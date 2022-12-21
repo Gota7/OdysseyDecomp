@@ -6,7 +6,7 @@
 
 
 # FlareFilterDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19FlareFilterDirectorC2Ei` | `al::FlareFilterDirector::FlareFilterDirector(int)` | :white_check_mark: |
 | `_ZN2al19FlareFilterDirectorD2Ev` | `al::FlareFilterDirector::~FlareFilterDirector()` | :white_check_mark: |

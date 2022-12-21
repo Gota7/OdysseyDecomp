@@ -6,7 +6,7 @@
 
 
 # BalloonOrderGroup.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17BalloonOrderGroupC1ERKNS_13PlacementInfoE` | `al::BalloonOrderGroup::BalloonOrderGroup(al::PlacementInfo const&)` | :white_check_mark: |
 | `_ZNK2al17BalloonOrderGroup7isEqualERKNS_13PlacementInfoE` | `al::BalloonOrderGroup::isEqual(al::PlacementInfo const&)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ModelKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11ModelKeeperC2Ev` | `al::ModelKeeper::ModelKeeper(void)` | :white_check_mark: |
 | `_ZN2al11ModelKeeperD2Ev` | `al::ModelKeeper::~ModelKeeper()` | :white_check_mark: |

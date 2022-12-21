@@ -6,7 +6,7 @@
 
 
 # CameraPoserTalk.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15CameraPoserTalkC2EPKc` | `al::CameraPoserTalk::CameraPoserTalk(char const*)` | :white_check_mark: |
 | `_ZN2al15CameraPoserTalk4initEv` | `al::CameraPoserTalk::init(void)` | :white_check_mark: |

@@ -6,6 +6,6 @@
 
 
 # LayoutSceneInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15LayoutSceneInfoC2Ev` | `al::LayoutSceneInfo::LayoutSceneInfo(void)` | :white_check_mark: |

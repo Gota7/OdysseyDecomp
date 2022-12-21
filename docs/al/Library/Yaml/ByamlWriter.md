@@ -6,7 +6,7 @@
 
 
 # ByamlWriter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11ByamlWriterC2EPN4sead4HeapEb` | `al::ByamlWriter::ByamlWriter(sead::Heap *,bool)` | :white_check_mark: |
 | `_ZN2al11ByamlWriterD2Ev` | `al::ByamlWriter::~ByamlWriter()` | :white_check_mark: |

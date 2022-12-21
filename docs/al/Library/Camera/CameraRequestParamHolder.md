@@ -6,7 +6,7 @@
 
 
 # CameraRequestParamHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24CameraRequestParamHolderC2Ev` | `al::CameraRequestParamHolder::CameraRequestParamHolder(void)` | :white_check_mark: |
 | `_ZN2al24CameraRequestParamHolder15resetPlayerTypeEv` | `al::CameraRequestParamHolder::resetPlayerType(void)` | :white_check_mark: |

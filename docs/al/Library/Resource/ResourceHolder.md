@@ -6,7 +6,7 @@
 
 
 # ResourceHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al8ResourceC2ERKN4sead14SafeStringBaseIcEE` | `al::Resource::Resource(sead::SafeStringBase<char> const&)` | :white_check_mark: |
 | `_ZN2al8ResourceC1ERKN4sead14SafeStringBaseIcEEPNS1_10ArchiveResE` | `al::Resource::Resource(sead::SafeStringBase<char> const&,sead::ArchiveRes *)` | :white_check_mark: |

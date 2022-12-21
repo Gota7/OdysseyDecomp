@@ -6,7 +6,7 @@
 
 
 # RenderVariables.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al15RenderVariables21getGraphicsSystemInfoEv` | `al::RenderVariables::getGraphicsSystemInfo(void)const` | :white_check_mark: |
 | `_ZN2al15RenderVariablesC1EPN3agl11DrawContextEPNS_18GraphicsRenderInfoEPNS_15ExecuteDirectorEPNS_12EffectSystemEPKNS_14SimpleModelEnvERKNS_8ViewInfoEiibbb` | `al::RenderVariables::RenderVariables(agl::DrawContext *,al::GraphicsRenderInfo *,al::ExecuteDirector *,al::EffectSystem *,al::SimpleModelEnv const*,al::ViewInfo const&,int,int,bool,bool,bool)` | :white_check_mark: |

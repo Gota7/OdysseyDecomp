@@ -6,6 +6,6 @@
 
 
 # ClippingRequestInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ClippingRequestInfoC2Ev` | `al::ClippingRequestInfo::ClippingRequestInfo(void)` | :white_check_mark: |

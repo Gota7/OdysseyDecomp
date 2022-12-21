@@ -6,7 +6,7 @@
 
 
 # JointControllerBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19JointControllerBaseC2Ei` | `al::JointControllerBase::JointControllerBase(int)` | :white_check_mark: |
 | `_ZN2al19JointControllerBase13appendJointIdEi` | `al::JointControllerBase::appendJointId(int)` | :white_check_mark: |

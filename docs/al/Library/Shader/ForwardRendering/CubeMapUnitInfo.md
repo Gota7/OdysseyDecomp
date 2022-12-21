@@ -6,7 +6,7 @@
 
 
 # CubeMapUnitInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al15CubeMapUnitInfo7isEmptyEv` | `al::CubeMapUnitInfo::isEmpty(void)const` | :white_check_mark: |
 | `_ZNK2al19ShaderCubeMapKeeper30findCubeMapUnitInfoIndexByNameEPKc` | `al::ShaderCubeMapKeeper::findCubeMapUnitInfoIndexByName(char const*)const` | :white_check_mark: |

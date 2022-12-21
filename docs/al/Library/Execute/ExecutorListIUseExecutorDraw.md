@@ -6,7 +6,7 @@
 
 
 # ExecutorListIUseExecutorDraw.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28ExecutorListIUseExecutorDrawC2EPKci` | `al::ExecutorListIUseExecutorDraw::ExecutorListIUseExecutorDraw(char const*,int)` | :white_check_mark: |
 | `_ZNK2al28ExecutorListIUseExecutorDraw11executeListEv` | `al::ExecutorListIUseExecutorDraw::executeList(void)const` | :white_check_mark: |

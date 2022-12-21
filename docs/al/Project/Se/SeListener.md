@@ -6,7 +6,7 @@
 
 
 # SeListener.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10SeListenerC2Ev` | `al::SeListener::SeListener(void)` | :white_check_mark: |
 | `_ZN2al10SeListener10startPoserEPKci` | `al::SeListener::startPoser(char const*,int)` | :white_check_mark: |

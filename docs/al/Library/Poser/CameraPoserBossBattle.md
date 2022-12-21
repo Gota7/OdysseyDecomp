@@ -6,7 +6,7 @@
 
 
 # CameraPoserBossBattle.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21CameraPoserBossBattleC2EPKcPKN4sead7Vector3IfEE` | `al::CameraPoserBossBattle::CameraPoserBossBattle(char const*,sead::Vector3<float> const*)` | :white_check_mark: |
 | `_ZN2al21CameraPoserBossBattle4initEv` | `al::CameraPoserBossBattle::init(void)` | :white_check_mark: |

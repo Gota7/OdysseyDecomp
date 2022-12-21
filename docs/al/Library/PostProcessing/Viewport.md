@@ -6,7 +6,7 @@
 
 
 # Viewport.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10ProjectionC2Ev` | `al::Projection::Projection(void)` | :white_check_mark: |
 | `_ZN2al10Projection4initEv` | `al::Projection::init(void)` | :white_check_mark: |

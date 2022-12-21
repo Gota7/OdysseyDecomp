@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeCaseEventHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28EventFlowNodeCaseEventHolderC2Ev` | `al::EventFlowNodeCaseEventHolder::EventFlowNodeCaseEventHolder(void)` | :white_check_mark: |
 | `_ZN2al28EventFlowNodeCaseEventHolder4initERKNS_9ByamlIterEPKNS_17IUseMessageSystemE` | `al::EventFlowNodeCaseEventHolder::init(al::ByamlIter const&,al::IUseMessageSystem const*)` | :white_check_mark: |

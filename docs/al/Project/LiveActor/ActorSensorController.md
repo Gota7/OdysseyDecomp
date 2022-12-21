@@ -6,7 +6,7 @@
 
 
 # ActorSensorController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21ActorSensorControllerC1EPNS_9LiveActorEPKc` | `al::ActorSensorController::ActorSensorController(al::LiveActor *,char const*)` | :white_check_mark: |
 | `_ZN2al21ActorSensorController14setSensorScaleEf` | `al::ActorSensorController::setSensorScale(float)` | :white_check_mark: |

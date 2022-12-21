@@ -6,7 +6,7 @@
 
 
 # DepthShadowDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13isExistShadowEPNS_9LiveActorE` | `al::isExistShadow(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al21isExistShadowMaskCtrlEPNS_9LiveActorE` | `al::isExistShadowMaskCtrl(al::LiveActor *)` | :white_check_mark: |

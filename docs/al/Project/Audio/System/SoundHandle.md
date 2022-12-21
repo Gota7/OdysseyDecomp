@@ -6,7 +6,7 @@
 
 
 # SoundHandle.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al14AcLSoundHandle7isPauseEv` | `al::AcLSoundHandle::isPause(void)const` | :white_check_mark: |
 | `_ZNK2al14AcLSoundHandle9getVolumeEv` | `al::AcLSoundHandle::getVolume(void)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # SimpleLayoutTextHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16SimpleLayoutTextC2ERKNS_14LayoutInitInfoEPKcS5_S5_` | `al::SimpleLayoutText::SimpleLayoutText(al::LayoutInitInfo const&,char const*,char const*,char const*)` | :white_check_mark: |
 | `_ZN2al16SimpleLayoutTextC1ERKNS_14LayoutInitInfoEPKcS5_S5_` | `al::SimpleLayoutText::SimpleLayoutText(al::LayoutInitInfo const&,char const*,char const*,char const*)` | :white_check_mark: |

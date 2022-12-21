@@ -6,7 +6,7 @@
 
 
 # CameraPoserFlag.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15CameraPoserFlagC2Ev` | `al::CameraPoserFlag::CameraPoserFlag(void)` | :white_check_mark: |
 | `_ZN2al15CameraPoserFlag4loadERKNS_9ByamlIterE` | `al::CameraPoserFlag::load(al::ByamlIter const&)` | :white_check_mark: |

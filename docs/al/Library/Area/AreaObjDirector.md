@@ -6,7 +6,7 @@
 
 
 # AreaObjDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15AreaObjDirectorC2Ev` | `al::AreaObjDirector::AreaObjDirector(void)` | :white_check_mark: |
 | `_ZN2al15AreaObjDirector4initEPKNS_14AreaObjFactoryE` | `al::AreaObjDirector::init(al::AreaObjFactory const*)` | :white_check_mark: |

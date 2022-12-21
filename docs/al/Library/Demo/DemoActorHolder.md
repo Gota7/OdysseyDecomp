@@ -6,7 +6,7 @@
 
 
 # DemoActorHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15DesignActorInfoC2EPNS_9LiveActorERKNS_13ActorInitInfoES5_RKN4sead8Matrix34IfEE` | `al::DesignActorInfo::DesignActorInfo(al::LiveActor *,al::ActorInitInfo const&,al::ActorInitInfo const&,sead::Matrix34<float> const&)` | :white_check_mark: |
 | `_ZN2al15DemoActorHolderC2Eb` | `al::DemoActorHolder::DemoActorHolder(bool)` | :white_check_mark: |

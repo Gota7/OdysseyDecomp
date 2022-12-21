@@ -6,7 +6,7 @@
 
 
 # SwitchOnAreaGroup.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17SwitchOnAreaGroupC2EPNS_12AreaObjGroupE` | `al::SwitchOnAreaGroup::SwitchOnAreaGroup(al::AreaObjGroup *)` | :white_check_mark: |
 | `_ZN2al17SwitchOnAreaGroup6updateEPKN4sead7Vector3IfEEi` | `al::SwitchOnAreaGroup::update(sead::Vector3<float> const*,int)` | :white_check_mark: |

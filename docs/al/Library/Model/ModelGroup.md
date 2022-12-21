@@ -6,7 +6,7 @@
 
 
 # ModelGroup.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10ModelGroupC2Ei` | `al::ModelGroup::ModelGroup(int)` | :white_check_mark: |
 | `_ZN2al10ModelGroupD2Ev` | `al::ModelGroup::~ModelGroup()` | :white_check_mark: |

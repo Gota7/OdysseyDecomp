@@ -6,7 +6,7 @@
 
 
 # VertexDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12VertexDrawer6VertexC1Emi` | `al::VertexDrawer::Vertex::Vertex(unsigned long,int)` | :white_check_mark: |
 | `_ZN2al12VertexDrawer6VertexD2Ev` | `al::VertexDrawer::Vertex::~Vertex()` | :white_check_mark: |

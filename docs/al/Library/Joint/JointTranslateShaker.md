@@ -6,7 +6,7 @@
 
 
 # JointTranslateShaker.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20JointTranslateShakerC2EPKNS_9LiveActorEi` | `al::JointTranslateShaker::JointTranslateShaker(al::LiveActor const*,int)` | :white_check_mark: |
 | `_ZN2al20JointTranslateShaker6appendEi18JointTranslateAxis` | `al::JointTranslateShaker::append(int,JointTranslateAxis)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # AtmosScatterDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18AtmosScatterDrawerC1EPNS_15ExecuteDirectorEPNS_18GraphicsSystemInfoE` | `al::AtmosScatterDrawer::AtmosScatterDrawer(al::ExecuteDirector *,al::GraphicsSystemInfo *)` | :white_check_mark: |
 | `_ZNK2al18AtmosScatterDrawer4drawEv` | `al::AtmosScatterDrawer::draw(void)const` | :white_check_mark: |

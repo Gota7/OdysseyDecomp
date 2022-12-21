@@ -6,7 +6,7 @@
 
 
 # CameraTargetHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18CameraTargetHolderC2Ei` | `al::CameraTargetHolder::CameraTargetHolder(int)` | :white_check_mark: |
 | `_ZN2al18CameraTargetHolder18initAfterPlacementEPKNS_12PlayerHolderE` | `al::CameraTargetHolder::initAfterPlacement(al::PlayerHolder const*)` | :white_check_mark: |

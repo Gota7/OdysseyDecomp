@@ -6,7 +6,7 @@
 
 
 # MessageSystem.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13MessageSystem20tryInitMessageHolderEPN4sead10StrTreeMapILi256EPNS_13MessageHolderEEEPKcS8_S8_` | `al::MessageSystem::tryInitMessageHolder(sead::StrTreeMap<256,al::MessageHolder *> *,char const*,char const*,char const*)` | :white_check_mark: |
 | `_ZN4sead10StrTreeMapILi256EPN2al13MessageHolderEE6insertERKNS_14SafeStringBaseIcEERKS3_` | `sead::StrTreeMap<256,al::MessageHolder *>::insert(sead::SafeStringBase<char> const&,al::MessageHolder * const&)` | :white_check_mark: |

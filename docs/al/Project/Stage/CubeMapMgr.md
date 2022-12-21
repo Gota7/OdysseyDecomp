@@ -6,7 +6,7 @@
 
 
 # CubeMapMgr.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN3agl3env26CubeMapFilterImportanceGGXC2Ev` | `agl::env::CubeMapFilterImportanceGGX::CubeMapFilterImportanceGGX(void)` | :white_check_mark: |
 | `_ZN3agl3env26CubeMapFilterImportanceGGXD2Ev` | `agl::env::CubeMapFilterImportanceGGX::~CubeMapFilterImportanceGGX()` | :white_check_mark: |

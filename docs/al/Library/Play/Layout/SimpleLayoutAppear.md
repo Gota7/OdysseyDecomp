@@ -6,7 +6,7 @@
 
 
 # SimpleLayoutAppear.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18SimpleLayoutAppearC2EPKcS2_RKNS_14LayoutInitInfoES2_` | `al::SimpleLayoutAppear::SimpleLayoutAppear(char const*,char const*,al::LayoutInitInfo const&,char const*)` | :white_check_mark: |
 | `_ZN2al18SimpleLayoutAppearC1EPKcS2_RKNS_14LayoutInitInfoES2_` | `al::SimpleLayoutAppear::SimpleLayoutAppear(char const*,char const*,al::LayoutInitInfo const&,char const*)` | :white_check_mark: |

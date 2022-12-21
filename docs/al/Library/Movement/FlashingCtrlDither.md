@@ -6,7 +6,7 @@
 
 
 # FlashingCtrlDither.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18FlashingCtrlDitherC1EPNS_9LiveActorE` | `al::FlashingCtrlDither::FlashingCtrlDither(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al18FlashingCtrlDither5startEi` | `al::FlashingCtrlDither::start(int)` | :white_check_mark: |

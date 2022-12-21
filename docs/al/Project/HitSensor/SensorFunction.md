@@ -6,7 +6,7 @@
 
 
 # SensorFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN16alSensorFunction19updateHitSensorsAllEPN2al9LiveActorE` | `alSensorFunction::updateHitSensorsAll(al::LiveActor *)` | :white_check_mark: |
 | `_ZN16alSensorFunction15clearHitSensorsEPN2al9LiveActorE` | `alSensorFunction::clearHitSensors(al::LiveActor *)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # SoundItemHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14SoundItemEntryC2Ev` | `al::SoundItemEntry::SoundItemEntry(void)` | :white_check_mark: |
 | `_ZN2al14SoundItemEntry4loadEv` | `al::SoundItemEntry::load(void)` | :white_check_mark: |

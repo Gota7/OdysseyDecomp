@@ -6,7 +6,7 @@
 
 
 # ActorSensorMsgFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26sendMsgPlayerAttackTrampleEPNS_9HitSensorES1_PNS_12ComboCounterE` | `al::sendMsgPlayerAttackTrample(al::HitSensor *,al::HitSensor *,al::ComboCounter *)` | :white_check_mark: |
 | `_ZN2al27sendMsgPlayerTrampleReflectEPNS_9HitSensorES1_PNS_12ComboCounterE` | `al::sendMsgPlayerTrampleReflect(al::HitSensor *,al::HitSensor *,al::ComboCounter *)` | :white_check_mark: |

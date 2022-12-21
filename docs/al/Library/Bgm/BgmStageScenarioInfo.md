@@ -6,7 +6,7 @@
 
 
 # BgmStageScenarioInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20BgmStageScenarioInfo10createInfoERKNS_9ByamlIterE` | `al::BgmStageScenarioInfo::createInfo(al::ByamlIter const&)` | :white_check_mark: |
 | `_ZN2al19createAudioInfoListINS_16BgmStagePlayInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi` | `al::AudioInfoListWithParts<al::BgmStagePlayInfo> * al::createAudioInfoList<al::BgmStagePlayInfo>(al::ByamlIter const&,int)` | :white_check_mark: |

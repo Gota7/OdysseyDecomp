@@ -6,7 +6,7 @@
 
 
 # EffectDataBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22EffectDrawCategoryInfoC2Ev` | `al::EffectDrawCategoryInfo::EffectDrawCategoryInfo(void)` | :white_check_mark: |
 | `_ZN2al14EffectDataBaseC2EPKc` | `al::EffectDataBase::EffectDataBase(char const*)` | :white_check_mark: |

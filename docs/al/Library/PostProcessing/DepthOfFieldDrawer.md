@@ -6,7 +6,7 @@
 
 
 # DepthOfFieldDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17DepthOfFieldParamC2Ev` | `al::DepthOfFieldParam::DepthOfFieldParam(void)` | :white_check_mark: |
 | `_ZN2al17DepthOfFieldParam7isEqualERKS0_` | `al::DepthOfFieldParam::isEqual(al::DepthOfFieldParam const&)` | :white_check_mark: |

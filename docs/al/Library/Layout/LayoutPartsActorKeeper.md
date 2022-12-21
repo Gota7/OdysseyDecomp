@@ -6,7 +6,7 @@
 
 
 # LayoutPartsActorKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22LayoutPartsActorKeeperC2Ei` | `al::LayoutPartsActorKeeper::LayoutPartsActorKeeper(int)` | :white_check_mark: |
 | `_ZN2al22LayoutPartsActorKeeper18resisterPartsActorEPNS_11LayoutActorE` | `al::LayoutPartsActorKeeper::resisterPartsActor(al::LayoutActor *)` | :white_check_mark: |

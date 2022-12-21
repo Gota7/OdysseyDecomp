@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeCheckWaitSwitch.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28EventFlowNodeCheckWaitSwitchC2EPKc` | `al::EventFlowNodeCheckWaitSwitch::EventFlowNodeCheckWaitSwitch(char const*)` | :white_check_mark: |
 | `_ZN2al28EventFlowNodeCheckWaitSwitch4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeCheckWaitSwitch::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

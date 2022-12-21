@@ -6,7 +6,7 @@
 
 
 # CameraBlurController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15CameraBlurParamC2Ev` | `al::CameraBlurParam::CameraBlurParam(void)` | :white_check_mark: |
 | `_ZNK2al15CameraBlurParam11getParamObjEv` | `al::CameraBlurParam::getParamObj(void)const` | :white_check_mark: |

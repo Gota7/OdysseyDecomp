@@ -6,7 +6,7 @@
 
 
 # CameraAngleVerticalRequester.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28CameraAngleVerticalRequesterC2Ev` | `al::CameraAngleVerticalRequester::CameraAngleVerticalRequester(void)` | :white_check_mark: |
 | `_ZN2al28CameraAngleVerticalRequester4initEPNS_15AreaObjDirectorE` | `al::CameraAngleVerticalRequester::init(al::AreaObjDirector *)` | :white_check_mark: |

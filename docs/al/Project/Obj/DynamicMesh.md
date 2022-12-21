@@ -6,7 +6,7 @@
 
 
 # DynamicMesh.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11DynamicMeshC2EjPKN2nn3g3d11ResMaterialEPKNS2_15ResShadingModelEPKNS2_16ResShaderProgramE` | `al::DynamicMesh::DynamicMesh(unsigned int,nn::g3d::ResMaterial const*,nn::g3d::ResShadingModel const*,nn::g3d::ResShaderProgram const*)` | :white_check_mark: |
 | `sub_7100A70CE0` | `` | :white_check_mark: |

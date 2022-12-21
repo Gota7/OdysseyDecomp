@@ -6,7 +6,7 @@
 
 
 # DepthShadowModel.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16DepthShadowModelC2EPNS_9LiveActorERKNS_13ActorInitInfoEPKcb` | `al::DepthShadowModel::DepthShadowModel(al::LiveActor *,al::ActorInitInfo const&,char const*,bool)` | :white_check_mark: |
 | `_ZN2al16DepthShadowModelC1EPNS_9LiveActorERKNS_13ActorInitInfoEPKcb` | `al::DepthShadowModel::DepthShadowModel(al::LiveActor *,al::ActorInitInfo const&,char const*,bool)` | :white_check_mark: |

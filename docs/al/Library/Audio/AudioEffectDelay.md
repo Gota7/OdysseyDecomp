@@ -6,7 +6,7 @@
 
 
 # AudioEffectDelay.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16AudioEffectDelayD0Ev` | `al::AudioEffectDelay::~AudioEffectDelay()` | :white_check_mark: |
 | `_ZNK2nn3atk11EffectDelay25GetChannelSettingCountMaxEv` | `nn::atk::EffectDelay::GetChannelSettingCountMax(void)const` | :white_check_mark: |

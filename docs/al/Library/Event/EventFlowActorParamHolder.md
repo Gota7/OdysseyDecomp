@@ -6,7 +6,7 @@
 
 
 # EventFlowActorParamHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25EventFlowActorParamHolderC2Ev` | `al::EventFlowActorParamHolder::EventFlowActorParamHolder(void)` | :white_check_mark: |
 | `_ZN2al25EventFlowActorParamHolder4loadERKNS_9ByamlIterE` | `al::EventFlowActorParamHolder::load(al::ByamlIter const&)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ExecutorActorMovement.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21ExecutorActorMovementC2EPKc` | `al::ExecutorActorMovement::ExecutorActorMovement(char const*)` | :white_check_mark: |
 | `_ZNK2al21ExecutorActorMovement7executeEv` | `al::ExecutorActorMovement::execute(void)const` | :white_check_mark: |

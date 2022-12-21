@@ -6,7 +6,7 @@
 
 
 # CameraPoserFactory.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18CameraPoserFactoryC2EPKc` | `al::CameraPoserFactory::CameraPoserFactory(char const*)` | :white_check_mark: |
 | `_ZNK2al18CameraPoserFactory25createEntranceCameraPoserEv` | `al::CameraPoserFactory::createEntranceCameraPoser(void)const` | :white_check_mark: |

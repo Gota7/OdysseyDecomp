@@ -6,7 +6,7 @@
 
 
 # BgmResourceCategoryInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23BgmResourceCategoryInfo10createInfoERKNS_9ByamlIterE` | `al::BgmResourceCategoryInfo::createInfo(al::ByamlIter const&)` | :white_check_mark: |
 | `_ZN2al20BgmTimeSignatureInfo11compareInfoEPKS0_S2_` | `al::BgmTimeSignatureInfo::compareInfo(al::BgmTimeSignatureInfo const*,al::BgmTimeSignatureInfo const*)` | :white_check_mark: |

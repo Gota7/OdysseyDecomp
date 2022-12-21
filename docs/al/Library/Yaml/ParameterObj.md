@@ -6,7 +6,7 @@
 
 
 # ParameterObj.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN15alYamlMacroUtil13IUseYamlParamC2EPKc` | `alYamlMacroUtil::IUseYamlParam::IUseYamlParam(char const*)` | :white_check_mark: |
 | `_ZN15alYamlMacroUtil14YamlParamGroup8addParamEPNS_13IUseYamlParamE` | `alYamlMacroUtil::YamlParamGroup::addParam(alYamlMacroUtil::IUseYamlParam *)` | :white_check_mark: |

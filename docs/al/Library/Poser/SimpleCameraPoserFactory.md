@@ -6,7 +6,7 @@
 
 
 # SimpleCameraPoserFactory.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24SimpleCameraPoserFactoryC2EPKc` | `al::SimpleCameraPoserFactory::SimpleCameraPoserFactory(char const*)` | :white_check_mark: |
 | `_ZN2al25createCameraPoserFunctionINS_25CameraPoserParallelSimpleEEEPNS_11CameraPoserEPKc` | `al::CameraPoser * al::createCameraPoserFunction<al::CameraPoserParallelSimple>(char const*)` | :white_check_mark: |

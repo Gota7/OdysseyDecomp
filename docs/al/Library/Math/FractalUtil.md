@@ -6,7 +6,7 @@
 
 
 # FractalUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11calcFractalEffjfffb` | `al::calcFractal(float,float,unsigned int,float,float,float,bool)` | :white_check_mark: |
 | `_ZN2al16calcMultiFractalEfffjfffb` | `al::calcMultiFractal(float,float,float,unsigned int,float,float,float,bool)` | :white_check_mark: |

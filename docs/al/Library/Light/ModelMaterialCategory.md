@@ -6,7 +6,7 @@
 
 
 # ModelMaterialCategory.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21ModelMaterialCategoryC2EPNS_9ModelCtrlEPNS_22MaterialCategoryKeeperE` | `al::ModelMaterialCategory::ModelMaterialCategory(al::ModelCtrl *,al::MaterialCategoryKeeper *)` | :white_check_mark: |
 | `_ZN2al21ModelMaterialCategory4initEPKc` | `al::ModelMaterialCategory::init(char const*)` | :white_check_mark: |

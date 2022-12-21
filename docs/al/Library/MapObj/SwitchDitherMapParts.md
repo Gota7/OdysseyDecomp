@@ -6,7 +6,7 @@
 
 
 # SwitchDitherMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20SwitchDitherMapPartsC2EPKc` | `al::SwitchDitherMapParts::SwitchDitherMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al20SwitchDitherMapPartsC1EPKc` | `al::SwitchDitherMapParts::SwitchDitherMapParts(char const*)` | :white_check_mark: |

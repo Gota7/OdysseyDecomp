@@ -6,7 +6,7 @@
 
 
 # DemoInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al27addDemoActorFromAddDemoInfoEPKNS_9LiveActorEPKNS_11AddDemoInfoE` | `al::addDemoActorFromAddDemoInfo(al::LiveActor const*,al::AddDemoInfo const*)` | :white_check_mark: |
 | `_ZN2al31addDemoActorFromDemoActorHolderEPKNS_9LiveActorEPKNS_15DemoActorHolderE` | `al::addDemoActorFromDemoActorHolder(al::LiveActor const*,al::DemoActorHolder const*)` | :white_check_mark: |

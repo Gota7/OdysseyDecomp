@@ -6,7 +6,7 @@
 
 
 # BgmParamsChanger.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16BgmParamsChangerC2Ev` | `al::BgmParamsChanger::BgmParamsChanger(void)` | :white_check_mark: |
 | `_ZN2al16BgmParamsChanger6updateEv` | `al::BgmParamsChanger::update(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # BgmPlayObj.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10BgmPlayObjC2EPKcb` | `al::BgmPlayObj::BgmPlayObj(char const*,bool)` | :white_check_mark: |
 | `_ZN2al10BgmPlayObjC1EPKcb` | `al::BgmPlayObj::BgmPlayObj(char const*,bool)` | :white_check_mark: |

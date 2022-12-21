@@ -6,7 +6,7 @@
 
 
 # RootSercher.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11RootSercherC2Ev` | `al::RootSercher::RootSercher(void)` | :white_check_mark: |
 | `_ZN2al11RootSercher4initEii` | `al::RootSercher::init(int,int)` | :white_check_mark: |

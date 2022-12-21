@@ -6,7 +6,7 @@
 
 
 # GamePadSystem.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13GamePadSystemC2Ev` | `al::GamePadSystem::GamePadSystem(void)` | :white_check_mark: |
 | `_ZN2al13GamePadSystem20changeSinglePlayModeEv` | `al::GamePadSystem::changeSinglePlayMode(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ApertureMesh.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12ApertureMeshC1EPKcPKNS_24ViewVastGridCullingArrayEiPNS_12IUseGridMeshE` | `al::ApertureMesh::ApertureMesh(char const*,al::ViewVastGridCullingArray const*,int,al::IUseGridMesh *)` | :white_check_mark: |
 | `_ZN2al12ApertureMeshD2Ev` | `al::ApertureMesh::~ApertureMesh()` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ScreenPointKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ScreenPointDirectorC2Ev` | `al::ScreenPointDirector::ScreenPointDirector(void)` | :white_check_mark: |
 | `_ZN2al19ScreenPointDirector14registerTargetEPNS_17ScreenPointTargetE` | `al::ScreenPointDirector::registerTarget(al::ScreenPointTarget *)` | :white_check_mark: |

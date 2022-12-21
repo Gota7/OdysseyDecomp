@@ -6,7 +6,7 @@
 
 
 # AudioCategoryBusSendSetting.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al27AudioCategoryBusSendSettingC2EPKci` | `al::AudioCategoryBusSendSetting::AudioCategoryBusSendSetting(char const*,int)` | :white_check_mark: |
 | `_ZN2al27AudioCategoryBusSendSetting10setBusSendERKNS_12AudioBusSendE` | `al::AudioCategoryBusSendSetting::setBusSend(al::AudioBusSend const&)` | :white_check_mark: |

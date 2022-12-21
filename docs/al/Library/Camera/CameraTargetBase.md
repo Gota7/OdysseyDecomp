@@ -6,7 +6,7 @@
 
 
 # CameraTargetBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23CameraSwitchRequestInfoC2Ev` | `al::CameraSwitchRequestInfo::CameraSwitchRequestInfo(void)` | :white_check_mark: |
 | `_ZN2al23CameraSwitchRequestInfo10addRequestEPNS_12CameraTicketEib` | `al::CameraSwitchRequestInfo::addRequest(al::CameraTicket *,int,bool)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # PadGyroAddon.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12PadGyroAddonC2EPN4sead10ControllerEi` | `al::PadGyroAddon::PadGyroAddon(sead::Controller *,int)` | :white_check_mark: |
 | `_ZN2al12PadGyroAddon4calcEv` | `al::PadGyroAddon::calc(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # PadUiKeyInputAddon.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18PadUiKeyInputAddonC1EPN4sead10ControllerE` | `al::PadUiKeyInputAddon::PadUiKeyInputAddon(sead::Controller *)` | :white_check_mark: |
 | `_ZN2al18PadUiKeyInputAddon4calcEv` | `al::PadUiKeyInputAddon::calc(void)` | :white_check_mark: |

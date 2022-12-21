@@ -6,7 +6,7 @@
 
 
 # AudioPlayer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18calcDecibelToRatioEf` | `al::calcDecibelToRatio(float)` | :white_check_mark: |
 | `_ZN2al18calcRatioToDecibelEf` | `al::calcRatioToDecibel(float)` | :white_check_mark: |

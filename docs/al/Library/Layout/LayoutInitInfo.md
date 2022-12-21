@@ -6,7 +6,7 @@
 
 
 # LayoutInitInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14LayoutInitInfoC2Ev` | `al::LayoutInitInfo::LayoutInitInfo(void)` | :white_check_mark: |
 | `_ZN2al14LayoutInitInfo4initEPNS_15ExecuteDirectorEPKNS_16EffectSystemInfoEPNS_14SceneObjHolderEPKNS_13AudioDirectorEPNS_14CameraDirectorEPKNS_12LayoutSystemEPKNS_13MessageSystemEPKNS_13GamePadSystemEPNS_17PadRumbleDirectorE` | `al::LayoutInitInfo::init(al::ExecuteDirector *,al::EffectSystemInfo const*,al::SceneObjHolder *,al::AudioDirector const*,al::CameraDirector *,al::LayoutSystem const*,al::MessageSystem const*,al::GamePadSystem const*,al::PadRumbleDirector *)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # GraphicsFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19calcFovByProjectionEPN4sead7Vector2IfEERKNS0_8Matrix44IfEE` | `al::calcFovByProjection(sead::Vector2<float> *,sead::Matrix44<float> const&)` | :white_check_mark: |
 | `_ZN2al20setDepthFuncNearDrawEPN4sead15GraphicsContextE` | `al::setDepthFuncNearDraw(sead::GraphicsContext *)` | :white_check_mark: |

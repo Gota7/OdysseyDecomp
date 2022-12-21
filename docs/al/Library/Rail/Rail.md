@@ -6,7 +6,7 @@
 
 
 # Rail.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al4RailC2Ev` | `al::Rail::Rail(void)` | :white_check_mark: |
 | `_ZN2al4Rail4initERKNS_13PlacementInfoE` | `al::Rail::init(al::PlacementInfo const&)` | :white_check_mark: |

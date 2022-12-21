@@ -6,7 +6,7 @@
 
 
 # RankingState.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22RankingStateGetRankingC2EPNS_11IUseRankingEb` | `al::RankingStateGetRanking::RankingStateGetRanking(al::IUseRanking *,bool)` | :white_check_mark: |
 | `_ZN2al22RankingStateGetRankingD2Ev` | `al::RankingStateGetRanking::~RankingStateGetRanking()` | :white_check_mark: |

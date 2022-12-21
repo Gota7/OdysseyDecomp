@@ -6,7 +6,7 @@
 
 
 # SwitchAreaDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18SwitchAreaDirector9tryCreateEPNS_15AreaObjDirectorEPKNS_12PlayerHolderEPKNS_14CameraDirectorEii` | `al::SwitchAreaDirector::tryCreate(al::AreaObjDirector *,al::PlayerHolder const*,al::CameraDirector const*,int,int)` | :white_check_mark: |
 | `_ZN2al18SwitchAreaDirector6updateEv` | `al::SwitchAreaDirector::update(void)` | :white_check_mark: |

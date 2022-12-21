@@ -6,7 +6,7 @@
 
 
 # JointSpringControllerHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al27JointSpringControllerHolderC2Ev` | `al::JointSpringControllerHolder::JointSpringControllerHolder(void)` | :white_check_mark: |
 | `_ZN2al27JointSpringControllerHolder4initEi` | `al::JointSpringControllerHolder::init(int)` | :white_check_mark: |

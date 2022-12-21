@@ -6,7 +6,7 @@
 
 
 # StageSwitchAccesser.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19StageSwitchAccesserC2Ev` | `al::StageSwitchAccesser::StageSwitchAccesser(void)` | :white_check_mark: |
 | `_ZN2al19StageSwitchAccesser4initEPNS_19StageSwitchDirectorEPKcRKNS_11PlacementIdE` | `al::StageSwitchAccesser::init(al::StageSwitchDirector *,char const*,al::PlacementId const&)` | :white_check_mark: |

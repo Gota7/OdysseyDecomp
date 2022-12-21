@@ -6,7 +6,7 @@
 
 
 # SimplePopupMessageLayout.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24SimplePopupMessageLayoutC2EPKcS2_RKNS_14LayoutInitInfoES2_b` | `al::SimplePopupMessageLayout::SimplePopupMessageLayout(char const*,char const*,al::LayoutInitInfo const&,char const*,bool)` | :white_check_mark: |
 | `_ZN2al24SimplePopupMessageLayoutC1EPKcS2_RKNS_14LayoutInitInfoES2_b` | `al::SimplePopupMessageLayout::SimplePopupMessageLayout(char const*,char const*,al::LayoutInitInfo const&,char const*,bool)` | :white_check_mark: |

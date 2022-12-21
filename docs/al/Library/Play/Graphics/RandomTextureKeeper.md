@@ -6,7 +6,7 @@
 
 
 # RandomTextureKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19RandomTextureKeeperC2Ev` | `al::RandomTextureKeeper::RandomTextureKeeper(void)` | :white_check_mark: |
 | `_ZN2al19RandomTextureKeeper17makeRandomTextureEv` | `al::RandomTextureKeeper::makeRandomTexture(void)` | :white_check_mark: |

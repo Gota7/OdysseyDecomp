@@ -6,7 +6,7 @@
 
 
 # CameraFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18getSceneCameraInfoEPKNS_10IUseCameraE` | `al::getSceneCameraInfo(al::IUseCamera const*)` | :white_check_mark: |
 | `_ZN2al13getViewNumMaxEPKNS_10IUseCameraE` | `al::getViewNumMax(al::IUseCamera const*)` | :white_check_mark: |

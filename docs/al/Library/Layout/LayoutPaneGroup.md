@@ -6,7 +6,7 @@
 
 
 # LayoutPaneGroup.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15LayoutPaneGroupC2EPKc` | `al::LayoutPaneGroup::LayoutPaneGroup(char const*)` | :white_check_mark: |
 | `_ZN2al15LayoutPaneGroup9startAnimEPKc` | `al::LayoutPaneGroup::startAnim(char const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # NfpFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17isNfpTriggerTouchEPNS_11NfpDirectorEi` | `al::isNfpTriggerTouch(al::NfpDirector *,int)` | :white_check_mark: |
 | `_ZN2al25tryGetTriggerTouchNfpInfoEPNS_11NfpDirectorEi` | `al::tryGetTriggerTouchNfpInfo(al::NfpDirector *,int)` | :white_check_mark: |

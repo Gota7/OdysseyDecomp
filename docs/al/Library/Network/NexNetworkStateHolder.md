@@ -6,7 +6,7 @@
 
 
 # NexNetworkStateHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21NexNetworkStateHolderC1EPN2nn7account10UserHandleEPNS_17DataStoreDirectorEPNS_15RankingDirectorEPNS_18NexUtilityDirectorE` | `al::NexNetworkStateHolder::NexNetworkStateHolder(nn::account::UserHandle *,al::DataStoreDirector *,al::RankingDirector *,al::NexUtilityDirector *)` | :white_check_mark: |
 | `_ZN2al21NexNetworkStateHolderD2Ev` | `al::NexNetworkStateHolder::~NexNetworkStateHolder()` | :white_check_mark: |

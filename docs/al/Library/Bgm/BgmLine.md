@@ -6,7 +6,7 @@
 
 
 # BgmLine.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al7BgmLine13SwichableHeapC2Ei` | `al::BgmLine::SwichableHeap::SwichableHeap(int)` | :white_check_mark: |
 | `_ZN2al7BgmLine13SwichableHeap4initEv` | `al::BgmLine::SwichableHeap::init(void)` | :white_check_mark: |

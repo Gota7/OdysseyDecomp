@@ -6,7 +6,7 @@
 
 
 # HitSensor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9HitSensor13trySensorSortEv` | `al::HitSensor::trySensorSort(void)` | :white_check_mark: |
 | `_ZN2al9HitSensor15setFollowPosPtrEPKN4sead7Vector3IfEE` | `al::HitSensor::setFollowPosPtr(sead::Vector3<float> const*)` | :white_check_mark: |

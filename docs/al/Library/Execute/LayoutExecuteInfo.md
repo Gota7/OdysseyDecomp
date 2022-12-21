@@ -6,7 +6,7 @@
 
 
 # LayoutExecuteInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17LayoutExecuteInfoC2Ev` | `al::LayoutExecuteInfo::LayoutExecuteInfo(void)` | :white_check_mark: |
 | `_ZN2al17LayoutExecuteInfo10addUpdaterEPNS_24ExecutorListLayoutUpdateE` | `al::LayoutExecuteInfo::addUpdater(al::ExecutorListLayoutUpdate *)` | :white_check_mark: |

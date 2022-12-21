@@ -6,7 +6,7 @@
 
 
 # KCollisionServer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16KCollisionServerC1Ev` | `al::KCollisionServer::KCollisionServer(void)` | :white_check_mark: |
 | `_ZN2al16KCollisionServer20initKCollisionServerEPvPKv` | `al::KCollisionServer::initKCollisionServer(void *,void const*)` | :white_check_mark: |

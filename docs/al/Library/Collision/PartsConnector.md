@@ -6,7 +6,7 @@
 
 
 # PartsConnector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23CollisionPartsConnectorC2Ev` | `al::CollisionPartsConnector::CollisionPartsConnector(void)` | :white_check_mark: |
 | `_ZN2al23CollisionPartsConnector4initEPKN4sead8Matrix34IfEERS4_PKNS_14CollisionPartsE` | `al::CollisionPartsConnector::init(sead::Matrix34<float> const*,sead::Matrix34<float> const&,al::CollisionParts const*)` | :white_check_mark: |

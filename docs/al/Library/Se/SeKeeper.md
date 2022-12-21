@@ -6,7 +6,7 @@
 
 
 # SeKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN14alSeDbFunction23calcIsOneTimeInUserInfoEPKN2al10SeUserInfoE` | `alSeDbFunction::calcIsOneTimeInUserInfo(al::SeUserInfo const*)` | :white_check_mark: |
 | `_ZN14alSeDbFunction26convertInterpolateTypeToIdEPKc` | `alSeDbFunction::convertInterpolateTypeToId(char const*)` | :white_check_mark: |

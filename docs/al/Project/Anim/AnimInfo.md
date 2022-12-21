@@ -6,7 +6,7 @@
 
 
 # AnimInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11AnimResInfoC2Ev` | `al::AnimResInfo::AnimResInfo(void)` | :white_check_mark: |
 | `_ZNK2al11AnimResInfo11getFrameMaxEv` | `al::AnimResInfo::getFrameMax(void)const` | :white_check_mark: |

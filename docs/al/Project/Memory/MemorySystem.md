@@ -6,7 +6,7 @@
 
 
 # MemorySystem.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12MemorySystemC1EPN4sead4HeapE` | `al::MemorySystem::MemorySystem(sead::Heap *)` | :white_check_mark: |
 | `_ZN2al12MemorySystem23allocFailedCallbackFuncEPKN4sead7HeapMgr22AllocFailedCallbackArgE` | `al::MemorySystem::allocFailedCallbackFunc(sead::HeapMgr::AllocFailedCallbackArg const*)` | :white_check_mark: |

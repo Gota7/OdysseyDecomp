@@ -6,7 +6,7 @@
 
 
 # CameraPoserRailMoveLookAt.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25CameraPoserRailMoveLookAtC2EPKc` | `al::CameraPoserRailMoveLookAt::CameraPoserRailMoveLookAt(char const*)` | :white_check_mark: |
 | `_ZN2al25CameraPoserRailMoveLookAt4initEv` | `al::CameraPoserRailMoveLookAt::init(void)` | :white_check_mark: |

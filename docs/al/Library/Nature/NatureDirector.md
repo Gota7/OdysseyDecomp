@@ -6,7 +6,7 @@
 
 
 # NatureDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17FireSurfaceFinderC2EPKNS_9LiveActorE` | `al::FireSurfaceFinder::FireSurfaceFinder(al::LiveActor const*)` | :white_check_mark: |
 | `_ZN2al17FireSurfaceFinder6updateERKN4sead7Vector3IfEES5_f` | `al::FireSurfaceFinder::update(sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |

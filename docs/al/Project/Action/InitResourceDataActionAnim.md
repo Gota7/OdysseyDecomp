@@ -6,7 +6,7 @@
 
 
 # InitResourceDataActionAnim.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26InitResourceDataActionAnim9tryCreateEPNS_8ResourceEPKNS_20InitResourceDataAnimEPKc` | `al::InitResourceDataActionAnim::tryCreate(al::Resource *,al::InitResourceDataAnim const*,char const*)` | :white_check_mark: |
 | `_ZN2al26InitResourceDataActionAnimC1EPNS_8ResourceEPKNS_20InitResourceDataAnimEPKc` | `al::InitResourceDataActionAnim::InitResourceDataActionAnim(al::Resource *,al::InitResourceDataAnim const*,char const*)` | :white_check_mark: |

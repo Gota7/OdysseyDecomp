@@ -6,7 +6,7 @@
 
 
 # FogDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al8FogParam8isEnableEv` | `al::FogParam::isEnable(void)const` | :white_check_mark: |
 | `_ZNK2al8FogParam10isApplySkyEv` | `al::FogParam::isApplySky(void)const` | :white_check_mark: |

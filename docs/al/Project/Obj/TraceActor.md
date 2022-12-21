@@ -6,7 +6,7 @@
 
 
 # TraceActor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10TraceActorC2EPKcRKNS_13ActorInitInfoES2_S2_` | `al::TraceActor::TraceActor(char const*,al::ActorInitInfo const&,char const*,char const*)` | :white_check_mark: |
 | `_ZN2al10TraceActorC1EPKcRKNS_13ActorInitInfoES2_S2_` | `al::TraceActor::TraceActor(char const*,al::ActorInitInfo const&,char const*,char const*)` | :white_check_mark: |

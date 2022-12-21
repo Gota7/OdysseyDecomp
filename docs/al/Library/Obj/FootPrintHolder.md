@@ -6,7 +6,7 @@
 
 
 # FootPrintHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15FootPrintHolderC2EPNS_9LiveActorEPKcPNS_9HitSensorEPNS_15FootPrintServerE` | `al::FootPrintHolder::FootPrintHolder(al::LiveActor *,char const*,al::HitSensor *,al::FootPrintServer *)` | :white_check_mark: |
 | `_ZN2al15FootPrintHolder16createActionListEv` | `al::FootPrintHolder::createActionList(void)` | :white_check_mark: |

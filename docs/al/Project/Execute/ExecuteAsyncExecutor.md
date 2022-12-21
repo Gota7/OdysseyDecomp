@@ -6,7 +6,7 @@
 
 
 # ExecuteAsyncExecutor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20ExecuteAsyncExecutorC2EPKNS_15ExecuteDirectorEPKcN4sead6CoreIdE` | `al::ExecuteAsyncExecutor::ExecuteAsyncExecutor(al::ExecuteDirector const*,char const*,sead::CoreId)` | :white_check_mark: |
 | `_ZN2al20ExecuteAsyncExecutor12executeAsyncEPN4sead6ThreadEl` | `al::ExecuteAsyncExecutor::executeAsync(sead::Thread *,long)` | :white_check_mark: |

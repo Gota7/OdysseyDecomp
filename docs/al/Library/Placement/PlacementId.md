@@ -6,7 +6,7 @@
 
 
 # PlacementId.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11PlacementIdC2Ev` | `al::PlacementId::PlacementId(void)` | :white_check_mark: |
 | `_ZN2al11PlacementIdC2EPKcS2_S2_` | `al::PlacementId::PlacementId(char const*,char const*,char const*)` | :white_check_mark: |

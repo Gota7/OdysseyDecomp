@@ -6,7 +6,7 @@
 
 
 # ClippingActorInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17ClippingActorInfoC1EPNS_9LiveActorE` | `al::ClippingActorInfo::ClippingActorInfo(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al17ClippingActorInfo15setTypeToSphereEfPKN4sead7Vector3IfEE` | `al::ClippingActorInfo::setTypeToSphere(float,sead::Vector3<float> const*)` | :white_check_mark: |

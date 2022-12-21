@@ -6,7 +6,7 @@
 
 
 # LayoutResource.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14LayoutResourceC1EPKNS_8ResourceEPKNS_12LayoutSystemEb` | `al::LayoutResource::LayoutResource(al::Resource const*,al::LayoutSystem const*,bool)` | :white_check_mark: |
 | `_ZN2al14LayoutResource15addResourceLinkEPKNS_8ResourceE` | `al::LayoutResource::addResourceLink(al::Resource const*)` | :white_check_mark: |

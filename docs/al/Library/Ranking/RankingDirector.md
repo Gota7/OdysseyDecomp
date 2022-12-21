@@ -6,7 +6,7 @@
 
 
 # RankingDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15RankingDirectorC2Ev` | `al::RankingDirector::RankingDirector(void)` | :white_check_mark: |
 | `_ZN2al15RankingDirectorD2Ev` | `al::RankingDirector::~RankingDirector()` | :white_check_mark: |

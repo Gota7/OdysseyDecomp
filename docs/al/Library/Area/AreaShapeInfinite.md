@@ -6,7 +6,7 @@
 
 
 # AreaShapeInfinite.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17AreaShapeInfiniteC2Ev` | `al::AreaShapeInfinite::AreaShapeInfinite(void)` | :white_check_mark: |
 | `_ZNK2al17AreaShapeInfinite10isInVolumeERKN4sead7Vector3IfEE` | `al::AreaShapeInfinite::isInVolume(sead::Vector3<float> const&)const` | :white_check_mark: |

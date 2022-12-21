@@ -6,7 +6,7 @@
 
 
 # GraphicsParamKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21GraphicsParamFilePathC1EPKcS2_` | `al::GraphicsParamFilePath::GraphicsParamFilePath(char const*,char const*)` | :white_check_mark: |
 | `_ZNK2al21GraphicsParamFilePath14makeBinaryPathEPNS_9StringTmpILi256EEE` | `al::GraphicsParamFilePath::makeBinaryPath(al::StringTmp<256> *)const` | :white_check_mark: |

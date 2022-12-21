@@ -6,7 +6,7 @@
 
 
 # CameraOffsetPreset.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17CameraOffsetCtrlY4loadERKNS_9ByamlIterE` | `al::CameraOffsetCtrlY::load(al::ByamlIter const&)` | :white_check_mark: |
 | `_ZN2al22CameraOffsetCtrlPresetC2Ev` | `al::CameraOffsetCtrlPreset::CameraOffsetCtrlPreset(void)` | :white_check_mark: |

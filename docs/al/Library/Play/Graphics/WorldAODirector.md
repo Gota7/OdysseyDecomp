@@ -6,7 +6,7 @@
 
 
 # WorldAODirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12WorldAoParamC2Ev` | `al::WorldAoParam::WorldAoParam(void)` | :white_check_mark: |
 | `_ZN2al15WorldAODirectorC1EPKNS_18GraphicsSystemInfoEPNS_15ExecuteDirectorE` | `al::WorldAODirector::WorldAODirector(al::GraphicsSystemInfo const*,al::ExecuteDirector *)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ViewCtrlArea.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12ViewCtrlAreaC2EPKc` | `al::ViewCtrlArea::ViewCtrlArea(char const*)` | :white_check_mark: |
 | `_ZN2al12ViewCtrlAreaC1EPKc` | `al::ViewCtrlArea::ViewCtrlArea(char const*)` | :white_check_mark: |

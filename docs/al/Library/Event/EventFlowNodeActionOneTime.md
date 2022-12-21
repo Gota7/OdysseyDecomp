@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeActionOneTime.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26EventFlowNodeActionOneTimeC2EPKc` | `al::EventFlowNodeActionOneTime::EventFlowNodeActionOneTime(char const*)` | :white_check_mark: |
 | `_ZN2al26EventFlowNodeActionOneTime4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeActionOneTime::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

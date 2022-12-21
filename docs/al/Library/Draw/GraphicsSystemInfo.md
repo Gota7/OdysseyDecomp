@@ -6,7 +6,7 @@
 
 
 # GraphicsSystemInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al18GraphicsSystemInfo11getModelEnvEv` | `al::GraphicsSystemInfo::getModelEnv(void)const` | :white_check_mark: |
 | `_ZN2al18GraphicsSystemInfoC2Ev` | `al::GraphicsSystemInfo::GraphicsSystemInfo(void)` | :white_check_mark: |

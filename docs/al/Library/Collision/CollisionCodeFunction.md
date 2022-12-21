@@ -6,7 +6,7 @@
 
 
 # CollisionCodeFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN23alCollisionCodeFunction26tyrCreateCollisionCodeListEPKc` | `alCollisionCodeFunction::tyrCreateCollisionCodeList(char const*)` | :white_check_mark: |
 | `_ZN23alCollisionCodeFunction27tyrGetCollisionRelationListEPKN2al17CollisionCodeListEPKc` | `alCollisionCodeFunction::tyrGetCollisionRelationList(al::CollisionCodeList const*,char const*)` | :white_check_mark: |

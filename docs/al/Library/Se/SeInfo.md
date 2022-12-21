@@ -6,7 +6,7 @@
 
 
 # SeInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19createAudioInfoListINS_22SeResourceCategoryInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi` | `al::AudioInfoListWithParts<al::SeResourceCategoryInfo> * al::createAudioInfoList<al::SeResourceCategoryInfo>(al::ByamlIter const&,int)` | :white_check_mark: |
 | `_ZN2al19createAudioInfoListINS_20SeDemoSyncedProcInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi` | `al::AudioInfoListWithParts<al::SeDemoSyncedProcInfo> * al::createAudioInfoList<al::SeDemoSyncedProcInfo>(al::ByamlIter const&,int)` | :white_check_mark: |

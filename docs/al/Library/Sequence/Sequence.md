@@ -6,7 +6,7 @@
 
 
 # Sequence.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al8SequenceC2EPKc` | `al::Sequence::Sequence(char const*)` | :white_check_mark: |
 | `_ZN2al8SequenceD2Ev` | `al::Sequence::~Sequence()` | :white_check_mark: |

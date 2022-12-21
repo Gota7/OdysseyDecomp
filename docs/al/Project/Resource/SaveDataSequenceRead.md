@@ -6,7 +6,7 @@
 
 
 # SaveDataSequenceRead.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20SaveDataSequenceReadC2Eh` | `al::SaveDataSequenceRead::SaveDataSequenceRead(unsigned char)` | :white_check_mark: |
 | `_ZN2al20SaveDataSequenceRead5startEPhjj` | `al::SaveDataSequenceRead::start(unsigned char *,unsigned int,unsigned int)` | :white_check_mark: |

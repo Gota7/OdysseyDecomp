@@ -6,7 +6,7 @@
 
 
 # AsyncFunctorThread.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18AsyncFunctorThreadC1ERKN4sead14SafeStringBaseIcEERKNS_11FunctorBaseEiiNS1_6CoreIdE` | `al::AsyncFunctorThread::AsyncFunctorThread(sead::SafeStringBase<char> const&,al::FunctorBase const&,int,int,sead::CoreId)` | :white_check_mark: |
 | `_ZN2al18AsyncFunctorThread14threadFunctionEPN4sead6ThreadEl` | `al::AsyncFunctorThread::threadFunction(sead::Thread *,long)` | :white_check_mark: |

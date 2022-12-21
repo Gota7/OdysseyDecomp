@@ -6,7 +6,7 @@
 
 
 # CameraPoserFix.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14CameraPoserFixC2EPKc` | `al::CameraPoserFix::CameraPoserFix(char const*)` | :white_check_mark: |
 | `_ZN2al14CameraPoserFix4initEv` | `al::CameraPoserFix::init(void)` | :white_check_mark: |

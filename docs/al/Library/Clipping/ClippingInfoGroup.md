@@ -6,7 +6,7 @@
 
 
 # ClippingInfoGroup.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17ClippingInfoGroupC2Ev` | `al::ClippingInfoGroup::ClippingInfoGroup(void)` | :white_check_mark: |
 | `_ZN2al17ClippingInfoGroup12registerInfoEPNS_17ClippingActorInfoE` | `al::ClippingInfoGroup::registerInfo(al::ClippingActorInfo *)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # OneMeshFixMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18OneMeshFixMapPartsC2EPKc` | `al::OneMeshFixMapParts::OneMeshFixMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al18OneMeshFixMapPartsC1EPKc` | `al::OneMeshFixMapParts::OneMeshFixMapParts(char const*)` | :white_check_mark: |

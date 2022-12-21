@@ -6,7 +6,7 @@
 
 
 # YamlWriterToConsole.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19YamlWriterToConsoleC2Ev` | `al::YamlWriterToConsole::YamlWriterToConsole(void)` | :white_check_mark: |
 | `_ZN2al18YamlWriterToMemoryD2Ev` | `al::YamlWriterToMemory::~YamlWriterToMemory()` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # FootPrint.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9FootPrintC2ERKNS_13ActorInitInfoEPKc` | `al::FootPrint::FootPrint(al::ActorInitInfo const&,char const*)` | :white_check_mark: |
 | `_ZN2al9FootPrintC1ERKNS_13ActorInitInfoEPKc` | `al::FootPrint::FootPrint(al::ActorInitInfo const&,char const*)` | :white_check_mark: |

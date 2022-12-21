@@ -6,7 +6,7 @@
 
 
 # LightKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10PlaneParam10initializeERKN4sead7Vector3IfEEPNS_12ParameterObjEPKc` | `al::PlaneParam::initialize(sead::Vector3<float> const&,al::ParameterObj *,char const*)` | :white_check_mark: |
 | `_ZN2al25isExistPrePassLightKeeperEPKNS_9LiveActorE` | `al::isExistPrePassLightKeeper(al::LiveActor const*)` | :white_check_mark: |

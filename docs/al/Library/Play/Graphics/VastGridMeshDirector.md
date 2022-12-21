@@ -6,7 +6,7 @@
 
 
 # VastGridMeshDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12VastGridMeshC2EPKcPKNS_24ViewVastGridCullingArrayEiPNS_12IUseGridMeshE` | `al::VastGridMesh::VastGridMesh(char const*,al::ViewVastGridCullingArray const*,int,al::IUseGridMesh *)` | :white_check_mark: |
 | `_ZN2al12VastGridMeshD2Ev` | `al::VastGridMesh::~VastGridMesh()` | :white_check_mark: |

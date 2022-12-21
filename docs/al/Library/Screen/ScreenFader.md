@@ -6,7 +6,7 @@
 
 
 # ScreenFader.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11ScreenFaderC2Ev` | `al::ScreenFader::ScreenFader(void)` | :white_check_mark: |
 | `_ZN2al11ScreenFader5startEiifRKN4sead7Color4fE` | `al::ScreenFader::start(int,int,float,sead::Color4f const&)` | :white_check_mark: |

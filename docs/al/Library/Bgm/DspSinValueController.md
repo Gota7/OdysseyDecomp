@@ -6,7 +6,7 @@
 
 
 # DspSinValueController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21DspSinValueControllerC2Eff` | `al::DspSinValueController::DspSinValueController(float,float)` | :white_check_mark: |
 | `_ZN2al21DspSinValueController4initEf` | `al::DspSinValueController::init(float)` | :white_check_mark: |

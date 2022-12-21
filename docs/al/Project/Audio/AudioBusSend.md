@@ -6,7 +6,7 @@
 
 
 # AudioBusSend.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12AudioBusSendC2Ev` | `al::AudioBusSend::AudioBusSend(void)` | :white_check_mark: |
 | `_ZN2al12AudioBusSend3setEff` | `al::AudioBusSend::set(float,float)` | :white_check_mark: |

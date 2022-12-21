@@ -6,7 +6,7 @@
 
 
 # RaceJudge.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9RaceJudgeC2EPNS_9LiveActorEPKNS_14RaceCheckPointEi` | `al::RaceJudge::RaceJudge(al::LiveActor *,al::RaceCheckPoint const*,int)` | :white_check_mark: |
 | `_ZN2al9RaceJudge5resetEv` | `al::RaceJudge::reset(void)` | :white_check_mark: |

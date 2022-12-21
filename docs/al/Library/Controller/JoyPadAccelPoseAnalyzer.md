@@ -6,7 +6,7 @@
 
 
 # JoyPadAccelPoseAnalyzer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23JoyPadAccelPoseAnalyzerC2Ev` | `al::JoyPadAccelPoseAnalyzer::JoyPadAccelPoseAnalyzer(void)` | :white_check_mark: |
 | `_ZN2al23JoyPadAccelPoseAnalyzer11HistoryInfoC2Ei` | `al::JoyPadAccelPoseAnalyzer::HistoryInfo::HistoryInfo(int)` | :white_check_mark: |

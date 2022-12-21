@@ -6,7 +6,7 @@
 
 
 # AudioEffectProcInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24AudioEffectDelayProcInfo10createInfoERKNS_9ByamlIterEPKc` | `al::AudioEffectDelayProcInfo::createInfo(al::ByamlIter const&,char const*)` | :white_check_mark: |
 | `_ZN2al24AudioEffectDelayProcInfoC2Ev` | `al::AudioEffectDelayProcInfo::AudioEffectDelayProcInfo(void)` | :white_check_mark: |

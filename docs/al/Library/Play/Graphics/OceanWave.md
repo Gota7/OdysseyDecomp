@@ -6,7 +6,7 @@
 
 
 # OceanWave.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9OceanWaveC1EPNS_18GraphicsSystemInfoEPNS_15ExecuteDirectorE` | `al::OceanWave::OceanWave(al::GraphicsSystemInfo *,al::ExecuteDirector *)` | :white_check_mark: |
 | `_ZN2al9OceanWave4initEv` | `al::OceanWave::init(void)` | :white_check_mark: |

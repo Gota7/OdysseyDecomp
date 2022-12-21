@@ -6,7 +6,7 @@
 
 
 # NetworkTaskExecutor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19NetworkTaskExecutorC2EPKc` | `al::NetworkTaskExecutor::NetworkTaskExecutor(char const*)` | :white_check_mark: |
 | `_ZN2al19NetworkTaskExecutorD2Ev` | `al::NetworkTaskExecutor::~NetworkTaskExecutor()` | :white_check_mark: |

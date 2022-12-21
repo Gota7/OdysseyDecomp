@@ -6,7 +6,7 @@
 
 
 # SoundHeapPtrWrapper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28SeadAudioSoundHeapPtrWrapperC2Ev` | `al::SeadAudioSoundHeapPtrWrapper::SeadAudioSoundHeapPtrWrapper(void)` | :white_check_mark: |
 | `_ZN2al28SeadAudioSoundHeapPtrWrapper12setSoundHeapEPN4alsd19AudioSoundHeapMultiE` | `al::SeadAudioSoundHeapPtrWrapper::setSoundHeap(alsd::AudioSoundHeapMulti *)` | :white_check_mark: |

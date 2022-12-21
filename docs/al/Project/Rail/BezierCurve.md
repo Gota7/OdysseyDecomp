@@ -6,7 +6,7 @@
 
 
 # BezierCurve.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11BezierCurveC2Ev` | `al::BezierCurve::BezierCurve(void)` | :white_check_mark: |
 | `_ZN2al11BezierCurve3setERKN4sead7Vector3IfEES5_S5_S5_` | `al::BezierCurve::set(sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |

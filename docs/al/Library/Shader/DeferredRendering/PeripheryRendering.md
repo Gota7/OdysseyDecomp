@@ -6,7 +6,7 @@
 
 
 # PeripheryRendering.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18PeripheryRenderingC2EPNS_18GraphicsSystemInfoE` | `al::PeripheryRendering::PeripheryRendering(al::GraphicsSystemInfo *)` | :white_check_mark: |
 | `_ZN2al18PeripheryRenderingD2Ev` | `al::PeripheryRendering::~PeripheryRendering()` | :white_check_mark: |

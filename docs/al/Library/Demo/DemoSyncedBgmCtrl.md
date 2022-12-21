@@ -6,7 +6,7 @@
 
 
 # DemoSyncedBgmCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17DemoSyncedBgmCtrl9tryCreateEPNS_13AudioDirectorE` | `al::DemoSyncedBgmCtrl::tryCreate(al::AudioDirector *)` | :white_check_mark: |
 | `_ZN2al17DemoSyncedBgmCtrlC1EPNS_13AudioDirectorE` | `al::DemoSyncedBgmCtrl::DemoSyncedBgmCtrl(al::AudioDirector *)` | :white_check_mark: |

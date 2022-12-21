@@ -6,7 +6,7 @@
 
 
 # EnemyStateBlowDown.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18EnemyStateBlowDownC1EPNS_9LiveActorEPKNS_23EnemyStateBlowDownParamEPKc` | `al::EnemyStateBlowDown::EnemyStateBlowDown(al::LiveActor *,al::EnemyStateBlowDownParam const*,char const*)` | :white_check_mark: |
 | `_ZN2al18EnemyStateBlowDown5startEPKNS_9HitSensorE` | `al::EnemyStateBlowDown::start(al::HitSensor const*)` | :white_check_mark: |

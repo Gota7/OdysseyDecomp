@@ -6,7 +6,7 @@
 
 
 # RankingStateGetApproxOrder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26RankingStateGetApproxOrderC2EPNS_11IUseRankingE` | `al::RankingStateGetApproxOrder::RankingStateGetApproxOrder(al::IUseRanking *)` | :white_check_mark: |
 | `_ZN2al26RankingStateGetApproxOrderD2Ev` | `al::RankingStateGetApproxOrder::~RankingStateGetApproxOrder()` | :white_check_mark: |

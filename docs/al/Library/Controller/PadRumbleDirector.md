@@ -6,7 +6,7 @@
 
 
 # PadRumbleDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14PadRumbleParam18setVolumeByBalanceEf` | `al::PadRumbleParam::setVolumeByBalance(float)` | :white_check_mark: |
 | `_ZN2al17PadRumbleDirectorC2EPKNS_12PlayerHolderEPKNS_14CameraDirectorE` | `al::PadRumbleDirector::PadRumbleDirector(al::PlayerHolder const*,al::CameraDirector const*)` | :white_check_mark: |

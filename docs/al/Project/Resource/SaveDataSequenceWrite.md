@@ -6,7 +6,7 @@
 
 
 # SaveDataSequenceWrite.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21SaveDataSequenceWriteC2Eh` | `al::SaveDataSequenceWrite::SaveDataSequenceWrite(unsigned char)` | :white_check_mark: |
 | `_ZN2al21SaveDataSequenceWrite5startEPhjjb` | `al::SaveDataSequenceWrite::start(unsigned char *,unsigned int,unsigned int,bool)` | :white_check_mark: |

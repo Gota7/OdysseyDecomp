@@ -6,7 +6,7 @@
 
 
 # SceneHeapSetter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15SceneHeapSetterC2Ev` | `al::SceneHeapSetter::SceneHeapSetter(void)` | :white_check_mark: |
 | `_ZN2al14copyMemoryFastEPjPKjj` | `al::copyMemoryFast(unsigned int *,unsigned int const*,unsigned int)` | :white_check_mark: |

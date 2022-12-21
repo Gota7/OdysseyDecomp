@@ -6,7 +6,7 @@
 
 
 # ActorAreaFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23tryFindAreaObjPlayerOneEPKNS_12PlayerHolderEPKc` | `al::tryFindAreaObjPlayerOne(al::PlayerHolder const*,char const*)` | :white_check_mark: |
 | `_ZN2al23tryFindAreaObjPlayerAllEPKNS_12PlayerHolderEPKc` | `al::tryFindAreaObjPlayerAll(al::PlayerHolder const*,char const*)` | :white_check_mark: |

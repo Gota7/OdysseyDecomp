@@ -6,7 +6,7 @@
 
 
 # WheelMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13WheelMapPartsC2EPKc` | `al::WheelMapParts::WheelMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al13WheelMapPartsC1EPKc` | `al::WheelMapParts::WheelMapParts(char const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ActionSeCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12ActionSeCtrl9tryCreateEPNS_11AudioKeeperE` | `al::ActionSeCtrl::tryCreate(al::AudioKeeper *)` | :white_check_mark: |
 | `_ZN2al12ActionSeCtrlC2EPNS_8SeKeeperEPKNS_10SeUserInfoE` | `al::ActionSeCtrl::ActionSeCtrl(al::SeKeeper *,al::SeUserInfo const*)` | :white_check_mark: |

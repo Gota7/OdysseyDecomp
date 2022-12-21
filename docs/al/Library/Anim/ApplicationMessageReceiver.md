@@ -6,7 +6,7 @@
 
 
 # ApplicationMessageReceiver.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26ApplicationMessageReceiverC2Ev` | `al::ApplicationMessageReceiver::ApplicationMessageReceiver(void)` | :white_check_mark: |
 | `_ZN2al26ApplicationMessageReceiver4initEv` | `al::ApplicationMessageReceiver::init(void)` | :white_check_mark: |

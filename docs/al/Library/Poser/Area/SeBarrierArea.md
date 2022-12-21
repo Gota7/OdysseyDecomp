@@ -6,7 +6,7 @@
 
 
 # SeBarrierArea.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13SeBarrierAreaC2EPKc` | `al::SeBarrierArea::SeBarrierArea(char const*)` | :white_check_mark: |
 | `_ZN2al13SeBarrierAreaC1EPKc` | `al::SeBarrierArea::SeBarrierArea(char const*)` | :white_check_mark: |

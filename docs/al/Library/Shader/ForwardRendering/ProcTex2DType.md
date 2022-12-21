@@ -6,7 +6,7 @@
 
 
 # ProcTex2DType.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13ProcTex2DType5text_Ei` | `al::ProcTex2DType::text_(int)` | :white_check_mark: |
 | `_ZN4sead15FixedSafeStringILi39EED0Ev` | `sead::FixedSafeString<39>::~FixedSafeString()` | :white_check_mark: |

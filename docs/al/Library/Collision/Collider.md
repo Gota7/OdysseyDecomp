@@ -6,7 +6,7 @@
 
 
 # Collider.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13isWallPolygonERKN4sead7Vector3IfEES4_` | `al::isWallPolygon(sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
 | `_ZN2al14isFloorPolygonERKN4sead7Vector3IfEES4_` | `al::isFloorPolygon(sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |

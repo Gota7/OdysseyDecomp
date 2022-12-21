@@ -6,7 +6,7 @@
 
 
 # LiveActorKit.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12LiveActorKitC2Eii` | `al::LiveActorKit::LiveActorKit(int,int)` | :white_check_mark: |
 | `_ZN2al12LiveActorKitD2Ev` | `al::LiveActorKit::~LiveActorKit()` | :white_check_mark: |

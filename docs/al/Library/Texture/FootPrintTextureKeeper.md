@@ -6,7 +6,7 @@
 
 
 # FootPrintTextureKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20FootPrintRequestInfoC2Ev` | `al::FootPrintRequestInfo::FootPrintRequestInfo(void)` | :white_check_mark: |
 | `_ZN2al20FootPrintRequestInfo6appearEv` | `al::FootPrintRequestInfo::appear(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ExecutorListLayoutDrawBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26ExecutorListLayoutDrawBaseC2EPKciRKNS_21ExecuteSystemInitInfoE` | `al::ExecutorListLayoutDrawBase::ExecutorListLayoutDrawBase(char const*,int,al::ExecuteSystemInitInfo const&)` | :white_check_mark: |
 | `_ZN2al26ExecutorListLayoutDrawBase14registerLayoutEPNS_11LayoutActorE` | `al::ExecutorListLayoutDrawBase::registerLayout(al::LayoutActor *)` | :white_check_mark: |

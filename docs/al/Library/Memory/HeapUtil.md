@@ -6,7 +6,7 @@
 
 
 # HeapUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16getStationedHeapEv` | `al::getStationedHeap(void)` | :white_check_mark: |
 | `_ZN2al15getSequenceHeapEv` | `al::getSequenceHeap(void)` | :white_check_mark: |

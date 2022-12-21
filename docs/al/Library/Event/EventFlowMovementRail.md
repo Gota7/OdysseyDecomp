@@ -6,7 +6,7 @@
 
 
 # EventFlowMovementRail.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21EventFlowMovementRailC2EPNS_9LiveActorE` | `al::EventFlowMovementRail::EventFlowMovementRail(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al21EventFlowMovementRail4initERKNS_13ActorInitInfoE` | `al::EventFlowMovementRail::init(al::ActorInitInfo const&)` | :white_check_mark: |

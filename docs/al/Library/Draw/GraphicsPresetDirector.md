@@ -6,7 +6,7 @@
 
 
 # GraphicsPresetDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22GraphicsPresetDirectorC2EPNS_18GraphicsSystemInfoE` | `al::GraphicsPresetDirector::GraphicsPresetDirector(al::GraphicsSystemInfo *)` | :white_check_mark: |
 | `_ZN2al22GraphicsPresetDirector19initProjectResourceEv` | `al::GraphicsPresetDirector::initProjectResource(void)` | :white_check_mark: |

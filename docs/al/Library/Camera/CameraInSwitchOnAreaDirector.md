@@ -6,7 +6,7 @@
 
 
 # CameraInSwitchOnAreaDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28CameraInSwitchOnAreaDirectorC2Ev` | `al::CameraInSwitchOnAreaDirector::CameraInSwitchOnAreaDirector(void)` | :white_check_mark: |
 | `_ZN2al28CameraInSwitchOnAreaDirector4initEPKNS_15SceneCameraInfoEPNS_15AreaObjDirectorE` | `al::CameraInSwitchOnAreaDirector::init(al::SceneCameraInfo const*,al::AreaObjDirector *)` | :white_check_mark: |

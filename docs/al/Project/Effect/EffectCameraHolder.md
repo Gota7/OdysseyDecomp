@@ -6,7 +6,7 @@
 
 
 # EffectCameraHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16EffectPrefixType5text_Ei` | `al::EffectPrefixType::text_(int)` | :white_check_mark: |
 | `_ZN2al18EffectCameraHolderC2Ev` | `al::EffectCameraHolder::EffectCameraHolder(void)` | :white_check_mark: |

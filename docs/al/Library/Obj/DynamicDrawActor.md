@@ -6,7 +6,7 @@
 
 
 # DynamicDrawActor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16DynamicDrawActorC2ERKNS_13ActorInitInfoEiPKcNS0_12DrawCategoryEb` | `al::DynamicDrawActor::DynamicDrawActor(al::ActorInitInfo const&,int,char const*,al::DynamicDrawActor::DrawCategory,bool)` | :white_check_mark: |
 | `_ZNK2al16DynamicDrawActor15drawDepthShadowEv` | `al::DynamicDrawActor::drawDepthShadow(void)const` | :white_check_mark: |

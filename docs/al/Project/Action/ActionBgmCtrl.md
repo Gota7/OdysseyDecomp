@@ -6,7 +6,7 @@
 
 
 # ActionBgmCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13ActionBgmCtrl9tryCreateEPNS_11AudioKeeperE` | `al::ActionBgmCtrl::tryCreate(al::AudioKeeper *)` | :white_check_mark: |
 | `_ZN2al13ActionBgmCtrlC2EPNS_11AudioKeeperEPKNS_11BgmUserInfoE` | `al::ActionBgmCtrl::ActionBgmCtrl(al::AudioKeeper *,al::BgmUserInfo const*)` | :white_check_mark: |

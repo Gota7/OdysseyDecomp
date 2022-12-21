@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeDemoPlayerAction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al29EventFlowNodeDemoPlayerActionC2EPKc` | `al::EventFlowNodeDemoPlayerAction::EventFlowNodeDemoPlayerAction(char const*)` | :white_check_mark: |
 | `_ZN2al29EventFlowNodeDemoPlayerAction4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeDemoPlayerAction::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ViewIdHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12ViewIdHolder9tryCreateERKNS_13PlacementInfoE` | `al::ViewIdHolder::tryCreate(al::PlacementInfo const&)` | :white_check_mark: |
 | `_ZN2al12ViewIdHolder4initERKNS_13PlacementInfoE` | `al::ViewIdHolder::init(al::PlacementInfo const&)` | :white_check_mark: |

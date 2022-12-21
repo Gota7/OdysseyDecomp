@@ -6,7 +6,7 @@
 
 
 # HdrParam.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al8HdrParamC2Ev` | `al::HdrParam::HdrParam(void)` | :white_check_mark: |
 | `_ZNK2al8HdrParam7isEqualERKNS_16IUseRequestParamE` | `al::HdrParam::isEqual(al::IUseRequestParam const&)const` | :white_check_mark: |

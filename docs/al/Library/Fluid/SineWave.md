@@ -6,7 +6,7 @@
 
 
 # SineWave.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al8SineWaveC1EPNS_18GraphicsSystemInfoERKN4sead7Vector2IiEERKNS4_IfEE` | `al::SineWave::SineWave(al::GraphicsSystemInfo *,sead::Vector2<int> const&,sead::Vector2<float> const&)` | :white_check_mark: |
 | `_ZN2al8SineWave8finalizeEv` | `al::SineWave::finalize(void)` | :white_check_mark: |

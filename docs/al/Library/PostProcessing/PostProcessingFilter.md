@@ -6,7 +6,7 @@
 
 
 # PostProcessingFilter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26PostProcessingFilterPresetC1EPKcPKNS_8ResourceE` | `al::PostProcessingFilterPreset::PostProcessingFilterPreset(char const*,al::Resource const*)` | :white_check_mark: |
 | `_ZNK2al26PostProcessingFilterPreset7getNameEv` | `al::PostProcessingFilterPreset::getName(void)const` | :white_check_mark: |

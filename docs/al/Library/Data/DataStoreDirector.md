@@ -6,7 +6,7 @@
 
 
 # DataStoreDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17DataStoreDirectorC2Ev` | `al::DataStoreDirector::DataStoreDirector(void)` | :white_check_mark: |
 | `_ZN2al17DataStoreDirectorD2Ev` | `al::DataStoreDirector::~DataStoreDirector()` | :white_check_mark: |

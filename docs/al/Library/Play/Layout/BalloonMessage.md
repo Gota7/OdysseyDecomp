@@ -6,7 +6,7 @@
 
 
 # BalloonMessage.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14BalloonMessage6createEPKNS_9LiveActorERKNS_14LayoutInitInfoERKNS_23BalloonMessageInitParamEb` | `al::BalloonMessage::create(al::LiveActor const*,al::LayoutInitInfo const&,al::BalloonMessageInitParam const&,bool)` | :white_check_mark: |
 | `_ZN2al14BalloonMessageC1EPKNS_9LiveActorERKNS_14LayoutInitInfoERKNS_23BalloonMessageInitParamEb` | `al::BalloonMessage::BalloonMessage(al::LiveActor const*,al::LayoutInitInfo const&,al::BalloonMessageInitParam const&,bool)` | :white_check_mark: |

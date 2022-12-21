@@ -6,7 +6,7 @@
 
 
 # ActorOcclusionKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20ActorOcclusionKeeper11isExistFileEPKNS_8ResourceEPKc` | `al::ActorOcclusionKeeper::isExistFile(al::Resource const*,char const*)` | :white_check_mark: |
 | `_ZN2al9OccSphereC2Ev` | `al::OccSphere::OccSphere(void)` | :white_check_mark: |

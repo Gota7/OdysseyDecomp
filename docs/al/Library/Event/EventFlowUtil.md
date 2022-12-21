@@ -6,7 +6,7 @@
 
 
 # EventFlowUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10isNodeNameEPKNS_13EventFlowNodeEPKc` | `al::isNodeName(al::EventFlowNode const*,char const*)` | :white_check_mark: |
 | `_ZN2al15getScareMessageEPKNS_13EventFlowNodeE` | `al::getScareMessage(al::EventFlowNode const*)` | :white_check_mark: |

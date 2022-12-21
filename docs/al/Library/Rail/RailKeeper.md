@@ -6,7 +6,7 @@
 
 
 # RailKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10RailKeeperC1ERKNS_13PlacementInfoE` | `al::RailKeeper::RailKeeper(al::PlacementInfo const&)` | :white_check_mark: |
 | `_ZN2al16createRailKeeperERKNS_13PlacementInfoEPKc` | `al::createRailKeeper(al::PlacementInfo const&,char const*)` | :white_check_mark: |

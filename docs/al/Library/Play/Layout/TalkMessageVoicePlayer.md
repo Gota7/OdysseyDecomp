@@ -6,7 +6,7 @@
 
 
 # TalkMessageVoicePlayer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22TalkMessageVoicePlayerC2Ev` | `al::TalkMessageVoicePlayer::TalkMessageVoicePlayer(void)` | :white_check_mark: |
 | `_ZN2al22TalkMessageVoicePlayer5startEPKNS_17IUseMessageSystemEPKNS_15IUseAudioKeeperEPKDsi` | `al::TalkMessageVoicePlayer::start(al::IUseMessageSystem const*,al::IUseAudioKeeper const*,char16_t const*,int)` | :white_check_mark: |

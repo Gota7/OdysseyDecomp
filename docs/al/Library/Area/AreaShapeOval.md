@@ -6,7 +6,7 @@
 
 
 # AreaShapeOval.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13AreaShapeOvalC2Ev` | `al::AreaShapeOval::AreaShapeOval(void)` | :white_check_mark: |
 | `_ZNK2al13AreaShapeOval10isInVolumeERKN4sead7Vector3IfEE` | `al::AreaShapeOval::isInVolume(sead::Vector3<float> const&)const` | :white_check_mark: |

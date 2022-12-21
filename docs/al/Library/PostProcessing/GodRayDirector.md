@@ -6,7 +6,7 @@
 
 
 # GodRayDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11GodRayParamC2Ev` | `al::GodRayParam::GodRayParam(void)` | :white_check_mark: |
 | `_ZNK2al11GodRayParam7isEqualERKNS_16IUseRequestParamE` | `al::GodRayParam::isEqual(al::IUseRequestParam const&)const` | :white_check_mark: |

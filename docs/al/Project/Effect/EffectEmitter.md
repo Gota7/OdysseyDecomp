@@ -6,7 +6,7 @@
 
 
 # EffectEmitter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13EffectEmitterC2EPKNS_16EffectSystemInfoEPNS_18EffectResourceInfoEi` | `al::EffectEmitter::EffectEmitter(al::EffectSystemInfo const*,al::EffectResourceInfo *,int)` | :white_check_mark: |
 | `_ZN2al13EffectEmitter10initMtxPtrENS_11JointMtxPtrE` | `al::EffectEmitter::initMtxPtr(al::JointMtxPtr)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # CameraPoserCart.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15CameraPoserCartC2EPKc` | `al::CameraPoserCart::CameraPoserCart(char const*)` | :white_check_mark: |
 | `_ZN2al15CameraPoserCart5startERKNS_15CameraStartInfoE` | `al::CameraPoserCart::start(al::CameraStartInfo const&)` | :white_check_mark: |

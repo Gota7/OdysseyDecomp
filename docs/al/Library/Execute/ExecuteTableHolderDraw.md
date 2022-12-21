@@ -6,7 +6,7 @@
 
 
 # ExecuteTableHolderDraw.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22ExecuteTableHolderDrawC2Ev` | `al::ExecuteTableHolderDraw::ExecuteTableHolderDraw(void)` | :white_check_mark: |
 | `_ZN2al22ExecuteTableHolderDrawD2Ev` | `al::ExecuteTableHolderDraw::~ExecuteTableHolderDraw()` | :white_check_mark: |

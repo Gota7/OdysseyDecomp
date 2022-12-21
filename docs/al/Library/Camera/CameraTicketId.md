@@ -6,7 +6,7 @@
 
 
 # CameraTicketId.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14CameraTicketIdC2EPKNS_11PlacementIdEPKc` | `al::CameraTicketId::CameraTicketId(al::PlacementId const*,char const*)` | :white_check_mark: |
 | `_ZNK2al14CameraTicketId7isEqualERKS0_` | `al::CameraTicketId::isEqual(al::CameraTicketId const&)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ArchiveHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13ArchiveHolderC2Ev` | `al::ArchiveHolder::ArchiveHolder(void)` | :white_check_mark: |
 | `_ZN2al13ArchiveHolder22addNewLoadRequestEntryERKN4sead14SafeStringBaseIcEEPNS1_4HeapEPNS1_10FileDeviceE` | `al::ArchiveHolder::addNewLoadRequestEntry(sead::SafeStringBase<char> const&,sead::Heap *,sead::FileDevice *)` | :white_check_mark: |

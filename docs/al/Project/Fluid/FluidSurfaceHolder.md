@@ -6,7 +6,7 @@
 
 
 # FluidSurfaceHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18FluidSurfaceHolderC2Ev` | `al::FluidSurfaceHolder::FluidSurfaceHolder(void)` | :white_check_mark: |
 | `_ZN2al18FluidSurfaceHolder20registerFluidSurfaceEPNS_16IUseFluidSurfaceE` | `al::FluidSurfaceHolder::registerFluidSurface(al::IUseFluidSurface *)` | :white_check_mark: |

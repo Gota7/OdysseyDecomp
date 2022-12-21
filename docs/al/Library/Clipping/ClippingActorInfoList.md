@@ -6,7 +6,7 @@
 
 
 # ClippingActorInfoList.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21ClippingActorInfoListC2Ei` | `al::ClippingActorInfoList::ClippingActorInfoList(int)` | :white_check_mark: |
 | `_ZN2al21ClippingActorInfoList3addEPNS_17ClippingActorInfoE` | `al::ClippingActorInfoList::add(al::ClippingActorInfo *)` | :white_check_mark: |

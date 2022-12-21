@@ -6,7 +6,7 @@
 
 
 # DemoSyncedEventKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21DemoSyncedEventKeeperC1EPNS_13AudioDirectorE` | `al::DemoSyncedEventKeeper::DemoSyncedEventKeeper(al::AudioDirector *)` | :white_check_mark: |
 | `_ZN2al21DemoSyncedEventKeeper21updateOnlyWhenDemoRunEi` | `al::DemoSyncedEventKeeper::updateOnlyWhenDemoRun(int)` | :white_check_mark: |

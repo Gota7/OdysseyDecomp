@@ -6,7 +6,7 @@
 
 
 # ExecuteRequestKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ExecuteRequestTableC2Ei` | `al::ExecuteRequestTable::ExecuteRequestTable(int)` | :white_check_mark: |
 | `_ZN2al20ExecuteRequestKeeperC2Ei` | `al::ExecuteRequestKeeper::ExecuteRequestKeeper(int)` | :white_check_mark: |

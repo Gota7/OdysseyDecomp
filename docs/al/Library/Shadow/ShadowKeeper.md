@@ -6,7 +6,7 @@
 
 
 # ShadowKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14ShadowDirectorC2EiPNS_18GraphicsSystemInfoEPNS_15AreaObjDirectorEPNS_15ExecuteDirectorEPNS_12EffectSystemEPNS_15SceneCameraInfoEPKNS_12PlayerHolderE` | `al::ShadowDirector::ShadowDirector(int,al::GraphicsSystemInfo *,al::AreaObjDirector *,al::ExecuteDirector *,al::EffectSystem *,al::SceneCameraInfo *,al::PlayerHolder const*)` | :white_check_mark: |
 | `_ZN2al14ShadowDirectorD2Ev` | `al::ShadowDirector::~ShadowDirector()` | :white_check_mark: |

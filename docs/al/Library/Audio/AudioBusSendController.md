@@ -6,7 +6,7 @@
 
 
 # AudioBusSendController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22AudioBusSendControllerC1EPKNS_22AudioInfoListWithPartsINS_19AudioBusSettingInfoEEEPKNS1_INS_22SeResourceCategoryInfoEEEPKNS1_INS_23BgmResourceCategoryInfoEEEb` | `al::AudioBusSendController::AudioBusSendController(al::AudioInfoListWithParts<al::AudioBusSettingInfo> const*,al::AudioInfoListWithParts<al::SeResourceCategoryInfo> const*,al::AudioInfoListWithParts<al::BgmResourceCategoryInfo> const*,bool)` | :white_check_mark: |
 | `_ZN2al22AudioBusSendController6updateEv` | `al::AudioBusSendController::update(void)` | :white_check_mark: |

@@ -6,6 +6,6 @@
 
 
 # ActionRadialBlurData.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20ActionRadialBlurDataC2Ev` | `al::ActionRadialBlurData::ActionRadialBlurData(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # EdgeDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13EdgeDrawParamC2Ev` | `al::EdgeDrawParam::EdgeDrawParam(void)` | :white_check_mark: |
 | `_ZNK2al13EdgeDrawParam8isEnableEv` | `al::EdgeDrawParam::isEnable(void)const` | :white_check_mark: |

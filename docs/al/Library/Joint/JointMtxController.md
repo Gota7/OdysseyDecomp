@@ -6,7 +6,7 @@
 
 
 # JointMtxController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18JointMtxControllerC1EPKN4sead8Matrix34IfEEb` | `al::JointMtxController::JointMtxController(sead::Matrix34<float> const*,bool)` | :white_check_mark: |
 | `_ZN2al18JointMtxController17calcJointCallbackEiPN4sead8Matrix34IfEE` | `al::JointMtxController::calcJointCallback(int,sead::Matrix34<float> *)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ShaderMirrorDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11MirrorParamC2Ev` | `al::MirrorParam::MirrorParam(void)` | :white_check_mark: |
 | `_ZNK2al11MirrorParam12calcTexWidthEv` | `al::MirrorParam::calcTexWidth(void)const` | :white_check_mark: |

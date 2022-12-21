@@ -6,7 +6,7 @@
 
 
 # JointControllerKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21JointControllerKeeperC2Ei` | `al::JointControllerKeeper::JointControllerKeeper(int)` | :white_check_mark: |
 | `_ZN2al21JointControllerKeeper4ExecERN2nn3g3d23ICalculateWorldCallback11CallbackArgERNS2_13WorldMtxManipE` | `al::JointControllerKeeper::Exec(nn::g3d::ICalculateWorldCallback::CallbackArg &,nn::g3d::WorldMtxManip &)` | :white_check_mark: |

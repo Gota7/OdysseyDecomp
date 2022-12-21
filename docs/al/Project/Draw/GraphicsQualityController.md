@@ -6,7 +6,7 @@
 
 
 # GraphicsQualityController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20GraphicsQualityParamC2Ev` | `al::GraphicsQualityParam::GraphicsQualityParam(void)` | :white_check_mark: |
 | `_ZNK2al20GraphicsQualityParam7getNameEv` | `al::GraphicsQualityParam::getName(void)const` | :white_check_mark: |

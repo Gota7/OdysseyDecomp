@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeAnimCameraStart.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28EventFlowNodeAnimCameraStartC2EPKc` | `al::EventFlowNodeAnimCameraStart::EventFlowNodeAnimCameraStart(char const*)` | :white_check_mark: |
 | `_ZN2al28EventFlowNodeAnimCameraStart4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeAnimCameraStart::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

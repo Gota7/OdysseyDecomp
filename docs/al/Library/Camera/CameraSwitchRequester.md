@@ -6,7 +6,7 @@
 
 
 # CameraSwitchRequester.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21CameraSwitchRequesterC2Ev` | `al::CameraSwitchRequester::CameraSwitchRequester(void)` | :white_check_mark: |
 | `_ZN2al21CameraSwitchRequester4initEPNS_23CameraSwitchRequestInfoES2_` | `al::CameraSwitchRequester::init(al::CameraSwitchRequestInfo *,al::CameraSwitchRequestInfo *)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19EventFlowNodeHolderC2Ei` | `al::EventFlowNodeHolder::EventFlowNodeHolder(int)` | :white_check_mark: |
 | `_ZN2al19EventFlowNodeHolder12registerNodeEPNS_13EventFlowNodeE` | `al::EventFlowNodeHolder::registerNode(al::EventFlowNode *)` | :white_check_mark: |

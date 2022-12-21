@@ -6,7 +6,7 @@
 
 
 # DemoDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11AddDemoInfoC2Ei` | `al::AddDemoInfo::AddDemoInfo(int)` | :white_check_mark: |
 | `_ZN2al11AddDemoInfo4initERKNS_11PlacementIdE` | `al::AddDemoInfo::init(al::PlacementId const&)` | :white_check_mark: |

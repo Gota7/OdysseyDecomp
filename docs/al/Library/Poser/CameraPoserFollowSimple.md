@@ -6,7 +6,7 @@
 
 
 # CameraPoserFollowSimple.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23CameraPoserFollowSimpleC2EPKc` | `al::CameraPoserFollowSimple::CameraPoserFollowSimple(char const*)` | :white_check_mark: |
 | `_ZN2al23CameraPoserFollowSimple9loadParamERKNS_9ByamlIterE` | `al::CameraPoserFollowSimple::loadParam(al::ByamlIter const&)` | :white_check_mark: |

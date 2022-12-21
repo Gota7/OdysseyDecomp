@@ -6,7 +6,7 @@
 
 
 # KeyMoveMapPartsGenerator.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24KeyMoveMapPartsGeneratorC2EPKc` | `al::KeyMoveMapPartsGenerator::KeyMoveMapPartsGenerator(char const*)` | :white_check_mark: |
 | `_ZN2al24KeyMoveMapPartsGeneratorC1EPKc` | `al::KeyMoveMapPartsGenerator::KeyMoveMapPartsGenerator(char const*)` | :white_check_mark: |

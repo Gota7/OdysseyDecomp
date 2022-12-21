@@ -6,7 +6,7 @@
 
 
 # KTriangle.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al8TriangleC2Ev` | `al::Triangle::Triangle(void)` | :white_check_mark: |
 | `_ZN2al8TriangleC2ERKNS_14CollisionPartsEPKNS_11KCPrismDataEPKNS_13KCPrismHeaderE` | `al::Triangle::Triangle(al::CollisionParts const&,al::KCPrismData const*,al::KCPrismHeader const*)` | :white_check_mark: |

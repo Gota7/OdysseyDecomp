@@ -6,7 +6,7 @@
 
 
 # FileEntryBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13FileEntryBaseC2Ev` | `al::FileEntryBase::FileEntryBase(void)` | :white_check_mark: |
 | `_ZN2al13FileEntryBase11setFileNameERKN4sead14SafeStringBaseIcEE` | `al::FileEntryBase::setFileName(sead::SafeStringBase<char> const&)` | :white_check_mark: |

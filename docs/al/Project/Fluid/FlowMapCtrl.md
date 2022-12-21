@@ -6,7 +6,7 @@
 
 
 # FlowMapCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11FlowMapCtrlC1EPNS_9LiveActorE` | `al::FlowMapCtrl::FlowMapCtrl(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al11FlowMapCtrl6updateEv` | `al::FlowMapCtrl::update(void)` | :white_check_mark: |

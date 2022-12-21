@@ -6,7 +6,7 @@
 
 
 # StageResourceKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19StageResourceKeeperC2Ev` | `al::StageResourceKeeper::StageResourceKeeper(void)` | :white_check_mark: |
 | `_ZN2al19StageResourceKeeper19initAndLoadResourceEPKci` | `al::StageResourceKeeper::initAndLoadResource(char const*,int)` | :white_check_mark: |

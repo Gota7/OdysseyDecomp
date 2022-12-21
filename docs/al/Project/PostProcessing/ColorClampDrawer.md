@@ -6,7 +6,7 @@
 
 
 # ColorClampDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ColorClampDrawParamC2Ev` | `al::ColorClampDrawParam::ColorClampDrawParam(void)` | :white_check_mark: |
 | `_ZNK2al19ColorClampDrawParam8isEnableEv` | `al::ColorClampDrawParam::isEnable(void)const` | :white_check_mark: |

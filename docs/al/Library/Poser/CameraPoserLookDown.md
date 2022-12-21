@@ -6,7 +6,7 @@
 
 
 # CameraPoserLookDown.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19CameraPoserLookDownC2EPKc` | `al::CameraPoserLookDown::CameraPoserLookDown(char const*)` | :white_check_mark: |
 | `_ZN2al19CameraPoserLookDown9loadParamERKNS_9ByamlIterE` | `al::CameraPoserLookDown::loadParam(al::ByamlIter const&)` | :white_check_mark: |

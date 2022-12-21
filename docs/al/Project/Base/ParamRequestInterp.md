@@ -6,7 +6,7 @@
 
 
 # ParamRequestInterp.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al16IUseRequestParam7isEqualERKS0_` | `al::IUseRequestParam::isEqual(al::IUseRequestParam const&)const` | :white_check_mark: |
 | `_ZN2al16IUseRequestParam4copyERKS0_` | `al::IUseRequestParam::copy(al::IUseRequestParam const&)` | :white_check_mark: |

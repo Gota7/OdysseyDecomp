@@ -6,7 +6,7 @@
 
 
 # CameraPoserSceneInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20CameraPoserSceneInfoC2Ev` | `al::CameraPoserSceneInfo::CameraPoserSceneInfo(void)` | :white_check_mark: |
 | `_ZN2al20CameraPoserSceneInfo4initEPNS_15AreaObjDirectorEPNS_17CollisionDirectorEPKNS_13AudioDirectorE` | `al::CameraPoserSceneInfo::init(al::AreaObjDirector *,al::CollisionDirector *,al::AudioDirector const*)` | :white_check_mark: |

@@ -6,6 +6,6 @@
 
 
 # EventFlowActorTerritory.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23EventFlowActorTerritoryC2EPNS_9LiveActorEPKc` | `al::EventFlowActorTerritory::EventFlowActorTerritory(al::LiveActor *,char const*)` | :white_check_mark: |

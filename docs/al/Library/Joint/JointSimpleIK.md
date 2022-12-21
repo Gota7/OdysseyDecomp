@@ -6,7 +6,7 @@
 
 
 # JointSimpleIK.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13JointSimpleIKC1EPKNS_9LiveActorEPKc` | `al::JointSimpleIK::JointSimpleIK(al::LiveActor const*,char const*)` | :white_check_mark: |
 | `_ZN2al13JointSimpleIK17calcJointCallbackEiPN4sead8Matrix34IfEE` | `al::JointSimpleIK::calcJointCallback(int,sead::Matrix34<float> *)` | :white_check_mark: |

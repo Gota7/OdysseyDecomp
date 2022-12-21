@@ -6,7 +6,7 @@
 
 
 # PadRumbleFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN19alPadRumbleFunction20getPadRumbleDirectorEPKN2al9LiveActorE` | `alPadRumbleFunction::getPadRumbleDirector(al::LiveActor const*)` | :white_check_mark: |
 | `_ZN19alPadRumbleFunction20getPadRumbleDirectorEPKN2al11LayoutActorE` | `alPadRumbleFunction::getPadRumbleDirector(al::LayoutActor const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # RippleFixMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17RippleFixMapPartsC2EPKc` | `al::RippleFixMapParts::RippleFixMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al17RippleFixMapPartsC1EPKc` | `al::RippleFixMapParts::RippleFixMapParts(char const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # EnvTextureKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al8EnvTexIdC2Ev` | `al::EnvTexId::EnvTexId(void)` | :white_check_mark: |
 | `_ZN2al8EnvTexId13invalidateAllEv` | `al::EnvTexId::invalidateAll(void)` | :white_check_mark: |

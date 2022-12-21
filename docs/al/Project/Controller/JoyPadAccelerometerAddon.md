@@ -6,7 +6,7 @@
 
 
 # JoyPadAccelerometerAddon.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24JoyPadAccelerometerAddonC1EPN4sead10ControllerEi` | `al::JoyPadAccelerometerAddon::JoyPadAccelerometerAddon(sead::Controller *,int)` | :white_check_mark: |
 | `_ZN2al24JoyPadAccelerometerAddon4calcEv` | `al::JoyPadAccelerometerAddon::calc(void)` | :white_check_mark: |

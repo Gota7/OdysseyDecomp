@@ -6,7 +6,7 @@
 
 
 # TrafficArea.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11TrafficAreaC2EPKc` | `al::TrafficArea::TrafficArea(char const*)` | :white_check_mark: |
 | `_ZN2al11TrafficAreaC1EPKc` | `al::TrafficArea::TrafficArea(char const*)` | :white_check_mark: |

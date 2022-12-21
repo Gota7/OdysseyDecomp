@@ -6,7 +6,7 @@
 
 
 # ActorCollisionFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16getActorColliderEPKNS_9LiveActorE` | `al::getActorCollider(al::LiveActor const*)` | :white_check_mark: |
 | `_ZN2al20isExistActorColliderEPKNS_9LiveActorE` | `al::isExistActorCollider(al::LiveActor const*)` | :white_check_mark: |

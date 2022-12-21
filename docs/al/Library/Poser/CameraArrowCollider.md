@@ -6,7 +6,7 @@
 
 
 # CameraArrowCollider.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19CameraArrowColliderC2EPNS_17CollisionDirectorE` | `al::CameraArrowCollider::CameraArrowCollider(al::CollisionDirector *)` | :white_check_mark: |
 | `_ZN2al19CameraArrowCollider5startEv` | `al::CameraArrowCollider::start(void)` | :white_check_mark: |

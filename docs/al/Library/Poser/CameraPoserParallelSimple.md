@@ -6,7 +6,7 @@
 
 
 # CameraPoserParallelSimple.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25CameraPoserParallelSimpleC1EPKc` | `al::CameraPoserParallelSimple::CameraPoserParallelSimple(char const*)` | :white_check_mark: |
 | `_ZN2al25CameraPoserParallelSimple4initEv` | `al::CameraPoserParallelSimple::init(void)` | :white_check_mark: |

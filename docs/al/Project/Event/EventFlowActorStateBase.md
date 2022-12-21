@@ -6,7 +6,7 @@
 
 
 # EventFlowActorStateBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23EventFlowActorStateBaseC2EPKcPNS_17EventFlowMovementE` | `al::EventFlowActorStateBase::EventFlowActorStateBase(char const*,al::EventFlowMovement *)` | :white_check_mark: |
 | `_ZNK2al23EventFlowActorStateBase8getActorEv` | `al::EventFlowActorStateBase::getActor(void)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # AtmosScatterPrecompute.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al22AtmosScatterPrecompute20getSaveDirectoryNameEv` | `al::AtmosScatterPrecompute::getSaveDirectoryName(void)const` | :white_check_mark: |
 | `_ZNK2al22AtmosScatterPrecompute24isTransmittanceNonLinearEv` | `al::AtmosScatterPrecompute::isTransmittanceNonLinear(void)const` | :white_check_mark: |

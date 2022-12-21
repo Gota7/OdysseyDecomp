@@ -6,7 +6,7 @@
 
 
 # CameraVerticalAbsorber2DGalaxy.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al30CameraVerticalAbsorber2DGalaxyC2Ev` | `al::CameraVerticalAbsorber2DGalaxy::CameraVerticalAbsorber2DGalaxy(void)` | :white_check_mark: |
 | `_ZN2al30CameraVerticalAbsorber2DGalaxy5startEPKNS_11CameraPoserE` | `al::CameraVerticalAbsorber2DGalaxy::start(al::CameraPoser const*)` | :white_check_mark: |

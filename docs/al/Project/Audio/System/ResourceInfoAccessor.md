@@ -6,7 +6,7 @@
 
 
 # ResourceInfoAccessor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26IAudioResourceInfoAccessor14calcResourceIdEjPKcPKNS_21AudioSoundArchiveInfoE` | `al::IAudioResourceInfoAccessor::calcResourceId(unsigned int,char const*,al::AudioSoundArchiveInfo const*)` | :white_check_mark: |
 | `_ZN2al22SeResourceInfoAccessorC1EPKNS_22AudioInfoListWithPartsINS_22SeResourceSpecificInfoEEEPKNS_21AudioSoundArchiveInfoE` | `al::SeResourceInfoAccessor::SeResourceInfoAccessor(al::AudioInfoListWithParts<al::SeResourceSpecificInfo> const*,al::AudioSoundArchiveInfo const*)` | :white_check_mark: |

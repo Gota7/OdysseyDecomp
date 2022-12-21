@@ -6,7 +6,7 @@
 
 
 # RankingStateDeleteScore.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23RankingStateDeleteScoreC2EPNS_11IUseRankingE` | `al::RankingStateDeleteScore::RankingStateDeleteScore(al::IUseRanking *)` | :white_check_mark: |
 | `_ZN2al23RankingStateDeleteScore6appearEv` | `al::RankingStateDeleteScore::appear(void)` | :white_check_mark: |

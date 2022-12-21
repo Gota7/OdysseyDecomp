@@ -6,7 +6,7 @@
 
 
 # BgmLinePlayInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15BgmLinePlayInfoC2Ev` | `al::BgmLinePlayInfo::BgmLinePlayInfo(void)` | :white_check_mark: |
 | `_ZN2al15BgmLinePlayInfoC1ERKS0_` | `al::BgmLinePlayInfo::BgmLinePlayInfo(al::BgmLinePlayInfo const&)` | :white_check_mark: |

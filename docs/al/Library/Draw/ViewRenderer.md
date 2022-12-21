@@ -6,7 +6,7 @@
 
 
 # ViewRenderer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12ViewRendererC1EPNS_18GraphicsSystemInfoEPNS_15ExecuteDirectorEPNS_12EffectSystemEPNS_15SceneCameraInfoE` | `al::ViewRenderer::ViewRenderer(al::GraphicsSystemInfo *,al::ExecuteDirector *,al::EffectSystem *,al::SceneCameraInfo *)` | :white_check_mark: |
 | `_ZN2al12ViewRendererD2Ev` | `al::ViewRenderer::~ViewRenderer()` | :white_check_mark: |

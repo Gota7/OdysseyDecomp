@@ -6,7 +6,7 @@
 
 
 # AtmosScatterCubeMap.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19AtmosScatterCubeMapC2EPNS_18GraphicsSystemInfoE` | `al::AtmosScatterCubeMap::AtmosScatterCubeMap(al::GraphicsSystemInfo *)` | :white_check_mark: |
 | `_ZN2al19AtmosScatterCubeMapD2Ev` | `al::AtmosScatterCubeMap::~AtmosScatterCubeMap()` | :white_check_mark: |

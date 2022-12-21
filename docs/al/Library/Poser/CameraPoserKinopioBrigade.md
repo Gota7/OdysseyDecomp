@@ -6,7 +6,7 @@
 
 
 # CameraPoserKinopioBrigade.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25CameraPoserKinopioBrigadeC2EPKc` | `al::CameraPoserKinopioBrigade::CameraPoserKinopioBrigade(char const*)` | :white_check_mark: |
 | `_ZN2al25CameraPoserKinopioBrigade5startERKNS_15CameraStartInfoE` | `al::CameraPoserKinopioBrigade::start(al::CameraStartInfo const&)` | :white_check_mark: |

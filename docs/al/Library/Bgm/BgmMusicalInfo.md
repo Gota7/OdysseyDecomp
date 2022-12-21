@@ -6,7 +6,7 @@
 
 
 # BgmMusicalInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14BgmMusicalInfo10createInfoERKNS_9ByamlIterEPKc` | `al::BgmMusicalInfo::createInfo(al::ByamlIter const&,char const*)` | :white_check_mark: |
 | `_ZN2al19createAudioInfoListINS_13BgmRhythmInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi` | `al::AudioInfoListWithParts<al::BgmRhythmInfo> * al::createAudioInfoList<al::BgmRhythmInfo>(al::ByamlIter const&,int)` | :white_check_mark: |

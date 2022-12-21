@@ -6,7 +6,7 @@
 
 
 # EffectShaderHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18EffectShaderHolderC2EPNS_10PtclSystemEPN3agl11DrawContextEPNS_14EffectEnvParamE` | `al::EffectShaderHolder::EffectShaderHolder(al::PtclSystem *,agl::DrawContext *,al::EffectEnvParam *)` | :white_check_mark: |
 | `sub_710088463C` | `` | :white_check_mark: |

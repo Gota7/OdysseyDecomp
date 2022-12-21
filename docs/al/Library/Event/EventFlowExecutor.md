@@ -6,7 +6,7 @@
 
 
 # EventFlowExecutor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17EventFlowExecutorC2Ev` | `al::EventFlowExecutor::EventFlowExecutor(void)` | :white_check_mark: |
 | `_ZN2al17EventFlowExecutor4initEPNS_9LiveActorEPNS_14EventFlowChartEPNS_19EventFlowDataHolderE` | `al::EventFlowExecutor::init(al::LiveActor *,al::EventFlowChart *,al::EventFlowDataHolder *)` | :white_check_mark: |

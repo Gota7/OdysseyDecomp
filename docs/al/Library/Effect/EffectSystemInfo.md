@@ -6,7 +6,7 @@
 
 
 # EffectSystemInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16EffectSystemInfoC2Ev` | `al::EffectSystemInfo::EffectSystemInfo(void)` | :white_check_mark: |
 | `_ZNK2al16EffectSystemInfo15getEffectSystemEv` | `al::EffectSystemInfo::getEffectSystem(void)const` | :white_check_mark: |

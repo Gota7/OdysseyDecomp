@@ -6,7 +6,7 @@
 
 
 # ReplaceTagProcessorBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al19MessageTagDataScore14replaceMessageEPN4sead22BufferedSafeStringBaseIDsEEPKNS_17IUseMessageSystemEPKDs` | `al::MessageTagDataScore::replaceMessage(sead::BufferedSafeStringBase<char16_t> *,al::IUseMessageSystem const*,char16_t const*)const` | :white_check_mark: |
 | `_ZNK2al21MessageTagDataCoinNum14replaceMessageEPN4sead22BufferedSafeStringBaseIDsEEPKNS_17IUseMessageSystemEPKDs` | `al::MessageTagDataCoinNum::replaceMessage(sead::BufferedSafeStringBase<char16_t> *,al::IUseMessageSystem const*,char16_t const*)const` | :white_check_mark: |

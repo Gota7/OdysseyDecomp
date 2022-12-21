@@ -6,7 +6,7 @@
 
 
 # JointMasher.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11JointMasherC1EPKNS_9LiveActorEPKbi` | `al::JointMasher::JointMasher(al::LiveActor const*,bool const*,int)` | :white_check_mark: |
 | `_ZN2al11JointMasher6appendEPKcf` | `al::JointMasher::append(char const*,float)` | :white_check_mark: |

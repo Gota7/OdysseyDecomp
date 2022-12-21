@@ -6,7 +6,7 @@
 
 
 # ModelFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN15alModelFunction23updateRenderMaterialUboEPN2nn3g3d11MaterialObjE` | `alModelFunction::updateRenderMaterialUbo(nn::g3d::MaterialObj *)` | :white_check_mark: |
 | `_ZN15alModelFunction25updateRenderCloudLayerUboEPN2nn3g3d11MaterialObjE` | `alModelFunction::updateRenderCloudLayerUbo(nn::g3d::MaterialObj *)` | :white_check_mark: |

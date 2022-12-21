@@ -6,7 +6,7 @@
 
 
 # ViewInfoCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12ViewInfoCtrlC2EPKNS_12PlayerHolderEPKNS_15SceneCameraInfoE` | `al::ViewInfoCtrl::ViewInfoCtrl(al::PlayerHolder const*,al::SceneCameraInfo const*)` | :white_check_mark: |
 | `_ZN2al12ViewInfoCtrl13initActorInfoEPNS_17ClippingActorInfoE` | `al::ViewInfoCtrl::initActorInfo(al::ClippingActorInfo *)` | :white_check_mark: |

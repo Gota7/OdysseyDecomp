@@ -6,7 +6,7 @@
 
 
 # BloomDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10BloomParamC2Ev` | `al::BloomParam::BloomParam(void)` | :white_check_mark: |
 | `_ZN2al10BloomParam7isEqualERKS0_` | `al::BloomParam::isEqual(al::BloomParam const&)` | :white_check_mark: |

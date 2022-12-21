@@ -6,7 +6,7 @@
 
 
 # EffectSystem.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12EffectSystem30getDefaultDataBaseResourcePathEv` | `al::EffectSystem::getDefaultDataBaseResourcePath(void)` | :white_check_mark: |
 | `_ZN2al12EffectSystem26getDefaultPtclResourcePathEv` | `al::EffectSystem::getDefaultPtclResourcePath(void)` | :white_check_mark: |

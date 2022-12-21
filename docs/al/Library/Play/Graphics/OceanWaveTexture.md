@@ -6,7 +6,7 @@
 
 
 # OceanWaveTexture.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16OceanWaveTexture11setInitTimeEf` | `al::OceanWaveTexture::setInitTime(float)` | :white_check_mark: |
 | `_ZN2al16OceanWaveTexture12setTimeScaleEf` | `al::OceanWaveTexture::setTimeScale(float)` | :white_check_mark: |

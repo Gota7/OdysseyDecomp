@@ -6,7 +6,7 @@
 
 
 # LinearCurve.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11LinearCurveC2Ev` | `al::LinearCurve::LinearCurve(void)` | :white_check_mark: |
 | `_ZN2al11LinearCurve3setERKN4sead7Vector3IfEES5_` | `al::LinearCurve::set(sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |

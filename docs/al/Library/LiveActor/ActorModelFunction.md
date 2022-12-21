@@ -6,7 +6,7 @@
 
 
 # ActorModelFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24updateMaterialCodeGroundEPNS_9LiveActorEPKc` | `al::updateMaterialCodeGround(al::LiveActor *,char const*)` | :white_check_mark: |
 | `_ZN2al21updateMaterialCodeAllEPNS_9LiveActorE` | `al::updateMaterialCodeAll(al::LiveActor *)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # FlowMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12FlowMapPartsC2EPKc` | `al::FlowMapParts::FlowMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al12FlowMapPartsC1EPKc` | `al::FlowMapParts::FlowMapParts(char const*)` | :white_check_mark: |

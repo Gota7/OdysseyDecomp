@@ -6,7 +6,7 @@
 
 
 # ScreenBlurDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ScreenBlurDrawParamC2Ev` | `al::ScreenBlurDrawParam::ScreenBlurDrawParam(void)` | :white_check_mark: |
 | `_ZNK2al19ScreenBlurDrawParam8isEnableEv` | `al::ScreenBlurDrawParam::isEnable(void)const` | :white_check_mark: |

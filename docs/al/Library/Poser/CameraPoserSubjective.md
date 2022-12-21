@@ -6,7 +6,7 @@
 
 
 # CameraPoserSubjective.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21CameraPoserSubjectiveC2EPKc` | `al::CameraPoserSubjective::CameraPoserSubjective(char const*)` | :white_check_mark: |
 | `_ZN2al21CameraPoserSubjective4initEv` | `al::CameraPoserSubjective::init(void)` | :white_check_mark: |

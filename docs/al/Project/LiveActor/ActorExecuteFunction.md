@@ -6,7 +6,7 @@
 
 
 # ActorExecuteFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13executeUpdateEPNS_12LiveActorKitEPKc` | `al::executeUpdate(al::LiveActorKit *,char const*)` | :white_check_mark: |
 | `_ZN2al18executeUpdateTableEPNS_12LiveActorKitEPKc` | `al::executeUpdateTable(al::LiveActorKit *,char const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # GpuPerf.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al7GpuPerfC2Ev` | `al::GpuPerf::GpuPerf(void)` | :white_check_mark: |
 | `_ZN2al7GpuPerf9beginPerfEPN3agl11DrawContextE` | `al::GpuPerf::beginPerf(agl::DrawContext *)` | :white_check_mark: |

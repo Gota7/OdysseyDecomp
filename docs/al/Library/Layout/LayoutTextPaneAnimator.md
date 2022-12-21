@@ -6,7 +6,7 @@
 
 
 # LayoutTextPaneAnimator.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22LayoutTextPaneAnimatorC2EPN2nn4ui2d7TextBoxEPNS_11LayoutActorE` | `al::LayoutTextPaneAnimator::LayoutTextPaneAnimator(nn::ui2d::TextBox *,al::LayoutActor *)` | :white_check_mark: |
 | `_ZN2al22LayoutTextPaneAnimator21initEuiLetterAnimCtrlEPN3eui8LayoutExE` | `al::LayoutTextPaneAnimator::initEuiLetterAnimCtrl(eui::LayoutEx *)` | :white_check_mark: |

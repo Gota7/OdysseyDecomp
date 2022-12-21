@@ -6,7 +6,7 @@
 
 
 # CameraInterpole.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15CameraInterpoleC2Ev` | `al::CameraInterpole::CameraInterpole(void)` | :white_check_mark: |
 | `_ZN2al15CameraInterpole5startEPKNS_12CameraTicketEfi` | `al::CameraInterpole::start(al::CameraTicket const*,float,int)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ThunderRenderKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15ThunderRendererC2EPNS_18GraphicsSystemInfoEPN4sead6RandomE` | `al::ThunderRenderer::ThunderRenderer(al::GraphicsSystemInfo *,sead::Random *)` | :white_check_mark: |
 | `_ZN2al15ThunderRendererD2Ev` | `al::ThunderRenderer::~ThunderRenderer()` | :white_check_mark: |

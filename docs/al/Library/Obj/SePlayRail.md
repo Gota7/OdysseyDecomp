@@ -6,7 +6,7 @@
 
 
 # SePlayRail.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10SePlayRailC2EPKc` | `al::SePlayRail::SePlayRail(char const*)` | :white_check_mark: |
 | `_ZN2al10SePlayRailC1EPKc` | `al::SePlayRail::SePlayRail(char const*)` | :white_check_mark: |

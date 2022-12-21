@@ -6,7 +6,7 @@
 
 
 # ActorMovementFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13resetPositionEPNS_9LiveActorE` | `al::resetPosition(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al13resetPositionEPNS_9LiveActorERKN4sead7Vector3IfEE` | `al::resetPosition(al::LiveActor *,sead::Vector3<float> const&)` | :white_check_mark: |

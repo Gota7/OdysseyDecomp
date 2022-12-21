@@ -6,7 +6,7 @@
 
 
 # JointMtxPtr.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11JointMtxPtrC2Ev` | `al::JointMtxPtr::JointMtxPtr(void)` | :white_check_mark: |
 | `_ZN2al11JointMtxPtr7setNullEv` | `al::JointMtxPtr::setNull(void)` | :white_check_mark: |

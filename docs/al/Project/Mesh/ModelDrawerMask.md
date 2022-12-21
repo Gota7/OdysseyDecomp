@@ -6,7 +6,7 @@
 
 
 # ModelDrawerMask.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15ModelDrawerMaskC2EPKc` | `al::ModelDrawerMask::ModelDrawerMask(char const*)` | :white_check_mark: |
 | `_ZN2al15ModelDrawerMask11createTableEv` | `al::ModelDrawerMask::createTable(void)` | :white_check_mark: |

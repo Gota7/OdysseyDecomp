@@ -6,7 +6,7 @@
 
 
 # ModelDisplayListHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22ModelDisplayListHolderC2Ejj` | `al::ModelDisplayListHolder::ModelDisplayListHolder(unsigned int,unsigned int)` | :white_check_mark: |
 | `_ZN2al22ModelDisplayListHolder20pushDisplayListModelEPN3agl11DisplayListE` | `al::ModelDisplayListHolder::pushDisplayListModel(agl::DisplayList *)` | :white_check_mark: |

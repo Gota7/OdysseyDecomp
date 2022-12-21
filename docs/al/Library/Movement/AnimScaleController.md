@@ -6,7 +6,7 @@
 
 
 # AnimScaleController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14AnimScaleParamC2Ev` | `al::AnimScaleParam::AnimScaleParam(void)` | :white_check_mark: |
 | `_ZN2al14AnimScaleParamC1Efffffffiffff` | `al::AnimScaleParam::AnimScaleParam(float,float,float,float,float,float,float,int,float,float,float,float)` | :white_check_mark: |

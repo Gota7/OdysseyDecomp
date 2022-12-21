@@ -6,7 +6,7 @@
 
 
 # ModelOcclusionQuery.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ModelOcclusionQueryC2Ev` | `al::ModelOcclusionQuery::ModelOcclusionQuery(void)` | :white_check_mark: |
 | `_ZN2al19ModelOcclusionQueryD2Ev` | `al::ModelOcclusionQuery::~ModelOcclusionQuery()` | :white_check_mark: |

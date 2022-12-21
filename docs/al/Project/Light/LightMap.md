@@ -6,7 +6,7 @@
 
 
 # LightMap.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al8LightMapC1EPKNS_12ShaderHolderEPKNS_9HdrEncodeE` | `al::LightMap::LightMap(al::ShaderHolder const*,al::HdrEncode const*)` | :white_check_mark: |
 | `_ZN2al8LightMapD2Ev` | `al::LightMap::~LightMap()` | :white_check_mark: |

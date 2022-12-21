@@ -6,7 +6,7 @@
 
 
 # SaveDataFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21getSaveDataWorkBufferEv` | `al::getSaveDataWorkBuffer(void)` | :white_check_mark: |
 | `_ZN2al21isInitializedSaveDataEv` | `al::isInitializedSaveData(void)` | :white_check_mark: |

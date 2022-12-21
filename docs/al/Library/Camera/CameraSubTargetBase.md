@@ -6,7 +6,7 @@
 
 
 # CameraSubTargetBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15CameraStopJudgeC2Ev` | `al::CameraStopJudge::CameraStopJudge(void)` | :white_check_mark: |
 | `_ZNK2al15CameraStopJudge6isStopEv` | `al::CameraStopJudge::isStop(void)const` | :white_check_mark: |

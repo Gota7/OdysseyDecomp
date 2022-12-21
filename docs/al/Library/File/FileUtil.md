@@ -6,7 +6,7 @@
 
 
 # FileUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11isExistFileERKN4sead14SafeStringBaseIcEE` | `al::isExistFile(sead::SafeStringBase<char> const&)` | :white_check_mark: |
 | `_ZN2al16isExistDirectoryERKN4sead14SafeStringBaseIcEE` | `al::isExistDirectory(sead::SafeStringBase<char> const&)` | :white_check_mark: |

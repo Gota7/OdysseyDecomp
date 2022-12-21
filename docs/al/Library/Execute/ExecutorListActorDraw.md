@@ -6,7 +6,7 @@
 
 
 # ExecutorListActorDraw.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21ExecutorListActorDrawC2EPKci` | `al::ExecutorListActorDraw::ExecutorListActorDraw(char const*,int)` | :white_check_mark: |
 | `_ZNK2al21ExecutorListActorDraw14createExecutorEPKc` | `al::ExecutorListActorDraw::createExecutor(char const*)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # RadialBlurDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18RadialBlurDirector8BlurInfoC2Ev` | `al::RadialBlurDirector::BlurInfo::BlurInfo(void)` | :white_check_mark: |
 | `_ZN2al18RadialBlurDirectorC2Ev` | `al::RadialBlurDirector::RadialBlurDirector(void)` | :white_check_mark: |

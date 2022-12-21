@@ -6,7 +6,7 @@
 
 
 # PoseHistoryPath.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15PoseHistoryPath8PoseInfoC2Ev` | `al::PoseHistoryPath::PoseInfo::PoseInfo(void)` | :white_check_mark: |
 | `_ZN2al15PoseHistoryPath8PoseInfoC2ERKN4sead4QuatIfEERKNS2_7Vector3IfEEPKcf` | `al::PoseHistoryPath::PoseInfo::PoseInfo(sead::Quat<float> const&,sead::Vector3<float> const&,char const*,float)` | :white_check_mark: |

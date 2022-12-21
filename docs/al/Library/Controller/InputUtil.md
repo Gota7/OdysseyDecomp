@@ -6,7 +6,7 @@
 
 
 # InputUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24getJoyPadSingleRightPortEv` | `al::getJoyPadSingleRightPort(void)` | :white_check_mark: |
 | `_ZN2al23getJoyPadSingleLeftPortEv` | `al::getJoyPadSingleLeftPort(void)` | :white_check_mark: |

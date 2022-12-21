@@ -6,7 +6,7 @@
 
 
 # CustomTagProcessor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18CustomTagProcessorC1EPN3eui10MessageMgrEPNS1_7FontMgrEPKNS_13MessageSystemE` | `al::CustomTagProcessor::CustomTagProcessor(eui::MessageMgr *,eui::FontMgr *,al::MessageSystem const*)` | :white_check_mark: |
 | `_ZN2al18CustomTagProcessor14processAppTag_EPKN4sead10MessageSetIDsE7TagInfoEPN2nn4font12PrintContextItEEPNS8_9RectangleEPKDs` | `al::CustomTagProcessor::processAppTag_(sead::MessageSet<char16_t>::TagInfo const*,nn::font::PrintContext<unsigned short> *,nn::font::Rectangle *,char16_t const*)` | :white_check_mark: |

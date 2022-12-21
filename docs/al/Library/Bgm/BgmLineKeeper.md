@@ -6,7 +6,7 @@
 
 
 # BgmLineKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13BgmLineKeeperC2Ev` | `al::BgmLineKeeper::BgmLineKeeper(void)` | :white_check_mark: |
 | `_ZN2al13BgmLineKeeper4initEPKNS_11BgmDataBaseEPKNS_22AudioInfoListWithPartsINS_14BgmMusicalInfoEEEPNS_15SeadAudioPlayerEPKcSC_iPN4sead8PtrArrayINS_16BgmParamsChangerEEE` | `al::BgmLineKeeper::init(al::BgmDataBase const*,al::AudioInfoListWithParts<al::BgmMusicalInfo> const*,al::SeadAudioPlayer *,char const*,char const*,int,sead::PtrArray<al::BgmParamsChanger> *)` | :white_check_mark: |

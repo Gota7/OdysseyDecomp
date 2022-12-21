@@ -6,7 +6,7 @@
 
 
 # ExecutorListActorModelDraw.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al30ExecutorListActorModelDrawBaseC2EPKciRKNS_21ExecuteSystemInitInfoE` | `al::ExecutorListActorModelDrawBase::ExecutorListActorModelDrawBase(char const*,int,al::ExecuteSystemInitInfo const&)` | :white_check_mark: |
 | `_ZN2al30ExecutorListActorModelDrawBaseD0Ev` | `al::ExecutorListActorModelDrawBase::~ExecutorListActorModelDrawBase()` | :white_check_mark: |

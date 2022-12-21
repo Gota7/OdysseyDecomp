@@ -6,7 +6,7 @@
 
 
 # FrustumRadar.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12FrustumRadarC1Ev` | `al::FrustumRadar::FrustumRadar(void)` | :white_check_mark: |
 | `_ZN2al12FrustumRadar15calcFrustumAreaERKN4sead8Matrix34IfEEffff` | `al::FrustumRadar::calcFrustumArea(sead::Matrix34<float> const&,float,float,float,float)` | :white_check_mark: |

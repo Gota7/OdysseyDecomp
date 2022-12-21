@@ -6,7 +6,7 @@
 
 
 # DspLinearValueController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24DspLinearValueControllerC2Ef` | `al::DspLinearValueController::DspLinearValueController(float)` | :white_check_mark: |
 | `_ZN2al24DspLinearValueController4initEf` | `al::DspLinearValueController::init(float)` | :white_check_mark: |

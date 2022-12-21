@@ -6,7 +6,7 @@
 
 
 # ModelOcclusionCullingDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al29ModelOcclusionCullingDirectorC2Ev` | `al::ModelOcclusionCullingDirector::ModelOcclusionCullingDirector(void)` | :white_check_mark: |
 | `_ZN2al29ModelOcclusionCullingDirectorD2Ev` | `al::ModelOcclusionCullingDirector::~ModelOcclusionCullingDirector()` | :white_check_mark: |

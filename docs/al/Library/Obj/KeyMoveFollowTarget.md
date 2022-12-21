@@ -6,7 +6,7 @@
 
 
 # KeyMoveFollowTarget.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19KeyMoveFollowTargetC2EPKc` | `al::KeyMoveFollowTarget::KeyMoveFollowTarget(char const*)` | :white_check_mark: |
 | `_ZN2al19KeyMoveFollowTargetC1EPKc` | `al::KeyMoveFollowTarget::KeyMoveFollowTarget(char const*)` | :white_check_mark: |

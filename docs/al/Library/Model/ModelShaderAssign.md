@@ -6,7 +6,7 @@
 
 
 # ModelShaderAssign.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17ModelShaderAssignC2Ev` | `al::ModelShaderAssign::ModelShaderAssign(void)` | :white_check_mark: |
 | `_ZN2al17ModelShaderAssign6clear_Ev` | `al::ModelShaderAssign::clear_(void)` | :white_check_mark: |

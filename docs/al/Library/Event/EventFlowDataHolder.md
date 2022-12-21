@@ -6,7 +6,7 @@
 
 
 # EventFlowDataHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19EventFlowDataHolderC2Ev` | `al::EventFlowDataHolder::EventFlowDataHolder(void)` | :white_check_mark: |
 | `_ZNK2al19EventFlowDataHolder17isExistCameraInfoEPKc` | `al::EventFlowDataHolder::isExistCameraInfo(char const*)const` | :white_check_mark: |

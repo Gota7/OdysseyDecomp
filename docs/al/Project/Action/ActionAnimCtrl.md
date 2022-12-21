@@ -6,7 +6,7 @@
 
 
 # ActionAnimCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14ActionAnimCtrl9tryCreateEPNS_9LiveActorEPKNS_13ActorResourceEPKcS7_` | `al::ActionAnimCtrl::tryCreate(al::LiveActor *,al::ActorResource const*,char const*,char const*)` | :white_check_mark: |
 | `_ZN2al14ActionAnimCtrl4initEPKNS_13ActorResourceEPKcS5_` | `al::ActionAnimCtrl::init(al::ActorResource const*,char const*,char const*)` | :white_check_mark: |

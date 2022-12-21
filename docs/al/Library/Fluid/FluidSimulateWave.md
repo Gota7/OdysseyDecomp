@@ -6,7 +6,7 @@
 
 
 # FluidSimulateWave.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17FluidSimulateWaveC2EPNS_18GraphicsSystemInfoEifibbPKc` | `al::FluidSimulateWave::FluidSimulateWave(al::GraphicsSystemInfo *,int,float,int,bool,bool,char const*)` | :white_check_mark: |
 | `_ZN2al17FluidSimulateWave10beginStoreEv` | `al::FluidSimulateWave::beginStore(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # WindowConfirmWait.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17WindowConfirmWaitC2EPKcS2_RKNS_14LayoutInitInfoE` | `al::WindowConfirmWait::WindowConfirmWait(char const*,char const*,al::LayoutInitInfo const&)` | :white_check_mark: |
 | `_ZN2al17WindowConfirmWaitC1EPKcS2_RKNS_14LayoutInitInfoE` | `al::WindowConfirmWait::WindowConfirmWait(char const*,char const*,al::LayoutInitInfo const&)` | :white_check_mark: |

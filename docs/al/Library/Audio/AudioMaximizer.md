@@ -6,7 +6,7 @@
 
 
 # AudioMaximizer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14AudioMaximizerC2Ev` | `al::AudioMaximizer::AudioMaximizer(void)` | :white_check_mark: |
 | `_ZN2al14AudioMaximizer10clearHist_Ev` | `al::AudioMaximizer::clearHist_(void)` | :white_check_mark: |

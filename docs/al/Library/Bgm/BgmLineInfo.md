@@ -6,7 +6,7 @@
 
 
 # BgmLineInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19createAudioInfoListINS_19BgmCombinedLineInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi` | `al::AudioInfoListWithParts<al::BgmCombinedLineInfo> * al::createAudioInfoList<al::BgmCombinedLineInfo>(al::ByamlIter const&,int)` | :white_check_mark: |
 | `_ZN2al26AudioInfoListCreateFunctorINS_19BgmCombinedLineInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE` | `al::AudioInfoListCreateFunctor<al::BgmCombinedLineInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)` | :white_check_mark: |

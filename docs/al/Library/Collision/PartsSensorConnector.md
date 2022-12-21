@@ -6,7 +6,7 @@
 
 
 # PartsSensorConnector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15SensorConnectorC2Ev` | `al::SensorConnector::SensorConnector(void)` | :white_check_mark: |
 | `_ZN2al15SensorConnector4initEPKN4sead8Matrix34IfEERS4_PNS_9HitSensorE` | `al::SensorConnector::init(sead::Matrix34<float> const*,sead::Matrix34<float> const&,al::HitSensor *)` | :white_check_mark: |

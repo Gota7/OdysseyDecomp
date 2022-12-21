@@ -6,7 +6,7 @@
 
 
 # Bgm3DParamsController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21Bgm3DParamsControllerC1EPKNS_13AudioDirectorE` | `al::Bgm3DParamsController::Bgm3DParamsController(al::AudioDirector const*)` | :white_check_mark: |
 | `_ZN2al21Bgm3DParamsController6updateEv` | `al::Bgm3DParamsController::update(void)` | :white_check_mark: |

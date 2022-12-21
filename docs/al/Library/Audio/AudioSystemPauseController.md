@@ -6,7 +6,7 @@
 
 
 # AudioSystemPauseController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26AudioSystemPauseController27getAudioSystemPauseTypeNameENS0_20AudioSystemPauseTypeE` | `al::AudioSystemPauseController::getAudioSystemPauseTypeName(al::AudioSystemPauseController::AudioSystemPauseType)` | :white_check_mark: |
 | `_ZN2al26AudioSystemPauseController23getAudioSystemPauseTypeEPKc` | `al::AudioSystemPauseController::getAudioSystemPauseType(char const*)` | :white_check_mark: |

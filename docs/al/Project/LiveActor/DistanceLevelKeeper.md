@@ -6,7 +6,7 @@
 
 
 # DistanceLevelKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18DistanceLevelParamC2Ei` | `al::DistanceLevelParam::DistanceLevelParam(int)` | :white_check_mark: |
 | `_ZNK2al18DistanceLevelParam9calcLevelEf` | `al::DistanceLevelParam::calcLevel(float)const` | :white_check_mark: |

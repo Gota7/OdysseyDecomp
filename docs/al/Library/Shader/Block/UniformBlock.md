@@ -6,7 +6,7 @@
 
 
 # UniformBlock.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12UniformBlockC2Ev` | `al::UniformBlock::UniformBlock(void)` | :white_check_mark: |
 | `_ZN2al12UniformBlock4swapEv` | `al::UniformBlock::swap(void)` | :white_check_mark: |

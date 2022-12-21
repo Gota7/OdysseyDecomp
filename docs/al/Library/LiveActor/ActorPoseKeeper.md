@@ -6,7 +6,7 @@
 
 
 # ActorPoseKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ActorPoseKeeperBaseC2Ev` | `al::ActorPoseKeeperBase::ActorPoseKeeperBase(void)` | :white_check_mark: |
 | `_ZN2al19ActorPoseKeeperBase8copyPoseEPKS0_` | `al::ActorPoseKeeperBase::copyPose(al::ActorPoseKeeperBase const*)` | :white_check_mark: |

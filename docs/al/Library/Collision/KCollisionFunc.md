@@ -6,7 +6,7 @@
 
 
 # KCollisionFunc.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al7HitInfoC2Ev` | `al::HitInfo::HitInfo(void)` | :white_check_mark: |
 | `_ZNK2al7HitInfo17isCollisionAtFaceEv` | `al::HitInfo::isCollisionAtFace(void)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # SimpleCircleShadowXZ.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20SimpleCircleShadowXZC2EPKc` | `al::SimpleCircleShadowXZ::SimpleCircleShadowXZ(char const*)` | :white_check_mark: |
 | `_ZN2al20SimpleCircleShadowXZC1EPKc` | `al::SimpleCircleShadowXZ::SimpleCircleShadowXZ(char const*)` | :white_check_mark: |

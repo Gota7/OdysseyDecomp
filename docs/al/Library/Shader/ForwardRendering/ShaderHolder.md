@@ -6,7 +6,7 @@
 
 
 # ShaderHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12ShaderHolder18SingletonDisposer_D2Ev` | `al::ShaderHolder::SingletonDisposer_::~SingletonDisposer_()` | :white_check_mark: |
 | `_ZN2al12ShaderHolder18SingletonDisposer_D0Ev` | `al::ShaderHolder::SingletonDisposer_::~SingletonDisposer_()` | :white_check_mark: |

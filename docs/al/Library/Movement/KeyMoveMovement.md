@@ -6,7 +6,7 @@
 
 
 # KeyMoveMovement.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15KeyMoveMovementC1EPNS_9LiveActorERKNS_13ActorInitInfoE` | `al::KeyMoveMovement::KeyMoveMovement(al::LiveActor *,al::ActorInitInfo const&)` | :white_check_mark: |
 | `_ZN2al15KeyMoveMovement7exeWaitEv` | `al::KeyMoveMovement::exeWait(void)` | :white_check_mark: |

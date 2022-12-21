@@ -6,7 +6,7 @@
 
 
 # RippleTextureController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23RippleTextureControllerC2EPKc` | `al::RippleTextureController::RippleTextureController(char const*)` | :white_check_mark: |
 | `_ZN2al23RippleTextureController9initParamEPNS_11ParameterIoEPKNS_9ByamlIterEPNS_11IUseHioNodeEPNS_18GraphicsSystemInfoERKN4sead7Vector3IfEERKNSA_4QuatIfEE` | `al::RippleTextureController::initParam(al::ParameterIo *,al::ByamlIter const*,al::IUseHioNode *,al::GraphicsSystemInfo *,sead::Vector3<float> const&,sead::Quat<float> const&)` | :white_check_mark: |

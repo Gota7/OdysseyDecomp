@@ -6,7 +6,7 @@
 
 
 # PartsFilter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al26TriangleFilterIgnoreGround17isInvalidTriangleERKNS_8TriangleE` | `al::TriangleFilterIgnoreGround::isInvalidTriangle(al::Triangle const&)const` | :white_check_mark: |
 | `_ZNK2al24TriangleFilterGroundOnly17isInvalidTriangleERKNS_8TriangleE` | `al::TriangleFilterGroundOnly::isInvalidTriangle(al::Triangle const&)const` | :white_check_mark: |

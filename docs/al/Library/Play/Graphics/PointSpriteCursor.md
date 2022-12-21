@@ -6,7 +6,7 @@
 
 
 # PointSpriteCursor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17PointSpriteCursorC1EPKcmS2_NS0_8DrawTypeE` | `al::PointSpriteCursor::PointSpriteCursor(char const*,unsigned long,char const*,al::PointSpriteCursor::DrawType)` | :white_check_mark: |
 | `_ZN2al17PointSpriteCursorD2Ev` | `al::PointSpriteCursor::~PointSpriteCursor()` | :white_check_mark: |

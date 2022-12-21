@@ -6,7 +6,7 @@
 
 
 # EventFlowChoiceInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19EventFlowChoiceInfoC2Ei` | `al::EventFlowChoiceInfo::EventFlowChoiceInfo(int)` | :white_check_mark: |
 | `_ZN2al19EventFlowChoiceInfo21registerChoiceMessageEPKDs` | `al::EventFlowChoiceInfo::registerChoiceMessage(char16_t const*)` | :white_check_mark: |

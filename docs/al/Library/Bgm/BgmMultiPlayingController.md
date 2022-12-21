@@ -6,7 +6,7 @@
 
 
 # BgmMultiPlayingController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25BgmMultiPlayingControllerC2Ev` | `al::BgmMultiPlayingController::BgmMultiPlayingController(void)` | :white_check_mark: |
 | `_ZN2al25BgmMultiPlayingController3useEv` | `al::BgmMultiPlayingController::use(void)` | :white_check_mark: |

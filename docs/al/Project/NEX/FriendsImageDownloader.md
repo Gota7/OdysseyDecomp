@@ -6,7 +6,7 @@
 
 
 # FriendsImageDownloader.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22FriendsImageDownloaderC2Ev` | `al::FriendsImageDownloader::FriendsImageDownloader(void)` | :white_check_mark: |
 | `_ZN2al22FriendsImageDownloader8DownloadEPKcPvm` | `al::FriendsImageDownloader::Download(char const*,void *,unsigned long)` | :white_check_mark: |

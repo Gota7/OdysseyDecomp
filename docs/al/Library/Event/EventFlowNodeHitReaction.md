@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeHitReaction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24EventFlowNodeHitReactionC2EPKc` | `al::EventFlowNodeHitReaction::EventFlowNodeHitReaction(char const*)` | :white_check_mark: |
 | `_ZN2al24EventFlowNodeHitReaction4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeHitReaction::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

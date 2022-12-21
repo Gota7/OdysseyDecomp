@@ -6,7 +6,7 @@
 
 
 # StarrySky.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9StarrySkyC2EPNS_18GraphicsSystemInfoE` | `al::StarrySky::StarrySky(al::GraphicsSystemInfo *)` | :white_check_mark: |
 | `_ZN2al9StarrySky20makeStarColorTextureEv` | `al::StarrySky::makeStarColorTexture(void)` | :white_check_mark: |

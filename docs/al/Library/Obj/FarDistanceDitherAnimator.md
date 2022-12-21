@@ -6,7 +6,7 @@
 
 
 # FarDistanceDitherAnimator.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25FarDistanceDitherAnimator9tryCreateEPNS_9LiveActorEPKNS_8ResourceEPKc` | `al::FarDistanceDitherAnimator::tryCreate(al::LiveActor *,al::Resource const*,char const*)` | :white_check_mark: |
 | `_ZN2al25FarDistanceDitherAnimator9loadParamERKNS_9ByamlIterE` | `al::FarDistanceDitherAnimator::loadParam(al::ByamlIter const&)` | :white_check_mark: |

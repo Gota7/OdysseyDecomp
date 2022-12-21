@@ -6,7 +6,7 @@
 
 
 # DynamicMeshDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17DynamicMeshDrawerC2EPKcPN3agl11DrawContextEPKN2nn3g3d8ModelObjEPKNS7_8ShapeObjEPKNS_11ModelShaderEiiiPKS0_` | `al::DynamicMeshDrawer::DynamicMeshDrawer(char const*,agl::DrawContext *,nn::g3d::ModelObj const*,nn::g3d::ShapeObj const*,al::ModelShader const*,int,int,int,al::DynamicMeshDrawer const*)` | :white_check_mark: |
 | `_ZNK2al17DynamicMeshDrawer18getShadingModelObjEv` | `al::DynamicMeshDrawer::getShadingModelObj(void)const` | :white_check_mark: |

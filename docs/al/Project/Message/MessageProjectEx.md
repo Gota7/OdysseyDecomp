@@ -6,7 +6,7 @@
 
 
 # MessageProjectEx.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16MessageProjectExC2Ev` | `al::MessageProjectEx::MessageProjectEx(void)` | :white_check_mark: |
 | `_ZN2al16MessageProjectEx4initEv` | `al::MessageProjectEx::init(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # JudgeDistanceCalculatorHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al29SphereJudgeDistanceCalculatorC2Ev` | `al::SphereJudgeDistanceCalculator::SphereJudgeDistanceCalculator(void)` | :white_check_mark: |
 | `_ZN2al29SphereJudgeDistanceCalculator4loadERKNS_9ByamlIterE` | `al::SphereJudgeDistanceCalculator::load(al::ByamlIter const&)` | :white_check_mark: |

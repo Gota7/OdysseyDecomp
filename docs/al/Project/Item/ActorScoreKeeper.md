@@ -6,7 +6,7 @@
 
 
 # ActorScoreKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14ActorScoreInfoC2Ev` | `al::ActorScoreInfo::ActorScoreInfo(void)` | :white_check_mark: |
 | `_ZN2al14ActorScoreInfo4initERKNS_9ByamlIterE` | `al::ActorScoreInfo::init(al::ByamlIter const&)` | :white_check_mark: |

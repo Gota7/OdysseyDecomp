@@ -6,7 +6,7 @@
 
 
 # CameraStartParamCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20CameraStartParamCtrlC2Ev` | `al::CameraStartParamCtrl::CameraStartParamCtrl(void)` | :white_check_mark: |
 | `_ZN2al20CameraStartParamCtrl4initEPNS_15AreaObjDirectorEPKNS_14CameraFlagCtrlE` | `al::CameraStartParamCtrl::init(al::AreaObjDirector *,al::CameraFlagCtrl const*)` | :white_check_mark: |

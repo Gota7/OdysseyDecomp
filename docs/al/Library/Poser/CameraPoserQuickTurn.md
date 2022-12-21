@@ -6,7 +6,7 @@
 
 
 # CameraPoserQuickTurn.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20CameraPoserQuickTurnC2EPKc` | `al::CameraPoserQuickTurn::CameraPoserQuickTurn(char const*)` | :white_check_mark: |
 | `_ZN2al20CameraPoserQuickTurn4initEv` | `al::CameraPoserQuickTurn::init(void)` | :white_check_mark: |

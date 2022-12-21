@@ -6,7 +6,7 @@
 
 
 # PlayerHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12PlayerHolderC2Ei` | `al::PlayerHolder::PlayerHolder(int)` | :white_check_mark: |
 | `_ZN2al12PlayerHolder5clearEv` | `al::PlayerHolder::clear(void)` | :white_check_mark: |

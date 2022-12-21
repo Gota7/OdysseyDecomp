@@ -6,7 +6,7 @@
 
 
 # AreaObj.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al7AreaObjC2EPKc` | `al::AreaObj::AreaObj(char const*)` | :white_check_mark: |
 | `_ZN2al7AreaObjC1EPKc` | `al::AreaObj::AreaObj(char const*)` | :white_check_mark: |

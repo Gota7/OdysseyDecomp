@@ -6,7 +6,7 @@
 
 
 # CameraPoserShooterSingle.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24CameraPoserShooterSingleC2EPKc` | `al::CameraPoserShooterSingle::CameraPoserShooterSingle(char const*)` | :white_check_mark: |
 | `_ZN2al24CameraPoserShooterSingle9loadParamERKNS_9ByamlIterE` | `al::CameraPoserShooterSingle::loadParam(al::ByamlIter const&)` | :white_check_mark: |

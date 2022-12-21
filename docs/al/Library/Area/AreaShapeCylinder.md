@@ -6,7 +6,7 @@
 
 
 # AreaShapeCylinder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17AreaShapeCylinderC1ENS0_10OriginTypeE` | `al::AreaShapeCylinder::AreaShapeCylinder(al::AreaShapeCylinder::OriginType)` | :white_check_mark: |
 | `_ZNK2al17AreaShapeCylinder20calcLocalBoundingBoxEPN4sead9BoundBox3IfEE` | `al::AreaShapeCylinder::calcLocalBoundingBox(sead::BoundBox3<float> *)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # PartsEffectGroup.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16PartsEffectGroupC2Ev` | `al::PartsEffectGroup::PartsEffectGroup(void)` | :white_check_mark: |
 | `_ZN2al16PartsEffectGroup4initEiPKNS_16EffectSystemInfoEPKcPKN4sead7Vector3IfEESA_PKNS6_8Matrix34IfEEPKNS_10IUseCameraE` | `al::PartsEffectGroup::init(int,al::EffectSystemInfo const*,char const*,sead::Vector3<float> const*,sead::Vector3<float> const*,sead::Matrix34<float> const*,al::IUseCamera const*)` | :white_check_mark: |

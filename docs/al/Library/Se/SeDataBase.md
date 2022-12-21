@@ -6,7 +6,7 @@
 
 
 # SeDataBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10SeDataBase6createEPKcS2_PKNS_21AudioSoundArchiveInfoE` | `al::SeDataBase::create(char const*,char const*,al::AudioSoundArchiveInfo const*)` | :white_check_mark: |
 | `_ZN2al10SeDataBaseC1EPNS_8ResourceES2_PKNS_21AudioSoundArchiveInfoE` | `al::SeDataBase::SeDataBase(al::Resource *,al::Resource *,al::AudioSoundArchiveInfo const*)` | :white_check_mark: |

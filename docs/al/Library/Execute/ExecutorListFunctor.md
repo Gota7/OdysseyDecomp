@@ -6,7 +6,7 @@
 
 
 # ExecutorListFunctor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ExecutorListFunctorC2EPKci` | `al::ExecutorListFunctor::ExecutorListFunctor(char const*,int)` | :white_check_mark: |
 | `_ZN2al19ExecutorListFunctor15registerFunctorERKNS_11FunctorBaseE` | `al::ExecutorListFunctor::registerFunctor(al::FunctorBase const&)` | :white_check_mark: |

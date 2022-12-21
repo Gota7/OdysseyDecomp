@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeEventQuery.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23EventFlowNodeEventQueryC2EPKc` | `al::EventFlowNodeEventQuery::EventFlowNodeEventQuery(char const*)` | :white_check_mark: |
 | `_ZN2al23EventFlowNodeEventQuery4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeEventQuery::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

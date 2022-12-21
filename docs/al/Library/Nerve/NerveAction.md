@@ -6,7 +6,7 @@
 
 
 # NerveAction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11NerveActionC2Ev` | `al::NerveAction::NerveAction(void)` | :white_check_mark: |
 | `_ZN15alNerveFunction20NerveActionCollector8addNerveEPN2al11NerveActionE` | `alNerveFunction::NerveActionCollector::addNerve(al::NerveAction *)` | :white_check_mark: |

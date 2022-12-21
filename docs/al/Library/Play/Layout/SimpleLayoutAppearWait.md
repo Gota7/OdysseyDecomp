@@ -6,7 +6,7 @@
 
 
 # SimpleLayoutAppearWait.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22SimpleLayoutAppearWaitC2EPKcS2_RKNS_14LayoutInitInfoES2_` | `al::SimpleLayoutAppearWait::SimpleLayoutAppearWait(char const*,char const*,al::LayoutInitInfo const&,char const*)` | :white_check_mark: |
 | `_ZN2al22SimpleLayoutAppearWaitC1EPKcS2_RKNS_14LayoutInitInfoES2_` | `al::SimpleLayoutAppearWait::SimpleLayoutAppearWait(char const*,char const*,al::LayoutInitInfo const&,char const*)` | :white_check_mark: |

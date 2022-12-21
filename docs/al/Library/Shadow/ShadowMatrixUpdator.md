@@ -6,7 +6,7 @@
 
 
 # ShadowMatrixUpdator.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ShadowMatrixUpdatorC2Ev` | `al::ShadowMatrixUpdator::ShadowMatrixUpdator(void)` | :white_check_mark: |
 | `_ZN2al19ShadowMatrixUpdator18updateShadowMatrixEf` | `al::ShadowMatrixUpdator::updateShadowMatrix(float)` | :white_check_mark: |

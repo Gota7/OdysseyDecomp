@@ -6,7 +6,7 @@
 
 
 # KeyMoveCameraBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17KeyMoveCameraInfoC2Ev` | `al::KeyMoveCameraInfo::KeyMoveCameraInfo(void)` | :white_check_mark: |
 | `_ZN2al17KeyMoveCameraBaseC2EPKc` | `al::KeyMoveCameraBase::KeyMoveCameraBase(char const*)` | :white_check_mark: |

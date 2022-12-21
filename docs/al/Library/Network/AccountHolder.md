@@ -6,7 +6,7 @@
 
 
 # AccountHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13AccountHolderC2Ev` | `al::AccountHolder::AccountHolder(void)` | :white_check_mark: |
 | `_ZN2al13AccountHolderD2Ev` | `al::AccountHolder::~AccountHolder()` | :white_check_mark: |

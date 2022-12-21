@@ -6,7 +6,7 @@
 
 
 # ModelDrawerBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15ModelDrawerBaseC2EPKc` | `al::ModelDrawerBase::ModelDrawerBase(char const*)` | :white_check_mark: |
 | `_ZN2al15ModelDrawerBaseD2Ev` | `al::ModelDrawerBase::~ModelDrawerBase()` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # NerveExecutor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15NerveActionCtrlC2EPN15alNerveFunction20NerveActionCollectorE` | `al::NerveActionCtrl::NerveActionCtrl(alNerveFunction::NerveActionCollector *)` | :white_check_mark: |
 | `_ZNK2al15NerveActionCtrl9findNerveEPKc` | `al::NerveActionCtrl::findNerve(char const*)const` | :white_check_mark: |

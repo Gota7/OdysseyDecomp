@@ -6,7 +6,7 @@
 
 
 # SubCameraRenderer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17SubCameraRendererC1EPN3agl11DrawContextEPNS_18GraphicsSystemInfoEPNS_15ExecuteDirectorEPNS_15SceneCameraInfoE` | `al::SubCameraRenderer::SubCameraRenderer(agl::DrawContext *,al::GraphicsSystemInfo *,al::ExecuteDirector *,al::SceneCameraInfo *)` | :white_check_mark: |
 | `_ZN2al17SubCameraRendererD2Ev` | `al::SubCameraRenderer::~SubCameraRenderer()` | :white_check_mark: |

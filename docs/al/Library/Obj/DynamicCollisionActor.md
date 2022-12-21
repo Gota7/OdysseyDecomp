@@ -6,7 +6,7 @@
 
 
 # DynamicCollisionActor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21DynamicCollisionActorC2ERKNS_13ActorInitInfoEiPKN4sead8Matrix34IfEEPNS_9HitSensorEPKv` | `al::DynamicCollisionActor::DynamicCollisionActor(al::ActorInitInfo const&,int,sead::Matrix34<float> const*,al::HitSensor *,void const*)` | :white_check_mark: |
 | `_ZN2al21DynamicCollisionActor6createEi` | `al::DynamicCollisionActor::create(int)` | :white_check_mark: |

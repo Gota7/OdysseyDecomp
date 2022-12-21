@@ -6,7 +6,7 @@
 
 
 # DirectionParam.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14DirectionParam9initByArgERKNS_13ActorInitInfoE` | `al::DirectionParam::initByArg(al::ActorInitInfo const&)` | :white_check_mark: |
 | `_ZN2al14DirectionParam15syncToDirectionEv` | `al::DirectionParam::syncToDirection(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # MathAngleUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15calcAngleRadianERKN4sead7Vector3IfEES4_` | `al::calcAngleRadian(sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
 | `_ZN2al15calcAngleDegreeERKN4sead7Vector3IfEES4_` | `al::calcAngleDegree(sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |

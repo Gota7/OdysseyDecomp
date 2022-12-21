@@ -6,7 +6,7 @@
 
 
 # FriendsProfileDownloader.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24FriendsProfileDownloaderC2Ev` | `al::FriendsProfileDownloader::FriendsProfileDownloader(void)` | :white_check_mark: |
 | `_ZN2al24FriendsProfileDownloader12executeAsyncEPN4sead6ThreadEl` | `al::FriendsProfileDownloader::executeAsync(sead::Thread *,long)` | :white_check_mark: |

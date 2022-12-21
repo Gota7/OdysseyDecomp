@@ -6,7 +6,7 @@
 
 
 # ActorCollisionController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24ActorCollisionControllerC2EPNS_9LiveActorE` | `al::ActorCollisionController::ActorCollisionController(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al24ActorCollisionController17setColliderRadiusEf` | `al::ActorCollisionController::setColliderRadius(float)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # CartoonDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16CartoonDrawParamC2Ev` | `al::CartoonDrawParam::CartoonDrawParam(void)` | :white_check_mark: |
 | `_ZNK2al16CartoonDrawParam8isEnableEv` | `al::CartoonDrawParam::isEnable(void)const` | :white_check_mark: |

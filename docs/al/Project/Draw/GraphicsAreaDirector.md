@@ -6,7 +6,7 @@
 
 
 # GraphicsAreaDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17GraphicsAreaParamC2Ev` | `al::GraphicsAreaParam::GraphicsAreaParam(void)` | :white_check_mark: |
 | `_ZNK2al17GraphicsAreaParam11getAreaNameEv` | `al::GraphicsAreaParam::getAreaName(void)const` | :white_check_mark: |

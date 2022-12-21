@@ -6,7 +6,7 @@
 
 
 # NfpDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11NfpDirectorC2Ei` | `al::NfpDirector::NfpDirector(int)` | :white_check_mark: |
 | `_ZN2al11NfpDirector14executeCommandEPN4sead6ThreadEl` | `al::NfpDirector::executeCommand(sead::Thread *,long)` | :white_check_mark: |

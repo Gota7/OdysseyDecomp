@@ -6,7 +6,7 @@
 
 
 # DynamicMeshAttr.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15DynamicMeshAttrC2Ev` | `al::DynamicMeshAttr::DynamicMeshAttr(void)` | :white_check_mark: |
 | `_ZN2al15DynamicMeshAttr5clearEv` | `al::DynamicMeshAttr::clear(void)` | :white_check_mark: |

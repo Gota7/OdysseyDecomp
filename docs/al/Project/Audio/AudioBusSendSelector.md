@@ -6,7 +6,7 @@
 
 
 # AudioBusSendSelector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20AudioBusSendSelectorC2Ev` | `al::AudioBusSendSelector::AudioBusSendSelector(void)` | :white_check_mark: |
 | `_ZNK2al20AudioBusSendSelector6selectERNS_12AudioBusSendE` | `al::AudioBusSendSelector::select(al::AudioBusSend &)const` | :white_check_mark: |

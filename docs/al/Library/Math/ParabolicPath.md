@@ -6,7 +6,7 @@
 
 
 # ParabolicPath.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13ParabolicPathC2Ev` | `al::ParabolicPath::ParabolicPath(void)` | :white_check_mark: |
 | `_ZN2al13ParabolicPath16initFromUpVectorERKN4sead7Vector3IfEES5_S5_` | `al::ParabolicPath::initFromUpVector(sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |

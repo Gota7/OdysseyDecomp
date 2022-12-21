@@ -6,7 +6,7 @@
 
 
 # System.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16AudioSystemDebugC2Ev` | `al::AudioSystemDebug::AudioSystemDebug(void)` | :white_check_mark: |
 | `_ZN2al16AudioSystemDebug6updateEv` | `al::AudioSystemDebug::update(void)` | :white_check_mark: |

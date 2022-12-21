@@ -6,7 +6,7 @@
 
 
 # RippleTextureKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19RippleTextureKeeperC1Ev` | `al::RippleTextureKeeper::RippleTextureKeeper(void)` | :white_check_mark: |
 | `_ZN2al19RippleTextureKeeper17registerRippleTexEPNS_17FluidSimulateWaveE` | `al::RippleTextureKeeper::registerRippleTex(al::FluidSimulateWave *)` | :white_check_mark: |

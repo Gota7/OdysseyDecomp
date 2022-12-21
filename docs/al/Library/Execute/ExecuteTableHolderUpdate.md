@@ -6,7 +6,7 @@
 
 
 # ExecuteTableHolderUpdate.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24ExecuteTableHolderUpdateC2Ev` | `al::ExecuteTableHolderUpdate::ExecuteTableHolderUpdate(void)` | :white_check_mark: |
 | `_ZN2al24ExecuteTableHolderUpdateD2Ev` | `al::ExecuteTableHolderUpdate::~ExecuteTableHolderUpdate()` | :white_check_mark: |

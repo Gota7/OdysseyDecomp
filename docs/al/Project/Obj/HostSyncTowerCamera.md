@@ -6,7 +6,7 @@
 
 
 # HostSyncTowerCamera.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19HostSyncTowerCameraC1EPNS_9LiveActorEPNS_12AreaObjGroupERKNS_13ActorInitInfoE` | `al::HostSyncTowerCamera::HostSyncTowerCamera(al::LiveActor *,al::AreaObjGroup *,al::ActorInitInfo const&)` | :white_check_mark: |
 | `_ZN2al19HostSyncTowerCamera6updateEv` | `al::HostSyncTowerCamera::update(void)` | :white_check_mark: |

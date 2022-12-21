@@ -6,7 +6,7 @@
 
 
 # EffectKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN15alEffectEnvUtil10setWindDirEPN2al12EffectSystemERKN4sead7Vector3IfEE` | `alEffectEnvUtil::setWindDir(al::EffectSystem *,sead::Vector3<float> const&)` | :white_check_mark: |
 | `_ZN15alEffectEnvUtil18setEnableRepulsionEPN2al12EffectSystemEb` | `alEffectEnvUtil::setEnableRepulsion(al::EffectSystem *,bool)` | :white_check_mark: |

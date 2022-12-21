@@ -6,7 +6,7 @@
 
 
 # CollisionParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14CollisionPartsC1EPvPKv` | `al::CollisionParts::CollisionParts(void *,void const*)` | :white_check_mark: |
 | `_ZN2al14CollisionParts15calcInvMtxScaleEv` | `al::CollisionParts::calcInvMtxScale(void)` | :white_check_mark: |

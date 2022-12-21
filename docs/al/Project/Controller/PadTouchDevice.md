@@ -6,7 +6,7 @@
 
 
 # PadTouchDevice.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14PadTouchDeviceC1EPN4sead13ControllerMgrE` | `al::PadTouchDevice::PadTouchDevice(sead::ControllerMgr *)` | :white_check_mark: |
 | `_ZN2al14PadTouchDeviceD2Ev` | `al::PadTouchDevice::~PadTouchDevice()` | :white_check_mark: |

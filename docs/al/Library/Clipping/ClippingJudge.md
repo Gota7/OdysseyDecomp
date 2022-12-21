@@ -6,7 +6,7 @@
 
 
 # ClippingJudge.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13ClippingJudgeC1EPKNS_23ClippingFarAreaObserverEPKNS_15SceneCameraInfoE` | `al::ClippingJudge::ClippingJudge(al::ClippingFarAreaObserver const*,al::SceneCameraInfo const*)` | :white_check_mark: |
 | `_ZN2al13ClippingJudge6updateEv` | `al::ClippingJudge::update(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ActorCameraTarget.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20ActorCameraSubTargetC2EPKNS_9LiveActorE` | `al::ActorCameraSubTarget::ActorCameraSubTarget(al::LiveActor const*)` | :white_check_mark: |
 | `_ZNK2al20ActorCameraSubTarget13getTargetNameEv` | `al::ActorCameraSubTarget::getTargetName(void)const` | :white_check_mark: |

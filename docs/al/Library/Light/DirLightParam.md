@@ -6,7 +6,7 @@
 
 
 # DirLightParam.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13DirLightParamC2Ev` | `al::DirLightParam::DirLightParam(void)` | :white_check_mark: |
 | `_ZNK2al13DirLightParam7isEqualERKNS_16IUseRequestParamE` | `al::DirLightParam::isEqual(al::IUseRequestParam const&)const` | :white_check_mark: |

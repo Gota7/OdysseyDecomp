@@ -6,7 +6,7 @@
 
 
 # BgmKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11BgmDirectorC2Ev` | `al::BgmDirector::BgmDirector(void)` | :white_check_mark: |
 | `_ZN2al11BgmDirector4initEPKNS_15AudioSystemInfoEPKNS_13AudioDirectorERKNS_19BgmDirectorInitInfoEPKci` | `al::BgmDirector::init(al::AudioSystemInfo const*,al::AudioDirector const*,al::BgmDirectorInitInfo const&,char const*,int)` | :white_check_mark: |

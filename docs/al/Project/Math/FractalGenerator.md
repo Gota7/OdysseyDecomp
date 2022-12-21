@@ -6,7 +6,7 @@
 
 
 # FractalGenerator.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16FractalGeneratorC1Ejfff` | `al::FractalGenerator::FractalGenerator(unsigned int,float,float,float)` | :white_check_mark: |
 | `_ZN2al16FractalGenerator8setParamEjfff` | `al::FractalGenerator::setParam(unsigned int,float,float,float)` | :white_check_mark: |

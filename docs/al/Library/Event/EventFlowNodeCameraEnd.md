@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeCameraEnd.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22EventFlowNodeCameraEndC2EPKc` | `al::EventFlowNodeCameraEnd::EventFlowNodeCameraEnd(char const*)` | :white_check_mark: |
 | `_ZN2al22EventFlowNodeCameraEnd4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeCameraEnd::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

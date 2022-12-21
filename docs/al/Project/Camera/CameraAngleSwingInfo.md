@@ -6,7 +6,7 @@
 
 
 # CameraAngleSwingInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20CameraAngleSwingInfoC2Ev` | `al::CameraAngleSwingInfo::CameraAngleSwingInfo(void)` | :white_check_mark: |
 | `_ZN2al20CameraAngleSwingInfo4loadERKNS_9ByamlIterE` | `al::CameraAngleSwingInfo::load(al::ByamlIter const&)` | :white_check_mark: |

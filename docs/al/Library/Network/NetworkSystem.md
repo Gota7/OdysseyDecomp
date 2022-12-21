@@ -6,7 +6,7 @@
 
 
 # NetworkSystem.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13NetworkSystem14allocNexMemoryEm` | `al::NetworkSystem::allocNexMemory(unsigned long)` | :white_check_mark: |
 | `_ZN2al13NetworkSystem13freeNexMemoryEPv` | `al::NetworkSystem::freeNexMemory(void *)` | :white_check_mark: |

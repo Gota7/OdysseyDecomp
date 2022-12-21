@@ -6,7 +6,7 @@
 
 
 # CameraTicketHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18CameraTicketHolderC2Ei` | `al::CameraTicketHolder::CameraTicketHolder(int)` | :white_check_mark: |
 | `_ZN2al18CameraTicketHolder7endInitEv` | `al::CameraTicketHolder::endInit(void)` | :white_check_mark: |

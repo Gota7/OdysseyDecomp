@@ -6,7 +6,7 @@
 
 
 # CameraVerticalAbsorber.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22CameraVerticalAbsorberC1EPKNS_11CameraPoserEb` | `al::CameraVerticalAbsorber::CameraVerticalAbsorber(al::CameraPoser const*,bool)` | :white_check_mark: |
 | `_ZN2al22CameraVerticalAbsorber4loadERKNS_9ByamlIterE` | `al::CameraVerticalAbsorber::load(al::ByamlIter const&)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # InOutParam.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10InOutParamC2Ev` | `al::InOutParam::InOutParam(void)` | :white_check_mark: |
 | `_ZN2al10InOutParamC2Effff` | `al::InOutParam::InOutParam(float,float,float,float)` | :white_check_mark: |

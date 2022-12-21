@@ -6,7 +6,7 @@
 
 
 # FlashingCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12FlashingCtrlC2EPNS_9LiveActorEbb` | `al::FlashingCtrl::FlashingCtrl(al::LiveActor *,bool,bool)` | :white_check_mark: |
 | `_ZN2al12FlashingCtrl8movementEv` | `al::FlashingCtrl::movement(void)` | :white_check_mark: |

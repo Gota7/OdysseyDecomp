@@ -6,7 +6,7 @@
 
 
 # BgmSituationDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20BgmSituationDirectorC1EPNS_11BgmDataBaseE` | `al::BgmSituationDirector::BgmSituationDirector(al::BgmDataBase *)` | :white_check_mark: |
 | `_ZN2al20BgmSituationDirector6updateEv` | `al::BgmSituationDirector::update(void)` | :white_check_mark: |

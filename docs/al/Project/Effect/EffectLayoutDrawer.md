@@ -6,7 +6,7 @@
 
 
 # EffectLayoutDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18EffectLayoutDrawerC2EPNS_12EffectSystemEPKcij` | `al::EffectLayoutDrawer::EffectLayoutDrawer(al::EffectSystem *,char const*,int,unsigned int)` | :white_check_mark: |
 | `_ZNK2al18EffectLayoutDrawer4drawEv` | `al::EffectLayoutDrawer::draw(void)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # RollParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9RollPartsC2EPNS_11LayoutActorERKNS_14LayoutInitInfoEPKc` | `al::RollParts::RollParts(al::LayoutActor *,al::LayoutInitInfo const&,char const*)` | :white_check_mark: |
 | `_ZN2al9RollPartsC1EPNS_11LayoutActorERKNS_14LayoutInitInfoEPKc` | `al::RollParts::RollParts(al::LayoutActor *,al::LayoutInitInfo const&,char const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ActorItemKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15ActorItemKeeperC1EPKNS_9LiveActorEi` | `al::ActorItemKeeper::ActorItemKeeper(al::LiveActor const*,int)` | :white_check_mark: |
 | `_ZN2al15ActorItemKeeper7addItemERKNS_13ActorInitInfoEPKcS5_S5_ib` | `al::ActorItemKeeper::addItem(al::ActorInitInfo const&,char const*,char const*,char const*,int,bool)` | :white_check_mark: |

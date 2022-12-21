@@ -6,7 +6,7 @@
 
 
 # SeEmitterHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15SeEmitterHolderC1ERKN4sead14SafeStringBaseIcEEPKNS_22AudioInfoListWithPartsINS_13SeEmitterInfoEEEPKNS_11ModelKeeperEPKNS1_7Vector3IfEEPKNS1_8Matrix34IfEEbPNS_14CameraDirectorEPKNS_10SeListenerEPKNS_15SeBarrierKeeperEPKNS_21OcclusionCullingJudgeEb` | `al::SeEmitterHolder::SeEmitterHolder(sead::SafeStringBase<char> const&,al::AudioInfoListWithParts<al::SeEmitterInfo> const*,al::ModelKeeper const*,sead::Vector3<float> const*,sead::Matrix34<float> const*,bool,al::CameraDirector *,al::SeListener const*,al::SeBarrierKeeper const*,al::OcclusionCullingJudge const*,bool)` | :white_check_mark: |
 | `_ZNK2al15SeEmitterHolder11findEmitterEPKc` | `al::SeEmitterHolder::findEmitter(char const*)const` | :white_check_mark: |

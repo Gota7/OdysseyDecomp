@@ -6,7 +6,7 @@
 
 
 # DirectionalLightKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22DirectionalLightKeeperC2EPNS_12ShaderHolderEPNS_22DepthShadowMapDirectorE` | `al::DirectionalLightKeeper::DirectionalLightKeeper(al::ShaderHolder *,al::DepthShadowMapDirector *)` | :white_check_mark: |
 | `_ZN2al22DirectionalLightKeeperD2Ev` | `al::DirectionalLightKeeper::~DirectionalLightKeeper()` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # SePlayerDemoInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21SeDemoEventControllerC1EPNS_13AudioDirectorE` | `al::SeDemoEventController::SeDemoEventController(al::AudioDirector *)` | :white_check_mark: |
 | `_ZN2al21SeDemoEventController10startEventEPNS_22AudioInfoListWithPartsINS_14SeDemoProcInfoEEE` | `al::SeDemoEventController::startEvent(al::AudioInfoListWithParts<al::SeDemoProcInfo> *)` | :white_check_mark: |

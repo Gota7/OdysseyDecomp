@@ -6,7 +6,7 @@
 
 
 # DemoActionList.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14DemoActionListC2Ev` | `al::DemoActionList::DemoActionList(void)` | :white_check_mark: |
 | `_ZN2al14DemoActionList4initERKNS_13ActorInitInfoEPKc` | `al::DemoActionList::init(al::ActorInitInfo const&,char const*)` | :white_check_mark: |

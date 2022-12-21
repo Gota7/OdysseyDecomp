@@ -6,7 +6,7 @@
 
 
 # LayoutTextureRenderer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21LayoutTextureRendererC2Ev` | `al::LayoutTextureRenderer::LayoutTextureRenderer(void)` | :white_check_mark: |
 | `_ZN2al21LayoutTextureRendererD2Ev` | `al::LayoutTextureRenderer::~LayoutTextureRenderer()` | :white_check_mark: |

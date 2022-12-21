@@ -6,7 +6,7 @@
 
 
 # CameraParamMoveLimit.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20CameraParamMoveLimit6createEPKNS_11CameraPoserE` | `al::CameraParamMoveLimit::create(al::CameraPoser const*)` | :white_check_mark: |
 | `_ZN2al20CameraParamMoveLimit4loadERKNS_9ByamlIterE` | `al::CameraParamMoveLimit::load(al::ByamlIter const&)` | :white_check_mark: |

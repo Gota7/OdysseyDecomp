@@ -6,7 +6,7 @@
 
 
 # AudioEffectController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21AudioEffectControllerC2EPNS_22AudioBusSendControllerEPNS_24AudioEffectLevelDetectorE` | `al::AudioEffectController::AudioEffectController(al::AudioBusSendController *,al::AudioEffectLevelDetector *)` | :white_check_mark: |
 | `_ZN2al21AudioEffectController4initEPKNS_19AudioEffectDataBaseE` | `al::AudioEffectController::init(al::AudioEffectDataBase const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # CameraPoserRailMoveMovie.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16CameraPoserTowerC1EPKcPKN4sead7Vector3IfEE` | `al::CameraPoserTower::CameraPoserTower(char const*,sead::Vector3<float> const*)` | :white_check_mark: |
 | `_ZN2al16CameraPoserTower4initEv` | `al::CameraPoserTower::init(void)` | :white_check_mark: |

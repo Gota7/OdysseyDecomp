@@ -6,7 +6,7 @@
 
 
 # HeightMapTextureBlender.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23HeightMapTextureBlenderC2EPNS_18GraphicsSystemInfoERKN4sead7Vector2IiEES7_RKNS4_IfEE` | `al::HeightMapTextureBlender::HeightMapTextureBlender(al::GraphicsSystemInfo *,sead::Vector2<int> const&,sead::Vector2<int> const&,sead::Vector2<float> const&)` | :white_check_mark: |
 | `_ZN2al23HeightMapTextureBlender9setSourceEPN3agl14TextureSamplerEi` | `al::HeightMapTextureBlender::setSource(agl::TextureSampler *,int)` | :white_check_mark: |

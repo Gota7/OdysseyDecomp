@@ -6,7 +6,7 @@
 
 
 # CameraTargetCollideInfoHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al29CameraTargetCollideInfoHolderC2Ev` | `al::CameraTargetCollideInfoHolder::CameraTargetCollideInfoHolder(void)` | :white_check_mark: |
 | `_ZN2al29CameraTargetCollideInfoHolder6updateEbRKN4sead7Vector3IfEES5_S5_` | `al::CameraTargetCollideInfoHolder::update(bool,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |

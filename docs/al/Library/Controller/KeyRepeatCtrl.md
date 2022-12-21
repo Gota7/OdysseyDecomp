@@ -6,7 +6,7 @@
 
 
 # KeyRepeatCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13KeyRepeatCtrlC2Ev` | `al::KeyRepeatCtrl::KeyRepeatCtrl(void)` | :white_check_mark: |
 | `_ZN2al13KeyRepeatCtrl4initEii` | `al::KeyRepeatCtrl::init(int,int)` | :white_check_mark: |

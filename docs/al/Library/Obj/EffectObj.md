@@ -6,7 +6,7 @@
 
 
 # EffectObj.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9EffectObjC2EPKc` | `al::EffectObj::EffectObj(char const*)` | :white_check_mark: |
 | `_ZN2al9EffectObjC1EPKc` | `al::EffectObj::EffectObj(char const*)` | :white_check_mark: |

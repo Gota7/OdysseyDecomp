@@ -6,7 +6,7 @@
 
 
 # WobbleMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14WobbleMapPartsC2EPKc` | `al::WobbleMapParts::WobbleMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al14WobbleMapPartsC1EPKc` | `al::WobbleMapParts::WobbleMapParts(char const*)` | :white_check_mark: |

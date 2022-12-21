@@ -6,7 +6,7 @@
 
 
 # MtxUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15makeBayerMatrixEPii` | `al::makeBayerMatrix(int *,int)` | :white_check_mark: |
 | `_ZN2al8f32ToF16Ef` | `al::f32ToF16(float)` | :white_check_mark: |

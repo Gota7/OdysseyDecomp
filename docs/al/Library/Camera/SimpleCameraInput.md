@@ -6,7 +6,7 @@
 
 
 # SimpleCameraInput.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17SimpleCameraInputC2Ei` | `al::SimpleCameraInput::SimpleCameraInput(int)` | :white_check_mark: |
 | `_ZNK2al17SimpleCameraInput14calcInputStickEPN4sead7Vector2IfEE` | `al::SimpleCameraInput::calcInputStick(sead::Vector2<float> *)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # CameraDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14CameraDirectorC1Ei` | `al::CameraDirector::CameraDirector(int)` | :white_check_mark: |
 | `_ZN2al14CameraDirectorD2Ev` | `al::CameraDirector::~CameraDirector()` | :white_check_mark: |

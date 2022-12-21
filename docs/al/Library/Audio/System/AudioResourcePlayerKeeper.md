@@ -6,7 +6,7 @@
 
 
 # AudioResourcePlayerKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25AudioResourcePlayerKeeperC2Ev` | `al::AudioResourcePlayerKeeper::AudioResourcePlayerKeeper(void)` | :white_check_mark: |
 | `_ZN2al25AudioResourcePlayerKeeperD2Ev` | `al::AudioResourcePlayerKeeper::~AudioResourcePlayerKeeper()` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ActorSceneFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14ActorSceneInfoC2Ev` | `al::ActorSceneInfo::ActorSceneInfo(void)` | :white_check_mark: |
 | `_ZN2al9stopSceneEPKNS_9LiveActorEii` | `al::stopScene(al::LiveActor const*,int,int)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # StageResourceList.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17StageResourceListC1EPKciS2_` | `al::StageResourceList::StageResourceList(char const*,int,char const*)` | :white_check_mark: |
 | `_ZNK2al17StageResourceList19getStageResourceNumEv` | `al::StageResourceList::getStageResourceNum(void)const` | :white_check_mark: |

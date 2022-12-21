@@ -6,7 +6,7 @@
 
 
 # LiveActor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9LiveActorC2EPKc` | `al::LiveActor::LiveActor(char const*)` | :white_check_mark: |
 | `_ZN2al9LiveActorC1EPKc` | `al::LiveActor::LiveActor(char const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # JointQuatTransController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24JointQuatTransControllerC2EPKN4sead4QuatIfEEPKNS1_7Vector3IfEE` | `al::JointQuatTransController::JointQuatTransController(sead::Quat<float> const*,sead::Vector3<float> const*)` | :white_check_mark: |
 | `_ZN2al24JointQuatTransController17calcJointCallbackEiPN4sead8Matrix34IfEE` | `al::JointQuatTransController::calcJointCallback(int,sead::Matrix34<float> *)` | :white_check_mark: |

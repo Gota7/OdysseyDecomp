@@ -6,7 +6,7 @@
 
 
 # ConveyerMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16ConveyerMapPartsC2EPKc` | `al::ConveyerMapParts::ConveyerMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al16ConveyerMapPartsC1EPKc` | `al::ConveyerMapParts::ConveyerMapParts(char const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # AreaShape.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9AreaShapeC2Ev` | `al::AreaShape::AreaShape(void)` | :white_check_mark: |
 | `_ZN2al9AreaShape13setBaseMtxPtrEPKN4sead8Matrix34IfEE` | `al::AreaShape::setBaseMtxPtr(sead::Matrix34<float> const*)` | :white_check_mark: |

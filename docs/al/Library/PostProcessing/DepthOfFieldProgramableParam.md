@@ -6,7 +6,7 @@
 
 
 # DepthOfFieldProgramableParam.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28DepthOfFieldProgramableParamC2Ev` | `al::DepthOfFieldProgramableParam::DepthOfFieldProgramableParam(void)` | :white_check_mark: |
 | `_ZN2al28DepthOfFieldProgramableParamC2Eff` | `al::DepthOfFieldProgramableParam::DepthOfFieldProgramableParam(float,float)` | :white_check_mark: |

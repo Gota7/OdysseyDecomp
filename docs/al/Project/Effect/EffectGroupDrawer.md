@@ -6,7 +6,7 @@
 
 
 # EffectGroupDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17EffectGroupDrawerC1EPNS_12EffectSystemEPKcibbb` | `al::EffectGroupDrawer::EffectGroupDrawer(al::EffectSystem *,char const*,int,bool,bool,bool)` | :white_check_mark: |
 | `_ZN2al17EffectGroupDrawer7executeEv` | `al::EffectGroupDrawer::execute(void)` | :white_check_mark: |

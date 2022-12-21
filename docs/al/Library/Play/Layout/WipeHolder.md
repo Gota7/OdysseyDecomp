@@ -6,7 +6,7 @@
 
 
 # WipeHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10WipeHolderC2Ei` | `al::WipeHolder::WipeHolder(int)` | :white_check_mark: |
 | `_ZN2al10WipeHolder12registerWipeEPKcPNS_10WipeSimpleE` | `al::WipeHolder::registerWipe(char const*,al::WipeSimple *)` | :white_check_mark: |

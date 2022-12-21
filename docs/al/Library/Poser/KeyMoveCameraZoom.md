@@ -6,7 +6,7 @@
 
 
 # KeyMoveCameraZoom.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17KeyMoveCameraZoomC2EPKc` | `al::KeyMoveCameraZoom::KeyMoveCameraZoom(char const*)` | :white_check_mark: |
 | `_ZN2al17KeyMoveCameraZoom18initByPlacementObjERKNS_13PlacementInfoE` | `al::KeyMoveCameraZoom::initByPlacementObj(al::PlacementInfo const&)` | :white_check_mark: |

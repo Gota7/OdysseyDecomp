@@ -6,7 +6,7 @@
 
 
 # CollisionPartsKeeperPtrArray.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28CollisionPartsKeeperPtrArrayC2Ev` | `al::CollisionPartsKeeperPtrArray::CollisionPartsKeeperPtrArray(void)` | :white_check_mark: |
 | `_ZNK2al28CollisionPartsKeeperPtrArray16checkStrikePointEPNS_7HitInfoERKNS_22CollisionCheckInfoBaseE` | `al::CollisionPartsKeeperPtrArray::checkStrikePoint(al::HitInfo *,al::CollisionCheckInfoBase const&)const` | :white_check_mark: |

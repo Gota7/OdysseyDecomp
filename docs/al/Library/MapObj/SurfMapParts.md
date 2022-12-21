@@ -6,7 +6,7 @@
 
 
 # SurfMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12SurfMapPartsC2EPKc` | `al::SurfMapParts::SurfMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al12SurfMapPartsC1EPKc` | `al::SurfMapParts::SurfMapParts(char const*)` | :white_check_mark: |

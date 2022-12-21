@@ -6,7 +6,7 @@
 
 
 # TrafficAreaDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19TrafficAreaDirectorC2EPKNS_12AreaObjGroupEPKNS_23ITrafficAreaUpdateJudgeE` | `al::TrafficAreaDirector::TrafficAreaDirector(al::AreaObjGroup const*,al::ITrafficAreaUpdateJudge const*)` | :white_check_mark: |
 | `_ZN2al19TrafficAreaDirector17tryPermitEnterCarERKN4sead7Vector3IfEE` | `al::TrafficAreaDirector::tryPermitEnterCar(sead::Vector3<float> const&)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # CameraStartParamArea.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20CameraStartParamAreaC2EPKc` | `al::CameraStartParamArea::CameraStartParamArea(char const*)` | :white_check_mark: |
 | `_ZN2al20CameraStartParamAreaC1EPKc` | `al::CameraStartParamArea::CameraStartParamArea(char const*)` | :white_check_mark: |

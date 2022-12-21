@@ -6,7 +6,7 @@
 
 
 # VignettingDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15VignettingParamC2Ev` | `al::VignettingParam::VignettingParam(void)` | :white_check_mark: |
 | `_ZN2al16VignettingDrawerC2EPNS_12ShaderHolderEPKNS_12PlayerHolderEPKNS_15SceneCameraInfoE` | `al::VignettingDrawer::VignettingDrawer(al::ShaderHolder *,al::PlayerHolder const*,al::SceneCameraInfo const*)` | :white_check_mark: |

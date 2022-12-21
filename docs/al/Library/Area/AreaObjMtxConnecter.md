@@ -6,7 +6,7 @@
 
 
 # AreaObjMtxConnecter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19AreaObjMtxConnecterC1EPNS_7AreaObjERKNS_13PlacementInfoE` | `al::AreaObjMtxConnecter::AreaObjMtxConnecter(al::AreaObj *,al::PlacementInfo const&)` | :white_check_mark: |
 | `_ZN2al19AreaObjMtxConnecter15trySetParentMtxEPKN4sead8Matrix34IfEERKNS_13PlacementInfoEPKNS_13ValidatorBaseE` | `al::AreaObjMtxConnecter::trySetParentMtx(sead::Matrix34<float> const*,al::PlacementInfo const&,al::ValidatorBase const*)` | :white_check_mark: |

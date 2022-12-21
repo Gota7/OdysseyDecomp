@@ -6,7 +6,7 @@
 
 
 # NpadController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14NpadControllerC2EPN4sead13ControllerMgrE` | `al::NpadController::NpadController(sead::ControllerMgr *)` | :white_check_mark: |
 | `_ZNK2al14NpadController11isConnectedEv` | `al::NpadController::isConnected(void)const` | :white_check_mark: |

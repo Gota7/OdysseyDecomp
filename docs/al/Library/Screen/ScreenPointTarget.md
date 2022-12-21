@@ -6,7 +6,7 @@
 
 
 # ScreenPointTarget.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17ScreenPointTargetC2EPNS_9LiveActorEPKcfPKN4sead7Vector3IfEES4_RS8_` | `al::ScreenPointTarget::ScreenPointTarget(al::LiveActor *,char const*,float,sead::Vector3<float> const*,char const*,sead::Vector3<float> const&)` | :white_check_mark: |
 | `_ZN2al17ScreenPointTarget26setFollowMtxPtrByJointNameEPKNS_9LiveActorE` | `al::ScreenPointTarget::setFollowMtxPtrByJointName(al::LiveActor const*)` | :white_check_mark: |

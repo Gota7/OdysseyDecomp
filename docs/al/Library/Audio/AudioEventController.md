@@ -6,7 +6,7 @@
 
 
 # AudioEventController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20AudioEventControllerC1EPKNS_13AudioDirectorEPKc` | `al::AudioEventController::AudioEventController(al::AudioDirector const*,char const*)` | :white_check_mark: |
 | `_ZN2al20AudioEventController6init3DEPNS_15AreaObjDirectorEPNS_21AudioEffectControllerE` | `al::AudioEventController::init3D(al::AreaObjDirector *,al::AudioEffectController *)` | :white_check_mark: |

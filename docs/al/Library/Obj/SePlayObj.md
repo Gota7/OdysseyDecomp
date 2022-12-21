@@ -6,7 +6,7 @@
 
 
 # SePlayObj.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9SePlayObjC2EPKc` | `al::SePlayObj::SePlayObj(char const*)` | :white_check_mark: |
 | `_ZN2al9SePlayObjC1EPKc` | `al::SePlayObj::SePlayObj(char const*)` | :white_check_mark: |

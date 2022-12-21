@@ -6,7 +6,7 @@
 
 
 # AudioPlayer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN4alsd11AudioPlayer10startSoundEPNS_11SoundHandleEj` | `alsd::AudioPlayer::startSound(alsd::SoundHandle *,unsigned int)` | :white_check_mark: |
 | `_ZN4alsd11AudioPlayer10startSoundEPNS_11SoundHandleEPKc` | `alsd::AudioPlayer::startSound(alsd::SoundHandle *,char const*)` | :white_check_mark: |

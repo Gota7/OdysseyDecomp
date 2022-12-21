@@ -6,7 +6,7 @@
 
 
 # ExecutorListLayoutUpdate.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24ExecutorListLayoutUpdateC2EPKci` | `al::ExecutorListLayoutUpdate::ExecutorListLayoutUpdate(char const*,int)` | :white_check_mark: |
 | `_ZN2al24ExecutorListLayoutUpdate14registerLayoutEPNS_11LayoutActorE` | `al::ExecutorListLayoutUpdate::registerLayout(al::LayoutActor *)` | :white_check_mark: |

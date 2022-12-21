@@ -6,7 +6,7 @@
 
 
 # CameraPoseUpdater.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17CameraPoseUpdaterC1EPNS_15SceneCameraInfoEi` | `al::CameraPoseUpdater::CameraPoseUpdater(al::SceneCameraInfo *,int)` | :white_check_mark: |
 | `_ZN2al17CameraPoseUpdaterD2Ev` | `al::CameraPoseUpdater::~CameraPoseUpdater()` | :white_check_mark: |

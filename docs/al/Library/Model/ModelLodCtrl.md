@@ -6,7 +6,7 @@
 
 
 # ModelLodCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12ModelLodCtrlC2EPNS_10IUseCameraEPKN4sead7Vector3IfEEPKNS3_8Matrix34IfEES7_RKNS3_9BoundBox3IfEEi` | `al::ModelLodCtrl::ModelLodCtrl(al::IUseCamera *,sead::Vector3<float> const*,sead::Matrix34<float> const*,sead::Vector3<float> const*,sead::BoundBox3<float> const&,int)` | :white_check_mark: |
 | `_ZN2al12ModelLodCtrl4initERKNS_9ByamlIterE` | `al::ModelLodCtrl::init(al::ByamlIter const&)` | :white_check_mark: |

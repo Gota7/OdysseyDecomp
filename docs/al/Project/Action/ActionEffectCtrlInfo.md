@@ -6,7 +6,7 @@
 
 
 # ActionEffectCtrlInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20ActionSensorCtrlInfoC2Ev` | `al::ActionSensorCtrlInfo::ActionSensorCtrlInfo(void)` | :white_check_mark: |
 | `_ZN2al18ActionFlagCtrlInfoC2Ev` | `al::ActionFlagCtrlInfo::ActionFlagCtrlInfo(void)` | :white_check_mark: |

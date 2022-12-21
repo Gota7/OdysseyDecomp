@@ -6,7 +6,7 @@
 
 
 # PencilSketchDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21PencilSketchDrawParamC2Ev` | `al::PencilSketchDrawParam::PencilSketchDrawParam(void)` | :white_check_mark: |
 | `_ZNK2al21PencilSketchDrawParam8isEnableEv` | `al::PencilSketchDrawParam::isEnable(void)const` | :white_check_mark: |

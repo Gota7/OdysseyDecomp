@@ -6,7 +6,7 @@
 
 
 # RaceCheckPoint.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14RaceCheckPointC2Ev` | `al::RaceCheckPoint::RaceCheckPoint(void)` | :white_check_mark: |
 | `_ZN2al14RaceCheckPoint4initERKNS_13PlacementInfoE` | `al::RaceCheckPoint::init(al::PlacementInfo const&)` | :white_check_mark: |

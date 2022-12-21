@@ -6,7 +6,7 @@
 
 
 # ParabolicPathMovement.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21ParabolicPathMovementC2EPNS_9LiveActorEb` | `al::ParabolicPathMovement::ParabolicPathMovement(al::LiveActor *,bool)` | :white_check_mark: |
 | `_ZN2al21ParabolicPathMovement5startERKN4sead7Vector3IfEEffii` | `al::ParabolicPathMovement::start(sead::Vector3<float> const&,float,float,int,int)` | :white_check_mark: |

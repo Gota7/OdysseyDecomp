@@ -6,7 +6,7 @@
 
 
 # Graphics.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17IUsePartsGraphics7endInitEv` | `al::IUsePartsGraphics::endInit(void)` | :white_check_mark: |
 | `_ZNK2al17IUsePartsGraphics19doCommandBufferCopyEPKNS_16GraphicsCopyInfoE` | `al::IUsePartsGraphics::doCommandBufferCopy(al::GraphicsCopyInfo const*)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ModelShaderHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22ModelShaderOptionCacheC1EPN2nn3g3d15ResShadingModelEPKNS2_15ResShaderAssignE` | `al::ModelShaderOptionCache::ModelShaderOptionCache(nn::g3d::ResShadingModel *,nn::g3d::ResShaderAssign const*)` | :white_check_mark: |
 | `_ZN2al17ModelShaderHolderC2EPNS_18GraphicsSystemInfoE` | `al::ModelShaderHolder::ModelShaderHolder(al::GraphicsSystemInfo *)` | :white_check_mark: |

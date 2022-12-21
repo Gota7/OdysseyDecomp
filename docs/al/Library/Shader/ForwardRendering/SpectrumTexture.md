@@ -6,7 +6,7 @@
 
 
 # SpectrumTexture.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19SpectrumTextureInfoC2Ev` | `al::SpectrumTextureInfo::SpectrumTextureInfo(void)` | :white_check_mark: |
 | `_ZN2al15SpectrumTextureC2ERKNS_19SpectrumTextureInfoEPNS_18GraphicsSystemInfoE` | `al::SpectrumTexture::SpectrumTexture(al::SpectrumTextureInfo const&,al::GraphicsSystemInfo *)` | :white_check_mark: |

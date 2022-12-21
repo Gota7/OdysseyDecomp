@@ -6,7 +6,7 @@
 
 
 # ClippingRequestKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20ClippingRequestTableC2Ei` | `al::ClippingRequestTable::ClippingRequestTable(int)` | :white_check_mark: |
 | `_ZN2al21ClippingRequestKeeperC2Ei` | `al::ClippingRequestKeeper::ClippingRequestKeeper(int)` | :white_check_mark: |

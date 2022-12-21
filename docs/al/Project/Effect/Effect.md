@@ -6,7 +6,7 @@
 
 
 # Effect.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al6EffectC2EPKNS_16EffectSystemInfoEPKNS_10EffectInfoEPKN4sead7Vector3IfEESB_PKNS7_8Matrix34IfEEm` | `al::Effect::Effect(al::EffectSystemInfo const*,al::EffectInfo const*,sead::Vector3<float> const*,sead::Vector3<float> const*,sead::Matrix34<float> const*,unsigned long)` | :white_check_mark: |
 | `_ZN2al6Effect15setCameraHolderEPNS_18EffectCameraHolderE` | `al::Effect::setCameraHolder(al::EffectCameraHolder *)` | :white_check_mark: |

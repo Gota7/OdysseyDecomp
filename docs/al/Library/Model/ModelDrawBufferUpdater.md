@@ -6,7 +6,7 @@
 
 
 # ModelDrawBufferUpdater.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22ModelDrawBufferUpdaterC2EPKNS_15ExecuteDirectorE` | `al::ModelDrawBufferUpdater::ModelDrawBufferUpdater(al::ExecuteDirector const*)` | :white_check_mark: |
 | `_ZN2al22ModelDrawBufferUpdater18executeUpdateAsyncEPN4sead6ThreadEl` | `al::ModelDrawBufferUpdater::executeUpdateAsync(sead::Thread *,long)` | :white_check_mark: |

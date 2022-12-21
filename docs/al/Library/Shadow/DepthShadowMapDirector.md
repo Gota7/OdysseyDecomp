@@ -6,7 +6,7 @@
 
 
 # DepthShadowMapDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18DepthShadowMapInfoC2EPKc` | `al::DepthShadowMapInfo::DepthShadowMapInfo(char const*)` | :white_check_mark: |
 | `_ZN2al18DepthShadowMapInfo20setShadowTextureSizeEii` | `al::DepthShadowMapInfo::setShadowTextureSize(int,int)` | :white_check_mark: |

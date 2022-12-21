@@ -6,7 +6,7 @@
 
 
 # SpecialCameraHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19SpecialCameraHolderC2Ev` | `al::SpecialCameraHolder::SpecialCameraHolder(void)` | :white_check_mark: |
 | `_ZN2al19SpecialCameraHolder25allocEntranceCameraBufferEi` | `al::SpecialCameraHolder::allocEntranceCameraBuffer(int)` | :white_check_mark: |

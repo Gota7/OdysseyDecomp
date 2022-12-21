@@ -6,7 +6,7 @@
 
 
 # HitSensorDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17HitSensorDirectorC2EPNS_15ExecuteDirectorE` | `al::HitSensorDirector::HitSensorDirector(al::ExecuteDirector *)` | :white_check_mark: |
 | `_ZN2al17HitSensorDirector9initGroupEPNS_9HitSensorE` | `al::HitSensorDirector::initGroup(al::HitSensor *)` | :white_check_mark: |

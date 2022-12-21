@@ -6,7 +6,7 @@
 
 
 # NerveKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11NerveKeeperC2EPNS_9IUseNerveEPKNS_5NerveEi` | `al::NerveKeeper::NerveKeeper(al::IUseNerve *,al::Nerve const*,int)` | :white_check_mark: |
 | `_ZN2al11NerveKeeper6updateEv` | `al::NerveKeeper::update(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ModelShapeCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14ModelShapeCtrlC2Ev` | `al::ModelShapeCtrl::ModelShapeCtrl(void)` | :white_check_mark: |
 | `_ZN2al14ModelShapeCtrl4initEPN2nn3g3d8ModelObjEPNS2_8ShapeObjEPNS2_11MaterialObjE` | `al::ModelShapeCtrl::init(nn::g3d::ModelObj *,nn::g3d::ShapeObj *,nn::g3d::MaterialObj *)` | :white_check_mark: |

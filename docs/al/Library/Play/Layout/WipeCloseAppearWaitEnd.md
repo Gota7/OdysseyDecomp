@@ -6,7 +6,7 @@
 
 
 # WipeCloseAppearWaitEnd.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22WipeCloseAppearWaitEndC2EPKcS2_RKNS_14LayoutInitInfoES2_b` | `al::WipeCloseAppearWaitEnd::WipeCloseAppearWaitEnd(char const*,char const*,al::LayoutInitInfo const&,char const*,bool)` | :white_check_mark: |
 | `_ZN2al22WipeCloseAppearWaitEndC1EPKcS2_RKNS_14LayoutInitInfoES2_b` | `al::WipeCloseAppearWaitEnd::WipeCloseAppearWaitEnd(char const*,char const*,al::LayoutInitInfo const&,char const*,bool)` | :white_check_mark: |

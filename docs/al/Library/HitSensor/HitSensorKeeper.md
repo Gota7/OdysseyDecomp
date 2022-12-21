@@ -6,7 +6,7 @@
 
 
 # HitSensorKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15HitSensorKeeperC2Ei` | `al::HitSensorKeeper::HitSensorKeeper(int)` | :white_check_mark: |
 | `_ZN2al15HitSensorKeeper9addSensorEPNS_9LiveActorEPKcjftPKN4sead7Vector3IfEEPKNS5_8Matrix34IfEERS8_` | `al::HitSensorKeeper::addSensor(al::LiveActor *,char const*,unsigned int,float,unsigned short,sead::Vector3<float> const*,sead::Matrix34<float> const*,sead::Vector3<float> const&)` | :white_check_mark: |

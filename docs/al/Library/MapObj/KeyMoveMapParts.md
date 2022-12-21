@@ -6,7 +6,7 @@
 
 
 # KeyMoveMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15KeyMoveMapPartsC2EPKc` | `al::KeyMoveMapParts::KeyMoveMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al15KeyMoveMapPartsC1EPKc` | `al::KeyMoveMapParts::KeyMoveMapParts(char const*)` | :white_check_mark: |

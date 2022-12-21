@@ -6,7 +6,7 @@
 
 
 # AreaInitInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12AreaInitInfoC2Ev` | `al::AreaInitInfo::AreaInitInfo(void)` | :white_check_mark: |
 | `_ZN2al12AreaInitInfoC2ERKNS_13PlacementInfoEPNS_19StageSwitchDirectorEPNS_14SceneObjHolderE` | `al::AreaInitInfo::AreaInitInfo(al::PlacementInfo const&,al::StageSwitchDirector *,al::SceneObjHolder *)` | :white_check_mark: |

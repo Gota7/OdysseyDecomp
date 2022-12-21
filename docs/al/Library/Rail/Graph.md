@@ -6,7 +6,7 @@
 
 
 # Graph.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al5GraphC1Eii` | `al::Graph::Graph(int,int)` | :white_check_mark: |
 | `_ZN2al5Graph12appendVertexEi` | `al::Graph::appendVertex(int)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # EffectHeap.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10EffectHeap6createEjPKc` | `al::EffectHeap::create(unsigned int,char const*)` | :white_check_mark: |
 | `_ZN2al10EffectHeapC1EPKcPvj` | `al::EffectHeap::EffectHeap(char const*,void *,unsigned int)` | :white_check_mark: |

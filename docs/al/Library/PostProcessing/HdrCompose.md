@@ -6,7 +6,7 @@
 
 
 # HdrCompose.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12CameraEffectC2Ev` | `al::CameraEffect::CameraEffect(void)` | :white_check_mark: |
 | `_ZNK2al10HdrCompose19isUsingAutoExposureEv` | `al::HdrCompose::isUsingAutoExposure(void)const` | :white_check_mark: |

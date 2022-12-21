@@ -6,7 +6,7 @@
 
 
 # RollingCubePose.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15RollingCubePoseC2Ev` | `al::RollingCubePose::RollingCubePose(void)` | :white_check_mark: |
 | `_ZNK2al15RollingCubePose16isMovementRotateEv` | `al::RollingCubePose::isMovementRotate(void)const` | :white_check_mark: |

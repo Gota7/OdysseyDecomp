@@ -6,7 +6,7 @@
 
 
 # ActorAnimFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12startSklAnimEPNS_9LiveActorEPKc` | `al::startSklAnim(al::LiveActor *,char const*)` | :white_check_mark: |
 | `_ZN2al21startSklAnimInterpoleEPNS_9LiveActorEPKcS3_` | `al::startSklAnimInterpole(al::LiveActor *,char const*,char const*)` | :white_check_mark: |

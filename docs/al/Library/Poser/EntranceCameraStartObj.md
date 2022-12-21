@@ -6,7 +6,7 @@
 
 
 # EntranceCameraStartObj.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22EntranceCameraStartObjC2EPKc` | `al::EntranceCameraStartObj::EntranceCameraStartObj(char const*)` | :white_check_mark: |
 | `_ZN2al22EntranceCameraStartObjC1EPKc` | `al::EntranceCameraStartObj::EntranceCameraStartObj(char const*)` | :white_check_mark: |

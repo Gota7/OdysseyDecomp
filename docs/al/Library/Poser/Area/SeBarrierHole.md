@@ -6,6 +6,6 @@
 
 
 # SeBarrierHole.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13SeBarrierHoleC2Ev` | `al::SeBarrierHole::SeBarrierHole(void)` | :white_check_mark: |

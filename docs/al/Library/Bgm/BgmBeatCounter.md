@@ -6,7 +6,7 @@
 
 
 # BgmBeatCounter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14BgmBeatCounterC1EPNS_15IUseAudioKeeperEf` | `al::BgmBeatCounter::BgmBeatCounter(al::IUseAudioKeeper *,float)` | :white_check_mark: |
 | `_ZN2al14BgmBeatCounter6updateEv` | `al::BgmBeatCounter::update(void)` | :white_check_mark: |

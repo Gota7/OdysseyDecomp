@@ -6,7 +6,7 @@
 
 
 # ReplayController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16ReplayControllerC2EPN4sead10ControllerE` | `al::ReplayController::ReplayController(sead::Controller *)` | :white_check_mark: |
 | `_ZN2al16ReplayController8unregistEv` | `al::ReplayController::unregist(void)` | :white_check_mark: |

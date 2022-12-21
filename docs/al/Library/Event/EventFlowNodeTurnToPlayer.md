@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeTurnToPlayer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25EventFlowNodeTurnToPlayerC2EPKc` | `al::EventFlowNodeTurnToPlayer::EventFlowNodeTurnToPlayer(char const*)` | :white_check_mark: |
 | `_ZN2al25EventFlowNodeTurnToPlayer4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeTurnToPlayer::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

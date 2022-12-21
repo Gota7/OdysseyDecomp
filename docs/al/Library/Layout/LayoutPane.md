@@ -6,7 +6,7 @@
 
 
 # LayoutPane.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12LayoutKeeperC2Ev` | `al::LayoutKeeper::LayoutKeeper(void)` | :white_check_mark: |
 | `_ZN2al12LayoutKeeper10initScreenEPN3eui6ScreenE` | `al::LayoutKeeper::initScreen(eui::Screen *)` | :white_check_mark: |

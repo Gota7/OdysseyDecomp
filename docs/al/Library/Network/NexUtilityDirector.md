@@ -6,7 +6,7 @@
 
 
 # NexUtilityDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18NexUtilityDirectorC2Ev` | `al::NexUtilityDirector::NexUtilityDirector(void)` | :white_check_mark: |
 | `_ZN2al18NexUtilityDirectorD2Ev` | `al::NexUtilityDirector::~NexUtilityDirector()` | :white_check_mark: |

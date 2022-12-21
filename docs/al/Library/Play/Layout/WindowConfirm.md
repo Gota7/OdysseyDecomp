@@ -6,7 +6,7 @@
 
 
 # WindowConfirm.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13WindowConfirmC2ERKNS_14LayoutInitInfoEPKcS5_` | `al::WindowConfirm::WindowConfirm(al::LayoutInitInfo const&,char const*,char const*)` | :white_check_mark: |
 | `_ZN2al13WindowConfirmC1ERKNS_14LayoutInitInfoEPKcS5_` | `al::WindowConfirm::WindowConfirm(al::LayoutInitInfo const&,char const*,char const*)` | :white_check_mark: |

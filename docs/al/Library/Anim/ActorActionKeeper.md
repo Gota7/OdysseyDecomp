@@ -6,7 +6,7 @@
 
 
 # ActorActionKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17ActorActionKeeper9tryCreateEPNS_9LiveActorEPKNS_13ActorResourceEPKcS7_` | `al::ActorActionKeeper::tryCreate(al::LiveActor *,al::ActorResource const*,char const*,char const*)` | :white_check_mark: |
 | `_ZN2al17ActorActionKeeper11startActionEPKc` | `al::ActorActionKeeper::startAction(char const*)` | :white_check_mark: |

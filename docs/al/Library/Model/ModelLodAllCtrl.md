@@ -6,7 +6,7 @@
 
 
 # ModelLodAllCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15ModelLodAllCtrlC1EPKNS_19GraphicsQualityInfoE` | `al::ModelLodAllCtrl::ModelLodAllCtrl(al::GraphicsQualityInfo const*)` | :white_check_mark: |
 | `_ZN2al15ModelLodAllCtrl15registerLodCtrlEPNS_12ModelLodCtrlE` | `al::ModelLodAllCtrl::registerLodCtrl(al::ModelLodCtrl *)` | :white_check_mark: |

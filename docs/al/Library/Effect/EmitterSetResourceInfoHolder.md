@@ -6,7 +6,7 @@
 
 
 # EmitterSetResourceInfoHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28EmitterSetResourceInfoHolder14createDataBaseEPNS_10PtclSystemE` | `al::EmitterSetResourceInfoHolder::createDataBase(al::PtclSystem *)` | :white_check_mark: |
 | `sub_710088862C` | `` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ClippingActorHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ClippingActorHolderC2Ei` | `al::ClippingActorHolder::ClippingActorHolder(int)` | :white_check_mark: |
 | `_ZN2al19ClippingActorHolder11updateAsyncEPN4sead6ThreadEl` | `al::ClippingActorHolder::updateAsync(sead::Thread *,long)` | :white_check_mark: |

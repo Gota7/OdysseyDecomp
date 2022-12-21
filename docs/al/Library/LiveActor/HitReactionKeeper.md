@@ -6,7 +6,7 @@
 
 
 # HitReactionKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15HitReactionInfoC2Ev` | `al::HitReactionInfo::HitReactionInfo(void)` | :white_check_mark: |
 | `_ZN2al17HitReactionKeeper9tryCreateEPKcPKN4sead7Vector3IfEEPNS_16IUseEffectKeeperEPKNS_15IUseAudioKeeperEPKNS_10IUseCameraEPNS_17PadRumbleDirectorEPNS_13SceneStopCtrlEPNS_18RadialBlurDirectorEPKNS_12PlayerHolderEPKNS_8ResourceES2_` | `al::HitReactionKeeper::tryCreate(char const*,sead::Vector3<float> const*,al::IUseEffectKeeper *,al::IUseAudioKeeper const*,al::IUseCamera const*,al::PadRumbleDirector *,al::SceneStopCtrl *,al::RadialBlurDirector *,al::PlayerHolder const*,al::Resource const*,char const*)` | :white_check_mark: |

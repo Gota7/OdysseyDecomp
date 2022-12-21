@@ -6,7 +6,7 @@
 
 
 # GamePadWaveVibrationData.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al17WaveVibrationDataltERKS0_` | `al::WaveVibrationData::operator<(al::WaveVibrationData const&)const` | :white_check_mark: |
 | `_ZN2al19WaveVibrationPlayerC2EPN2nn3hid14VibrationMixerES4_` | `al::WaveVibrationPlayer::WaveVibrationPlayer(nn::hid::VibrationMixer *,nn::hid::VibrationMixer *)` | :white_check_mark: |

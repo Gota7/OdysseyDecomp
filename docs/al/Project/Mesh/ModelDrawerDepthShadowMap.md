@@ -6,7 +6,7 @@
 
 
 # ModelDrawerDepthShadowMap.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25ModelDrawerDepthShadowMapC2EPKc` | `al::ModelDrawerDepthShadowMap::ModelDrawerDepthShadowMap(char const*)` | :white_check_mark: |
 | `_ZN2al25ModelDrawerDepthShadowMap11createTableEv` | `al::ModelDrawerDepthShadowMap::createTable(void)` | :white_check_mark: |

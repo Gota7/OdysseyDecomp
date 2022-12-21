@@ -6,7 +6,7 @@
 
 
 # AudioBusInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22AudioEachBusEffectInfo10createInfoERKNS_9ByamlIterE` | `al::AudioEachBusEffectInfo::createInfo(al::ByamlIter const&)` | :white_check_mark: |
 | `_ZN2al19createAudioInfoListINS_19AudioEffectProcInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi` | `al::AudioInfoListWithParts<al::AudioEffectProcInfo> * al::createAudioInfoList<al::AudioEffectProcInfo>(al::ByamlIter const&,int)` | :white_check_mark: |

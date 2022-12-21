@@ -6,7 +6,7 @@
 
 
 # AudioSystem.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN21alAudioSystemFunction18getAudioSystemInfoEPKN2al14GameSystemInfoE` | `alAudioSystemFunction::getAudioSystemInfo(al::GameSystemInfo const*)` | :white_check_mark: |
 | `_ZN21alAudioSystemFunction13getSeDataBaseEPKN2al13AudioDirectorE` | `alAudioSystemFunction::getSeDataBase(al::AudioDirector const*)` | :white_check_mark: |

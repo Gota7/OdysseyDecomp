@@ -6,7 +6,7 @@
 
 
 # AreaUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16calcAreaTriangleERKN4sead7Vector3IfEES4_S4_` | `al::calcAreaTriangle(sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
 | `_ZN2al17createBoundingBoxEPKN4sead7Vector3IfEEjPS2_S5_` | `al::createBoundingBox(sead::Vector3<float> const*,unsigned int,sead::Vector3<float>*,sead::Vector3<float>*)` | :white_check_mark: |

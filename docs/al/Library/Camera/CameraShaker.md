@@ -6,7 +6,7 @@
 
 
 # CameraShaker.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12CameraShakerC2Ev` | `al::CameraShaker::CameraShaker(void)` | :white_check_mark: |
 | `_ZN2al12CameraShaker6updateEPKc` | `al::CameraShaker::update(char const*)` | :white_check_mark: |

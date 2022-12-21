@@ -6,7 +6,7 @@
 
 
 # FileLoaderThread.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16FileLoaderThreadC2Ei` | `al::FileLoaderThread::FileLoaderThread(int)` | :white_check_mark: |
 | `_ZN2al16FileLoaderThread14threadFunctionEPN4sead6ThreadEl` | `al::FileLoaderThread::threadFunction(sead::Thread *,long)` | :white_check_mark: |

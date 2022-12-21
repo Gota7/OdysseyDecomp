@@ -6,7 +6,7 @@
 
 
 # CameraPoserEntrance.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19CameraPoserEntranceC2EPKc` | `al::CameraPoserEntrance::CameraPoserEntrance(char const*)` | :white_check_mark: |
 | `_ZN2al19CameraPoserEntrance9initParamEfffRKN4sead7Vector3IfEE` | `al::CameraPoserEntrance::initParam(float,float,float,sead::Vector3<float> const&)` | :white_check_mark: |

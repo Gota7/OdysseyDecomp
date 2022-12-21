@@ -6,7 +6,7 @@
 
 
 # OccludedEffectDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25OccludedEffectRequestInfoC1EPN3agl2fx19OfxLensFlareDynamicEPNS2_17OccludedEffectMgrEi` | `al::OccludedEffectRequestInfo::OccludedEffectRequestInfo(agl::fx::OfxLensFlareDynamic *,agl::fx::OccludedEffectMgr *,int)` | :white_check_mark: |
 | `_ZN2al25OccludedEffectRequestInfo12requestByPosERKN4sead7Vector3IfEE` | `al::OccludedEffectRequestInfo::requestByPos(sead::Vector3<float> const&)` | :white_check_mark: |

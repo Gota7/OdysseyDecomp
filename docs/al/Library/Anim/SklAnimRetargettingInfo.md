@@ -6,7 +6,7 @@
 
 
 # SklAnimRetargettingInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23SklAnimRetargettingInfoC1EPKN2nn3g3d8ModelObjES5_RKN4sead7Vector3IfEE` | `al::SklAnimRetargettingInfo::SklAnimRetargettingInfo(nn::g3d::ModelObj const*,nn::g3d::ModelObj const*,sead::Vector3<float> const&)` | :white_check_mark: |
 | `_ZN2al23SklAnimRetargettingInfoC2EPKN2nn3g3d11ResSkeletonES5_RKN4sead7Vector3IfEE` | `al::SklAnimRetargettingInfo::SklAnimRetargettingInfo(nn::g3d::ResSkeleton const*,nn::g3d::ResSkeleton const*,sead::Vector3<float> const&)` | :white_check_mark: |

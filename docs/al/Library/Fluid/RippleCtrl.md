@@ -6,7 +6,7 @@
 
 
 # RippleCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10RippleCtrlC2EPNS_9LiveActorE` | `al::RippleCtrl::RippleCtrl(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al10RippleCtrl9tryCreateEPNS_9LiveActorE` | `al::RippleCtrl::tryCreate(al::LiveActor *)` | :white_check_mark: |

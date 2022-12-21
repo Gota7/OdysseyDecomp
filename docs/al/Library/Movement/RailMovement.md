@@ -6,7 +6,7 @@
 
 
 # RailMovement.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16RailMoveMovementC1EPNS_9LiveActorERKNS_13ActorInitInfoE` | `al::RailMoveMovement::RailMoveMovement(al::LiveActor *,al::ActorInitInfo const&)` | :white_check_mark: |
 | `_ZN2al16RailMoveMovement7exeMoveEv` | `al::RailMoveMovement::exeMove(void)` | :white_check_mark: |

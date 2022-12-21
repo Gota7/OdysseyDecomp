@@ -6,7 +6,7 @@
 
 
 # SlideMapParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13SlideMapPartsC2EPKc` | `al::SlideMapParts::SlideMapParts(char const*)` | :white_check_mark: |
 | `_ZN2al13SlideMapPartsC1EPKc` | `al::SlideMapParts::SlideMapParts(char const*)` | :white_check_mark: |

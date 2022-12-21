@@ -6,7 +6,7 @@
 
 
 # AllDeadWatcher.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14AllDeadWatcherC2EPKc` | `al::AllDeadWatcher::AllDeadWatcher(char const*)` | :white_check_mark: |
 | `_ZN2al14AllDeadWatcherC1EPKc` | `al::AllDeadWatcher::AllDeadWatcher(char const*)` | :white_check_mark: |

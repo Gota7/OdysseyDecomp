@@ -6,7 +6,7 @@
 
 
 # JointLookAtController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21JointLookAtControllerC1EiPKN4sead8Matrix34IfEE` | `al::JointLookAtController::JointLookAtController(int,sead::Matrix34<float> const*)` | :white_check_mark: |
 | `_ZN2al21JointLookAtController17calcJointCallbackEiPN4sead8Matrix34IfEE` | `al::JointLookAtController::calcJointCallback(int,sead::Matrix34<float> *)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # AreaObjUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14tryFindAreaObjEPKNS_11IUseAreaObjEPKcRKN4sead7Vector3IfEE` | `al::tryFindAreaObj(al::IUseAreaObj const*,char const*,sead::Vector3<float> const&)` | :white_check_mark: |
 | `_ZN2al24tryFindAreaObjWithFilterEPKNS_11IUseAreaObjEPKcRKN4sead7Vector3IfEEPNS_17AreaObjFilterBaseE` | `al::tryFindAreaObjWithFilter(al::IUseAreaObj const*,char const*,sead::Vector3<float> const&,al::AreaObjFilterBase *)` | :white_check_mark: |

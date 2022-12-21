@@ -6,7 +6,7 @@
 
 
 # MathSpeedUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12calcSpeedMaxEff` | `al::calcSpeedMax(float,float)` | :white_check_mark: |
 | `_ZN2al9calcAccelEff` | `al::calcAccel(float,float)` | :white_check_mark: |

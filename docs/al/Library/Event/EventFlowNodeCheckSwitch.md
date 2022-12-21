@@ -6,7 +6,7 @@
 
 
 # EventFlowNodeCheckSwitch.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al24EventFlowNodeCheckSwitchC2EPKc` | `al::EventFlowNodeCheckSwitch::EventFlowNodeCheckSwitch(char const*)` | :white_check_mark: |
 | `_ZN2al24EventFlowNodeCheckSwitch4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeCheckSwitch::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |

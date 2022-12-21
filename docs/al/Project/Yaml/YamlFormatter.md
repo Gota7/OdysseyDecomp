@@ -6,7 +6,7 @@
 
 
 # YamlFormatter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13YamlFormatterC2Ev` | `al::YamlFormatter::YamlFormatter(void)` | :white_check_mark: |
 | `_ZN2al13YamlFormatterD2Ev` | `al::YamlFormatter::~YamlFormatter()` | :white_check_mark: |

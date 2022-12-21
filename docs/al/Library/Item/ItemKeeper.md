@@ -6,7 +6,7 @@
 
 
 # ItemKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17isExistItemKeeperEPKNS_9LiveActorE` | `al::isExistItemKeeper(al::LiveActor const*)` | :white_check_mark: |
 | `_ZN2al7addItemEPNS_9LiveActorERKNS_13ActorInitInfoEPKcS6_S6_ib` | `al::addItem(al::LiveActor *,al::ActorInitInfo const&,char const*,char const*,char const*,int,bool)` | :white_check_mark: |

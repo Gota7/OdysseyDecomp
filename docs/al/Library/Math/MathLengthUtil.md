@@ -6,7 +6,7 @@
 
 
 # MathLengthUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al6isNearEfff` | `al::isNear(float,float,float)` | :white_check_mark: |
 | `_ZN2al6isNearERKN4sead7Vector2IfEES4_f` | `al::isNear(sead::Vector2<float> const&,sead::Vector2<float> const&,float)` | :white_check_mark: |

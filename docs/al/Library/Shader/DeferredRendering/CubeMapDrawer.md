@@ -6,7 +6,7 @@
 
 
 # CubeMapDrawer.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15CubeMapDrawInfoC1EPKNS_18GraphicsSystemInfoE` | `al::CubeMapDrawInfo::CubeMapDrawInfo(al::GraphicsSystemInfo const*)` | :white_check_mark: |
 | `_ZN2al15CubeMapDrawInfoD2Ev` | `al::CubeMapDrawInfo::~CubeMapDrawInfo()` | :white_check_mark: |

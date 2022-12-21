@@ -6,7 +6,7 @@
 
 
 # ModelDrawDisplayList.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20ModelDrawDisplayListC2EPKcPNS_15GpuMemAllocatorEjj` | `al::ModelDrawDisplayList::ModelDrawDisplayList(char const*,al::GpuMemAllocator *,unsigned int,unsigned int)` | :white_check_mark: |
 | `_ZN2al20ModelDrawDisplayListC2Ev` | `al::ModelDrawDisplayList::ModelDrawDisplayList(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ActionPadAndCameraCtrl.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22ActionPadAndCameraDataC2Ev` | `al::ActionPadAndCameraData::ActionPadAndCameraData(void)` | :white_check_mark: |
 | `_ZN2al26ActionPadAndCameraCtrlInfoC2Ev` | `al::ActionPadAndCameraCtrlInfo::ActionPadAndCameraCtrlInfo(void)` | :white_check_mark: |

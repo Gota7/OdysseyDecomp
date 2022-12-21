@@ -6,7 +6,7 @@
 
 
 # ScreenCapture.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12SceneCreatorC1EPKNS_14GameSystemInfoEPNS_18GameDataHolderBaseEPNS_21ScreenCaptureExecutorEPN15alSceneFunction12SceneFactoryEPNS_13AudioDirectorE` | `al::SceneCreator::SceneCreator(al::GameSystemInfo const*,al::GameDataHolderBase *,al::ScreenCaptureExecutor *,alSceneFunction::SceneFactory *,al::AudioDirector *)` | :white_check_mark: |
 | `_ZN2al12SceneCreator11createSceneEPKcS2_iS2_bi` | `al::SceneCreator::createScene(char const*,char const*,int,char const*,bool,int)` | :white_check_mark: |

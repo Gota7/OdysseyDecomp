@@ -6,7 +6,7 @@
 
 
 # BgmPlayEventController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al22BgmPlayEventControllerC1EPNS_11AudioKeeperE` | `al::BgmPlayEventController::BgmPlayEventController(al::AudioKeeper *)` | :white_check_mark: |
 | `_ZN2al22BgmPlayEventController6init3DEPNS_15AreaObjDirectorE` | `al::BgmPlayEventController::init3D(al::AreaObjDirector *)` | :white_check_mark: |

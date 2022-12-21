@@ -6,7 +6,7 @@
 
 
 # WipeSimple.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10WipeSimpleC2EPKcS2_RKNS_14LayoutInitInfoES2_` | `al::WipeSimple::WipeSimple(char const*,char const*,al::LayoutInitInfo const&,char const*)` | :white_check_mark: |
 | `_ZN2al10WipeSimpleC1EPKcS2_RKNS_14LayoutInitInfoES2_` | `al::WipeSimple::WipeSimple(char const*,char const*,al::LayoutInitInfo const&,char const*)` | :white_check_mark: |

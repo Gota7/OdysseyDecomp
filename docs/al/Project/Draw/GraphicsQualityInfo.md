@@ -6,7 +6,7 @@
 
 
 # GraphicsQualityInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19GraphicsQualityMode5text_Ei` | `al::GraphicsQualityMode::text_(int)` | :white_check_mark: |
 | `_ZN4sead15FixedSafeStringILi37EED0Ev` | `sead::FixedSafeString<37>::~FixedSafeString()` | :white_check_mark: |

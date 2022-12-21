@@ -6,7 +6,7 @@
 
 
 # JointPostQuatController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23JointPostQuatControllerC1EPKN4sead4QuatIfEE` | `al::JointPostQuatController::JointPostQuatController(sead::Quat<float> const*)` | :white_check_mark: |
 | `_ZN2al23JointPostQuatController17calcJointCallbackEiPN4sead8Matrix34IfEE` | `al::JointPostQuatController::calcJointCallback(int,sead::Matrix34<float> *)` | :white_check_mark: |

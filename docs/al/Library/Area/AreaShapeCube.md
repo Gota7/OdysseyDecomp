@@ -6,7 +6,7 @@
 
 
 # AreaShapeCube.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13AreaShapeCubeC2ENS0_10OriginTypeE` | `al::AreaShapeCube::AreaShapeCube(al::AreaShapeCube::OriginType)` | :white_check_mark: |
 | `_ZNK2al13AreaShapeCube20calcLocalBoundingBoxEPN4sead9BoundBox3IfEE` | `al::AreaShapeCube::calcLocalBoundingBox(sead::BoundBox3<float> *)const` | :white_check_mark: |

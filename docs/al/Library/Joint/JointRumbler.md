@@ -6,7 +6,7 @@
 
 
 # JointRumbler.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12JointRumblerC2EPKNS_9LiveActorEPKcffii` | `al::JointRumbler::JointRumbler(al::LiveActor const*,char const*,float,float,int,int)` | :white_check_mark: |
 | `_ZN2al12JointRumbler11initDetailsENS0_5EAxisEif` | `al::JointRumbler::initDetails(al::JointRumbler::EAxis,int,float)` | :white_check_mark: |

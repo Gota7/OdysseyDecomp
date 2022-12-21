@@ -6,7 +6,7 @@
 
 
 # SupportFreezeSyncGroupHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al28SupportFreezeSyncGroupHolderC2Ev` | `al::SupportFreezeSyncGroupHolder::SupportFreezeSyncGroupHolder(void)` | :white_check_mark: |
 | `_ZN2al28SupportFreezeSyncGroupHolderC1Ev` | `al::SupportFreezeSyncGroupHolder::SupportFreezeSyncGroupHolder(void)` | :white_check_mark: |

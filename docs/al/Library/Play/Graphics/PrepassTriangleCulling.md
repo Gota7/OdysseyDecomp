@@ -6,7 +6,7 @@
 
 
 # PrepassTriangleCulling.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20CulledIndexCreateArg12setModelCtrlEPKNS_9ModelCtrlEiPKNS_17SubMeshRangeArrayE` | `al::CulledIndexCreateArg::setModelCtrl(al::ModelCtrl const*,int,al::SubMeshRangeArray const*)` | :white_check_mark: |
 | `_ZN2al22PrepassTriangleCullingC2EPNS_18GraphicsSystemInfoE` | `al::PrepassTriangleCulling::PrepassTriangleCulling(al::GraphicsSystemInfo *)` | :white_check_mark: |

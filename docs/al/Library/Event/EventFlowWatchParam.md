@@ -6,7 +6,7 @@
 
 
 # EventFlowWatchParam.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19EventFlowWatchParamC2Ev` | `al::EventFlowWatchParam::EventFlowWatchParam(void)` | :white_check_mark: |
 | `_ZN2al19EventFlowWatchParam4loadERKNS_9ByamlIterE` | `al::EventFlowWatchParam::load(al::ByamlIter const&)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ExecutorListActorExecuteBase.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al28ExecutorListActorExecuteBase8isActiveEv` | `al::ExecutorListActorExecuteBase::isActive(void)const` | :white_check_mark: |
 | `_ZN2al16ExecutorListBaseD0Ev` | `al::ExecutorListBase::~ExecutorListBase()` | :white_check_mark: |

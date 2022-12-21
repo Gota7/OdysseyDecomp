@@ -6,7 +6,7 @@
 
 
 # String.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21createStringIfInStackEPKc` | `al::createStringIfInStack(char const*)` | :white_check_mark: |
 | `_ZN2al18createConcatStringEPKcS1_` | `al::createConcatString(char const*,char const*)` | :white_check_mark: |

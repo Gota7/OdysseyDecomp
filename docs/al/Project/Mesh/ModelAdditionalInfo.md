@@ -6,7 +6,7 @@
 
 
 # ModelAdditionalInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ModelAdditionalInfoC2EPKNS_18GraphicsSystemInfoE` | `al::ModelAdditionalInfo::ModelAdditionalInfo(al::GraphicsSystemInfo const*)` | :white_check_mark: |
 | `_ZN2al19ModelAdditionalInfo18activateEnvTextureEPN3agl11DrawContextEiPKNS_9ModelCtrlEbb` | `al::ModelAdditionalInfo::activateEnvTexture(agl::DrawContext *,int,al::ModelCtrl const*,bool,bool)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # LayoutActionKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18LayoutActionKeeperC2EPNS_12LayoutKeeperEPNS_15IUseAudioKeeperEPNS_16IUseEffectKeeperE` | `al::LayoutActionKeeper::LayoutActionKeeper(al::LayoutKeeper *,al::IUseAudioKeeper *,al::IUseEffectKeeper *)` | :white_check_mark: |
 | `_ZN2al18LayoutActionKeeper11startActionEPKcS2_` | `al::LayoutActionKeeper::startAction(char const*,char const*)` | :white_check_mark: |

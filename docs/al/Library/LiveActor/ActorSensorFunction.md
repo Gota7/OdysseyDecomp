@@ -6,7 +6,7 @@
 
 
 # ActorSensorFunction.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN21alActorSensorFunction15getSensorKeeperEPKN2al9LiveActorE` | `alActorSensorFunction::getSensorKeeper(al::LiveActor const*)` | :white_check_mark: |
 | `_ZN21alActorSensorFunction21sendMsgSensorToSensorERKN2al9SensorMsgEPNS0_9HitSensorES5_` | `alActorSensorFunction::sendMsgSensorToSensor(al::SensorMsg const&,al::HitSensor *,al::HitSensor *)` | :white_check_mark: |

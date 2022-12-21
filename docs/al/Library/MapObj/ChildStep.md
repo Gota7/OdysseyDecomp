@@ -6,7 +6,7 @@
 
 
 # ChildStep.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al9ChildStepC2EPKcPNS_9LiveActorE` | `al::ChildStep::ChildStep(char const*,al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al9ChildStepC1EPKcPNS_9LiveActorE` | `al::ChildStep::ChildStep(char const*,al::LiveActor *)` | :white_check_mark: |

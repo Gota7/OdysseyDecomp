@@ -6,7 +6,7 @@
 
 
 # ModelShader.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11ModelShaderC2Ev` | `al::ModelShader::ModelShader(void)` | :white_check_mark: |
 | `_ZN2al11ModelShaderD2Ev` | `al::ModelShader::~ModelShader()` | :white_check_mark: |

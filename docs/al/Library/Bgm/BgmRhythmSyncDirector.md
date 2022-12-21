@@ -6,7 +6,7 @@
 
 
 # BgmRhythmSyncDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21BgmRhythmSyncDirectorC2EPNS_17IUseActiveBgmLineE` | `al::BgmRhythmSyncDirector::BgmRhythmSyncDirector(al::IUseActiveBgmLine *)` | :white_check_mark: |
 | `_ZN2al21BgmRhythmSyncDirector6updateEv` | `al::BgmRhythmSyncDirector::update(void)` | :white_check_mark: |

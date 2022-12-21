@@ -6,7 +6,7 @@
 
 
 # BgmRelayPlayerSimple.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20BgmRelayPlayerSimpleC2EPKNS_15IUseAudioKeeperE` | `al::BgmRelayPlayerSimple::BgmRelayPlayerSimple(al::IUseAudioKeeper const*)` | :white_check_mark: |
 | `_ZNK2al20BgmRelayPlayerSimple8startBgmERKNS_17BgmPlayingRequestE` | `al::BgmRelayPlayerSimple::startBgm(al::BgmPlayingRequest const&)const` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ArchiveEntry.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12ArchiveEntryC2Ev` | `al::ArchiveEntry::ArchiveEntry(void)` | :white_check_mark: |
 | `_ZN2al12ArchiveEntry4loadEv` | `al::ArchiveEntry::load(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # Bgm.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23BgmFadeVolumeControllerC1EPNS_14AcLSoundHandleE` | `al::BgmFadeVolumeController::BgmFadeVolumeController(al::AcLSoundHandle *)` | :white_check_mark: |
 | `_ZN2al23BgmFadeVolumeController6updateEv` | `al::BgmFadeVolumeController::update(void)` | :white_check_mark: |

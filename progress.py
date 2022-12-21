@@ -60,7 +60,7 @@ class Object:
         obj_page.append("\n\n")
 
         obj_page.append(f"# {obj_name}\n")
-        obj_page.append("| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |\n")
+        obj_page.append("| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |\n")
         obj_page.append("| ------------- |  ------------- | ------------- |\n")
 
         for func in self.functions:

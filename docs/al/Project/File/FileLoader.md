@@ -6,7 +6,7 @@
 
 
 # FileLoader.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10FileLoaderC2Ei` | `al::FileLoader::FileLoader(int)` | :white_check_mark: |
 | `_ZN2al10FileLoader18listSubdirectoriesEPN4sead15FixedSafeStringILi256EEEiPKc` | `al::FileLoader::listSubdirectories(sead::FixedSafeString<256> *,int,char const*)` | :white_check_mark: |

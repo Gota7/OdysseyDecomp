@@ -6,7 +6,7 @@
 
 
 # RateParamV3f.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12RateParamV3fC2Ev` | `al::RateParamV3f::RateParamV3f(void)` | :white_check_mark: |
 | `_ZN2al12RateParamV3f8setParamERKN4sead7Vector3IfEES5_` | `al::RateParamV3f::setParam(sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # ModelDrawParts.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14ModelDrawPartsC2EPKcPKNS_9LiveActorERKNS_13ActorInitInfoES2_` | `al::ModelDrawParts::ModelDrawParts(char const*,al::LiveActor const*,al::ActorInitInfo const&,char const*)` | :white_check_mark: |
 | `_ZN2al14ModelDrawPartsC1EPKcPKNS_9LiveActorERKNS_13ActorInitInfoES2_` | `al::ModelDrawParts::ModelDrawParts(char const*,al::LiveActor const*,al::ActorInitInfo const&,char const*)` | :white_check_mark: |

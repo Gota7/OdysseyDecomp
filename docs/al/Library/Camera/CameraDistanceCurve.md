@@ -6,7 +6,7 @@
 
 
 # CameraDistanceCurve.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19CameraDistanceCurveC1EPKcPKNS_21CameraDistanceAtPointEi` | `al::CameraDistanceCurve::CameraDistanceCurve(char const*,al::CameraDistanceAtPoint const*,int)` | :white_check_mark: |
 | `_ZN2al19CameraDistanceCurve15getDefaultCurveEv` | `al::CameraDistanceCurve::getDefaultCurve(void)` | :white_check_mark: |

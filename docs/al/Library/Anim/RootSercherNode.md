@@ -6,7 +6,7 @@
 
 
 # RootSercherNode.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15RootSercherNodeC2Ev` | `al::RootSercherNode::RootSercherNode(void)` | :white_check_mark: |
 | `_ZN2al15RootSercherNode5clearEv` | `al::RootSercherNode::clear(void)` | :white_check_mark: |

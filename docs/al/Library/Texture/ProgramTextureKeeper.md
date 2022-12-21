@@ -6,7 +6,7 @@
 
 
 # ProgramTextureKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19ProgramTextureParamC2Ev` | `al::ProgramTextureParam::ProgramTextureParam(void)` | :white_check_mark: |
 | `_ZN2al19ProgramTextureParam6addObjEPNS_11ParameterIoE` | `al::ProgramTextureParam::addObj(al::ParameterIo *)` | :white_check_mark: |

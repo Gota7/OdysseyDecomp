@@ -6,7 +6,7 @@
 
 
 # PtclSystem.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10PtclSystemC2ERKN4sead4ptcl6ConfigEPNS_12EffectSystemE` | `al::PtclSystem::PtclSystem(sead::ptcl::Config const&,al::EffectSystem *)` | :white_check_mark: |
 | `_ZN4sead4ptcl10PtclSystemC2ERKNS0_6ConfigE` | `sead::ptcl::PtclSystem::PtclSystem(sead::ptcl::Config const&)` | :white_check_mark: |

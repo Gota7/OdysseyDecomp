@@ -6,7 +6,7 @@
 
 
 # AreaCameraSwitcher.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18AreaCameraSwitcherC2EPNS_14CameraDirectorEPNS_15AreaObjDirectorEi` | `al::AreaCameraSwitcher::AreaCameraSwitcher(al::CameraDirector *,al::AreaObjDirector *,int)` | :white_check_mark: |
 | `_ZN2al18AreaCameraSwitcher31makeAllAreaCameraAfterPlacementEv` | `al::AreaCameraSwitcher::makeAllAreaCameraAfterPlacement(void)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # PartsMtxConnector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al18createMtxConnectorEPKNS_9LiveActorE` | `al::createMtxConnector(al::LiveActor const*)` | :white_check_mark: |
 | `_ZN2al18createMtxConnectorEPKNS_9LiveActorERKN4sead4QuatIfEE` | `al::createMtxConnector(al::LiveActor const*,sead::Quat<float> const&)` | :white_check_mark: |

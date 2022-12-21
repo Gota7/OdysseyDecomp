@@ -6,7 +6,7 @@
 
 
 # GpuPerfAreaController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16GpuPerfAreaParamC2Ev` | `al::GpuPerfAreaParam::GpuPerfAreaParam(void)` | :white_check_mark: |
 | `_ZNK2al16GpuPerfAreaParam11getAreaNameEv` | `al::GpuPerfAreaParam::getAreaName(void)const` | :white_check_mark: |

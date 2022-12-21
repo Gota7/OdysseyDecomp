@@ -6,7 +6,7 @@
 
 
 # GpuMemAllocator.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15GpuMemAllocatorC2Ev` | `al::GpuMemAllocator::GpuMemAllocator(void)` | :white_check_mark: |
 | `_ZN2al15GpuMemAllocatorD2Ev` | `al::GpuMemAllocator::~GpuMemAllocator()` | :white_check_mark: |

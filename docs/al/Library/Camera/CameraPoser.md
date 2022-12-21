@@ -6,7 +6,7 @@
 
 
 # CameraPoser.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al19CameraParamTransferC2Ev` | `al::CameraParamTransfer::CameraParamTransfer(void)` | :white_check_mark: |
 | `_ZN2al19CameraParamTransfer12setFuncTableEPKNS_29NameToCameraParamTransferFuncEi` | `al::CameraParamTransfer::setFuncTable(al::NameToCameraParamTransferFunc const*,int)` | :white_check_mark: |

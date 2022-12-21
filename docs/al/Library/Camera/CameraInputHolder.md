@@ -6,7 +6,7 @@
 
 
 # CameraInputHolder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17CameraInputHolderC2Ei` | `al::CameraInputHolder::CameraInputHolder(int)` | :white_check_mark: |
 | `_ZN2al17CameraInputHolder18initAfterPlacementEv` | `al::CameraInputHolder::initAfterPlacement(void)` | :white_check_mark: |

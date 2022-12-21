@@ -6,7 +6,7 @@
 
 
 # CollisionDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17CollisionDirectorC1EPNS_15ExecuteDirectorE` | `al::CollisionDirector::CollisionDirector(al::ExecuteDirector *)` | :white_check_mark: |
 | `_ZN2al17CollisionDirector14setPartsKeeperEPNS_21ICollisionPartsKeeperE` | `al::CollisionDirector::setPartsKeeper(al::ICollisionPartsKeeper *)` | :white_check_mark: |

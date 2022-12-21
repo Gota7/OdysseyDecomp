@@ -6,7 +6,7 @@
 
 
 # DemoCamera.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10DemoCameraC2Ev` | `al::DemoCamera::DemoCamera(void)` | :white_check_mark: |
 | `_ZN2al10DemoCamera13initDemoActorERKNS_13ActorInitInfoES3_PKN4sead8Matrix34IfEEb` | `al::DemoCamera::initDemoActor(al::ActorInitInfo const&,al::ActorInitInfo const&,sead::Matrix34<float> const*,bool)` | :white_check_mark: |

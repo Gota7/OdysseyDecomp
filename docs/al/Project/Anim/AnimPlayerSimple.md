@@ -6,7 +6,7 @@
 
 
 # AnimPlayerSimple.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al14AnimPlayerBaseC2Ev` | `al::AnimPlayerBase::AnimPlayerBase(void)` | :white_check_mark: |
 | `_ZN2al14AnimPlayerBase10updateLastEv` | `al::AnimPlayerBase::updateLast(void)` | :white_check_mark: |

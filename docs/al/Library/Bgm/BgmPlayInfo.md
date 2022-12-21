@@ -6,7 +6,7 @@
 
 
 # BgmPlayInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al11BgmPlayInfo10createInfoERKNS_9ByamlIterE` | `al::BgmPlayInfo::createInfo(al::ByamlIter const&)` | :white_check_mark: |
 | `_ZN2al11BgmPlayInfo11compareInfoEPKS0_S2_` | `al::BgmPlayInfo::compareInfo(al::BgmPlayInfo const*,al::BgmPlayInfo const*)` | :white_check_mark: |

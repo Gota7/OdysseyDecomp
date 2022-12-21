@@ -6,7 +6,7 @@
 
 
 # LayoutActor.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12MoveTwoPointC2Ev` | `al::MoveTwoPoint::MoveTwoPoint(void)` | :white_check_mark: |
 | `_ZN2al12MoveTwoPointC1ERKNS_13ActorInitInfoE` | `al::MoveTwoPoint::MoveTwoPoint(al::ActorInitInfo const&)` | :white_check_mark: |

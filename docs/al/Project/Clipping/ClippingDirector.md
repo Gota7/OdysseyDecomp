@@ -6,7 +6,7 @@
 
 
 # ClippingDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16ClippingDirectorC1EiPKNS_15AreaObjDirectorEPKNS_12PlayerHolderEPKNS_15SceneCameraInfoE` | `al::ClippingDirector::ClippingDirector(int,al::AreaObjDirector const*,al::PlayerHolder const*,al::SceneCameraInfo const*)` | :white_check_mark: |
 | `_ZN2al16ClippingDirectorD2Ev` | `al::ClippingDirector::~ClippingDirector()` | :white_check_mark: |

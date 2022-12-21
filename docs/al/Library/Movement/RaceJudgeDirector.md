@@ -6,7 +6,7 @@
 
 
 # RaceJudgeDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al17RaceJudgeDirectorC1Eii` | `al::RaceJudgeDirector::RaceJudgeDirector(int,int)` | :white_check_mark: |
 | `_ZN2al17RaceJudgeDirector13setCheckPointEPNS_14RaceCheckPointE` | `al::RaceJudgeDirector::setCheckPoint(al::RaceCheckPoint *)` | :white_check_mark: |

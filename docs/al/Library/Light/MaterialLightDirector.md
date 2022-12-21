@@ -6,7 +6,7 @@
 
 
 # MaterialLightDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21MaterialLightDirectorC2EPNS_18GraphicsSystemInfoEPKNS_12ShaderHolderEPKNS_22MaterialCategoryKeeperEPKNS_9HdrEncodeE` | `al::MaterialLightDirector::MaterialLightDirector(al::GraphicsSystemInfo *,al::ShaderHolder const*,al::MaterialCategoryKeeper const*,al::HdrEncode const*)` | :white_check_mark: |
 | `_ZN2al21MaterialLightDirector8finalizeEv` | `al::MaterialLightDirector::finalize(void)` | :white_check_mark: |

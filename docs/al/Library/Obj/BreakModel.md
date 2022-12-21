@@ -6,7 +6,7 @@
 
 
 # BreakModel.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al10BreakModelC2EPKNS_9LiveActorEPKcS5_S5_PKN4sead8Matrix34IfEES5_` | `al::BreakModel::BreakModel(al::LiveActor const*,char const*,char const*,char const*,sead::Matrix34<float> const*,char const*)` | :white_check_mark: |
 | `_ZN2al10BreakModelC1EPKNS_9LiveActorEPKcS5_S5_PKN4sead8Matrix34IfEES5_` | `al::BreakModel::BreakModel(al::LiveActor const*,char const*,char const*,char const*,sead::Matrix34<float> const*,char const*)` | :white_check_mark: |

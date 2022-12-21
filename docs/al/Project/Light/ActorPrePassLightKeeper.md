@@ -6,7 +6,7 @@
 
 
 # ActorPrePassLightKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23ActorPrePassLightKeeper9UserColorC2Ev` | `al::ActorPrePassLightKeeper::UserColor::UserColor(void)` | :white_check_mark: |
 | `_ZN2al23ActorPrePassLightKeeper11isExistFileEPKNS_8ResourceEPKc` | `al::ActorPrePassLightKeeper::isExistFile(al::Resource const*,char const*)` | :white_check_mark: |

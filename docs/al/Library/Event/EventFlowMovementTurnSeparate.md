@@ -6,7 +6,7 @@
 
 
 # EventFlowMovementTurnSeparate.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al29EventFlowMovementTurnSeparateC2EPNS_9LiveActorE` | `al::EventFlowMovementTurnSeparate::EventFlowMovementTurnSeparate(al::LiveActor *)` | :white_check_mark: |
 | `_ZN2al29EventFlowMovementTurnSeparate4initERKNS_13ActorInitInfoE` | `al::EventFlowMovementTurnSeparate::init(al::ActorInitInfo const&)` | :white_check_mark: |

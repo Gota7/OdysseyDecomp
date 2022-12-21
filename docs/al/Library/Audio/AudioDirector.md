@@ -6,7 +6,7 @@
 
 
 # AudioDirector.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al13AudioDirectorC2Ev` | `al::AudioDirector::AudioDirector(void)` | :white_check_mark: |
 | `_ZN2al13AudioDirector4initERKNS_21AudioDirectorInitInfoE` | `al::AudioDirector::init(al::AudioDirectorInitInfo const&)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # EventFlowActorStateRail.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al23EventFlowActorStateRailC2EPKcPNS_17EventFlowMovementE` | `al::EventFlowActorStateRail::EventFlowActorStateRail(char const*,al::EventFlowMovement *)` | :white_check_mark: |
 | `_ZN2al23EventFlowActorStateRail19initByPlacementInfoERKNS_13ActorInitInfoE` | `al::EventFlowActorStateRail::initByPlacementInfo(al::ActorInitInfo const&)` | :white_check_mark: |

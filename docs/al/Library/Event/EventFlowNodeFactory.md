@@ -6,6 +6,6 @@
 
 
 # EventFlowNodeFactory.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20EventFlowNodeFactoryC2Ev` | `al::EventFlowNodeFactory::EventFlowNodeFactory(void)` | :white_check_mark: |

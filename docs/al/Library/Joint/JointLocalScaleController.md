@@ -6,7 +6,7 @@
 
 
 # JointLocalScaleController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al25JointLocalScaleControllerC2Ev` | `al::JointLocalScaleController::JointLocalScaleController(void)` | :white_check_mark: |
 | `_ZN2al25JointLocalScaleController17calcJointCallbackEiPN4sead8Matrix34IfEE` | `al::JointLocalScaleController::calcJointCallback(int,sead::Matrix34<float> *)` | :white_check_mark: |

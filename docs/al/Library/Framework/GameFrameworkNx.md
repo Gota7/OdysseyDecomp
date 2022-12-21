@@ -6,7 +6,7 @@
 
 
 # GameFrameworkNx.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15GameFrameworkNxC1ERKN4sead15GameFrameworkNx9CreateArgE` | `al::GameFrameworkNx::GameFrameworkNx(sead::GameFrameworkNx::CreateArg const&)` | :white_check_mark: |
 | `_ZN2al15GameFrameworkNx19createControllerMgrEPN4sead8TaskBaseE` | `al::GameFrameworkNx::createControllerMgr(sead::TaskBase *)` | :white_check_mark: |

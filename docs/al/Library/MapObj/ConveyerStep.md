@@ -6,7 +6,7 @@
 
 
 # ConveyerStep.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al12ConveyerStepC2EPKc` | `al::ConveyerStep::ConveyerStep(char const*)` | :white_check_mark: |
 | `_ZN2al12ConveyerStepC1EPKc` | `al::ConveyerStep::ConveyerStep(char const*)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # BgmPlayPointRecorder.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20BgmPlayPointRecorderC2Ev` | `al::BgmPlayPointRecorder::BgmPlayPointRecorder(void)` | :white_check_mark: |
 | `_ZN2al20BgmPlayPointRecorder5resetEv` | `al::BgmPlayPointRecorder::reset(void)` | :white_check_mark: |

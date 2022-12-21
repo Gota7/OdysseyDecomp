@@ -6,6 +6,6 @@
 
 
 # AtmosRequestDir.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al15AtmosRequestDir13updateRequestEv` | `al::AtmosRequestDir::updateRequest(void)` | :white_check_mark: |

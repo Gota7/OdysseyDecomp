@@ -6,7 +6,7 @@
 
 
 # CameraTriangleFilter.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZNK2al20CameraTriangleFilter17isInvalidTriangleERKNS_8TriangleE` | `al::CameraTriangleFilter::isInvalidTriangle(al::Triangle const&)const` | :white_check_mark: |
 | `_ZNK2al31CameraTriangleFilterOnlyCeiling17isInvalidTriangleERKNS_8TriangleE` | `al::CameraTriangleFilterOnlyCeiling::isInvalidTriangle(al::Triangle const&)const` | :white_check_mark: |

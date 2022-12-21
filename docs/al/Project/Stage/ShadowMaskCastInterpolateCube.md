@@ -6,7 +6,7 @@
 
 
 # ShadowMaskCastInterpolateCube.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al29ShadowMaskCastInterpolateCubeC2EPKc` | `al::ShadowMaskCastInterpolateCube::ShadowMaskCastInterpolateCube(char const*)` | :white_check_mark: |
 | `_ZN2al29ShadowMaskCastInterpolateCube7declareENS_22ShadowMaskDrawCategoryE` | `al::ShadowMaskCastInterpolateCube::declare(al::ShadowMaskDrawCategory)` | :white_check_mark: |

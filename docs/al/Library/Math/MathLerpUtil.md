@@ -6,7 +6,7 @@
 
 
 # MathLerpUtil.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al6easeInEf` | `al::easeIn(float)` | :white_check_mark: |
 | `_ZN2al7easeOutEf` | `al::easeOut(float)` | :white_check_mark: |

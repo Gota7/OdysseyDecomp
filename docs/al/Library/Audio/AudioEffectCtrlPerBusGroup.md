@@ -6,7 +6,7 @@
 
 
 # AudioEffectCtrlPerBusGroup.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al26AudioEffectCtrlPerBusGroupC2EPNS_22AudioBusSendControllerE` | `al::AudioEffectCtrlPerBusGroup::AudioEffectCtrlPerBusGroup(al::AudioBusSendController *)` | :white_check_mark: |
 | `_ZN2al26AudioEffectCtrlPerBusGroup4initEv` | `al::AudioEffectCtrlPerBusGroup::init(void)` | :white_check_mark: |

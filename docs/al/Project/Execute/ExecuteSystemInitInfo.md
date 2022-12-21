@@ -6,6 +6,6 @@
 
 
 # ExecuteSystemInitInfo.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21ExecuteSystemInitInfoC2Ev` | `al::ExecuteSystemInitInfo::ExecuteSystemInitInfo(void)` | :white_check_mark: |

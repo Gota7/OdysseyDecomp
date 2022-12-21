@@ -6,7 +6,7 @@
 
 
 # RainTextureKeeper.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al16RainTextureParamC2Ev` | `al::RainTextureParam::RainTextureParam(void)` | :white_check_mark: |
 | `_ZNK2al16RainTextureParam18getWaveTextureSizeEv` | `al::RainTextureParam::getWaveTextureSize(void)const` | :white_check_mark: |

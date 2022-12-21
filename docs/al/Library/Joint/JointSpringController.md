@@ -6,7 +6,7 @@
 
 
 # JointSpringController.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21JointSpringControllerC2Ev` | `al::JointSpringController::JointSpringController(void)` | :white_check_mark: |
 | `_ZN2al21JointSpringController16setChildLocalPosERKN4sead7Vector3IfEE` | `al::JointSpringController::setChildLocalPos(sead::Vector3<float> const&)` | :white_check_mark: |

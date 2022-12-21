@@ -6,7 +6,7 @@
 
 
 # KeyMoveCameraRailMove.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al21KeyMoveCameraRailMoveC2EPKc` | `al::KeyMoveCameraRailMove::KeyMoveCameraRailMove(char const*)` | :white_check_mark: |
 | `_ZN2al21KeyMoveCameraRailMove18initByPlacementObjERKNS_13PlacementInfoE` | `al::KeyMoveCameraRailMove::initByPlacementObj(al::PlacementInfo const&)` | :white_check_mark: |

@@ -6,7 +6,7 @@
 
 
 # SwitchKeepOnAreaGroup.o
-| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
 | `_ZN2al20SwitchAreaTargetInfoC1Eii` | `al::SwitchAreaTargetInfo::SwitchAreaTargetInfo(int,int)` | :white_check_mark: |
 | `_ZN2al20SwitchAreaTargetInfoC1EPN4sead7Vector3IfEEi` | `al::SwitchAreaTargetInfo::SwitchAreaTargetInfo(sead::Vector3<float> *,int)` | :white_check_mark: |
