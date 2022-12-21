@@ -1,8 +1,8 @@
 *.nso
 tools/*
 data/*.py
-*.map
 .vscode/*
 build/*
 __pycache__
 splitCSV.py
+map/*

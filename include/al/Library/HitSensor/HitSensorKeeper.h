@@ -11,7 +11,7 @@ namespace al {
     public:
         HitSensorKeeper(int);
 
-        void addSensor(LiveActor *, const char *, u32, f32, u16, const Vector3f *, const Matrix34f *, const Vector3f &);
+        HitSensor* addSensor(LiveActor *, const char *, u32, f32, u16, const Vector3f *, const Matrix34f *, const Vector3f &);
         void update();
         int getSensorNum() const;
         HitSensor* getSensor(int) const;
