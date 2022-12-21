@@ -1,6 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al23BalloonOrderGroupHolderC2Ev","al::BalloonOrderGroupHolder::BalloonOrderGroupHolder(void)",false
-"_ZNK2al23BalloonOrderGroupHolder12tryFindGroupERKNS_13PlacementInfoE","al::BalloonOrderGroupHolder::tryFindGroup(al::PlacementInfo const&)const",false
-"_ZN2al23BalloonOrderGroupHolder13registerGroupEPNS_17BalloonOrderGroupE","al::BalloonOrderGroupHolder::registerGroup(al::BalloonOrderGroup *)",false
-"_ZN2al23BalloonOrderGroupHolder9updateAllERKN4sead7Vector3IfEE","al::BalloonOrderGroupHolder::updateAll(sead::Vector3<float> const&)",false
-"_ZN2al23BalloonOrderGroupHolder23resetInsideTerritoryAllEv","al::BalloonOrderGroupHolder::resetInsideTerritoryAll(void)",false

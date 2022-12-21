@@ -1,5 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al18EffectLayoutDrawerC2EPNS_12EffectSystemEPKcij","al::EffectLayoutDrawer::EffectLayoutDrawer(al::EffectSystem *,char const*,int,unsigned int)",false
-"_ZNK2al18EffectLayoutDrawer4drawEv","al::EffectLayoutDrawer::draw(void)const",false
-"_ZNK2al18EffectLayoutDrawer10drawEffectEPN3agl11DrawContextERKN4sead8Matrix44IfEERKNS4_8Matrix34IfEEfff","al::EffectLayoutDrawer::drawEffect(agl::DrawContext *,sead::Matrix44<float> const&,sead::Matrix34<float> const&,float,float,float)const",false
-"_ZN2al18EffectLayoutDrawer7executeEv","al::EffectLayoutDrawer::execute(void)",false

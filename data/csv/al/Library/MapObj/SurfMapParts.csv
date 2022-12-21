@@ -1,6 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al12SurfMapPartsC2EPKc","al::SurfMapParts::SurfMapParts(char const*)",false
-"_ZN2al12SurfMapPartsC1EPKc","al::SurfMapParts::SurfMapParts(char const*)",false
-"_ZN2al12SurfMapParts4initERKNS_13ActorInitInfoE","al::SurfMapParts::init(al::ActorInitInfo const&)",false
-"_ZN2al12SurfMapParts7exeWaitEv","al::SurfMapParts::exeWait(void)",false
-"sub_710091A4D0","",false

@@ -1,5 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al27DemoDynamicsResetInfoHolderC1EPKcS2_","al::DemoDynamicsResetInfoHolder::DemoDynamicsResetInfoHolder(char const*,char const*)",false
-"_ZNK2al27DemoDynamicsResetInfoHolder15isResetDynamicsEPKci","al::DemoDynamicsResetInfoHolder::isResetDynamics(char const*,int)const",false
-"_ZN2al32registDemoRequesterToAddDemoInfoEPKNS_9LiveActorERKNS_13ActorInitInfoEi","al::registDemoRequesterToAddDemoInfo(al::LiveActor const*,al::ActorInitInfo const&,int)",false
-"_ZN2al21registActorToDemoInfoEPNS_9LiveActorERKNS_13ActorInitInfoE","al::registActorToDemoInfo(al::LiveActor *,al::ActorInitInfo const&)",false

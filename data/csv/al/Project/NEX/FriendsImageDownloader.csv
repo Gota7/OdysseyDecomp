@@ -1,8 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al22FriendsImageDownloaderC2Ev","al::FriendsImageDownloader::FriendsImageDownloader(void)",false
-"_ZN2al22FriendsImageDownloader8DownloadEPKcPvm","al::FriendsImageDownloader::Download(char const*,void *,unsigned long)",false
-"_ZN2al22FriendsImageDownloader14SslCtxFunctionEPvS1_S1_","al::FriendsImageDownloader::SslCtxFunction(void *,void *,void *)",false
-"_ZN2al22FriendsImageDownloader17HttpWriteFunctionEPcmmPv","al::FriendsImageDownloader::HttpWriteFunction(char *,unsigned long,unsigned long,void *)",false
-"_ZN2al22FriendsImageDownloader12DownloadImplEPv","al::FriendsImageDownloader::DownloadImpl(void *)",false
-"_ZN2al22FriendsImageDownloader6CancelEv","al::FriendsImageDownloader::Cancel(void)",false
-"_ZNK2al22FriendsImageDownloader17GetDownloadedSizeEv","al::FriendsImageDownloader::GetDownloadedSize(void)const",false

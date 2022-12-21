@@ -1,5 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al28EventFlowNodeAnimCameraStartC2EPKc","al::EventFlowNodeAnimCameraStart::EventFlowNodeAnimCameraStart(char const*)",false
-"_ZN2al28EventFlowNodeAnimCameraStart4initERKNS_21EventFlowNodeInitInfoE","al::EventFlowNodeAnimCameraStart::init(al::EventFlowNodeInitInfo const&)",false
-"_ZN2al28EventFlowNodeAnimCameraStart5startEv","al::EventFlowNodeAnimCameraStart::start(void)",false
-"_ZN2al28EventFlowNodeAnimCameraStart7controlEv","al::EventFlowNodeAnimCameraStart::control(void)",false

@@ -1,9 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al17CameraOffsetCtrlY4loadERKNS_9ByamlIterE","al::CameraOffsetCtrlY::load(al::ByamlIter const&)",false
-"_ZN2al22CameraOffsetCtrlPresetC2Ev","al::CameraOffsetCtrlPreset::CameraOffsetCtrlPreset(void)",false
-"_ZN2al22CameraOffsetCtrlPreset4loadERKNS_9ByamlIterE","al::CameraOffsetCtrlPreset::load(al::ByamlIter const&)",false
-"_ZNK2al22CameraOffsetCtrlPreset9getOffsetEv","al::CameraOffsetCtrlPreset::getOffset(void)const",false
-"_ZNK2al17CameraOffsetCtrlY9getOffsetEv","al::CameraOffsetCtrlY::getOffset(void)const",false
-"_ZN2al18CameraOffsetPresetC2Ev","al::CameraOffsetPreset::CameraOffsetPreset(void)",false
-"_ZN2al18CameraOffsetPresetC2EPKNS_22CameraOffsetPresetDataEi","al::CameraOffsetPreset::CameraOffsetPreset(al::CameraOffsetPresetData const*,int)",false
-"_ZN2al18CameraOffsetPreset9loadParamERKNS_9ByamlIterE","al::CameraOffsetPreset::loadParam(al::ByamlIter const&)",false

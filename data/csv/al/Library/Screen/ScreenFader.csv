@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al11ScreenFaderC2Ev","al::ScreenFader::ScreenFader(void)",false
-"_ZN2al11ScreenFader5startEiifRKN4sead7Color4fE","al::ScreenFader::start(int,int,float,sead::Color4f const&)",false
-"_ZN2al11ScreenFader3endEi","al::ScreenFader::end(int)",false
-"_ZN2al11ScreenFader6updateEv","al::ScreenFader::update(void)",false
-"_ZNK2al11ScreenFader7tryDrawEPN3agl11DrawContextERKN4sead8ViewportERKNS1_12RenderBufferE","al::ScreenFader::tryDraw(agl::DrawContext *,sead::Viewport const&,agl::RenderBuffer const&)const",false
-"sub_71009D1224","",false

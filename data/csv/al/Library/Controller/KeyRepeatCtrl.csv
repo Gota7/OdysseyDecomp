@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al13KeyRepeatCtrlC2Ev","al::KeyRepeatCtrl::KeyRepeatCtrl(void)",false
-"_ZN2al13KeyRepeatCtrl4initEii","al::KeyRepeatCtrl::init(int,int)",false
-"_ZN2al13KeyRepeatCtrl6updateEbb","al::KeyRepeatCtrl::update(bool,bool)",false
-"_ZN2al13KeyRepeatCtrl5resetEv","al::KeyRepeatCtrl::reset(void)",false
-"_ZNK2al13KeyRepeatCtrl4isUpEv","al::KeyRepeatCtrl::isUp(void)const",false
-"_ZNK2al13KeyRepeatCtrl6isDownEv","al::KeyRepeatCtrl::isDown(void)const",false

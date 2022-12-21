@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al21DemoSyncedEventKeeperC1EPNS_13AudioDirectorE","al::DemoSyncedEventKeeper::DemoSyncedEventKeeper(al::AudioDirector *)",false
-"_ZN2al21DemoSyncedEventKeeper21updateOnlyWhenDemoRunEi","al::DemoSyncedEventKeeper::updateOnlyWhenDemoRun(int)",false
-"_ZN2al21DemoSyncedEventKeeper8finalizeEv","al::DemoSyncedEventKeeper::finalize(void)",false
-"_ZN2al21DemoSyncedEventKeeper9startDemoEPKc","al::DemoSyncedEventKeeper::startDemo(char const*)",false
-"_ZN2al21DemoSyncedEventKeeper7endDemoEbb","al::DemoSyncedEventKeeper::endDemo(bool,bool)",false
-"_ZN25alDemoSyncedEventFunction23tryCreateAndSetSeKeeperEPN2al21DemoSyncedEventKeeperEPNS0_13AudioDirectorEPKc","alDemoSyncedEventFunction::tryCreateAndSetSeKeeper(al::DemoSyncedEventKeeper *,al::AudioDirector *,char const*)",false

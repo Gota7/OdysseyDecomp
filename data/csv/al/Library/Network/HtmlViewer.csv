@@ -1,3 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al10HtmlViewerC2Ev","al::HtmlViewer::HtmlViewer(void)",false
-"_ZNK2al10HtmlViewer4callEPKcPN4sead22BufferedSafeStringBaseIcEE","al::HtmlViewer::call(char const*,sead::BufferedSafeStringBase<char> *)const",false

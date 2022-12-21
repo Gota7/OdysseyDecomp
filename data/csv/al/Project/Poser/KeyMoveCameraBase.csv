@@ -1,8 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al17KeyMoveCameraInfoC2Ev","al::KeyMoveCameraInfo::KeyMoveCameraInfo(void)",false
-"_ZN2al17KeyMoveCameraBaseC2EPKc","al::KeyMoveCameraBase::KeyMoveCameraBase(char const*)",false
-"_ZN2al17KeyMoveCameraBase4loadERKNS_9ByamlIterE","al::KeyMoveCameraBase::load(al::ByamlIter const&)",false
-"_ZN2al17KeyMoveCameraBase5startERKNS_15CameraStartInfoE","al::KeyMoveCameraBase::start(al::CameraStartInfo const&)",false
-"_ZN2al17KeyMoveCameraBase8movementEv","al::KeyMoveCameraBase::movement(void)",false
-"_ZNK2al17KeyMoveCameraBase18isEndKeyMoveCameraEv","al::KeyMoveCameraBase::isEndKeyMoveCamera(void)const",false
-"_ZNK2al17KeyMoveCameraBase8calcRateEv","al::KeyMoveCameraBase::calcRate(void)const",false

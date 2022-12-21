@@ -1,3 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al15CameraStateBaseC1EPKcPNS_11CameraPoserE","al::CameraStateBase::CameraStateBase(char const*,al::CameraPoser *)",false
-"_ZN2al15CameraStateBaseD0Ev","al::CameraStateBase::~CameraStateBase()",false

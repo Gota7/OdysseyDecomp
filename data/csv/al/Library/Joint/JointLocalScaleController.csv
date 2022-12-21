@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al25JointLocalScaleControllerC2Ev","al::JointLocalScaleController::JointLocalScaleController(void)",false
-"_ZN2al25JointLocalScaleController17calcJointCallbackEiPN4sead8Matrix34IfEE","al::JointLocalScaleController::calcJointCallback(int,sead::Matrix34<float> *)",false
-"_ZNK2al25JointLocalScaleController15getCtrlTypeNameEv","al::JointLocalScaleController::getCtrlTypeName(void)const",false

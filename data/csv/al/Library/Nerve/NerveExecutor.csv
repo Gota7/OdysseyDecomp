@@ -1,8 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al15NerveActionCtrlC2EPN15alNerveFunction20NerveActionCollectorE","al::NerveActionCtrl::NerveActionCtrl(alNerveFunction::NerveActionCollector *)",false
-"_ZNK2al15NerveActionCtrl9findNerveEPKc","al::NerveActionCtrl::findNerve(char const*)const",false
-"_ZN2al13NerveExecutorC2EPKc","al::NerveExecutor::NerveExecutor(char const*)",false
-"_ZN2al13NerveExecutorD2Ev","al::NerveExecutor::~NerveExecutor()",false
-"_ZN2al13NerveExecutorD0Ev","al::NerveExecutor::~NerveExecutor()",false
-"_ZN2al13NerveExecutor9initNerveEPKNS_5NerveEi","al::NerveExecutor::initNerve(al::Nerve const*,int)",false
-"_ZN2al13NerveExecutor11updateNerveEv","al::NerveExecutor::updateNerve(void)",false

@@ -1,8 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al23ClippingFarAreaObserverC2EPKNS_15AreaObjDirectorEPKNS_12PlayerHolderE","al::ClippingFarAreaObserver::ClippingFarAreaObserver(al::AreaObjDirector const*,al::PlayerHolder const*)",false
-"_ZN2al23ClippingFarAreaObserver25setDefaultFarClipDistanceEf","al::ClippingFarAreaObserver::setDefaultFarClipDistance(float)",false
-"_ZN2al23ClippingFarAreaObserver28setDefaultFarClipDistanceSubEf","al::ClippingFarAreaObserver::setDefaultFarClipDistanceSub(float)",false
-"_ZN2al23ClippingFarAreaObserver7endInitEv","al::ClippingFarAreaObserver::endInit(void)",false
-"_ZN2al23ClippingFarAreaObserver6updateEv","al::ClippingFarAreaObserver::update(void)",false
-"_ZN18alClippingFunction19addToClippingTargetEPN2al9LiveActorE","alClippingFunction::addToClippingTarget(al::LiveActor *)",false
-"_ZN18alClippingFunction24removeFromClippingTargetEPN2al9LiveActorE","alClippingFunction::removeFromClippingTarget(al::LiveActor *)",false

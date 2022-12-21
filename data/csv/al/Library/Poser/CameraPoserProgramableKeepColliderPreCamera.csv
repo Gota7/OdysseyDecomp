@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al43CameraPoserProgramableKeepColliderPreCameraC2EPKN4sead7Vector3IfEES5_S5_","al::CameraPoserProgramableKeepColliderPreCamera::CameraPoserProgramableKeepColliderPreCamera(sead::Vector3<float> const*,sead::Vector3<float> const*,sead::Vector3<float> const*)",false
-"_ZN2al43CameraPoserProgramableKeepColliderPreCamera4initEv","al::CameraPoserProgramableKeepColliderPreCamera::init(void)",false
-"_ZN2al43CameraPoserProgramableKeepColliderPreCamera5startERKNS_15CameraStartInfoE","al::CameraPoserProgramableKeepColliderPreCamera::start(al::CameraStartInfo const&)",false

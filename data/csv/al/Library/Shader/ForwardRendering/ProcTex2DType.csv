@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al13ProcTex2DType5text_Ei","al::ProcTex2DType::text_(int)",false
-"_ZN4sead15FixedSafeStringILi39EED0Ev","sead::FixedSafeString<39>::~FixedSafeString()",false
-"_ZN4sead15FixedSafeStringILi39EEaSERKNS_14SafeStringBaseIcEE","sead::FixedSafeString<39>::operator=(sead::SafeStringBase<char> const&)",false
-"_ZN4sead19FixedSafeStringBaseIcLi39EED0Ev","sead::FixedSafeStringBase<char,39>::~FixedSafeStringBase()",false
-"_ZN4sead19FixedSafeStringBaseIcLi39EEaSERKNS_14SafeStringBaseIcEE","sead::FixedSafeStringBase<char,39>::operator=(sead::SafeStringBase<char> const&)",false
-"_ZN2al13ProcTex3DType5text_Ei","al::ProcTex3DType::text_(int)",false

@@ -1,6 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al15RootSercherNodeC2Ev","al::RootSercherNode::RootSercherNode(void)",false
-"_ZN2al15RootSercherNode5clearEv","al::RootSercherNode::clear(void)",false
-"_ZN2al15RootSercherNode4openEv","al::RootSercherNode::open(void)",false
-"_ZN2al15RootSercherNode5closeEv","al::RootSercherNode::close(void)",false
-"_ZNK2al15RootSercherNode13calcTotalCostEv","al::RootSercherNode::calcTotalCost(void)const",false

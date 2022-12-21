@@ -1,6 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-_ZN2al14SensorHitGroupC2EiPKc,"al::SensorHitGroup::SensorHitGroup(int,char const*)",false
-_ZN2al14SensorHitGroup3addEPNS_9HitSensorE,al::SensorHitGroup::add(al::HitSensor *),false
-_ZN2al14SensorHitGroup6removeEPNS_9HitSensorE,al::SensorHitGroup::remove(al::HitSensor *),false
-_ZNK2al14SensorHitGroup9getSensorEi,al::SensorHitGroup::getSensor(int)const,true
-_ZNK2al14SensorHitGroup5clearEv,al::SensorHitGroup::clear(void)const,true

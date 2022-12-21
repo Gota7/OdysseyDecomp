@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al22SaveDataSequenceFormatC2Ev","al::SaveDataSequenceFormat::SaveDataSequenceFormat(void)",false
-"_ZN2al22SaveDataSequenceFormat5startEii","al::SaveDataSequenceFormat::start(int,int)",false
-"_ZN2al22SaveDataSequenceFormat10threadFuncEPKc","al::SaveDataSequenceFormat::threadFunc(char const*)",false

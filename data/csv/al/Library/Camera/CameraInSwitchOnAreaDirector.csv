@@ -1,6 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al28CameraInSwitchOnAreaDirectorC2Ev","al::CameraInSwitchOnAreaDirector::CameraInSwitchOnAreaDirector(void)",false
-"_ZN2al28CameraInSwitchOnAreaDirector4initEPKNS_15SceneCameraInfoEPNS_15AreaObjDirectorE","al::CameraInSwitchOnAreaDirector::init(al::SceneCameraInfo const*,al::AreaObjDirector *)",false
-"_ZN2al28CameraInSwitchOnAreaDirector18initAfterPlacementEv","al::CameraInSwitchOnAreaDirector::initAfterPlacement(void)",false
-"_ZN2al28CameraInSwitchOnAreaDirector6updateEv","al::CameraInSwitchOnAreaDirector::update(void)",false
-"_ZNK2al28CameraInSwitchOnAreaDirector18getAreaObjDirectorEv","al::CameraInSwitchOnAreaDirector::getAreaObjDirector(void)const",false

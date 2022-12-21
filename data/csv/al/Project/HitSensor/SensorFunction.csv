@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN16alSensorFunction19updateHitSensorsAllEPN2al9LiveActorE","alSensorFunction::updateHitSensorsAll(al::LiveActor *)",false
-"_ZN16alSensorFunction15clearHitSensorsEPN2al9LiveActorE","alSensorFunction::clearHitSensors(al::LiveActor *)",false
-"_ZN16alSensorFunction20findSensorTypeByNameEPKc","alSensorFunction::findSensorTypeByName(char const*)",false

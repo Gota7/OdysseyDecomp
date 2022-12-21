@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al19ModelOcclusionQueryC2Ev","al::ModelOcclusionQuery::ModelOcclusionQuery(void)",false
-"_ZN2al19ModelOcclusionQueryD2Ev","al::ModelOcclusionQuery::~ModelOcclusionQuery()",false
-"_ZN2al19ModelOcclusionQuery6updateEv","al::ModelOcclusionQuery::update(void)",false
-"_ZNK2al19ModelOcclusionQuery13getZPassCountEv","al::ModelOcclusionQuery::getZPassCount(void)const",false
-"_ZNK2al19ModelOcclusionQuery8isInsideERKN4sead7Vector3IfEE","al::ModelOcclusionQuery::isInside(sead::Vector3<float> const&)const",false
-"_ZN2al19ModelOcclusionQuery9tryCreateEPNS_9LiveActorEPNS_8ResourceEPKc","al::ModelOcclusionQuery::tryCreate(al::LiveActor *,al::Resource *,char const*)",false

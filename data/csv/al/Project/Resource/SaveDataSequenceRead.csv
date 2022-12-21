@@ -1,5 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al20SaveDataSequenceReadC2Eh","al::SaveDataSequenceRead::SaveDataSequenceRead(unsigned char)",false
-"_ZN2al20SaveDataSequenceRead5startEPhjj","al::SaveDataSequenceRead::start(unsigned char *,unsigned int,unsigned int)",false
-"_ZN2al20SaveDataSequenceRead10threadFuncEPKc","al::SaveDataSequenceRead::threadFunc(char const*)",false
-"_ZN2al20SaveDataSequenceRead4readEPN4sead10FileDeviceEPKcPj","al::SaveDataSequenceRead::read(sead::FileDevice *,char const*,unsigned int *)",false

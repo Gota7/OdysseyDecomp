@@ -1,9 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al13DirLightParamC2Ev","al::DirLightParam::DirLightParam(void)",false
-"_ZNK2al13DirLightParam7isEqualERKNS_16IUseRequestParamE","al::DirLightParam::isEqual(al::IUseRequestParam const&)const",false
-"_ZNK2al13DirLightParam16getDirectionFromEv","al::DirLightParam::getDirectionFrom(void)const",false
-"_ZN2al13DirLightParam4copyERKNS_16IUseRequestParamE","al::DirLightParam::copy(al::IUseRequestParam const&)",false
-"_ZN2al13DirLightParam10copyInterpERKNS_16IUseRequestParamES3_f","al::DirLightParam::copyInterp(al::IUseRequestParam const&,al::IUseRequestParam const&,float)",false
-"_ZNK2al13DirLightParam8getColorEv","al::DirLightParam::getColor(void)const",false
-"_ZN2al13DirLightParam8setColorERKN4sead7Color4fE","al::DirLightParam::setColor(sead::Color4f const&)",false
-"_ZN2al13DirLightParam16setDirectionFromERKN4sead7Vector3IfEE","al::DirLightParam::setDirectionFrom(sead::Vector3<float> const&)",false

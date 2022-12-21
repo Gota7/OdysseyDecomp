@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al18DistanceLevelParamC2Ei","al::DistanceLevelParam::DistanceLevelParam(int)",false
-"_ZNK2al18DistanceLevelParam9calcLevelEf","al::DistanceLevelParam::calcLevel(float)const",false
-"_ZNK2al18DistanceLevelParam11getDistanceEi","al::DistanceLevelParam::getDistance(int)const",false
-"_ZN2al18DistanceLevelParam6updateEf","al::DistanceLevelParam::update(float)",false
-"_ZN2al18DistanceLevelParam11setDistanceEif","al::DistanceLevelParam::setDistance(int,float)",false
-"_ZN2al18DistanceLevelParam8setParamERKNS_9ByamlIterE","al::DistanceLevelParam::setParam(al::ByamlIter const&)",false

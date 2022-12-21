@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al18JointAimControllerC1EPKNS_12JointAimInfoE","al::JointAimController::JointAimController(al::JointAimInfo const*)",false
-"_ZN2al18JointAimController17calcJointCallbackEiPN4sead8Matrix34IfEE","al::JointAimController::calcJointCallback(int,sead::Matrix34<float> *)",false
-"_ZNK2al18JointAimController15getCtrlTypeNameEv","al::JointAimController::getCtrlTypeName(void)const",false

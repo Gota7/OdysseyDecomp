@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al20ActionEffectCtrlInfoC2Ev","al::ActionEffectCtrlInfo::ActionEffectCtrlInfo(void)",false
-"_ZN2al16ActionEffectCtrl9tryCreateEPNS_16IUseEffectKeeperE","al::ActionEffectCtrl::tryCreate(al::IUseEffectKeeper *)",false
-"_ZN2al16ActionEffectCtrl11startActionEPKc","al::ActionEffectCtrl::startAction(char const*)",false
-"_ZNK2al16ActionEffectCtrl20isKeepSameEffectNextEPKNS_20ActionEffectCtrlInfoEPKc","al::ActionEffectCtrl::isKeepSameEffectNext(al::ActionEffectCtrlInfo const*,char const*)const",false
-"_ZN2al16ActionEffectCtrl6updateEfffb","al::ActionEffectCtrl::update(float,float,float,bool)",false
-"_ZN2al16ActionEffectCtrlC1EPNS_16IUseEffectKeeperE","al::ActionEffectCtrl::ActionEffectCtrl(al::IUseEffectKeeper *)",false

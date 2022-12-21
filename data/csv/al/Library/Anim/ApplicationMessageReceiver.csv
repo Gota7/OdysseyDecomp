@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al26ApplicationMessageReceiverC2Ev","al::ApplicationMessageReceiver::ApplicationMessageReceiver(void)",false
-"_ZN2al26ApplicationMessageReceiver4initEv","al::ApplicationMessageReceiver::init(void)",false
-"_ZNK2al26ApplicationMessageReceiver16getOperationModeEv","al::ApplicationMessageReceiver::getOperationMode(void)const",false
-"_ZNK2al26ApplicationMessageReceiver17getPerformaceModeEv","al::ApplicationMessageReceiver::getPerformaceMode(void)const",false
-"_ZN2al26ApplicationMessageReceiver6updateEv","al::ApplicationMessageReceiver::update(void)",false
-"_ZN2al26ApplicationMessageReceiver11procMessageEj","al::ApplicationMessageReceiver::procMessage(unsigned int)",false

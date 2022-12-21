@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al19RippleTextureKeeperC1Ev","al::RippleTextureKeeper::RippleTextureKeeper(void)",false
-"_ZN2al19RippleTextureKeeper17registerRippleTexEPNS_17FluidSimulateWaveE","al::RippleTextureKeeper::registerRippleTex(al::FluidSimulateWave *)",false
-"_ZNK2al19RippleTextureKeeper15activateSamplerEPN3agl11DrawContextEi","al::RippleTextureKeeper::activateSampler(agl::DrawContext *,int)const",false

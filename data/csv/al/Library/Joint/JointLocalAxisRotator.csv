@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al21JointLocalAxisRotatorC1EPKfRKN4sead7Vector3IfEEb","al::JointLocalAxisRotator::JointLocalAxisRotator(float const*,sead::Vector3<float> const&,bool)",false
-"_ZN2al21JointLocalAxisRotator17calcJointCallbackEiPN4sead8Matrix34IfEE","al::JointLocalAxisRotator::calcJointCallback(int,sead::Matrix34<float> *)",false
-"_ZNK2al21JointLocalAxisRotator15getCtrlTypeNameEv","al::JointLocalAxisRotator::getCtrlTypeName(void)const",false

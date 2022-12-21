@@ -1,3 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al25PlacementClippingExpanderC2Ev","al::PlacementClippingExpander::PlacementClippingExpander(void)",false
-"_ZN2al25PlacementClippingExpander4initEPNS_9LiveActorERKNS_13PlacementInfoE","al::PlacementClippingExpander::init(al::LiveActor *,al::PlacementInfo const&)",false

@@ -1,5 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al12AreaInitInfoC2Ev","al::AreaInitInfo::AreaInitInfo(void)",false
-"_ZN2al12AreaInitInfoC2ERKNS_13PlacementInfoEPNS_19StageSwitchDirectorEPNS_14SceneObjHolderE","al::AreaInitInfo::AreaInitInfo(al::PlacementInfo const&,al::StageSwitchDirector *,al::SceneObjHolder *)",false
-"_ZN2al12AreaInitInfoC1ERKNS_13PlacementInfoERKS0_","al::AreaInitInfo::AreaInitInfo(al::PlacementInfo const&,al::AreaInitInfo const&)",false
-"_ZN2al12AreaInitInfo3setERKNS_13PlacementInfoEPNS_19StageSwitchDirectorEPNS_14SceneObjHolderE","al::AreaInitInfo::set(al::PlacementInfo const&,al::StageSwitchDirector *,al::SceneObjHolder *)",false

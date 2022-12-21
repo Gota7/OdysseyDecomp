@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al18OneMeshFixMapPartsC2EPKc","al::OneMeshFixMapParts::OneMeshFixMapParts(char const*)",false
-"_ZN2al18OneMeshFixMapPartsC1EPKc","al::OneMeshFixMapParts::OneMeshFixMapParts(char const*)",false
-"_ZN2al18OneMeshFixMapParts4initERKNS_13ActorInitInfoE","al::OneMeshFixMapParts::init(al::ActorInitInfo const&)",false

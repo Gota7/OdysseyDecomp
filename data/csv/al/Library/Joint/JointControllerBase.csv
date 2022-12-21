@@ -1,5 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al19JointControllerBaseC2Ei","al::JointControllerBase::JointControllerBase(int)",false
-"_ZN2al19JointControllerBase13appendJointIdEi","al::JointControllerBase::appendJointId(int)",false
-"_ZNK2al19JointControllerBase10findNextIdEPii","al::JointControllerBase::findNextId(int *,int)const",false
-"_ZNK2al19JointControllerBase9isExistIdEi","al::JointControllerBase::isExistId(int)const",false

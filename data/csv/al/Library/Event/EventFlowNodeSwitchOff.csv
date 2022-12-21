@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al22EventFlowNodeSwitchOffC2EPKc","al::EventFlowNodeSwitchOff::EventFlowNodeSwitchOff(char const*)",false
-"_ZN2al22EventFlowNodeSwitchOff4initERKNS_21EventFlowNodeInitInfoE","al::EventFlowNodeSwitchOff::init(al::EventFlowNodeInitInfo const&)",false
-"_ZN2al22EventFlowNodeSwitchOff5startEv","al::EventFlowNodeSwitchOff::start(void)",false

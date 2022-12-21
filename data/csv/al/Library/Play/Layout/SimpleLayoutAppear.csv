@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al18SimpleLayoutAppearC2EPKcS2_RKNS_14LayoutInitInfoES2_","al::SimpleLayoutAppear::SimpleLayoutAppear(char const*,char const*,al::LayoutInitInfo const&,char const*)",false
-"_ZN2al18SimpleLayoutAppearC1EPKcS2_RKNS_14LayoutInitInfoES2_","al::SimpleLayoutAppear::SimpleLayoutAppear(char const*,char const*,al::LayoutInitInfo const&,char const*)",false
-"_ZN2al18SimpleLayoutAppear6appearEv","al::SimpleLayoutAppear::appear(void)",false

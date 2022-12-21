@@ -1,3 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al18YamlWriterToMemoryC2EPhj","al::YamlWriterToMemory::YamlWriterToMemory(unsigned char *,unsigned int)",false
-"_ZNK2al18YamlWriterToMemory17getUsedBufferSizeEv","al::YamlWriterToMemory::getUsedBufferSize(void)const",false

@@ -1,3 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al19EventFlowChoiceInfoC2Ei","al::EventFlowChoiceInfo::EventFlowChoiceInfo(int)",false
-"_ZN2al19EventFlowChoiceInfo21registerChoiceMessageEPKDs","al::EventFlowChoiceInfo::registerChoiceMessage(char16_t const*)",false

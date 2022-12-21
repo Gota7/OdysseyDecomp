@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al24ActorCollisionControllerC2EPNS_9LiveActorE","al::ActorCollisionController::ActorCollisionController(al::LiveActor *)",false
-"_ZN2al24ActorCollisionController17setColliderRadiusEf","al::ActorCollisionController::setColliderRadius(float)",false
-"_ZN2al24ActorCollisionController22setColliderRadiusScaleEf","al::ActorCollisionController::setColliderRadiusScale(float)",false
-"_ZN2al24ActorCollisionController18setColliderOffsetYEf","al::ActorCollisionController::setColliderOffsetY(float)",false
-"_ZN2al24ActorCollisionController6updateEv","al::ActorCollisionController::update(void)",false
-"_ZN2al24ActorCollisionController13resetToOriginEi","al::ActorCollisionController::resetToOrigin(int)",false

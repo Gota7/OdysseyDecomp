@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al24CameraTargetAreaLimitter9tryCreateERKNS_13PlacementInfoE","al::CameraTargetAreaLimitter::tryCreate(al::PlacementInfo const&)",false
-"_ZN2al24CameraTargetAreaLimitterC2EPKNS_9AreaShapeE","al::CameraTargetAreaLimitter::CameraTargetAreaLimitter(al::AreaShape const*)",false
-"_ZNK2al24CameraTargetAreaLimitter14applyAreaLimitEPN4sead7Vector3IfEERKS3_","al::CameraTargetAreaLimitter::applyAreaLimit(sead::Vector3<float> *,sead::Vector3<float> const&)const",false

@@ -1,9 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al15GpuMemAllocatorC2Ev","al::GpuMemAllocator::GpuMemAllocator(void)",false
-"_ZN2al15GpuMemAllocatorD2Ev","al::GpuMemAllocator::~GpuMemAllocator()",false
-"_ZN2al15GpuMemAllocator12createMemoryEPKciPN4sead4HeapEiN3agl15MemoryAttributeE","al::GpuMemAllocator::createMemory(char const*,int,sead::Heap *,int,agl::MemoryAttribute)",false
-"_ZNK2al15GpuMemAllocator14findGpuMemInfoEPKc","al::GpuMemAllocator::findGpuMemInfo(char const*)const",false
-"_ZN2al15GpuMemAllocator19createMemoryWithTmpEPKciiPN4sead4HeapEiN3agl15MemoryAttributeE","al::GpuMemAllocator::createMemoryWithTmp(char const*,int,int,sead::Heap *,int,agl::MemoryAttribute)",false
-"_ZN2al15GpuMemAllocator11allocMemoryEPKcii","al::GpuMemAllocator::allocMemory(char const*,int,int)",false
-"_ZNK2al15GpuMemAllocator16getTmpMemoryAddrEPKc","al::GpuMemAllocator::getTmpMemoryAddr(char const*)const",false
-"_ZNK2al15GpuMemAllocator16getTmpMemorySizeEPKc","al::GpuMemAllocator::getTmpMemorySize(char const*)const",false

@@ -1,6 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al26InitResourceDataActionAnim9tryCreateEPNS_8ResourceEPKNS_20InitResourceDataAnimEPKc","al::InitResourceDataActionAnim::tryCreate(al::Resource *,al::InitResourceDataAnim const*,char const*)",false
-"_ZN2al26InitResourceDataActionAnimC1EPNS_8ResourceEPKNS_20InitResourceDataAnimEPKc","al::InitResourceDataActionAnim::InitResourceDataActionAnim(al::Resource *,al::InitResourceDataAnim const*,char const*)",false
-"_ZN2al26InitResourceDataActionAnim12sortCtrlInfoEv","al::InitResourceDataActionAnim::sortCtrlInfo(void)",false
-"_ZN14alAnimFunction9checkPassEfffbf","alAnimFunction::checkPass(float,float,float,bool,float)",false
-"_ZN14alAnimFunction25createAnimInfoTableIfNeedEPKN2al13AnimInfoTableES3_","alAnimFunction::createAnimInfoTableIfNeed(al::AnimInfoTable const*,al::AnimInfoTable const*)",false

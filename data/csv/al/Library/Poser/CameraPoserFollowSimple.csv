@@ -1,6 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al23CameraPoserFollowSimpleC2EPKc","al::CameraPoserFollowSimple::CameraPoserFollowSimple(char const*)",false
-"_ZN2al23CameraPoserFollowSimple9loadParamERKNS_9ByamlIterE","al::CameraPoserFollowSimple::loadParam(al::ByamlIter const&)",false
-"_ZN2al23CameraPoserFollowSimple5startERKNS_15CameraStartInfoE","al::CameraPoserFollowSimple::start(al::CameraStartInfo const&)",false
-"_ZN2al23CameraPoserFollowSimple5resetEv","al::CameraPoserFollowSimple::reset(void)",false
-"_ZN2al23CameraPoserFollowSimple6updateEv","al::CameraPoserFollowSimple::update(void)",false

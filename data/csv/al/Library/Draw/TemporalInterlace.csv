@@ -1,9 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al17TemporalInterlaceC1EPNS_12ShaderHolderEii","al::TemporalInterlace::TemporalInterlace(al::ShaderHolder *,int,int)",false
-"_ZN2al17TemporalInterlaceD2Ev","al::TemporalInterlace::~TemporalInterlace()",false
-"_ZN2al17TemporalInterlace6updateEv","al::TemporalInterlace::update(void)",false
-"_ZN2al17TemporalInterlace7calcGpuEPKNS_10ProjectionEi","al::TemporalInterlace::calcGpu(al::Projection const*,int)",false
-"_ZNK2al17TemporalInterlace16drawReprojectionEPN3agl11DrawContextERKNS1_12RenderBufferEPKNS1_11TextureDataES9_","al::TemporalInterlace::drawReprojection(agl::DrawContext *,agl::RenderBuffer const&,agl::TextureData const*,agl::TextureData const*)const",false
-"_ZNK2al17TemporalInterlace15getCurrentFrameEv","al::TemporalInterlace::getCurrentFrame(void)const",false
-"_ZNK2al17TemporalInterlace12getPrevFrameEv","al::TemporalInterlace::getPrevFrame(void)const",false
-"_ZNK2al17TemporalInterlace16getPrevPrevFrameEv","al::TemporalInterlace::getPrevPrevFrame(void)const",false

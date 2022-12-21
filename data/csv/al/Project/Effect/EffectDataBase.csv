@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al22EffectDrawCategoryInfoC2Ev","al::EffectDrawCategoryInfo::EffectDrawCategoryInfo(void)",false
-"_ZN2al14EffectDataBaseC2EPKc","al::EffectDataBase::EffectDataBase(char const*)",false
-"_ZN24alEffectDataBaseFunction20createEffectUserInfoEPKN2al14EffectDataBaseEPKNS0_8ResourceERKN4sead14SafeStringBaseIcEE","alEffectDataBaseFunction::createEffectUserInfo(al::EffectDataBase const*,al::Resource const*,sead::SafeStringBase<char> const&)",false

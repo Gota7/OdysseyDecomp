@@ -2,7 +2,6 @@ import glob, nso, os, sys
 from colorama import Fore, Style
 from capstone import *
 from elftools.elf.elffile import ELFFile
-import csv
 
 def getModule(sym):
     for root, dirs, files in os.walk("map"):
@@ -137,54 +136,25 @@ for i in range(orig_length):
 isAlreadyMarked = False
 
 if instr_equal == True and regs_equal == True:
-    csv_path = object_path.replace("build/", "")
-    csv_path = csv_path.replace(".o", ".csv")
 
-    with open(f"data/csv/{csv_path}", newline='') as cur_file:
-        rdr = csv.DictReader(cur_file)
+    with open("data/functions.csv", "r") as f:
+        csvData = f.readlines()
 
-        csv_lines = []
+    outCsv = []
 
-        for row in rdr:
-            if row['Mangled Symbol'] == sym:
-                if row[' Is Matched'] == "true":
-                    isAlreadyMarked = True
-                    break
-                else:
-                    entry = { "Mangled Symbol": f"{row['Mangled Symbol']}", " Demangled Symbol": f"{row[' Demangled Symbol']}", " Is Matched": "true" }
-                    csv_lines.append(entry)
-            else:
-                entry = { "Mangled Symbol": f"{row['Mangled Symbol']}", " Demangled Symbol": f"{row[' Demangled Symbol']}", " Is Matched": f"{row[' Is Matched']}" }
-                csv_lines.append(entry)
-
-        if isAlreadyMarked == False:
-            with open(f"data/csv/{csv_path}", "w", newline='') as cur_file:
-                field_names = ["Mangled Symbol", " Demangled Symbol", " Is Matched"]
-                wr = csv.DictWriter(cur_file, fieldnames=field_names)
-
-                wr.writeheader()
-
-                for e in csv_lines:
-                    wr.writerow(e)
-
-    # with open("data/functions.csv", "r") as f:
-    #     csvData = f.readlines()
-
-    # outCsv = []
-
-    # for c in csvData:
-    #     spl = c.split(",")
+    for c in csvData:
+        spl = c.split(",")
     
-    #     if spl[1] == sym and spl[2] == "false\n":
-    #         outCsv.append(f"{spl[0]},{spl[1]},true\n")
-    #     elif spl[1] == sym and spl[2] == "true\n":
-    #         isAlreadyMarked = True
-    #         outCsv.append(c)
-    #     else:
-    #         outCsv.append(c)
+        if spl[1] == sym and spl[2] == "false\n":
+            outCsv.append(f"{spl[0]},{spl[1]},true\n")
+        elif spl[1] == sym and spl[2] == "true\n":
+            isAlreadyMarked = True
+            outCsv.append(c)
+        else:
+            outCsv.append(c)
 
-    # with open("data/functions.csv", "w") as w:
-    #     w.writelines(outCsv)
+    with open("data/functions.csv", "w") as w:
+        w.writelines(outCsv)
 
     if isAlreadyMarked == True:
         print("Function is already marked as decompiled.")

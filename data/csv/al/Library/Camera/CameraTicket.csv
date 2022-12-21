@@ -1,3 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al12CameraTicketC1EPNS_11CameraPoserEPKNS_14CameraTicketIdEi","al::CameraTicket::CameraTicket(al::CameraPoser *,al::CameraTicketId const*,int)",false
-"_ZN2al12CameraTicket11setPriorityEi","al::CameraTicket::setPriority(int)",false

@@ -1,5 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al20CameraPoserLookBoardC2EPKc","al::CameraPoserLookBoard::CameraPoserLookBoard(char const*)",false
-"_ZN2al20CameraPoserLookBoard4initEv","al::CameraPoserLookBoard::init(void)",false
-"_ZN2al20CameraPoserLookBoard9loadParamERKNS_9ByamlIterE","al::CameraPoserLookBoard::loadParam(al::ByamlIter const&)",false
-"_ZN2al20CameraPoserLookBoard5startERKNS_15CameraStartInfoE","al::CameraPoserLookBoard::start(al::CameraStartInfo const&)",false

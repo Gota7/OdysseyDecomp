@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al22TalkMessageVoicePlayerC2Ev","al::TalkMessageVoicePlayer::TalkMessageVoicePlayer(void)",false
-"_ZN2al22TalkMessageVoicePlayer5startEPKNS_17IUseMessageSystemEPKNS_15IUseAudioKeeperEPKDsi","al::TalkMessageVoicePlayer::start(al::IUseMessageSystem const*,al::IUseAudioKeeper const*,char16_t const*,int)",false
-"_ZN2al22TalkMessageVoicePlayer4stopEv","al::TalkMessageVoicePlayer::stop(void)",false
-"_ZN2al22TalkMessageVoicePlayer6updateEv","al::TalkMessageVoicePlayer::update(void)",false
-"_ZNK2al22TalkMessageVoicePlayer14calcVoicePitchEi","al::TalkMessageVoicePlayer::calcVoicePitch(int)const",false
-"_ZNK2al22TalkMessageVoicePlayer9isPlayingEv","al::TalkMessageVoicePlayer::isPlaying(void)const",false

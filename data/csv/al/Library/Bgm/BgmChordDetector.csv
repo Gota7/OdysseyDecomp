@@ -1,5 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al16BgmChordDetectorC2Ev","al::BgmChordDetector::BgmChordDetector(void)",false
-"_ZN2al16BgmChordDetector4initEPKNS_22AudioInfoListWithPartsINS_12BgmChordInfoEEE","al::BgmChordDetector::init(al::AudioInfoListWithParts<al::BgmChordInfo> const*)",false
-"_ZN2al16BgmChordDetector6updateEf","al::BgmChordDetector::update(float)",false
-"_ZN2al16BgmChordDetector18forceUninitializedEv","al::BgmChordDetector::forceUninitialized(void)",false

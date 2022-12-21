@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al15SilhouetteModelC2EPNS_9LiveActorERKNS_13ActorInitInfoEPKc","al::SilhouetteModel::SilhouetteModel(al::LiveActor *,al::ActorInitInfo const&,char const*)",false
-"_ZN2al15SilhouetteModelC1EPNS_9LiveActorERKNS_13ActorInitInfoEPKc","al::SilhouetteModel::SilhouetteModel(al::LiveActor *,al::ActorInitInfo const&,char const*)",false
-"_ZN2al15SilhouetteModel8movementEv","al::SilhouetteModel::movement(void)",false

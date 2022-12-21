@@ -1,8 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al14CameraViewInfoC2EiRKN4sead12LookAtCameraERKNS_10ProjectionERKNS_14CameraViewFlagERKNS_19OrthoProjectionInfoE","al::CameraViewInfo::CameraViewInfo(int,sead::LookAtCamera const&,al::Projection const&,al::CameraViewFlag const&,al::OrthoProjectionInfo const&)",false
-"_ZNK2al14CameraViewInfo17getProjectionSeadEv","al::CameraViewInfo::getProjectionSead(void)const",false
-"_ZNK2al14CameraViewInfo10getProjMtxEv","al::CameraViewInfo::getProjMtx(void)const",false
-"_ZNK2al14CameraViewInfo13getProjMtxStdEv","al::CameraViewInfo::getProjMtxStd(void)const",false
-"_ZNK2al14CameraViewInfo9getAspectEv","al::CameraViewInfo::getAspect(void)const",false
-"_ZNK2al14CameraViewInfo7getNearEv","al::CameraViewInfo::getNear(void)const",false
-"_ZNK2al14CameraViewInfo6getFarEv","al::CameraViewInfo::getFar(void)const",false

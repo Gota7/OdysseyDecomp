@@ -1,5 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al19SpecialCameraHolderC2Ev","al::SpecialCameraHolder::SpecialCameraHolder(void)",false
-"_ZN2al19SpecialCameraHolder25allocEntranceCameraBufferEi","al::SpecialCameraHolder::allocEntranceCameraBuffer(int)",false
-"_ZN2al19SpecialCameraHolder22registerEntranceCameraEPNS_12CameraTicketE","al::SpecialCameraHolder::registerEntranceCamera(al::CameraTicket *)",false
-"_ZNK2al19SpecialCameraHolder18findEntranceCameraEPKc","al::SpecialCameraHolder::findEntranceCamera(char const*)const",false

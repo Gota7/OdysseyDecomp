@@ -1,6 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al15ModelDrawerMaskC2EPKc","al::ModelDrawerMask::ModelDrawerMask(char const*)",false
-"_ZN2al15ModelDrawerMask11createTableEv","al::ModelDrawerMask::createTable(void)",false
-"_ZNK2al15ModelDrawerMask4drawEv","al::ModelDrawerMask::draw(void)const",false
-"_ZN2al15ModelDrawerMask11updateModelEPNS_9ModelCtrlE","al::ModelDrawerMask::updateModel(al::ModelCtrl *)",false
-"_ZN2al15ModelDrawerMaskD0Ev","al::ModelDrawerMask::~ModelDrawerMask()",false

@@ -1,9 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al19ClippingGroupHolderC2Ev","al::ClippingGroupHolder::ClippingGroupHolder(void)",false
-"_ZN2al19ClippingGroupHolder6updateEPKNS_13ClippingJudgeE","al::ClippingGroupHolder::update(al::ClippingJudge const*)",false
-"_ZN2al19ClippingGroupHolder14createAndCountEPNS_17ClippingActorInfoE","al::ClippingGroupHolder::createAndCount(al::ClippingActorInfo *)",false
-"_ZN2al19ClippingGroupHolder12tryFindGroupEPKNS_17ClippingActorInfoE","al::ClippingGroupHolder::tryFindGroup(al::ClippingActorInfo const*)",false
-"_ZN2al19ClippingGroupHolder11allocBufferEv","al::ClippingGroupHolder::allocBuffer(void)",false
-"_ZN2al19ClippingGroupHolder12registerInfoEPNS_17ClippingActorInfoE","al::ClippingGroupHolder::registerInfo(al::ClippingActorInfo *)",false
-"_ZN2al19ClippingGroupHolder5leaveEPNS_17ClippingActorInfoE","al::ClippingGroupHolder::leave(al::ClippingActorInfo *)",false
-"_ZN2al19ClippingGroupHolder7reentryEPNS_17ClippingActorInfoE","al::ClippingGroupHolder::reentry(al::ClippingActorInfo *)",false

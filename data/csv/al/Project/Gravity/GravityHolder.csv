@@ -1,9 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al13GravityHolderC2Ev","al::GravityHolder::GravityHolder(void)",false
-"_ZN2al13GravityHolder4initEv","al::GravityHolder::init(void)",false
-"_ZN2al13GravityHolder13createGravityERKNS_13PlacementInfoE","al::GravityHolder::createGravity(al::PlacementInfo const&)",false
-"_ZNK2al13GravityHolder14tryCalcGravityEPN4sead7Vector3IfEERKS3_","al::GravityHolder::tryCalcGravity(sead::Vector3<float> *,sead::Vector3<float> const&)const",false
-"_ZNK2al13GravityHolder19tryCalcBlendGravityEPN4sead7Vector3IfEERKS3_","al::GravityHolder::tryCalcBlendGravity(sead::Vector3<float> *,sead::Vector3<float> const&)const",false
-"_ZN2al12GravityPointC2Ev","al::GravityPoint::GravityPoint(void)",false
-"_ZN2al12GravityPoint21initWithPlacementInfoERKNS_13PlacementInfoE","al::GravityPoint::initWithPlacementInfo(al::PlacementInfo const&)",false
-"_ZNK2al12GravityPoint14tryCalcGravityEPN4sead7Vector3IfEERKS3_","al::GravityPoint::tryCalcGravity(sead::Vector3<float> *,sead::Vector3<float> const&)const",false

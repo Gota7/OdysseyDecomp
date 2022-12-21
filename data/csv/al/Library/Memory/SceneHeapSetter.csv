@@ -1,7 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al15SceneHeapSetterC2Ev","al::SceneHeapSetter::SceneHeapSetter(void)",false
-"_ZN2al14copyMemoryFastEPjPKjj","al::copyMemoryFast(unsigned int *,unsigned int const*,unsigned int)",false
-"_ZN2al10copyMemoryEPvPKvj","al::copyMemory(void *,void const*,unsigned int)",false
-"_ZN2al17tryCompressByZlibEPhPjPKhj","al::tryCompressByZlib(unsigned char *,unsigned int *,unsigned char const*,unsigned int)",false
-"_ZN2al19tryDecompressByZlibEPhPjPKhj","al::tryDecompressByZlib(unsigned char *,unsigned int *,unsigned char const*,unsigned int)",false
-"_ZN2al14getCurrentHeapEv","al::getCurrentHeap(void)",false

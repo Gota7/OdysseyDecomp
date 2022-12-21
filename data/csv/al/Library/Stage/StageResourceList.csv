@@ -1,5 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al17StageResourceListC1EPKciS2_","al::StageResourceList::StageResourceList(char const*,int,char const*)",false
-"_ZNK2al17StageResourceList19getStageResourceNumEv","al::StageResourceList::getStageResourceNum(void)const",false
-"_ZNK2al17StageResourceList12getStageInfoEi","al::StageResourceList::getStageInfo(int)const",false
-"_ZN2al24makeStageDataArchivePathEPN4sead22BufferedSafeStringBaseIcEEPKcS5_","al::makeStageDataArchivePath(sead::BufferedSafeStringBase<char> *,char const*,char const*)",false

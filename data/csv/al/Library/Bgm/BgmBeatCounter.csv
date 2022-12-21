@@ -1,4 +1,0 @@
-Mangled Symbol, Demangled Symbol, Is Matched
-"_ZN2al14BgmBeatCounterC1EPNS_15IUseAudioKeeperEf","al::BgmBeatCounter::BgmBeatCounter(al::IUseAudioKeeper *,float)",false
-"_ZN2al14BgmBeatCounter6updateEv","al::BgmBeatCounter::update(void)",false
-"_ZNK2al14BgmBeatCounter13isTriggerBeatEii","al::BgmBeatCounter::isTriggerBeat(int,int)const",false
