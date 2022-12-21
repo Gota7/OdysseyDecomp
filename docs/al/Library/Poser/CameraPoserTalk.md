@@ -8,8 +8,8 @@
 # CameraPoserTalk.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al15CameraPoserTalkC2EPKc` | `al::CameraPoserTalk::CameraPoserTalk(char const*)` | :white_check_mark: |
-| `_ZN2al15CameraPoserTalk4initEv` | `al::CameraPoserTalk::init(void)` | :white_check_mark: |
-| `_ZN2al15CameraPoserTalk9loadParamERKNS_9ByamlIterE` | `al::CameraPoserTalk::loadParam(al::ByamlIter const&)` | :white_check_mark: |
-| `_ZN2al15CameraPoserTalk5startERKNS_15CameraStartInfoE` | `al::CameraPoserTalk::start(al::CameraStartInfo const&)` | :white_check_mark: |
-| `_ZN2al15CameraPoserTalk14setMinDistanceEf` | `al::CameraPoserTalk::setMinDistance(float)` | :white_check_mark: |
+| `_ZN2al15CameraPoserTalkC2EPKc` | `al::CameraPoserTalk::CameraPoserTalk(char const*)` | :x: |
+| `_ZN2al15CameraPoserTalk4initEv` | `al::CameraPoserTalk::init(void)` | :x: |
+| `_ZN2al15CameraPoserTalk9loadParamERKNS_9ByamlIterE` | `al::CameraPoserTalk::loadParam(al::ByamlIter const&)` | :x: |
+| `_ZN2al15CameraPoserTalk5startERKNS_15CameraStartInfoE` | `al::CameraPoserTalk::start(al::CameraStartInfo const&)` | :x: |
+| `_ZN2al15CameraPoserTalk14setMinDistanceEf` | `al::CameraPoserTalk::setMinDistance(float)` | :x: |

@@ -8,4 +8,4 @@
 # CameraSubTargetTurnParam.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al24CameraSubTargetTurnParam4initERKNS_13ActorInitInfoE` | `al::CameraSubTargetTurnParam::init(al::ActorInitInfo const&)` | :white_check_mark: |
+| `_ZN2al24CameraSubTargetTurnParam4initERKNS_13ActorInitInfoE` | `al::CameraSubTargetTurnParam::init(al::ActorInitInfo const&)` | :x: |

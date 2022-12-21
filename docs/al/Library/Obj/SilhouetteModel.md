@@ -8,6 +8,6 @@
 # SilhouetteModel.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al15SilhouetteModelC2EPNS_9LiveActorERKNS_13ActorInitInfoEPKc` | `al::SilhouetteModel::SilhouetteModel(al::LiveActor *,al::ActorInitInfo const&,char const*)` | :white_check_mark: |
-| `_ZN2al15SilhouetteModelC1EPNS_9LiveActorERKNS_13ActorInitInfoEPKc` | `al::SilhouetteModel::SilhouetteModel(al::LiveActor *,al::ActorInitInfo const&,char const*)` | :white_check_mark: |
-| `_ZN2al15SilhouetteModel8movementEv` | `al::SilhouetteModel::movement(void)` | :white_check_mark: |
+| `_ZN2al15SilhouetteModelC2EPNS_9LiveActorERKNS_13ActorInitInfoEPKc` | `al::SilhouetteModel::SilhouetteModel(al::LiveActor *,al::ActorInitInfo const&,char const*)` | :x: |
+| `_ZN2al15SilhouetteModelC1EPNS_9LiveActorERKNS_13ActorInitInfoEPKc` | `al::SilhouetteModel::SilhouetteModel(al::LiveActor *,al::ActorInitInfo const&,char const*)` | :x: |
+| `_ZN2al15SilhouetteModel8movementEv` | `al::SilhouetteModel::movement(void)` | :x: |

@@ -8,4 +8,4 @@
 # GraphicsContextDrawInfo.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al23GraphicsContextDrawInfoC1EPKNS_9ModelCtrlEi` | `al::GraphicsContextDrawInfo::GraphicsContextDrawInfo(al::ModelCtrl const*,int)` | :white_check_mark: |
+| `_ZN2al23GraphicsContextDrawInfoC1EPKNS_9ModelCtrlEi` | `al::GraphicsContextDrawInfo::GraphicsContextDrawInfo(al::ModelCtrl const*,int)` | :x: |

@@ -8,79 +8,79 @@
 # MtxUtil.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al15makeBayerMatrixEPii` | `al::makeBayerMatrix(int *,int)` | :white_check_mark: |
-| `_ZN2al8f32ToF16Ef` | `al::f32ToF16(float)` | :white_check_mark: |
-| `_ZN2al8f16ToF32Et` | `al::f16ToF32(unsigned short)` | :white_check_mark: |
-| `_ZN2al12MtxPtrHolderC2Ev` | `al::MtxPtrHolder::MtxPtrHolder(void)` | :white_check_mark: |
-| `_ZN2al12MtxPtrHolder4initEi` | `al::MtxPtrHolder::init(int)` | :white_check_mark: |
-| `_ZN2al12MtxPtrHolder16setMtxPtrAndNameEiPKcPKN4sead8Matrix34IfEE` | `al::MtxPtrHolder::setMtxPtrAndName(int,char const*,sead::Matrix34<float> const*)` | :white_check_mark: |
-| `_ZN2al12MtxPtrHolder9setMtxPtrEPKcPKN4sead8Matrix34IfEE` | `al::MtxPtrHolder::setMtxPtr(char const*,sead::Matrix34<float> const*)` | :white_check_mark: |
-| `_ZNK2al12MtxPtrHolder9findIndexEPKc` | `al::MtxPtrHolder::findIndex(char const*)const` | :white_check_mark: |
-| `_ZNK2al12MtxPtrHolder10findMtxPtrEPKc` | `al::MtxPtrHolder::findMtxPtr(char const*)const` | :white_check_mark: |
-| `_ZNK2al12MtxPtrHolder13tryFindMtxPtrEPKc` | `al::MtxPtrHolder::tryFindMtxPtr(char const*)const` | :white_check_mark: |
-| `_ZNK2al12MtxPtrHolder12tryFindIndexEPKc` | `al::MtxPtrHolder::tryFindIndex(char const*)const` | :white_check_mark: |
-| `_ZN2al18makeMtxRotateTransEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxRotateTrans(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al18makeMtxFromTwoAxisEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_ii` | `al::makeMtxFromTwoAxis(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,int,int)` | :white_check_mark: |
-| `_ZN2al14makeMtxFrontUpEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxFrontUp(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al16makeMtxFrontSideEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxFrontSide(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al14makeMtxUpFrontEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxUpFront(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al13makeMtxUpSideEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxUpSide(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al13makeMtxSideUpEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxSideUp(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al16makeMtxSideFrontEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxSideFront(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al21makeMtxFrontNoSupportEPN4sead8Matrix34IfEERKNS0_7Vector3IfEE` | `al::makeMtxFrontNoSupport(sead::Matrix34<float> *,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al24makeMtxFrontNoSupportPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxFrontNoSupportPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al18makeMtxUpNoSupportEPN4sead8Matrix34IfEERKNS0_7Vector3IfEE` | `al::makeMtxUpNoSupport(sead::Matrix34<float> *,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al21makeMtxUpNoSupportPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxUpNoSupportPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al20makeMtxSideNoSupportEPN4sead8Matrix34IfEERKNS0_7Vector3IfEE` | `al::makeMtxSideNoSupport(sead::Matrix34<float> *,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al23makeMtxSideNoSupportPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxSideNoSupportPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al14makeMtxQuatPosEPN4sead8Matrix34IfEERKNS0_4QuatIfEERKNS0_7Vector3IfEE` | `al::makeMtxQuatPos(sead::Matrix34<float> *,sead::Quat<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al19makeMtxQuatScalePosEPN4sead8Matrix34IfEERKNS0_4QuatIfEERKNS0_7Vector3IfEESB_` | `al::makeMtxQuatScalePos(sead::Matrix34<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al19makeMtxQuatScalePosEPN4sead8Matrix44IfEERKNS0_4QuatIfEERKNS0_7Vector3IfEESB_` | `al::makeMtxQuatScalePos(sead::Matrix44<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al17makeMtxFrontUpPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxFrontUpPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al19makeMtxFrontSidePosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxFrontSidePos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al17makeMtxUpFrontPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxUpFrontPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al16makeMtxUpSidePosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxUpSidePos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al16makeMtxSideUpPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxSideUpPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al19makeMtxSideFrontPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxSideFrontPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al19makeMtxFollowTargetEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEES9_` | `al::makeMtxFollowTarget(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al11makeMtxProjEPN4sead8Matrix44IfEERKNS0_7Vector2IfEERKNS0_7Vector3IfEESB_` | `al::makeMtxProj(sead::Matrix44<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al25makeMtxProjFromQuatPoseUpEPN4sead8Matrix44IfEERKNS0_4QuatIfEERKNS0_7Vector2IfEERKNS0_7Vector3IfEE` | `al::makeMtxProjFromQuatPoseUp(sead::Matrix44<float> *,sead::Quat<float> const&,sead::Vector2<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al28makeMtxProjFromQuatPoseFrontEPN4sead8Matrix44IfEERKNS0_4QuatIfEERKNS0_7Vector2IfEERKNS0_7Vector3IfEE` | `al::makeMtxProjFromQuatPoseFront(sead::Matrix44<float> *,sead::Quat<float> const&,sead::Vector2<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al27makeMtxProjFromQuatPoseSideEPN4sead8Matrix44IfEERKNS0_4QuatIfEERKNS0_7Vector2IfEERKNS0_7Vector3IfEE` | `al::makeMtxProjFromQuatPoseSide(sead::Matrix44<float> *,sead::Quat<float> const&,sead::Vector2<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al17makeMtxProjFromUpEPN4sead8Matrix44IfEERKNS0_7Vector2IfEERKNS0_7Vector3IfEE` | `al::makeMtxProjFromUp(sead::Matrix44<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al19rotateMtxXDirDegreeEPN4sead8Matrix34IfEERKS2_f` | `al::rotateMtxXDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,float)` | :white_check_mark: |
-| `_ZN2al19rotateMtxYDirDegreeEPN4sead8Matrix34IfEERKS2_f` | `al::rotateMtxYDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,float)` | :white_check_mark: |
-| `_ZN2al19rotateMtxZDirDegreeEPN4sead8Matrix34IfEERKS2_f` | `al::rotateMtxZDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,float)` | :white_check_mark: |
-| `_ZN2al28rotateMtxCenterPosXDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::rotateMtxCenterPosXDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al28rotateMtxCenterPosAxisDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEES9_f` | `al::rotateMtxCenterPosAxisDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al28rotateMtxCenterPosYDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::rotateMtxCenterPosYDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al28rotateMtxCenterPosZDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::rotateMtxCenterPosZDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al22rotateMtxCenterPosQuatEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEERKNS0_4QuatIfEE` | `al::rotateMtxCenterPosQuat(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,sead::Quat<float> const&)` | :white_check_mark: |
-| `_ZN2al17turnMtxXDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnMtxXDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al17turnMtxYDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnMtxYDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al17turnMtxZDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnMtxZDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al24calcCameraPosFromViewMtxEPN4sead7Vector3IfEERKNS0_8Matrix34IfEE` | `al::calcCameraPosFromViewMtx(sead::Vector3<float> *,sead::Matrix34<float> const&)` | :white_check_mark: |
-| `_ZN2al10calcMtxMulEPN4sead7Vector3IfEERKNS0_8Matrix34IfEERKS2_` | `al::calcMtxMul(sead::Vector3<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al10calcMtxMulEPN4sead7Vector3IfEERKNS_8Matrix43IfEERKS2_` | `al::calcMtxMul(sead::Vector3<float> *,al::Matrix43<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al12calcMtxScaleEPN4sead7Vector3IfEERKNS0_8Matrix34IfEE` | `al::calcMtxScale(sead::Vector3<float> *,sead::Matrix34<float> const&)` | :white_check_mark: |
-| `_ZN2al12calcMtxScaleEPN4sead7Vector3IfEERKNS_8Matrix43IfEE` | `al::calcMtxScale(sead::Vector3<float> *,al::Matrix43<float> const&)` | :white_check_mark: |
-| `_ZN2al17normalizeMtxScaleEPN4sead8Matrix34IfEERKS2_` | `al::normalizeMtxScale(sead::Matrix34<float> *,sead::Matrix34<float> const&)` | :white_check_mark: |
-| `_ZN2al30tryNormalizeMtxScaleOrIdentityEPN4sead8Matrix34IfEERKS2_` | `al::tryNormalizeMtxScaleOrIdentity(sead::Matrix34<float> *,sead::Matrix34<float> const&)` | :white_check_mark: |
-| `_ZN2al17calcMtxLocalTransEPN4sead7Vector3IfEERKNS0_8Matrix34IfEERKS2_` | `al::calcMtxLocalTrans(sead::Vector3<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al25calcTransLocalOffsetByMtxEPN4sead7Vector3IfEERKNS0_8Matrix34IfEERKS2_` | `al::calcTransLocalOffsetByMtx(sead::Vector3<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al11preScaleMtxEPN4sead8Matrix34IfEERKNS0_7Vector3IfEE` | `al::preScaleMtx(sead::Matrix34<float> *,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al22addTransMtxLocalOffsetEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEE` | `al::addTransMtxLocalOffset(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
-| `_ZN2al8blendMtxEPN4sead8Matrix34IfEERKS2_S5_f` | `al::blendMtx(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Matrix34<float> const&,float)` | :white_check_mark: |
-| `_ZN2al14blendMtxRotateEPN4sead8Matrix34IfEERKS2_S5_f` | `al::blendMtxRotate(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Matrix34<float> const&,float)` | :white_check_mark: |
-| `_ZN2al13blendMtxTransEPN4sead8Matrix34IfEERKS2_S5_f` | `al::blendMtxTrans(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Matrix34<float> const&,float)` | :white_check_mark: |
-| `_ZN2al35calcMtxLocalDirAngleOnPlaneToTargetEPKN4sead8Matrix34IfEERKNS0_7Vector3IfEEii` | `al::calcMtxLocalDirAngleOnPlaneToTarget(sead::Matrix34<float> const*,sead::Vector3<float> const&,int,int)` | :white_check_mark: |
-| `_ZN2al32calcMtxLocalDirAngleOnPlaneToDirEPKN4sead8Matrix34IfEERKNS0_7Vector3IfEEii` | `al::calcMtxLocalDirAngleOnPlaneToDir(sead::Matrix34<float> const*,sead::Vector3<float> const&,int,int)` | :white_check_mark: |
-| `_ZN2al17calcRotAxisOrZeroEPN4sead7Vector3IfEERKNS0_8Matrix34IfEE` | `al::calcRotAxisOrZero(sead::Vector3<float> *,sead::Matrix34<float> const&)` | :white_check_mark: |
-| `_ZN2al18calcMxtInvertOrthoEPN4sead8Matrix34IfEERKS2_` | `al::calcMxtInvertOrtho(sead::Matrix34<float> *,sead::Matrix34<float> const&)` | :white_check_mark: |
-| `_ZN2al26calcNearFarByInvProjectionEPfS0_RKN4sead8Matrix44IfEE` | `al::calcNearFarByInvProjection(float *,float *,sead::Matrix44<float> const&)` | :white_check_mark: |
-| `_ZN2al22calcMovedInertiaTensorEPN4sead8Matrix33IfEERKS2_RKNS0_7Vector3IfEEf` | `al::calcMovedInertiaTensor(sead::Matrix33<float> *,sead::Matrix33<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al39calcInertiaTensorByMovedTensorAndCenterEPN4sead8Matrix33IfEERKS2_RKNS0_7Vector3IfEEf` | `al::calcInertiaTensorByMovedTensorAndCenter(sead::Matrix33<float> *,sead::Matrix33<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al23calcInertiaTensorSphereEPN4sead8Matrix33IfEEff` | `al::calcInertiaTensorSphere(sead::Matrix33<float> *,float,float)` | :white_check_mark: |
-| `_ZN2al20calcInertiaTensorBoxEPN4sead8Matrix33IfEERKNS0_7Vector3IfEEf` | `al::calcInertiaTensorBox(sead::Matrix33<float> *,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al10makeMtx34fEPN4sead8Matrix34IfEERKN2nn4util4neon25MatrixColumnMajor4x3fTypeE` | `al::makeMtx34f(sead::Matrix34<float> *,nn::util::neon::MatrixColumnMajor4x3fType const&)` | :white_check_mark: |
-| `_ZN2al10makeMtx44fEPN4sead8Matrix44IfEERKN2nn4util4neon25MatrixColumnMajor4x4fTypeE` | `al::makeMtx44f(sead::Matrix44<float> *,nn::util::neon::MatrixColumnMajor4x4fType const&)` | :white_check_mark: |
+| `_ZN2al15makeBayerMatrixEPii` | `al::makeBayerMatrix(int *,int)` | :x: |
+| `_ZN2al8f32ToF16Ef` | `al::f32ToF16(float)` | :x: |
+| `_ZN2al8f16ToF32Et` | `al::f16ToF32(unsigned short)` | :x: |
+| `_ZN2al12MtxPtrHolderC2Ev` | `al::MtxPtrHolder::MtxPtrHolder(void)` | :x: |
+| `_ZN2al12MtxPtrHolder4initEi` | `al::MtxPtrHolder::init(int)` | :x: |
+| `_ZN2al12MtxPtrHolder16setMtxPtrAndNameEiPKcPKN4sead8Matrix34IfEE` | `al::MtxPtrHolder::setMtxPtrAndName(int,char const*,sead::Matrix34<float> const*)` | :x: |
+| `_ZN2al12MtxPtrHolder9setMtxPtrEPKcPKN4sead8Matrix34IfEE` | `al::MtxPtrHolder::setMtxPtr(char const*,sead::Matrix34<float> const*)` | :x: |
+| `_ZNK2al12MtxPtrHolder9findIndexEPKc` | `al::MtxPtrHolder::findIndex(char const*)const` | :x: |
+| `_ZNK2al12MtxPtrHolder10findMtxPtrEPKc` | `al::MtxPtrHolder::findMtxPtr(char const*)const` | :x: |
+| `_ZNK2al12MtxPtrHolder13tryFindMtxPtrEPKc` | `al::MtxPtrHolder::tryFindMtxPtr(char const*)const` | :x: |
+| `_ZNK2al12MtxPtrHolder12tryFindIndexEPKc` | `al::MtxPtrHolder::tryFindIndex(char const*)const` | :x: |
+| `_ZN2al18makeMtxRotateTransEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxRotateTrans(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al18makeMtxFromTwoAxisEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_ii` | `al::makeMtxFromTwoAxis(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,int,int)` | :x: |
+| `_ZN2al14makeMtxFrontUpEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxFrontUp(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al16makeMtxFrontSideEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxFrontSide(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al14makeMtxUpFrontEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxUpFront(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al13makeMtxUpSideEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxUpSide(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al13makeMtxSideUpEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxSideUp(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al16makeMtxSideFrontEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxSideFront(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al21makeMtxFrontNoSupportEPN4sead8Matrix34IfEERKNS0_7Vector3IfEE` | `al::makeMtxFrontNoSupport(sead::Matrix34<float> *,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al24makeMtxFrontNoSupportPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxFrontNoSupportPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al18makeMtxUpNoSupportEPN4sead8Matrix34IfEERKNS0_7Vector3IfEE` | `al::makeMtxUpNoSupport(sead::Matrix34<float> *,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al21makeMtxUpNoSupportPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxUpNoSupportPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al20makeMtxSideNoSupportEPN4sead8Matrix34IfEERKNS0_7Vector3IfEE` | `al::makeMtxSideNoSupport(sead::Matrix34<float> *,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al23makeMtxSideNoSupportPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_` | `al::makeMtxSideNoSupportPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al14makeMtxQuatPosEPN4sead8Matrix34IfEERKNS0_4QuatIfEERKNS0_7Vector3IfEE` | `al::makeMtxQuatPos(sead::Matrix34<float> *,sead::Quat<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al19makeMtxQuatScalePosEPN4sead8Matrix34IfEERKNS0_4QuatIfEERKNS0_7Vector3IfEESB_` | `al::makeMtxQuatScalePos(sead::Matrix34<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al19makeMtxQuatScalePosEPN4sead8Matrix44IfEERKNS0_4QuatIfEERKNS0_7Vector3IfEESB_` | `al::makeMtxQuatScalePos(sead::Matrix44<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al17makeMtxFrontUpPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxFrontUpPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al19makeMtxFrontSidePosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxFrontSidePos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al17makeMtxUpFrontPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxUpFrontPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al16makeMtxUpSidePosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxUpSidePos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al16makeMtxSideUpPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxSideUpPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al19makeMtxSideFrontPosEPN4sead8Matrix34IfEERKNS0_7Vector3IfEES7_S7_` | `al::makeMtxSideFrontPos(sead::Matrix34<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al19makeMtxFollowTargetEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEES9_` | `al::makeMtxFollowTarget(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al11makeMtxProjEPN4sead8Matrix44IfEERKNS0_7Vector2IfEERKNS0_7Vector3IfEESB_` | `al::makeMtxProj(sead::Matrix44<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al25makeMtxProjFromQuatPoseUpEPN4sead8Matrix44IfEERKNS0_4QuatIfEERKNS0_7Vector2IfEERKNS0_7Vector3IfEE` | `al::makeMtxProjFromQuatPoseUp(sead::Matrix44<float> *,sead::Quat<float> const&,sead::Vector2<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al28makeMtxProjFromQuatPoseFrontEPN4sead8Matrix44IfEERKNS0_4QuatIfEERKNS0_7Vector2IfEERKNS0_7Vector3IfEE` | `al::makeMtxProjFromQuatPoseFront(sead::Matrix44<float> *,sead::Quat<float> const&,sead::Vector2<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al27makeMtxProjFromQuatPoseSideEPN4sead8Matrix44IfEERKNS0_4QuatIfEERKNS0_7Vector2IfEERKNS0_7Vector3IfEE` | `al::makeMtxProjFromQuatPoseSide(sead::Matrix44<float> *,sead::Quat<float> const&,sead::Vector2<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al17makeMtxProjFromUpEPN4sead8Matrix44IfEERKNS0_7Vector2IfEERKNS0_7Vector3IfEE` | `al::makeMtxProjFromUp(sead::Matrix44<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al19rotateMtxXDirDegreeEPN4sead8Matrix34IfEERKS2_f` | `al::rotateMtxXDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,float)` | :x: |
+| `_ZN2al19rotateMtxYDirDegreeEPN4sead8Matrix34IfEERKS2_f` | `al::rotateMtxYDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,float)` | :x: |
+| `_ZN2al19rotateMtxZDirDegreeEPN4sead8Matrix34IfEERKS2_f` | `al::rotateMtxZDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,float)` | :x: |
+| `_ZN2al28rotateMtxCenterPosXDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::rotateMtxCenterPosXDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al28rotateMtxCenterPosAxisDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEES9_f` | `al::rotateMtxCenterPosAxisDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al28rotateMtxCenterPosYDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::rotateMtxCenterPosYDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al28rotateMtxCenterPosZDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::rotateMtxCenterPosZDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al22rotateMtxCenterPosQuatEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEERKNS0_4QuatIfEE` | `al::rotateMtxCenterPosQuat(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,sead::Quat<float> const&)` | :x: |
+| `_ZN2al17turnMtxXDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnMtxXDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al17turnMtxYDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnMtxYDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al17turnMtxZDirDegreeEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnMtxZDirDegree(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al24calcCameraPosFromViewMtxEPN4sead7Vector3IfEERKNS0_8Matrix34IfEE` | `al::calcCameraPosFromViewMtx(sead::Vector3<float> *,sead::Matrix34<float> const&)` | :x: |
+| `_ZN2al10calcMtxMulEPN4sead7Vector3IfEERKNS0_8Matrix34IfEERKS2_` | `al::calcMtxMul(sead::Vector3<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al10calcMtxMulEPN4sead7Vector3IfEERKNS_8Matrix43IfEERKS2_` | `al::calcMtxMul(sead::Vector3<float> *,al::Matrix43<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al12calcMtxScaleEPN4sead7Vector3IfEERKNS0_8Matrix34IfEE` | `al::calcMtxScale(sead::Vector3<float> *,sead::Matrix34<float> const&)` | :x: |
+| `_ZN2al12calcMtxScaleEPN4sead7Vector3IfEERKNS_8Matrix43IfEE` | `al::calcMtxScale(sead::Vector3<float> *,al::Matrix43<float> const&)` | :x: |
+| `_ZN2al17normalizeMtxScaleEPN4sead8Matrix34IfEERKS2_` | `al::normalizeMtxScale(sead::Matrix34<float> *,sead::Matrix34<float> const&)` | :x: |
+| `_ZN2al30tryNormalizeMtxScaleOrIdentityEPN4sead8Matrix34IfEERKS2_` | `al::tryNormalizeMtxScaleOrIdentity(sead::Matrix34<float> *,sead::Matrix34<float> const&)` | :x: |
+| `_ZN2al17calcMtxLocalTransEPN4sead7Vector3IfEERKNS0_8Matrix34IfEERKS2_` | `al::calcMtxLocalTrans(sead::Vector3<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al25calcTransLocalOffsetByMtxEPN4sead7Vector3IfEERKNS0_8Matrix34IfEERKS2_` | `al::calcTransLocalOffsetByMtx(sead::Vector3<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al11preScaleMtxEPN4sead8Matrix34IfEERKNS0_7Vector3IfEE` | `al::preScaleMtx(sead::Matrix34<float> *,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al22addTransMtxLocalOffsetEPN4sead8Matrix34IfEERKS2_RKNS0_7Vector3IfEE` | `al::addTransMtxLocalOffset(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Vector3<float> const&)` | :x: |
+| `_ZN2al8blendMtxEPN4sead8Matrix34IfEERKS2_S5_f` | `al::blendMtx(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Matrix34<float> const&,float)` | :x: |
+| `_ZN2al14blendMtxRotateEPN4sead8Matrix34IfEERKS2_S5_f` | `al::blendMtxRotate(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Matrix34<float> const&,float)` | :x: |
+| `_ZN2al13blendMtxTransEPN4sead8Matrix34IfEERKS2_S5_f` | `al::blendMtxTrans(sead::Matrix34<float> *,sead::Matrix34<float> const&,sead::Matrix34<float> const&,float)` | :x: |
+| `_ZN2al35calcMtxLocalDirAngleOnPlaneToTargetEPKN4sead8Matrix34IfEERKNS0_7Vector3IfEEii` | `al::calcMtxLocalDirAngleOnPlaneToTarget(sead::Matrix34<float> const*,sead::Vector3<float> const&,int,int)` | :x: |
+| `_ZN2al32calcMtxLocalDirAngleOnPlaneToDirEPKN4sead8Matrix34IfEERKNS0_7Vector3IfEEii` | `al::calcMtxLocalDirAngleOnPlaneToDir(sead::Matrix34<float> const*,sead::Vector3<float> const&,int,int)` | :x: |
+| `_ZN2al17calcRotAxisOrZeroEPN4sead7Vector3IfEERKNS0_8Matrix34IfEE` | `al::calcRotAxisOrZero(sead::Vector3<float> *,sead::Matrix34<float> const&)` | :x: |
+| `_ZN2al18calcMxtInvertOrthoEPN4sead8Matrix34IfEERKS2_` | `al::calcMxtInvertOrtho(sead::Matrix34<float> *,sead::Matrix34<float> const&)` | :x: |
+| `_ZN2al26calcNearFarByInvProjectionEPfS0_RKN4sead8Matrix44IfEE` | `al::calcNearFarByInvProjection(float *,float *,sead::Matrix44<float> const&)` | :x: |
+| `_ZN2al22calcMovedInertiaTensorEPN4sead8Matrix33IfEERKS2_RKNS0_7Vector3IfEEf` | `al::calcMovedInertiaTensor(sead::Matrix33<float> *,sead::Matrix33<float> const&,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al39calcInertiaTensorByMovedTensorAndCenterEPN4sead8Matrix33IfEERKS2_RKNS0_7Vector3IfEEf` | `al::calcInertiaTensorByMovedTensorAndCenter(sead::Matrix33<float> *,sead::Matrix33<float> const&,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al23calcInertiaTensorSphereEPN4sead8Matrix33IfEEff` | `al::calcInertiaTensorSphere(sead::Matrix33<float> *,float,float)` | :x: |
+| `_ZN2al20calcInertiaTensorBoxEPN4sead8Matrix33IfEERKNS0_7Vector3IfEEf` | `al::calcInertiaTensorBox(sead::Matrix33<float> *,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al10makeMtx34fEPN4sead8Matrix34IfEERKN2nn4util4neon25MatrixColumnMajor4x3fTypeE` | `al::makeMtx34f(sead::Matrix34<float> *,nn::util::neon::MatrixColumnMajor4x3fType const&)` | :x: |
+| `_ZN2al10makeMtx44fEPN4sead8Matrix44IfEERKN2nn4util4neon25MatrixColumnMajor4x4fTypeE` | `al::makeMtx44f(sead::Matrix44<float> *,nn::util::neon::MatrixColumnMajor4x4fType const&)` | :x: |

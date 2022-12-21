@@ -8,7 +8,7 @@
 # EventFlowNodeHitReaction.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al24EventFlowNodeHitReactionC2EPKc` | `al::EventFlowNodeHitReaction::EventFlowNodeHitReaction(char const*)` | :white_check_mark: |
-| `_ZN2al24EventFlowNodeHitReaction4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeHitReaction::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |
-| `_ZN2al24EventFlowNodeHitReaction5startEv` | `al::EventFlowNodeHitReaction::start(void)` | :white_check_mark: |
-| `_ZN2al24EventFlowNodeHitReaction7controlEv` | `al::EventFlowNodeHitReaction::control(void)` | :white_check_mark: |
+| `_ZN2al24EventFlowNodeHitReactionC2EPKc` | `al::EventFlowNodeHitReaction::EventFlowNodeHitReaction(char const*)` | :x: |
+| `_ZN2al24EventFlowNodeHitReaction4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeHitReaction::init(al::EventFlowNodeInitInfo const&)` | :x: |
+| `_ZN2al24EventFlowNodeHitReaction5startEv` | `al::EventFlowNodeHitReaction::start(void)` | :x: |
+| `_ZN2al24EventFlowNodeHitReaction7controlEv` | `al::EventFlowNodeHitReaction::control(void)` | :x: |

@@ -8,6 +8,6 @@
 # SensorFunction.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN16alSensorFunction19updateHitSensorsAllEPN2al9LiveActorE` | `alSensorFunction::updateHitSensorsAll(al::LiveActor *)` | :white_check_mark: |
-| `_ZN16alSensorFunction15clearHitSensorsEPN2al9LiveActorE` | `alSensorFunction::clearHitSensors(al::LiveActor *)` | :white_check_mark: |
-| `_ZN16alSensorFunction20findSensorTypeByNameEPKc` | `alSensorFunction::findSensorTypeByName(char const*)` | :white_check_mark: |
+| `_ZN16alSensorFunction19updateHitSensorsAllEPN2al9LiveActorE` | `alSensorFunction::updateHitSensorsAll(al::LiveActor *)` | :x: |
+| `_ZN16alSensorFunction15clearHitSensorsEPN2al9LiveActorE` | `alSensorFunction::clearHitSensors(al::LiveActor *)` | :x: |
+| `_ZN16alSensorFunction20findSensorTypeByNameEPKc` | `alSensorFunction::findSensorTypeByName(char const*)` | :x: |

@@ -8,6 +8,6 @@
 # JointQuatController.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al19JointQuatControllerC1EPKN4sead4QuatIfEE` | `al::JointQuatController::JointQuatController(sead::Quat<float> const*)` | :white_check_mark: |
-| `_ZN2al19JointQuatController17calcJointCallbackEiPN4sead8Matrix34IfEE` | `al::JointQuatController::calcJointCallback(int,sead::Matrix34<float> *)` | :white_check_mark: |
-| `_ZNK2al19JointQuatController15getCtrlTypeNameEv` | `al::JointQuatController::getCtrlTypeName(void)const` | :white_check_mark: |
+| `_ZN2al19JointQuatControllerC1EPKN4sead4QuatIfEE` | `al::JointQuatController::JointQuatController(sead::Quat<float> const*)` | :x: |
+| `_ZN2al19JointQuatController17calcJointCallbackEiPN4sead8Matrix34IfEE` | `al::JointQuatController::calcJointCallback(int,sead::Matrix34<float> *)` | :x: |
+| `_ZNK2al19JointQuatController15getCtrlTypeNameEv` | `al::JointQuatController::getCtrlTypeName(void)const` | :x: |

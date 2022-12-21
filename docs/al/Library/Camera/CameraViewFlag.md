@@ -8,5 +8,5 @@
 # CameraViewFlag.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al14CameraViewFlagC2Ev` | `al::CameraViewFlag::CameraViewFlag(void)` | :white_check_mark: |
-| `_ZN2al14CameraViewFlag12resetAllFlagEv` | `al::CameraViewFlag::resetAllFlag(void)` | :white_check_mark: |
+| `_ZN2al14CameraViewFlagC2Ev` | `al::CameraViewFlag::CameraViewFlag(void)` | :x: |
+| `_ZN2al14CameraViewFlag12resetAllFlagEv` | `al::CameraViewFlag::resetAllFlag(void)` | :x: |

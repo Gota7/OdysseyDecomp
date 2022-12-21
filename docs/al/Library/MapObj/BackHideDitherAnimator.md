@@ -8,5 +8,5 @@
 # BackHideDitherAnimator.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al22BackHideDitherAnimatorC1EPNS_9LiveActorE` | `al::BackHideDitherAnimator::BackHideDitherAnimator(al::LiveActor *)` | :white_check_mark: |
-| `_ZN2al22BackHideDitherAnimator6updateEv` | `al::BackHideDitherAnimator::update(void)` | :white_check_mark: |
+| `_ZN2al22BackHideDitherAnimatorC1EPNS_9LiveActorE` | `al::BackHideDitherAnimator::BackHideDitherAnimator(al::LiveActor *)` | :x: |
+| `_ZN2al22BackHideDitherAnimator6updateEv` | `al::BackHideDitherAnimator::update(void)` | :x: |

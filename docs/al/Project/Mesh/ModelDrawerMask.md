@@ -8,8 +8,8 @@
 # ModelDrawerMask.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al15ModelDrawerMaskC2EPKc` | `al::ModelDrawerMask::ModelDrawerMask(char const*)` | :white_check_mark: |
-| `_ZN2al15ModelDrawerMask11createTableEv` | `al::ModelDrawerMask::createTable(void)` | :white_check_mark: |
-| `_ZNK2al15ModelDrawerMask4drawEv` | `al::ModelDrawerMask::draw(void)const` | :white_check_mark: |
-| `_ZN2al15ModelDrawerMask11updateModelEPNS_9ModelCtrlE` | `al::ModelDrawerMask::updateModel(al::ModelCtrl *)` | :white_check_mark: |
-| `_ZN2al15ModelDrawerMaskD0Ev` | `al::ModelDrawerMask::~ModelDrawerMask()` | :white_check_mark: |
+| `_ZN2al15ModelDrawerMaskC2EPKc` | `al::ModelDrawerMask::ModelDrawerMask(char const*)` | :x: |
+| `_ZN2al15ModelDrawerMask11createTableEv` | `al::ModelDrawerMask::createTable(void)` | :x: |
+| `_ZNK2al15ModelDrawerMask4drawEv` | `al::ModelDrawerMask::draw(void)const` | :x: |
+| `_ZN2al15ModelDrawerMask11updateModelEPNS_9ModelCtrlE` | `al::ModelDrawerMask::updateModel(al::ModelCtrl *)` | :x: |
+| `_ZN2al15ModelDrawerMaskD0Ev` | `al::ModelDrawerMask::~ModelDrawerMask()` | :x: |

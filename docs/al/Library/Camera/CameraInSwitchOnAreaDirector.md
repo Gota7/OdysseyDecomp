@@ -8,8 +8,8 @@
 # CameraInSwitchOnAreaDirector.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al28CameraInSwitchOnAreaDirectorC2Ev` | `al::CameraInSwitchOnAreaDirector::CameraInSwitchOnAreaDirector(void)` | :white_check_mark: |
-| `_ZN2al28CameraInSwitchOnAreaDirector4initEPKNS_15SceneCameraInfoEPNS_15AreaObjDirectorE` | `al::CameraInSwitchOnAreaDirector::init(al::SceneCameraInfo const*,al::AreaObjDirector *)` | :white_check_mark: |
-| `_ZN2al28CameraInSwitchOnAreaDirector18initAfterPlacementEv` | `al::CameraInSwitchOnAreaDirector::initAfterPlacement(void)` | :white_check_mark: |
-| `_ZN2al28CameraInSwitchOnAreaDirector6updateEv` | `al::CameraInSwitchOnAreaDirector::update(void)` | :white_check_mark: |
-| `_ZNK2al28CameraInSwitchOnAreaDirector18getAreaObjDirectorEv` | `al::CameraInSwitchOnAreaDirector::getAreaObjDirector(void)const` | :white_check_mark: |
+| `_ZN2al28CameraInSwitchOnAreaDirectorC2Ev` | `al::CameraInSwitchOnAreaDirector::CameraInSwitchOnAreaDirector(void)` | :x: |
+| `_ZN2al28CameraInSwitchOnAreaDirector4initEPKNS_15SceneCameraInfoEPNS_15AreaObjDirectorE` | `al::CameraInSwitchOnAreaDirector::init(al::SceneCameraInfo const*,al::AreaObjDirector *)` | :x: |
+| `_ZN2al28CameraInSwitchOnAreaDirector18initAfterPlacementEv` | `al::CameraInSwitchOnAreaDirector::initAfterPlacement(void)` | :x: |
+| `_ZN2al28CameraInSwitchOnAreaDirector6updateEv` | `al::CameraInSwitchOnAreaDirector::update(void)` | :x: |
+| `_ZNK2al28CameraInSwitchOnAreaDirector18getAreaObjDirectorEv` | `al::CameraInSwitchOnAreaDirector::getAreaObjDirector(void)const` | :x: |

@@ -8,6 +8,6 @@
 # JointRippleGenerator.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al20JointRippleGeneratorC2EPKNS_9LiveActorE` | `al::JointRippleGenerator::JointRippleGenerator(al::LiveActor const*)` | :white_check_mark: |
-| `_ZN2al20JointRippleGenerator5resetEv` | `al::JointRippleGenerator::reset(void)` | :white_check_mark: |
-| `_ZN2al20JointRippleGenerator17updateAndGenerateEv` | `al::JointRippleGenerator::updateAndGenerate(void)` | :white_check_mark: |
+| `_ZN2al20JointRippleGeneratorC2EPKNS_9LiveActorE` | `al::JointRippleGenerator::JointRippleGenerator(al::LiveActor const*)` | :x: |
+| `_ZN2al20JointRippleGenerator5resetEv` | `al::JointRippleGenerator::reset(void)` | :x: |
+| `_ZN2al20JointRippleGenerator17updateAndGenerateEv` | `al::JointRippleGenerator::updateAndGenerate(void)` | :x: |

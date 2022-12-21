@@ -8,4 +8,4 @@
 # AudioSystemInfo.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al15AudioSystemInfoC2Ev` | `al::AudioSystemInfo::AudioSystemInfo(void)` | :white_check_mark: |
+| `_ZN2al15AudioSystemInfoC2Ev` | `al::AudioSystemInfo::AudioSystemInfo(void)` | :x: |

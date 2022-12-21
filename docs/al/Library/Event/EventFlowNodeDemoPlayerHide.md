@@ -8,6 +8,6 @@
 # EventFlowNodeDemoPlayerHide.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al27EventFlowNodeDemoPlayerHideC2EPKc` | `al::EventFlowNodeDemoPlayerHide::EventFlowNodeDemoPlayerHide(char const*)` | :white_check_mark: |
-| `_ZN2al27EventFlowNodeDemoPlayerHide4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeDemoPlayerHide::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |
-| `_ZN2al27EventFlowNodeDemoPlayerHide7controlEv` | `al::EventFlowNodeDemoPlayerHide::control(void)` | :white_check_mark: |
+| `_ZN2al27EventFlowNodeDemoPlayerHideC2EPKc` | `al::EventFlowNodeDemoPlayerHide::EventFlowNodeDemoPlayerHide(char const*)` | :x: |
+| `_ZN2al27EventFlowNodeDemoPlayerHide4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeDemoPlayerHide::init(al::EventFlowNodeInitInfo const&)` | :x: |
+| `_ZN2al27EventFlowNodeDemoPlayerHide7controlEv` | `al::EventFlowNodeDemoPlayerHide::control(void)` | :x: |

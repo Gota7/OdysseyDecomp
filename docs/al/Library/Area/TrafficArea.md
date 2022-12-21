@@ -8,7 +8,7 @@
 # TrafficArea.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al11TrafficAreaC2EPKc` | `al::TrafficArea::TrafficArea(char const*)` | :white_check_mark: |
-| `_ZN2al11TrafficAreaC1EPKc` | `al::TrafficArea::TrafficArea(char const*)` | :white_check_mark: |
-| `_ZN2al11TrafficArea17tryPermitEnterCarEv` | `al::TrafficArea::tryPermitEnterCar(void)` | :white_check_mark: |
-| `_ZN2al11TrafficArea17tryPermitEnterNpcEv` | `al::TrafficArea::tryPermitEnterNpc(void)` | :white_check_mark: |
+| `_ZN2al11TrafficAreaC2EPKc` | `al::TrafficArea::TrafficArea(char const*)` | :x: |
+| `_ZN2al11TrafficAreaC1EPKc` | `al::TrafficArea::TrafficArea(char const*)` | :x: |
+| `_ZN2al11TrafficArea17tryPermitEnterCarEv` | `al::TrafficArea::tryPermitEnterCar(void)` | :x: |
+| `_ZN2al11TrafficArea17tryPermitEnterNpcEv` | `al::TrafficArea::tryPermitEnterNpc(void)` | :x: |

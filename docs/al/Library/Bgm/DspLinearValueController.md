@@ -8,7 +8,7 @@
 # DspLinearValueController.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al24DspLinearValueControllerC2Ef` | `al::DspLinearValueController::DspLinearValueController(float)` | :white_check_mark: |
-| `_ZN2al24DspLinearValueController4initEf` | `al::DspLinearValueController::init(float)` | :white_check_mark: |
-| `_ZN2al24DspLinearValueController6updateEv` | `al::DspLinearValueController::update(void)` | :white_check_mark: |
-| `_ZN2al24DspLinearValueController12changeTargetEfi` | `al::DspLinearValueController::changeTarget(float,int)` | :white_check_mark: |
+| `_ZN2al24DspLinearValueControllerC2Ef` | `al::DspLinearValueController::DspLinearValueController(float)` | :x: |
+| `_ZN2al24DspLinearValueController4initEf` | `al::DspLinearValueController::init(float)` | :x: |
+| `_ZN2al24DspLinearValueController6updateEv` | `al::DspLinearValueController::update(void)` | :x: |
+| `_ZN2al24DspLinearValueController12changeTargetEfi` | `al::DspLinearValueController::changeTarget(float,int)` | :x: |

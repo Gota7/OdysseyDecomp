@@ -8,4 +8,4 @@
 # ClippingRequestInfo.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al19ClippingRequestInfoC2Ev` | `al::ClippingRequestInfo::ClippingRequestInfo(void)` | :white_check_mark: |
+| `_ZN2al19ClippingRequestInfoC2Ev` | `al::ClippingRequestInfo::ClippingRequestInfo(void)` | :x: |

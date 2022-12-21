@@ -8,8 +8,8 @@
 # NetworkTaskExecutor.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al19NetworkTaskExecutorC2EPKc` | `al::NetworkTaskExecutor::NetworkTaskExecutor(char const*)` | :white_check_mark: |
-| `_ZN2al19NetworkTaskExecutorD2Ev` | `al::NetworkTaskExecutor::~NetworkTaskExecutor()` | :white_check_mark: |
-| `_ZN2al19NetworkTaskExecutorD0Ev` | `al::NetworkTaskExecutor::~NetworkTaskExecutor()` | :white_check_mark: |
-| `_ZN2al19NetworkTaskExecutor7executeEv` | `al::NetworkTaskExecutor::execute(void)` | :white_check_mark: |
-| `_ZN2al19NetworkTaskExecutor7requestEv` | `al::NetworkTaskExecutor::request(void)` | :white_check_mark: |
+| `_ZN2al19NetworkTaskExecutorC2EPKc` | `al::NetworkTaskExecutor::NetworkTaskExecutor(char const*)` | :x: |
+| `_ZN2al19NetworkTaskExecutorD2Ev` | `al::NetworkTaskExecutor::~NetworkTaskExecutor()` | :x: |
+| `_ZN2al19NetworkTaskExecutorD0Ev` | `al::NetworkTaskExecutor::~NetworkTaskExecutor()` | :x: |
+| `_ZN2al19NetworkTaskExecutor7executeEv` | `al::NetworkTaskExecutor::execute(void)` | :x: |
+| `_ZN2al19NetworkTaskExecutor7requestEv` | `al::NetworkTaskExecutor::request(void)` | :x: |

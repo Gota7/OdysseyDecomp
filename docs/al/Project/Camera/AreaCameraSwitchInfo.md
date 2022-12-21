@@ -8,5 +8,5 @@
 # AreaCameraSwitchInfo.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al20AreaCameraSwitchInfoC2Ev` | `al::AreaCameraSwitchInfo::AreaCameraSwitchInfo(void)` | :white_check_mark: |
-| `_ZN2al20AreaCameraSwitchInfo8initAreaEPKNS_7AreaObjEibb` | `al::AreaCameraSwitchInfo::initArea(al::AreaObj const*,int,bool,bool)` | :white_check_mark: |
+| `_ZN2al20AreaCameraSwitchInfoC2Ev` | `al::AreaCameraSwitchInfo::AreaCameraSwitchInfo(void)` | :x: |
+| `_ZN2al20AreaCameraSwitchInfo8initAreaEPKNS_7AreaObjEibb` | `al::AreaCameraSwitchInfo::initArea(al::AreaObj const*,int,bool,bool)` | :x: |

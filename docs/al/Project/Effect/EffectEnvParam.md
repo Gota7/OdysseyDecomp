@@ -8,4 +8,4 @@
 # EffectEnvParam.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al14EffectEnvParamC2Ev` | `al::EffectEnvParam::EffectEnvParam(void)` | :white_check_mark: |
+| `_ZN2al14EffectEnvParamC2Ev` | `al::EffectEnvParam::EffectEnvParam(void)` | :x: |

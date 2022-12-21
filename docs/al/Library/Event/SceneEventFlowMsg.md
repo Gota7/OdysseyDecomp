@@ -8,6 +8,6 @@
 # SceneEventFlowMsg.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al17SceneEventFlowMsgC2Ev` | `al::SceneEventFlowMsg::SceneEventFlowMsg(void)` | :white_check_mark: |
-| `_ZN2al17SceneEventFlowMsg14requestCommandEPKc` | `al::SceneEventFlowMsg::requestCommand(char const*)` | :white_check_mark: |
-| `_ZNK2al17SceneEventFlowMsg16isReceiveCommandEPKc` | `al::SceneEventFlowMsg::isReceiveCommand(char const*)const` | :white_check_mark: |
+| `_ZN2al17SceneEventFlowMsgC2Ev` | `al::SceneEventFlowMsg::SceneEventFlowMsg(void)` | :x: |
+| `_ZN2al17SceneEventFlowMsg14requestCommandEPKc` | `al::SceneEventFlowMsg::requestCommand(char const*)` | :x: |
+| `_ZNK2al17SceneEventFlowMsg16isReceiveCommandEPKc` | `al::SceneEventFlowMsg::isReceiveCommand(char const*)const` | :x: |

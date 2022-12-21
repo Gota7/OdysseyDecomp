@@ -8,7 +8,7 @@
 # CameraAngleSwingInfo.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al20CameraAngleSwingInfoC2Ev` | `al::CameraAngleSwingInfo::CameraAngleSwingInfo(void)` | :white_check_mark: |
-| `_ZN2al20CameraAngleSwingInfo4loadERKNS_9ByamlIterE` | `al::CameraAngleSwingInfo::load(al::ByamlIter const&)` | :white_check_mark: |
-| `_ZN2al20CameraAngleSwingInfo6updateERKN4sead7Vector2IfEEf` | `al::CameraAngleSwingInfo::update(sead::Vector2<float> const&,float)` | :white_check_mark: |
-| `_ZNK2al20CameraAngleSwingInfo16makeLookAtCameraEPN4sead12LookAtCameraE` | `al::CameraAngleSwingInfo::makeLookAtCamera(sead::LookAtCamera *)const` | :white_check_mark: |
+| `_ZN2al20CameraAngleSwingInfoC2Ev` | `al::CameraAngleSwingInfo::CameraAngleSwingInfo(void)` | :x: |
+| `_ZN2al20CameraAngleSwingInfo4loadERKNS_9ByamlIterE` | `al::CameraAngleSwingInfo::load(al::ByamlIter const&)` | :x: |
+| `_ZN2al20CameraAngleSwingInfo6updateERKN4sead7Vector2IfEEf` | `al::CameraAngleSwingInfo::update(sead::Vector2<float> const&,float)` | :x: |
+| `_ZNK2al20CameraAngleSwingInfo16makeLookAtCameraEPN4sead12LookAtCameraE` | `al::CameraAngleSwingInfo::makeLookAtCamera(sead::LookAtCamera *)const` | :x: |

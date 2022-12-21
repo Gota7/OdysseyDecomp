@@ -8,5 +8,5 @@
 # CameraStateBase.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al15CameraStateBaseC1EPKcPNS_11CameraPoserE` | `al::CameraStateBase::CameraStateBase(char const*,al::CameraPoser *)` | :white_check_mark: |
-| `_ZN2al15CameraStateBaseD0Ev` | `al::CameraStateBase::~CameraStateBase()` | :white_check_mark: |
+| `_ZN2al15CameraStateBaseC1EPKcPNS_11CameraPoserE` | `al::CameraStateBase::CameraStateBase(char const*,al::CameraPoser *)` | :x: |
+| `_ZN2al15CameraStateBaseD0Ev` | `al::CameraStateBase::~CameraStateBase()` | :x: |

@@ -8,4 +8,4 @@
 # EventFlowEventData.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al18EventFlowEventDataC2EPKcRKNS_21EventFlowNodeInitInfoE` | `al::EventFlowEventData::EventFlowEventData(char const*,al::EventFlowNodeInitInfo const&)` | :white_check_mark: |
+| `_ZN2al18EventFlowEventDataC2EPKcRKNS_21EventFlowNodeInitInfoE` | `al::EventFlowEventData::EventFlowEventData(char const*,al::EventFlowNodeInitInfo const&)` | :x: |

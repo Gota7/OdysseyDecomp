@@ -8,4 +8,4 @@
 # PadRumbleKeeper.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al15PadRumbleKeeperC2Ei` | `al::PadRumbleKeeper::PadRumbleKeeper(int)` | :white_check_mark: |
+| `_ZN2al15PadRumbleKeeperC2Ei` | `al::PadRumbleKeeper::PadRumbleKeeper(int)` | :x: |

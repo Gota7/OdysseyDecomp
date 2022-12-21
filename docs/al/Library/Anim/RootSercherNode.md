@@ -8,8 +8,8 @@
 # RootSercherNode.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al15RootSercherNodeC2Ev` | `al::RootSercherNode::RootSercherNode(void)` | :white_check_mark: |
-| `_ZN2al15RootSercherNode5clearEv` | `al::RootSercherNode::clear(void)` | :white_check_mark: |
-| `_ZN2al15RootSercherNode4openEv` | `al::RootSercherNode::open(void)` | :white_check_mark: |
-| `_ZN2al15RootSercherNode5closeEv` | `al::RootSercherNode::close(void)` | :white_check_mark: |
-| `_ZNK2al15RootSercherNode13calcTotalCostEv` | `al::RootSercherNode::calcTotalCost(void)const` | :white_check_mark: |
+| `_ZN2al15RootSercherNodeC2Ev` | `al::RootSercherNode::RootSercherNode(void)` | :x: |
+| `_ZN2al15RootSercherNode5clearEv` | `al::RootSercherNode::clear(void)` | :x: |
+| `_ZN2al15RootSercherNode4openEv` | `al::RootSercherNode::open(void)` | :x: |
+| `_ZN2al15RootSercherNode5closeEv` | `al::RootSercherNode::close(void)` | :x: |
+| `_ZNK2al15RootSercherNode13calcTotalCostEv` | `al::RootSercherNode::calcTotalCost(void)const` | :x: |

@@ -8,8 +8,8 @@
 # SurfMapParts.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al12SurfMapPartsC2EPKc` | `al::SurfMapParts::SurfMapParts(char const*)` | :white_check_mark: |
-| `_ZN2al12SurfMapPartsC1EPKc` | `al::SurfMapParts::SurfMapParts(char const*)` | :white_check_mark: |
-| `_ZN2al12SurfMapParts4initERKNS_13ActorInitInfoE` | `al::SurfMapParts::init(al::ActorInitInfo const&)` | :white_check_mark: |
-| `_ZN2al12SurfMapParts7exeWaitEv` | `al::SurfMapParts::exeWait(void)` | :white_check_mark: |
-| `sub_710091A4D0` | `` | :white_check_mark: |
+| `_ZN2al12SurfMapPartsC2EPKc` | `al::SurfMapParts::SurfMapParts(char const*)` | :x: |
+| `_ZN2al12SurfMapPartsC1EPKc` | `al::SurfMapParts::SurfMapParts(char const*)` | :x: |
+| `_ZN2al12SurfMapParts4initERKNS_13ActorInitInfoE` | `al::SurfMapParts::init(al::ActorInitInfo const&)` | :x: |
+| `_ZN2al12SurfMapParts7exeWaitEv` | `al::SurfMapParts::exeWait(void)` | :x: |
+| `sub_710091A4D0` | `` | :x: |

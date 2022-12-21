@@ -8,6 +8,6 @@
 # SceneCameraInfo.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al15SceneCameraInfoC2Ei` | `al::SceneCameraInfo::SceneCameraInfo(int)` | :white_check_mark: |
-| `_ZN2al15SceneCameraInfo12initViewInfoEPNS_14CameraViewInfoE` | `al::SceneCameraInfo::initViewInfo(al::CameraViewInfo *)` | :white_check_mark: |
-| `_ZNK2al15SceneCameraInfo11getViewNameEi` | `al::SceneCameraInfo::getViewName(int)const` | :white_check_mark: |
+| `_ZN2al15SceneCameraInfoC2Ei` | `al::SceneCameraInfo::SceneCameraInfo(int)` | :x: |
+| `_ZN2al15SceneCameraInfo12initViewInfoEPNS_14CameraViewInfoE` | `al::SceneCameraInfo::initViewInfo(al::CameraViewInfo *)` | :x: |
+| `_ZNK2al15SceneCameraInfo11getViewNameEi` | `al::SceneCameraInfo::getViewName(int)const` | :x: |

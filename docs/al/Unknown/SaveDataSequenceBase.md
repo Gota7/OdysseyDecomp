@@ -8,4 +8,4 @@
 # SaveDataSequenceBase.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al20SaveDataSequenceBaseC2Ev` | `al::SaveDataSequenceBase::SaveDataSequenceBase(void)` | :white_check_mark: |
+| `_ZN2al20SaveDataSequenceBaseC2Ev` | `al::SaveDataSequenceBase::SaveDataSequenceBase(void)` | :x: |

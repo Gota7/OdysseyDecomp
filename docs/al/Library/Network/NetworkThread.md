@@ -8,6 +8,6 @@
 # NetworkThread.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al13NetworkThreadC2EPKcPN4sead10IDelegate2IPNS3_6ThreadElEEPNS3_4HeapEi` | `al::NetworkThread::NetworkThread(char const*,sead::IDelegate2<sead::Thread *,long> *,sead::Heap *,int)` | :white_check_mark: |
-| `_ZN2al13NetworkThread10jamMessageElN4sead12MessageQueue9BlockTypeE` | `al::NetworkThread::jamMessage(long,sead::MessageQueue::BlockType)` | :white_check_mark: |
-| `_ZN2al13NetworkThreadD0Ev` | `al::NetworkThread::~NetworkThread()` | :white_check_mark: |
+| `_ZN2al13NetworkThreadC2EPKcPN4sead10IDelegate2IPNS3_6ThreadElEEPNS3_4HeapEi` | `al::NetworkThread::NetworkThread(char const*,sead::IDelegate2<sead::Thread *,long> *,sead::Heap *,int)` | :x: |
+| `_ZN2al13NetworkThread10jamMessageElN4sead12MessageQueue9BlockTypeE` | `al::NetworkThread::jamMessage(long,sead::MessageQueue::BlockType)` | :x: |
+| `_ZN2al13NetworkThreadD0Ev` | `al::NetworkThread::~NetworkThread()` | :x: |

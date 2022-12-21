@@ -8,6 +8,6 @@
 # EventFlowNodeSwitchOff.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al22EventFlowNodeSwitchOffC2EPKc` | `al::EventFlowNodeSwitchOff::EventFlowNodeSwitchOff(char const*)` | :white_check_mark: |
-| `_ZN2al22EventFlowNodeSwitchOff4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeSwitchOff::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |
-| `_ZN2al22EventFlowNodeSwitchOff5startEv` | `al::EventFlowNodeSwitchOff::start(void)` | :white_check_mark: |
+| `_ZN2al22EventFlowNodeSwitchOffC2EPKc` | `al::EventFlowNodeSwitchOff::EventFlowNodeSwitchOff(char const*)` | :x: |
+| `_ZN2al22EventFlowNodeSwitchOff4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeSwitchOff::init(al::EventFlowNodeInitInfo const&)` | :x: |
+| `_ZN2al22EventFlowNodeSwitchOff5startEv` | `al::EventFlowNodeSwitchOff::start(void)` | :x: |

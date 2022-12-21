@@ -8,7 +8,7 @@
 # FlashingCtrlDither.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al18FlashingCtrlDitherC1EPNS_9LiveActorE` | `al::FlashingCtrlDither::FlashingCtrlDither(al::LiveActor *)` | :white_check_mark: |
-| `_ZN2al18FlashingCtrlDither5startEi` | `al::FlashingCtrlDither::start(int)` | :white_check_mark: |
-| `_ZN2al18FlashingCtrlDither3endEv` | `al::FlashingCtrlDither::end(void)` | :white_check_mark: |
-| `_ZN2al18FlashingCtrlDither8movementEv` | `al::FlashingCtrlDither::movement(void)` | :white_check_mark: |
+| `_ZN2al18FlashingCtrlDitherC1EPNS_9LiveActorE` | `al::FlashingCtrlDither::FlashingCtrlDither(al::LiveActor *)` | :x: |
+| `_ZN2al18FlashingCtrlDither5startEi` | `al::FlashingCtrlDither::start(int)` | :x: |
+| `_ZN2al18FlashingCtrlDither3endEv` | `al::FlashingCtrlDither::end(void)` | :x: |
+| `_ZN2al18FlashingCtrlDither8movementEv` | `al::FlashingCtrlDither::movement(void)` | :x: |

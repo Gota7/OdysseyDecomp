@@ -8,4 +8,4 @@
 # AudioResourcePlayer.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al19AudioResourcePlayerC1EPKcS2_PNS_21AudioSoundArchiveInfoEPNS_26IAudioResourceInfoAccessorE` | `al::AudioResourcePlayer::AudioResourcePlayer(char const*,char const*,al::AudioSoundArchiveInfo *,al::IAudioResourceInfoAccessor *)` | :white_check_mark: |
+| `_ZN2al19AudioResourcePlayerC1EPKcS2_PNS_21AudioSoundArchiveInfoEPNS_26IAudioResourceInfoAccessorE` | `al::AudioResourcePlayer::AudioResourcePlayer(char const*,char const*,al::AudioSoundArchiveInfo *,al::IAudioResourceInfoAccessor *)` | :x: |

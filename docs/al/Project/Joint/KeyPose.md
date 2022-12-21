@@ -8,5 +8,5 @@
 # KeyPose.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al7KeyPoseC2Ev` | `al::KeyPose::KeyPose(void)` | :white_check_mark: |
-| `_ZN2al7KeyPose4initERKNS_13PlacementInfoE` | `al::KeyPose::init(al::PlacementInfo const&)` | :white_check_mark: |
+| `_ZN2al7KeyPoseC2Ev` | `al::KeyPose::KeyPose(void)` | :x: |
+| `_ZN2al7KeyPose4initERKNS_13PlacementInfoE` | `al::KeyPose::init(al::PlacementInfo const&)` | :x: |

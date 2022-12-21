@@ -66,7 +66,7 @@ class Object:
         for func in self.functions:
             marker = ":x:"
 
-            if func.isComplete:
+            if func.isComplete == "true":
                 marker = ":white_check_mark:"
 
             obj_page.append(f"| `{func.demangled}` | `{func.mangled}` | {marker} |\n")

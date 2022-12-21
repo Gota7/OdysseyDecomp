@@ -8,6 +8,6 @@
 # OneMeshFixMapParts.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al18OneMeshFixMapPartsC2EPKc` | `al::OneMeshFixMapParts::OneMeshFixMapParts(char const*)` | :white_check_mark: |
-| `_ZN2al18OneMeshFixMapPartsC1EPKc` | `al::OneMeshFixMapParts::OneMeshFixMapParts(char const*)` | :white_check_mark: |
-| `_ZN2al18OneMeshFixMapParts4initERKNS_13ActorInitInfoE` | `al::OneMeshFixMapParts::init(al::ActorInitInfo const&)` | :white_check_mark: |
+| `_ZN2al18OneMeshFixMapPartsC2EPKc` | `al::OneMeshFixMapParts::OneMeshFixMapParts(char const*)` | :x: |
+| `_ZN2al18OneMeshFixMapPartsC1EPKc` | `al::OneMeshFixMapParts::OneMeshFixMapParts(char const*)` | :x: |
+| `_ZN2al18OneMeshFixMapParts4initERKNS_13ActorInitInfoE` | `al::OneMeshFixMapParts::init(al::ActorInitInfo const&)` | :x: |

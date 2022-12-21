@@ -8,18 +8,18 @@
 # FractalUtil.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al11calcFractalEffjfffb` | `al::calcFractal(float,float,unsigned int,float,float,float,bool)` | :white_check_mark: |
-| `_ZN2al16calcMultiFractalEfffjfffb` | `al::calcMultiFractal(float,float,float,unsigned int,float,float,float,bool)` | :white_check_mark: |
-| `_ZN2al22calcNormalDistributionEfff` | `al::calcNormalDistribution(float,float,float)` | :white_check_mark: |
-| `_ZN2al16calcVecViewInputEPN4sead7Vector3IfEERKNS0_7Vector2IfEERKS2_PKNS0_8Matrix34IfEE` | `al::calcVecViewInput(sead::Vector3<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&,sead::Matrix34<float> const*)` | :white_check_mark: |
-| `_ZN2al16calcDirViewInputEPN4sead7Vector3IfEERKNS0_7Vector2IfEERKS2_PKNS0_8Matrix34IfEE` | `al::calcDirViewInput(sead::Vector3<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&,sead::Matrix34<float> const*)` | :white_check_mark: |
-| `_ZN2al18calcVecViewInput2DEPN4sead7Vector3IfEERKNS0_7Vector2IfEERKS2_PKNS0_8Matrix34IfEE` | `al::calcVecViewInput2D(sead::Vector3<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&,sead::Matrix34<float> const*)` | :white_check_mark: |
-| `_ZN2al18calcDirViewInput2DEPN4sead7Vector3IfEERKNS0_7Vector2IfEERKS2_PKNS0_8Matrix34IfEE` | `al::calcDirViewInput2D(sead::Vector3<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&,sead::Matrix34<float> const*)` | :white_check_mark: |
-| `_ZN2al19calcBendPosAndFrontEPN4sead7Vector3IfEES3_RS2_fRKS2_S6_f` | `al::calcBendPosAndFront(sead::Vector3<float> *,sead::Vector3<float> *,sead::Vector3<float>&,float,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
-| `_ZN2al22calcCirclePointPickingEPN4sead7Vector2IfEEff` | `al::calcCirclePointPicking(sead::Vector2<float> *,float,float)` | :white_check_mark: |
-| `_ZN2al35pickUniformPointsOnCircleHammersleyEPN4sead7Vector2IfEEjj` | `al::pickUniformPointsOnCircleHammersley(sead::Vector2<float> *,unsigned int,unsigned int)` | :white_check_mark: |
-| `_ZN2al20calcDiskPointPickingEPN4sead7Vector2IfEEff` | `al::calcDiskPointPicking(sead::Vector2<float> *,float,float)` | :white_check_mark: |
-| `_ZN2al33pickUniformPointsOnDiskHammersleyEPN4sead7Vector2IfEEjj` | `al::pickUniformPointsOnDiskHammersley(sead::Vector2<float> *,unsigned int,unsigned int)` | :white_check_mark: |
-| `_ZN2al22pickUniformPointOnDiskEPN4sead7Vector2IfEE` | `al::pickUniformPointOnDisk(sead::Vector2<float> *)` | :white_check_mark: |
-| `_ZN2al22calcSpherePointPickingEPN4sead7Vector3IfEEff` | `al::calcSpherePointPicking(sead::Vector3<float> *,float,float)` | :white_check_mark: |
-| `_ZN2al24pickUniformPointOnSphereEPN4sead7Vector3IfEE` | `al::pickUniformPointOnSphere(sead::Vector3<float> *)` | :white_check_mark: |
+| `_ZN2al11calcFractalEffjfffb` | `al::calcFractal(float,float,unsigned int,float,float,float,bool)` | :x: |
+| `_ZN2al16calcMultiFractalEfffjfffb` | `al::calcMultiFractal(float,float,float,unsigned int,float,float,float,bool)` | :x: |
+| `_ZN2al22calcNormalDistributionEfff` | `al::calcNormalDistribution(float,float,float)` | :x: |
+| `_ZN2al16calcVecViewInputEPN4sead7Vector3IfEERKNS0_7Vector2IfEERKS2_PKNS0_8Matrix34IfEE` | `al::calcVecViewInput(sead::Vector3<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&,sead::Matrix34<float> const*)` | :x: |
+| `_ZN2al16calcDirViewInputEPN4sead7Vector3IfEERKNS0_7Vector2IfEERKS2_PKNS0_8Matrix34IfEE` | `al::calcDirViewInput(sead::Vector3<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&,sead::Matrix34<float> const*)` | :x: |
+| `_ZN2al18calcVecViewInput2DEPN4sead7Vector3IfEERKNS0_7Vector2IfEERKS2_PKNS0_8Matrix34IfEE` | `al::calcVecViewInput2D(sead::Vector3<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&,sead::Matrix34<float> const*)` | :x: |
+| `_ZN2al18calcDirViewInput2DEPN4sead7Vector3IfEERKNS0_7Vector2IfEERKS2_PKNS0_8Matrix34IfEE` | `al::calcDirViewInput2D(sead::Vector3<float> *,sead::Vector2<float> const&,sead::Vector3<float> const&,sead::Matrix34<float> const*)` | :x: |
+| `_ZN2al19calcBendPosAndFrontEPN4sead7Vector3IfEES3_RS2_fRKS2_S6_f` | `al::calcBendPosAndFront(sead::Vector3<float> *,sead::Vector3<float> *,sead::Vector3<float>&,float,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :x: |
+| `_ZN2al22calcCirclePointPickingEPN4sead7Vector2IfEEff` | `al::calcCirclePointPicking(sead::Vector2<float> *,float,float)` | :x: |
+| `_ZN2al35pickUniformPointsOnCircleHammersleyEPN4sead7Vector2IfEEjj` | `al::pickUniformPointsOnCircleHammersley(sead::Vector2<float> *,unsigned int,unsigned int)` | :x: |
+| `_ZN2al20calcDiskPointPickingEPN4sead7Vector2IfEEff` | `al::calcDiskPointPicking(sead::Vector2<float> *,float,float)` | :x: |
+| `_ZN2al33pickUniformPointsOnDiskHammersleyEPN4sead7Vector2IfEEjj` | `al::pickUniformPointsOnDiskHammersley(sead::Vector2<float> *,unsigned int,unsigned int)` | :x: |
+| `_ZN2al22pickUniformPointOnDiskEPN4sead7Vector2IfEE` | `al::pickUniformPointOnDisk(sead::Vector2<float> *)` | :x: |
+| `_ZN2al22calcSpherePointPickingEPN4sead7Vector3IfEEff` | `al::calcSpherePointPicking(sead::Vector3<float> *,float,float)` | :x: |
+| `_ZN2al24pickUniformPointOnSphereEPN4sead7Vector3IfEE` | `al::pickUniformPointOnSphere(sead::Vector3<float> *)` | :x: |

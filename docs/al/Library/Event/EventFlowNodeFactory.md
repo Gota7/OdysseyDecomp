@@ -8,4 +8,4 @@
 # EventFlowNodeFactory.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al20EventFlowNodeFactoryC2Ev` | `al::EventFlowNodeFactory::EventFlowNodeFactory(void)` | :white_check_mark: |
+| `_ZN2al20EventFlowNodeFactoryC2Ev` | `al::EventFlowNodeFactory::EventFlowNodeFactory(void)` | :x: |

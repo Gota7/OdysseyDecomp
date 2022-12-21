@@ -8,4 +8,4 @@
 # EmitterSetResourceInfo.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al22EmitterSetResourceInfoC1EPKciijbb` | `al::EmitterSetResourceInfo::EmitterSetResourceInfo(char const*,int,int,unsigned int,bool,bool)` | :white_check_mark: |
+| `_ZN2al22EmitterSetResourceInfoC1EPKciijbb` | `al::EmitterSetResourceInfo::EmitterSetResourceInfo(char const*,int,int,unsigned int,bool,bool)` | :x: |

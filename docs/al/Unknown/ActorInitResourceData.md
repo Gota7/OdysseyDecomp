@@ -8,4 +8,4 @@
 # ActorInitResourceData.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al21ActorInitResourceDataC1EPNS_8ResourceE` | `al::ActorInitResourceData::ActorInitResourceData(al::Resource *)` | :white_check_mark: |
+| `_ZN2al21ActorInitResourceDataC1EPNS_8ResourceE` | `al::ActorInitResourceData::ActorInitResourceData(al::Resource *)` | :x: |

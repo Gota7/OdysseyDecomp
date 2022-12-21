@@ -8,6 +8,6 @@
 # EffectDataBase.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al22EffectDrawCategoryInfoC2Ev` | `al::EffectDrawCategoryInfo::EffectDrawCategoryInfo(void)` | :white_check_mark: |
-| `_ZN2al14EffectDataBaseC2EPKc` | `al::EffectDataBase::EffectDataBase(char const*)` | :white_check_mark: |
-| `_ZN24alEffectDataBaseFunction20createEffectUserInfoEPKN2al14EffectDataBaseEPKNS0_8ResourceERKN4sead14SafeStringBaseIcEE` | `alEffectDataBaseFunction::createEffectUserInfo(al::EffectDataBase const*,al::Resource const*,sead::SafeStringBase<char> const&)` | :white_check_mark: |
+| `_ZN2al22EffectDrawCategoryInfoC2Ev` | `al::EffectDrawCategoryInfo::EffectDrawCategoryInfo(void)` | :x: |
+| `_ZN2al14EffectDataBaseC2EPKc` | `al::EffectDataBase::EffectDataBase(char const*)` | :x: |
+| `_ZN24alEffectDataBaseFunction20createEffectUserInfoEPKN2al14EffectDataBaseEPKNS0_8ResourceERKN4sead14SafeStringBaseIcEE` | `alEffectDataBaseFunction::createEffectUserInfo(al::EffectDataBase const*,al::Resource const*,sead::SafeStringBase<char> const&)` | :x: |

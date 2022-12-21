@@ -8,6 +8,6 @@
 # EventFlowNodeActorBaseMovementEnd.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al33EventFlowNodeActorBaseMovementEndC2EPKc` | `al::EventFlowNodeActorBaseMovementEnd::EventFlowNodeActorBaseMovementEnd(char const*)` | :white_check_mark: |
-| `_ZN2al33EventFlowNodeActorBaseMovementEnd4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeActorBaseMovementEnd::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |
-| `_ZN2al33EventFlowNodeActorBaseMovementEnd5startEv` | `al::EventFlowNodeActorBaseMovementEnd::start(void)` | :white_check_mark: |
+| `_ZN2al33EventFlowNodeActorBaseMovementEndC2EPKc` | `al::EventFlowNodeActorBaseMovementEnd::EventFlowNodeActorBaseMovementEnd(char const*)` | :x: |
+| `_ZN2al33EventFlowNodeActorBaseMovementEnd4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeActorBaseMovementEnd::init(al::EventFlowNodeInitInfo const&)` | :x: |
+| `_ZN2al33EventFlowNodeActorBaseMovementEnd5startEv` | `al::EventFlowNodeActorBaseMovementEnd::start(void)` | :x: |

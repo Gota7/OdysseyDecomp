@@ -8,9 +8,9 @@
 # EventFlowChart.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al14EventFlowChartC2Ev` | `al::EventFlowChart::EventFlowChart(void)` | :white_check_mark: |
-| `_ZN2al14EventFlowChart4initERKNS_22EventFlowChartInitInfoE` | `al::EventFlowChart::init(al::EventFlowChartInitInfo const&)` | :white_check_mark: |
-| `_ZN2al14EventFlowChart18initAfterPlacementEv` | `al::EventFlowChart::initAfterPlacement(void)` | :white_check_mark: |
-| `_ZNK2al14EventFlowChart13findEntryNodeEPKc` | `al::EventFlowChart::findEntryNode(char const*)const` | :white_check_mark: |
-| `_ZNK2al14EventFlowChart12findNodeByIdEi` | `al::EventFlowChart::findNodeById(int)const` | :white_check_mark: |
-| `_ZNK2al14EventFlowChart12isExistEntryEPKc` | `al::EventFlowChart::isExistEntry(char const*)const` | :white_check_mark: |
+| `_ZN2al14EventFlowChartC2Ev` | `al::EventFlowChart::EventFlowChart(void)` | :x: |
+| `_ZN2al14EventFlowChart4initERKNS_22EventFlowChartInitInfoE` | `al::EventFlowChart::init(al::EventFlowChartInitInfo const&)` | :x: |
+| `_ZN2al14EventFlowChart18initAfterPlacementEv` | `al::EventFlowChart::initAfterPlacement(void)` | :x: |
+| `_ZNK2al14EventFlowChart13findEntryNodeEPKc` | `al::EventFlowChart::findEntryNode(char const*)const` | :x: |
+| `_ZNK2al14EventFlowChart12findNodeByIdEi` | `al::EventFlowChart::findNodeById(int)const` | :x: |
+| `_ZNK2al14EventFlowChart12isExistEntryEPKc` | `al::EventFlowChart::isExistEntry(char const*)const` | :x: |

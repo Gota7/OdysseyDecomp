@@ -8,6 +8,6 @@
 # SaveDataSequenceFormat.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al22SaveDataSequenceFormatC2Ev` | `al::SaveDataSequenceFormat::SaveDataSequenceFormat(void)` | :white_check_mark: |
-| `_ZN2al22SaveDataSequenceFormat5startEii` | `al::SaveDataSequenceFormat::start(int,int)` | :white_check_mark: |
-| `_ZN2al22SaveDataSequenceFormat10threadFuncEPKc` | `al::SaveDataSequenceFormat::threadFunc(char const*)` | :white_check_mark: |
+| `_ZN2al22SaveDataSequenceFormatC2Ev` | `al::SaveDataSequenceFormat::SaveDataSequenceFormat(void)` | :x: |
+| `_ZN2al22SaveDataSequenceFormat5startEii` | `al::SaveDataSequenceFormat::start(int,int)` | :x: |
+| `_ZN2al22SaveDataSequenceFormat10threadFuncEPKc` | `al::SaveDataSequenceFormat::threadFunc(char const*)` | :x: |

@@ -8,5 +8,5 @@
 # ExecutorListActorExecuteBase.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZNK2al28ExecutorListActorExecuteBase8isActiveEv` | `al::ExecutorListActorExecuteBase::isActive(void)const` | :white_check_mark: |
-| `_ZN2al16ExecutorListBaseD0Ev` | `al::ExecutorListBase::~ExecutorListBase()` | :white_check_mark: |
+| `_ZNK2al28ExecutorListActorExecuteBase8isActiveEv` | `al::ExecutorListActorExecuteBase::isActive(void)const` | :x: |
+| `_ZN2al16ExecutorListBaseD0Ev` | `al::ExecutorListBase::~ExecutorListBase()` | :x: |

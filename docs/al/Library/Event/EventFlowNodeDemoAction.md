@@ -8,7 +8,7 @@
 # EventFlowNodeDemoAction.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al23EventFlowNodeDemoActionC2EPKc` | `al::EventFlowNodeDemoAction::EventFlowNodeDemoAction(char const*)` | :white_check_mark: |
-| `_ZN2al23EventFlowNodeDemoAction4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeDemoAction::init(al::EventFlowNodeInitInfo const&)` | :white_check_mark: |
-| `_ZN2al23EventFlowNodeDemoAction5startEv` | `al::EventFlowNodeDemoAction::start(void)` | :white_check_mark: |
-| `_ZN2al23EventFlowNodeDemoAction7controlEv` | `al::EventFlowNodeDemoAction::control(void)` | :white_check_mark: |
+| `_ZN2al23EventFlowNodeDemoActionC2EPKc` | `al::EventFlowNodeDemoAction::EventFlowNodeDemoAction(char const*)` | :x: |
+| `_ZN2al23EventFlowNodeDemoAction4initERKNS_21EventFlowNodeInitInfoE` | `al::EventFlowNodeDemoAction::init(al::EventFlowNodeInitInfo const&)` | :x: |
+| `_ZN2al23EventFlowNodeDemoAction5startEv` | `al::EventFlowNodeDemoAction::start(void)` | :x: |
+| `_ZN2al23EventFlowNodeDemoAction7controlEv` | `al::EventFlowNodeDemoAction::control(void)` | :x: |

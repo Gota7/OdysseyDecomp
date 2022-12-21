@@ -8,7 +8,7 @@
 # ModelGroup.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al10ModelGroupC2Ei` | `al::ModelGroup::ModelGroup(int)` | :white_check_mark: |
-| `_ZN2al10ModelGroupD2Ev` | `al::ModelGroup::~ModelGroup()` | :white_check_mark: |
-| `_ZN2al10ModelGroupD0Ev` | `al::ModelGroup::~ModelGroup()` | :white_check_mark: |
-| `_ZN2al10ModelGroup13registerModelEPNS_11ModelKeeperE` | `al::ModelGroup::registerModel(al::ModelKeeper *)` | :white_check_mark: |
+| `_ZN2al10ModelGroupC2Ei` | `al::ModelGroup::ModelGroup(int)` | :x: |
+| `_ZN2al10ModelGroupD2Ev` | `al::ModelGroup::~ModelGroup()` | :x: |
+| `_ZN2al10ModelGroupD0Ev` | `al::ModelGroup::~ModelGroup()` | :x: |
+| `_ZN2al10ModelGroup13registerModelEPNS_11ModelKeeperE` | `al::ModelGroup::registerModel(al::ModelKeeper *)` | :x: |

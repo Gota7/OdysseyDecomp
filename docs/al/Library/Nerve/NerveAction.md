@@ -8,6 +8,6 @@
 # NerveAction.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al11NerveActionC2Ev` | `al::NerveAction::NerveAction(void)` | :white_check_mark: |
-| `_ZN15alNerveFunction20NerveActionCollector8addNerveEPN2al11NerveActionE` | `alNerveFunction::NerveActionCollector::addNerve(al::NerveAction *)` | :white_check_mark: |
-| `_ZN15alNerveFunction20NerveActionCollectorC2Ev` | `alNerveFunction::NerveActionCollector::NerveActionCollector(void)` | :white_check_mark: |
+| `_ZN2al11NerveActionC2Ev` | `al::NerveAction::NerveAction(void)` | :x: |
+| `_ZN15alNerveFunction20NerveActionCollector8addNerveEPN2al11NerveActionE` | `alNerveFunction::NerveActionCollector::addNerve(al::NerveAction *)` | :x: |
+| `_ZN15alNerveFunction20NerveActionCollectorC2Ev` | `alNerveFunction::NerveActionCollector::NerveActionCollector(void)` | :x: |

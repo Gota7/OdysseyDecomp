@@ -8,9 +8,9 @@
 # PartsSensorConnector.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al15SensorConnectorC2Ev` | `al::SensorConnector::SensorConnector(void)` | :white_check_mark: |
-| `_ZN2al15SensorConnector4initEPKN4sead8Matrix34IfEERS4_PNS_9HitSensorE` | `al::SensorConnector::init(sead::Matrix34<float> const*,sead::Matrix34<float> const&,al::HitSensor *)` | :white_check_mark: |
-| `_ZNK2al15SensorConnector19getConnectingSensorEv` | `al::SensorConnector::getConnectingSensor(void)const` | :white_check_mark: |
-| `_ZNK2al15SensorConnector12isConnectingEv` | `al::SensorConnector::isConnecting(void)const` | :white_check_mark: |
-| `_ZN2al15SensorConnector5clearEv` | `al::SensorConnector::clear(void)` | :white_check_mark: |
-| `_ZN2al23tryCallControllerAppletEPKNS_13GamePadSystemEii` | `al::tryCallControllerApplet(al::GamePadSystem const*,int,int)` | :white_check_mark: |
+| `_ZN2al15SensorConnectorC2Ev` | `al::SensorConnector::SensorConnector(void)` | :x: |
+| `_ZN2al15SensorConnector4initEPKN4sead8Matrix34IfEERS4_PNS_9HitSensorE` | `al::SensorConnector::init(sead::Matrix34<float> const*,sead::Matrix34<float> const&,al::HitSensor *)` | :x: |
+| `_ZNK2al15SensorConnector19getConnectingSensorEv` | `al::SensorConnector::getConnectingSensor(void)const` | :x: |
+| `_ZNK2al15SensorConnector12isConnectingEv` | `al::SensorConnector::isConnecting(void)const` | :x: |
+| `_ZN2al15SensorConnector5clearEv` | `al::SensorConnector::clear(void)` | :x: |
+| `_ZN2al23tryCallControllerAppletEPKNS_13GamePadSystemEii` | `al::tryCallControllerApplet(al::GamePadSystem const*,int,int)` | :x: |

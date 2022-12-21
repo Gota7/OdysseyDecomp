@@ -8,8 +8,8 @@
 # HdrCompose.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al12CameraEffectC2Ev` | `al::CameraEffect::CameraEffect(void)` | :white_check_mark: |
-| `_ZNK2al10HdrCompose19isUsingAutoExposureEv` | `al::HdrCompose::isUsingAutoExposure(void)const` | :white_check_mark: |
-| `_ZNK2al10HdrCompose15getCurrentParamEv` | `al::HdrCompose::getCurrentParam(void)const` | :white_check_mark: |
-| `_ZNK2al10HdrCompose11getExposureEv` | `al::HdrCompose::getExposure(void)const` | :white_check_mark: |
-| `_ZNK2al10HdrCompose14getExposureExpEv` | `al::HdrCompose::getExposureExp(void)const` | :white_check_mark: |
+| `_ZN2al12CameraEffectC2Ev` | `al::CameraEffect::CameraEffect(void)` | :x: |
+| `_ZNK2al10HdrCompose19isUsingAutoExposureEv` | `al::HdrCompose::isUsingAutoExposure(void)const` | :x: |
+| `_ZNK2al10HdrCompose15getCurrentParamEv` | `al::HdrCompose::getCurrentParam(void)const` | :x: |
+| `_ZNK2al10HdrCompose11getExposureEv` | `al::HdrCompose::getExposure(void)const` | :x: |
+| `_ZNK2al10HdrCompose14getExposureExpEv` | `al::HdrCompose::getExposureExp(void)const` | :x: |

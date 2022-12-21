@@ -8,6 +8,6 @@
 # SimpleLayoutAppear.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al18SimpleLayoutAppearC2EPKcS2_RKNS_14LayoutInitInfoES2_` | `al::SimpleLayoutAppear::SimpleLayoutAppear(char const*,char const*,al::LayoutInitInfo const&,char const*)` | :white_check_mark: |
-| `_ZN2al18SimpleLayoutAppearC1EPKcS2_RKNS_14LayoutInitInfoES2_` | `al::SimpleLayoutAppear::SimpleLayoutAppear(char const*,char const*,al::LayoutInitInfo const&,char const*)` | :white_check_mark: |
-| `_ZN2al18SimpleLayoutAppear6appearEv` | `al::SimpleLayoutAppear::appear(void)` | :white_check_mark: |
+| `_ZN2al18SimpleLayoutAppearC2EPKcS2_RKNS_14LayoutInitInfoES2_` | `al::SimpleLayoutAppear::SimpleLayoutAppear(char const*,char const*,al::LayoutInitInfo const&,char const*)` | :x: |
+| `_ZN2al18SimpleLayoutAppearC1EPKcS2_RKNS_14LayoutInitInfoES2_` | `al::SimpleLayoutAppear::SimpleLayoutAppear(char const*,char const*,al::LayoutInitInfo const&,char const*)` | :x: |
+| `_ZN2al18SimpleLayoutAppear6appearEv` | `al::SimpleLayoutAppear::appear(void)` | :x: |

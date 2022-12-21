@@ -8,5 +8,5 @@
 # AudioEffectParamsLevelDetector.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al30AudioEffectParamsLevelDetectorC2Ev` | `al::AudioEffectParamsLevelDetector::AudioEffectParamsLevelDetector(void)` | :white_check_mark: |
-| `_ZN2al30AudioEffectParamsLevelDetector9setParamsEPKNS_19AudioEffectProcInfoE` | `al::AudioEffectParamsLevelDetector::setParams(al::AudioEffectProcInfo const*)` | :white_check_mark: |
+| `_ZN2al30AudioEffectParamsLevelDetectorC2Ev` | `al::AudioEffectParamsLevelDetector::AudioEffectParamsLevelDetector(void)` | :x: |
+| `_ZN2al30AudioEffectParamsLevelDetector9setParamsEPKNS_19AudioEffectProcInfoE` | `al::AudioEffectParamsLevelDetector::setParams(al::AudioEffectProcInfo const*)` | :x: |

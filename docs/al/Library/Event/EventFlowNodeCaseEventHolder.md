@@ -8,9 +8,9 @@
 # EventFlowNodeCaseEventHolder.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al28EventFlowNodeCaseEventHolderC2Ev` | `al::EventFlowNodeCaseEventHolder::EventFlowNodeCaseEventHolder(void)` | :white_check_mark: |
-| `_ZN2al28EventFlowNodeCaseEventHolder4initERKNS_9ByamlIterEPKNS_17IUseMessageSystemE` | `al::EventFlowNodeCaseEventHolder::init(al::ByamlIter const&,al::IUseMessageSystem const*)` | :white_check_mark: |
-| `_ZNK2al28EventFlowNodeCaseEventHolder10findNextIdEPKc` | `al::EventFlowNodeCaseEventHolder::findNextId(char const*)const` | :white_check_mark: |
-| `_ZNK2al28EventFlowNodeCaseEventHolder9getNextIdEi` | `al::EventFlowNodeCaseEventHolder::getNextId(int)const` | :white_check_mark: |
-| `_ZNK2al28EventFlowNodeCaseEventHolder10getMessageEi` | `al::EventFlowNodeCaseEventHolder::getMessage(int)const` | :white_check_mark: |
-| `_ZNK2al28EventFlowNodeCaseEventHolder13tryGetMessageEi` | `al::EventFlowNodeCaseEventHolder::tryGetMessage(int)const` | :white_check_mark: |
+| `_ZN2al28EventFlowNodeCaseEventHolderC2Ev` | `al::EventFlowNodeCaseEventHolder::EventFlowNodeCaseEventHolder(void)` | :x: |
+| `_ZN2al28EventFlowNodeCaseEventHolder4initERKNS_9ByamlIterEPKNS_17IUseMessageSystemE` | `al::EventFlowNodeCaseEventHolder::init(al::ByamlIter const&,al::IUseMessageSystem const*)` | :x: |
+| `_ZNK2al28EventFlowNodeCaseEventHolder10findNextIdEPKc` | `al::EventFlowNodeCaseEventHolder::findNextId(char const*)const` | :x: |
+| `_ZNK2al28EventFlowNodeCaseEventHolder9getNextIdEi` | `al::EventFlowNodeCaseEventHolder::getNextId(int)const` | :x: |
+| `_ZNK2al28EventFlowNodeCaseEventHolder10getMessageEi` | `al::EventFlowNodeCaseEventHolder::getMessage(int)const` | :x: |
+| `_ZNK2al28EventFlowNodeCaseEventHolder13tryGetMessageEi` | `al::EventFlowNodeCaseEventHolder::tryGetMessage(int)const` | :x: |

@@ -8,5 +8,5 @@
 # PlacementClippingExpander.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al25PlacementClippingExpanderC2Ev` | `al::PlacementClippingExpander::PlacementClippingExpander(void)` | :white_check_mark: |
-| `_ZN2al25PlacementClippingExpander4initEPNS_9LiveActorERKNS_13PlacementInfoE` | `al::PlacementClippingExpander::init(al::LiveActor *,al::PlacementInfo const&)` | :white_check_mark: |
+| `_ZN2al25PlacementClippingExpanderC2Ev` | `al::PlacementClippingExpander::PlacementClippingExpander(void)` | :x: |
+| `_ZN2al25PlacementClippingExpander4initEPNS_9LiveActorERKNS_13PlacementInfoE` | `al::PlacementClippingExpander::init(al::LiveActor *,al::PlacementInfo const&)` | :x: |

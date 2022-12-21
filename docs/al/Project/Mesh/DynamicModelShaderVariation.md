@@ -8,6 +8,6 @@
 # DynamicModelShaderVariation.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al27DynamicModelShaderVariationC2Ev` | `al::DynamicModelShaderVariation::DynamicModelShaderVariation(void)` | :white_check_mark: |
-| `_ZN2al27DynamicModelShaderVariation7requestEPKcS2_` | `al::DynamicModelShaderVariation::request(char const*,char const*)` | :white_check_mark: |
-| `_ZN2al27DynamicModelShaderVariation9tryUpdateEv` | `al::DynamicModelShaderVariation::tryUpdate(void)` | :white_check_mark: |
+| `_ZN2al27DynamicModelShaderVariationC2Ev` | `al::DynamicModelShaderVariation::DynamicModelShaderVariation(void)` | :x: |
+| `_ZN2al27DynamicModelShaderVariation7requestEPKcS2_` | `al::DynamicModelShaderVariation::request(char const*,char const*)` | :x: |
+| `_ZN2al27DynamicModelShaderVariation9tryUpdateEv` | `al::DynamicModelShaderVariation::tryUpdate(void)` | :x: |

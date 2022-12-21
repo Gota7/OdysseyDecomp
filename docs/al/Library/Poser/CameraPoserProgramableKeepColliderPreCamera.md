@@ -8,6 +8,6 @@
 # CameraPoserProgramableKeepColliderPreCamera.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al43CameraPoserProgramableKeepColliderPreCameraC2EPKN4sead7Vector3IfEES5_S5_` | `al::CameraPoserProgramableKeepColliderPreCamera::CameraPoserProgramableKeepColliderPreCamera(sead::Vector3<float> const*,sead::Vector3<float> const*,sead::Vector3<float> const*)` | :white_check_mark: |
-| `_ZN2al43CameraPoserProgramableKeepColliderPreCamera4initEv` | `al::CameraPoserProgramableKeepColliderPreCamera::init(void)` | :white_check_mark: |
-| `_ZN2al43CameraPoserProgramableKeepColliderPreCamera5startERKNS_15CameraStartInfoE` | `al::CameraPoserProgramableKeepColliderPreCamera::start(al::CameraStartInfo const&)` | :white_check_mark: |
+| `_ZN2al43CameraPoserProgramableKeepColliderPreCameraC2EPKN4sead7Vector3IfEES5_S5_` | `al::CameraPoserProgramableKeepColliderPreCamera::CameraPoserProgramableKeepColliderPreCamera(sead::Vector3<float> const*,sead::Vector3<float> const*,sead::Vector3<float> const*)` | :x: |
+| `_ZN2al43CameraPoserProgramableKeepColliderPreCamera4initEv` | `al::CameraPoserProgramableKeepColliderPreCamera::init(void)` | :x: |
+| `_ZN2al43CameraPoserProgramableKeepColliderPreCamera5startERKNS_15CameraStartInfoE` | `al::CameraPoserProgramableKeepColliderPreCamera::start(al::CameraStartInfo const&)` | :x: |

@@ -8,6 +8,6 @@
 # RippleTextureKeeper.o
 | Symbol (Mangled) | Symbol (Demangled) | Decompiled? |
 | ------------- |  ------------- | ------------- |
-| `_ZN2al19RippleTextureKeeperC1Ev` | `al::RippleTextureKeeper::RippleTextureKeeper(void)` | :white_check_mark: |
-| `_ZN2al19RippleTextureKeeper17registerRippleTexEPNS_17FluidSimulateWaveE` | `al::RippleTextureKeeper::registerRippleTex(al::FluidSimulateWave *)` | :white_check_mark: |
-| `_ZNK2al19RippleTextureKeeper15activateSamplerEPN3agl11DrawContextEi` | `al::RippleTextureKeeper::activateSampler(agl::DrawContext *,int)const` | :white_check_mark: |
+| `_ZN2al19RippleTextureKeeperC1Ev` | `al::RippleTextureKeeper::RippleTextureKeeper(void)` | :x: |
+| `_ZN2al19RippleTextureKeeper17registerRippleTexEPNS_17FluidSimulateWaveE` | `al::RippleTextureKeeper::registerRippleTex(al::FluidSimulateWave *)` | :x: |
+| `_ZNK2al19RippleTextureKeeper15activateSamplerEPN3agl11DrawContextEi` | `al::RippleTextureKeeper::activateSampler(agl::DrawContext *,int)const` | :x: |
