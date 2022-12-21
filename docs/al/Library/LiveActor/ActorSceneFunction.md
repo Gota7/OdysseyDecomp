@@ -1,0 +1,19 @@
+# ActorSceneFunction.o
+| Symbol | Meaning 
+| ------------- | ------------- 
+| :x: | Function has not yet been started or is not matching. 
+| :white_check_mark: | Function is completed. 
+
+
+# ActorSceneFunction.o
+| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| ------------- |  ------------- | ------------- |
+| `_ZN2al14ActorSceneInfoC2Ev` | `al::ActorSceneInfo::ActorSceneInfo(void)` | :white_check_mark: |
+| `_ZN2al9stopSceneEPKNS_9LiveActorEii` | `al::stopScene(al::LiveActor const*,int,int)` | :white_check_mark: |
+| `_ZN2al11isStopSceneEPKNS_9LiveActorE` | `al::isStopScene(al::LiveActor const*)` | :white_check_mark: |
+| `_ZN2al9stopSceneEPNS_13SceneStopCtrlEii` | `al::stopScene(al::SceneStopCtrl *,int,int)` | :white_check_mark: |
+| `_ZN2al11isStopSceneEPNS_13SceneStopCtrlE` | `al::isStopScene(al::SceneStopCtrl *)` | :white_check_mark: |
+| `_ZN2al25requestCaptureScreenCoverEPKNS_9LiveActorEi` | `al::requestCaptureScreenCover(al::LiveActor const*,int)` | :white_check_mark: |
+| `_ZN2al16requestStartDemoEPKNS_9LiveActorEPKc` | `al::requestStartDemo(al::LiveActor const*,char const*)` | :white_check_mark: |
+| `_ZN2al14requestEndDemoEPKNS_9LiveActorEPKc` | `al::requestEndDemo(al::LiveActor const*,char const*)` | :white_check_mark: |
+| `_ZN2al12addDemoActorEPNS_9LiveActorE` | `al::addDemoActor(al::LiveActor *)` | :white_check_mark: |

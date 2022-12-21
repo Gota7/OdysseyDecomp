@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al15CameraStopJudgeC2Ev","al::CameraStopJudge::CameraStopJudge(void)",false
+"_ZNK2al15CameraStopJudge6isStopEv","al::CameraStopJudge::isStop(void)const",false
+"_ZN2al15CameraStopJudge6updateERKN4sead7Vector3IfEE","al::CameraStopJudge::update(sead::Vector3<float> const&)",false
+"_ZNK2al15CameraStopJudge18getAreaObjDirectorEv","al::CameraStopJudge::getAreaObjDirector(void)const",false
+"_ZN2al19CameraSubTargetBaseC2Ev","al::CameraSubTargetBase::CameraSubTargetBase(void)",false

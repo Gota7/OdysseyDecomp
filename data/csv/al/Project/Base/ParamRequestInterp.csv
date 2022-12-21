@@ -1,0 +1,13 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZNK2al16IUseRequestParam7isEqualERKS0_","al::IUseRequestParam::isEqual(al::IUseRequestParam const&)const",false
+"_ZN2al16IUseRequestParam4copyERKS0_","al::IUseRequestParam::copy(al::IUseRequestParam const&)",false
+"_ZN2al16IUseRequestParam10copyInterpERKS0_S2_f","al::IUseRequestParam::copyInterp(al::IUseRequestParam const&,al::IUseRequestParam const&,float)",false
+"_ZN2al18ParamRequestInterpC2Ev","al::ParamRequestInterp::ParamRequestInterp(void)",false
+"_ZNK2al18ParamRequestInterp8calcRateEv","al::ParamRequestInterp::calcRate(void)const",false
+"_ZN2al18ParamRequestInterp12clearRequestEv","al::ParamRequestInterp::clearRequest(void)",false
+"_ZN2al18ParamRequestInterp7endInitEv","al::ParamRequestInterp::endInit(void)",false
+"_ZNK2al18ParamRequestInterp11isRequestedEv","al::ParamRequestInterp::isRequested(void)const",false
+"_ZN2al18ParamRequestInterp12requestParamEiiRKNS_16IUseRequestParamE","al::ParamRequestInterp::requestParam(int,int,al::IUseRequestParam const&)",false
+"_ZN2al18ParamRequestInterp19requestParamDirect_EiRKNS_16IUseRequestParamE","al::ParamRequestInterp::requestParamDirect_(int,al::IUseRequestParam const&)",false
+"_ZN2al18ParamRequestInterp12updateInterpEv","al::ParamRequestInterp::updateInterp(void)",false
+"_ZN21RequestInterpMathImpl3maxEii","RequestInterpMathImpl::max(int,int)",false

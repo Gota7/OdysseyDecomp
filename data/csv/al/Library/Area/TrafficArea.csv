@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al11TrafficAreaC2EPKc","al::TrafficArea::TrafficArea(char const*)",false
+"_ZN2al11TrafficAreaC1EPKc","al::TrafficArea::TrafficArea(char const*)",false
+"_ZN2al11TrafficArea17tryPermitEnterCarEv","al::TrafficArea::tryPermitEnterCar(void)",false
+"_ZN2al11TrafficArea17tryPermitEnterNpcEv","al::TrafficArea::tryPermitEnterNpc(void)",false

@@ -1,0 +1,17 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al14ActionAnimCtrl9tryCreateEPNS_9LiveActorEPKNS_13ActorResourceEPKcS7_","al::ActionAnimCtrl::tryCreate(al::LiveActor *,al::ActorResource const*,char const*,char const*)",false
+"_ZN2al14ActionAnimCtrl4initEPKNS_13ActorResourceEPKcS5_","al::ActionAnimCtrl::init(al::ActorResource const*,char const*,char const*)",false
+"_ZN2al14ActionAnimCtrl5startEPKc","al::ActionAnimCtrl::start(char const*)",false
+"_ZNK2al14ActionAnimCtrl12findAnimInfoEPKc","al::ActionAnimCtrl::findAnimInfo(char const*)const",false
+"_ZNK2al14ActionAnimCtrl8getFrameEv","al::ActionAnimCtrl::getFrame(void)const",false
+"_ZNK2al14ActionAnimCtrl17getActionFrameMaxEPKc","al::ActionAnimCtrl::getActionFrameMax(char const*)const",false
+"_ZNK2al14ActionAnimCtrl12getFrameRateEv","al::ActionAnimCtrl::getFrameRate(void)const",false
+"_ZN2al14ActionAnimCtrl11trySetFrameEf","al::ActionAnimCtrl::trySetFrame(float)",false
+"_ZNK2al14ActionAnimCtrl13isExistActionEPKc","al::ActionAnimCtrl::isExistAction(char const*)const",false
+"_ZNK2al14ActionAnimCtrl15isActionOneTimeEPKc","al::ActionAnimCtrl::isActionOneTime(char const*)const",false
+"_ZNK2al14ActionAnimCtrl11isActionEndEv","al::ActionAnimCtrl::isActionEnd(void)const",false
+"_ZNK2al14ActionAnimCtrl20getPlayingActionNameEv","al::ActionAnimCtrl::getPlayingActionName(void)const",false
+"_ZN2al14ActionAnimCtrlC2EPNS_9LiveActorE","al::ActionAnimCtrl::ActionAnimCtrl(al::LiveActor *)",false
+"_ZN2al14ActionAnimCtrl12sortCtrlInfoEv","al::ActionAnimCtrl::sortCtrlInfo(void)",false
+"_ZN2al18ActionAnimDataInfoC2Ev","al::ActionAnimDataInfo::ActionAnimDataInfo(void)",false
+"_ZN2al18ActionAnimCtrlInfoC2Ei","al::ActionAnimCtrlInfo::ActionAnimCtrlInfo(int)",false

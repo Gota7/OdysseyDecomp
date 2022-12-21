@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al10ModelGroupC2Ei","al::ModelGroup::ModelGroup(int)",false
+"_ZN2al10ModelGroupD2Ev","al::ModelGroup::~ModelGroup()",false
+"_ZN2al10ModelGroupD0Ev","al::ModelGroup::~ModelGroup()",false
+"_ZN2al10ModelGroup13registerModelEPNS_11ModelKeeperE","al::ModelGroup::registerModel(al::ModelKeeper *)",false

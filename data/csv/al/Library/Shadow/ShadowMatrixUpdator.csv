@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al19ShadowMatrixUpdatorC2Ev","al::ShadowMatrixUpdator::ShadowMatrixUpdator(void)",false
+"_ZN2al19ShadowMatrixUpdator18updateShadowMatrixEf","al::ShadowMatrixUpdator::updateShadowMatrix(float)",false
+"_ZNK2al19ShadowMatrixUpdator20getDrawCameraViewMtxEv","al::ShadowMatrixUpdator::getDrawCameraViewMtx(void)const",false
+"_ZNK2al19ShadowMatrixUpdator20getDrawProjectionMtxEv","al::ShadowMatrixUpdator::getDrawProjectionMtx(void)const",false

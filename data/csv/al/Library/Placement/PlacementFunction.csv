@@ -1,0 +1,180 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al11isValidInfoERKNS_13PlacementInfoE","al::isValidInfo(al::PlacementInfo const&)",false
+"_ZN2al8isPlacedERKNS_13ActorInitInfoE","al::isPlaced(al::ActorInitInfo const&)",false
+"_ZN2al13getObjectNameEPPKcRKNS_13ActorInitInfoE","al::getObjectName(char const**,al::ActorInitInfo const&)",false
+"_ZN2al13getObjectNameEPPKcRKNS_13PlacementInfoE","al::getObjectName(char const**,al::PlacementInfo const&)",false
+"_ZN2al16tryGetObjectNameEPPKcRKNS_13PlacementInfoE","al::tryGetObjectName(char const**,al::PlacementInfo const&)",false
+"_ZN2al16tryGetObjectNameEPPKcRKNS_13ActorInitInfoE","al::tryGetObjectName(char const**,al::ActorInitInfo const&)",false
+"_ZN2al15tryGetStringArgEPPKcRKNS_13PlacementInfoES1_","al::tryGetStringArg(char const**,al::PlacementInfo const&,char const*)",false
+"_ZN2al12isObjectNameERKNS_13ActorInitInfoEPKc","al::isObjectName(al::ActorInitInfo const&,char const*)",false
+"_ZN2al12isObjectNameERKNS_13PlacementInfoEPKc","al::isObjectName(al::PlacementInfo const&,char const*)",false
+"_ZN2al18isObjectNameSubStrERKNS_13ActorInitInfoEPKc","al::isObjectNameSubStr(al::ActorInitInfo const&,char const*)",false
+"_ZN2al18isObjectNameSubStrERKNS_13PlacementInfoEPKc","al::isObjectNameSubStr(al::PlacementInfo const&,char const*)",false
+"_ZN2al15tryGetClassNameEPPKcRKNS_13ActorInitInfoE","al::tryGetClassName(char const**,al::ActorInitInfo const&)",false
+"_ZN2al15tryGetClassNameEPPKcRKNS_13PlacementInfoE","al::tryGetClassName(char const**,al::PlacementInfo const&)",false
+"_ZN2al24tryGetPlacementInfoByKeyEPNS_13PlacementInfoERKS0_PKc","al::tryGetPlacementInfoByKey(al::PlacementInfo *,al::PlacementInfo const&,char const*)",false
+"_ZN2al12getClassNameEPPKcRKNS_13ActorInitInfoE","al::getClassName(char const**,al::ActorInitInfo const&)",false
+"_ZN2al12getClassNameEPPKcRKNS_13PlacementInfoE","al::getClassName(char const**,al::PlacementInfo const&)",false
+"_ZN2al11isClassNameERKNS_13ActorInitInfoEPKc","al::isClassName(al::ActorInitInfo const&,char const*)",false
+"_ZN2al11isClassNameERKNS_13PlacementInfoEPKc","al::isClassName(al::PlacementInfo const&,char const*)",false
+"_ZN2al14getDisplayNameEPPKcRKNS_13ActorInitInfoE","al::getDisplayName(char const**,al::ActorInitInfo const&)",false
+"_ZN2al17tryGetDisplayNameEPPKcRKNS_13ActorInitInfoE","al::tryGetDisplayName(char const**,al::ActorInitInfo const&)",false
+"_ZN2al14getDisplayNameEPPKcRKNS_13PlacementInfoE","al::getDisplayName(char const**,al::PlacementInfo const&)",false
+"_ZN2al17tryGetDisplayNameEPPKcRKNS_13PlacementInfoE","al::tryGetDisplayName(char const**,al::PlacementInfo const&)",false
+"_ZN2al22getPlacementTargetFileEPPKcRKNS_13PlacementInfoE","al::getPlacementTargetFile(char const**,al::PlacementInfo const&)",false
+"_ZN2al11tryGetTransEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::tryGetTrans(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al11tryGetTransEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::tryGetTrans(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al11multZoneMtxEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::multZoneMtx(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al8getTransEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::getTrans(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al8getTransEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::getTrans(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al12tryGetRotateEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::tryGetRotate(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al12tryGetRotateEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::tryGetRotate(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al18tryGetZoneMatrixTREPN4sead8Matrix34IfEERKNS_13PlacementInfoE","al::tryGetZoneMatrixTR(sead::Matrix34<float> *,al::PlacementInfo const&)",false
+"_ZN2al9getRotateEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::getRotate(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al10tryGetQuatEPN4sead4QuatIfEERKNS_13ActorInitInfoE","al::tryGetQuat(sead::Quat<float> *,al::ActorInitInfo const&)",false
+"_ZN2al10tryGetQuatEPN4sead4QuatIfEERKNS_13PlacementInfoE","al::tryGetQuat(sead::Quat<float> *,al::PlacementInfo const&)",false
+"_ZN2al7getQuatEPN4sead4QuatIfEERKNS_13PlacementInfoE","al::getQuat(sead::Quat<float> *,al::PlacementInfo const&)",false
+"_ZN2al7getQuatEPN4sead4QuatIfEERKNS_13ActorInitInfoE","al::getQuat(sead::Quat<float> *,al::ActorInitInfo const&)",false
+"_ZN2al11tryGetScaleEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::tryGetScale(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al11tryGetScaleEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::tryGetScale(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al8getScaleEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::getScale(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al8getScaleEPfS0_S0_RKNS_13PlacementInfoE","al::getScale(float *,float *,float *,al::PlacementInfo const&)",false
+"_ZN2al7getSideEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::getSide(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al7getSideEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::getSide(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al10tryGetSideEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::tryGetSide(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al10tryGetSideEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::tryGetSide(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al5getUpEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::getUp(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al5getUpEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::getUp(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al8tryGetUpEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::tryGetUp(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al8tryGetUpEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::tryGetUp(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al8getFrontEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::getFront(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al8getFrontEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::getFront(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al11tryGetFrontEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::tryGetFront(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al11tryGetFrontEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::tryGetFront(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al15tryGetLocalAxisEPN4sead7Vector3IfEERKNS_13ActorInitInfoEi","al::tryGetLocalAxis(sead::Vector3<float> *,al::ActorInitInfo const&,int)",false
+"_ZN2al15tryGetLocalAxisEPN4sead7Vector3IfEERKNS_13PlacementInfoEi","al::tryGetLocalAxis(sead::Vector3<float> *,al::PlacementInfo const&,int)",false
+"_ZN2al19tryGetLocalSignAxisEPN4sead7Vector3IfEERKNS_13ActorInitInfoEi","al::tryGetLocalSignAxis(sead::Vector3<float> *,al::ActorInitInfo const&,int)",false
+"_ZN2al19tryGetLocalSignAxisEPN4sead7Vector3IfEERKNS_13PlacementInfoEi","al::tryGetLocalSignAxis(sead::Vector3<float> *,al::PlacementInfo const&,int)",false
+"_ZN2al14tryGetMatrixTREPN4sead8Matrix34IfEERKNS_13ActorInitInfoE","al::tryGetMatrixTR(sead::Matrix34<float> *,al::ActorInitInfo const&)",false
+"_ZN2al14tryGetMatrixTREPN4sead8Matrix34IfEERKNS_13PlacementInfoE","al::tryGetMatrixTR(sead::Matrix34<float> *,al::PlacementInfo const&)",false
+"_ZN2al15tryGetMatrixTRSEPN4sead8Matrix34IfEERKNS_13ActorInitInfoE","al::tryGetMatrixTRS(sead::Matrix34<float> *,al::ActorInitInfo const&)",false
+"_ZN2al15tryGetMatrixTRSEPN4sead8Matrix34IfEERKNS_13PlacementInfoE","al::tryGetMatrixTRS(sead::Matrix34<float> *,al::PlacementInfo const&)",false
+"_ZN2al20tryGetInvertMatrixTREPN4sead8Matrix34IfEERKNS_13ActorInitInfoE","al::tryGetInvertMatrixTR(sead::Matrix34<float> *,al::ActorInitInfo const&)",false
+"_ZN2al20tryGetInvertMatrixTREPN4sead8Matrix34IfEERKNS_13PlacementInfoE","al::tryGetInvertMatrixTR(sead::Matrix34<float> *,al::PlacementInfo const&)",false
+"_ZN2al20calcMatrixMultParentEPN4sead8Matrix34IfEERKNS_13PlacementInfoES6_","al::calcMatrixMultParent(sead::Matrix34<float> *,al::PlacementInfo const&,al::PlacementInfo const&)",false
+"_ZN2al20calcMatrixMultParentEPN4sead8Matrix34IfEERKNS_13ActorInitInfoES6_","al::calcMatrixMultParent(sead::Matrix34<float> *,al::ActorInitInfo const&,al::ActorInitInfo const&)",false
+"_ZN2al9tryGetArgEPiRKNS_13ActorInitInfoEPKc","al::tryGetArg(int *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al9tryGetArgEPiRKNS_13PlacementInfoEPKc","al::tryGetArg(int *,al::PlacementInfo const&,char const*)",false
+"_ZN2al9tryGetArgEPfRKNS_13ActorInitInfoEPKc","al::tryGetArg(float *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al9tryGetArgEPfRKNS_13PlacementInfoEPKc","al::tryGetArg(float *,al::PlacementInfo const&,char const*)",false
+"_ZN2al9tryGetArgEPbRKNS_13ActorInitInfoEPKc","al::tryGetArg(bool *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al9tryGetArgEPbRKNS_13PlacementInfoEPKc","al::tryGetArg(bool *,al::PlacementInfo const&,char const*)",false
+"_ZN2al6getArgEPiRKNS_13ActorInitInfoEPKc","al::getArg(int *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al6getArgEPiRKNS_13PlacementInfoEPKc","al::getArg(int *,al::PlacementInfo const&,char const*)",false
+"_ZN2al6getArgEPfRKNS_13ActorInitInfoEPKc","al::getArg(float *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al6getArgEPfRKNS_13PlacementInfoEPKc","al::getArg(float *,al::PlacementInfo const&,char const*)",false
+"_ZN2al6getArgEPbRKNS_13ActorInitInfoEPKc","al::getArg(bool *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al6getArgEPbRKNS_13PlacementInfoEPKc","al::getArg(bool *,al::PlacementInfo const&,char const*)",false
+"_ZN2al9getArgS32ERKNS_13ActorInitInfoEPKc","al::getArgS32(al::ActorInitInfo const&,char const*)",false
+"_ZN2al9getArgF32ERKNS_13ActorInitInfoEPKc","al::getArgF32(al::ActorInitInfo const&,char const*)",false
+"_ZN2al9getArgV3fEPN4sead7Vector3IfEERKNS_13ActorInitInfoEPKc","al::getArgV3f(sead::Vector3<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al12tryGetArgV3fEPN4sead7Vector3IfEERKNS_13ActorInitInfoEPKc","al::tryGetArgV3f(sead::Vector3<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al9getArgV3fEPN4sead7Vector3IfEERKNS_13PlacementInfoEPKc","al::getArgV3f(sead::Vector3<float> *,al::PlacementInfo const&,char const*)",false
+"_ZN2al12tryGetArgV3fEPN4sead7Vector3IfEERKNS_13PlacementInfoEPKc","al::tryGetArgV3f(sead::Vector3<float> *,al::PlacementInfo const&,char const*)",false
+"_ZN2al9isArgBoolERKNS_13ActorInitInfoEPKc","al::isArgBool(al::ActorInitInfo const&,char const*)",false
+"_ZN2al9isArgBoolERKNS_13PlacementInfoEPKc","al::isArgBool(al::PlacementInfo const&,char const*)",false
+"_ZN2al11isArgStringERKNS_13ActorInitInfoEPKcS4_","al::isArgString(al::ActorInitInfo const&,char const*,char const*)",false
+"_ZN2al12getStringArgEPPKcRKNS_13ActorInitInfoES1_","al::getStringArg(char const**,al::ActorInitInfo const&,char const*)",false
+"_ZN2al11isArgStringERKNS_13PlacementInfoEPKcS4_","al::isArgString(al::PlacementInfo const&,char const*,char const*)",false
+"_ZN2al12getStringArgEPPKcRKNS_13PlacementInfoES1_","al::getStringArg(char const**,al::PlacementInfo const&,char const*)",false
+"_ZN2al12getStringArgEPPKcRKNS_12AreaInitInfoES1_","al::getStringArg(char const**,al::AreaInitInfo const&,char const*)",false
+"_ZN2al12getStringArgERKNS_13ActorInitInfoEPKc","al::getStringArg(al::ActorInitInfo const&,char const*)",false
+"_ZN2al12getStringArgERKNS_12AreaInitInfoEPKc","al::getStringArg(al::AreaInitInfo const&,char const*)",false
+"_ZN2al12getStringArgERKNS_13PlacementInfoEPKc","al::getStringArg(al::PlacementInfo const&,char const*)",false
+"_ZN2al15tryGetStringArgEPPKcRKNS_13ActorInitInfoES1_","al::tryGetStringArg(char const**,al::ActorInitInfo const&,char const*)",false
+"_ZN2al15tryGetStringArgEPPKcRKNS_12AreaInitInfoES1_","al::tryGetStringArg(char const**,al::AreaInitInfo const&,char const*)",false
+"_ZN2al12tryGetArgV2fEPN4sead7Vector2IfEERKNS_13ActorInitInfoEPKc","al::tryGetArgV2f(sead::Vector2<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al12tryGetArgV2fEPN4sead7Vector2IfEERKNS_13PlacementInfoEPKc","al::tryGetArgV2f(sead::Vector2<float> *,al::PlacementInfo const&,char const*)",false
+"_ZN2al14tryGetArgColorEPN4sead7Color4fERKNS_13ActorInitInfoEPKc","al::tryGetArgColor(sead::Color4f *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al14tryGetArgColorEPN4sead7Color4fERKNS_13PlacementInfoEPKc","al::tryGetArgColor(sead::Color4f *,al::PlacementInfo const&,char const*)",false
+"_ZN2al18getLayerConfigNameEPPKcRKNS_13ActorInitInfoE","al::getLayerConfigName(char const**,al::ActorInitInfo const&)",false
+"_ZN2al18getLayerConfigNameEPPKcRKNS_13PlacementInfoE","al::getLayerConfigName(char const**,al::PlacementInfo const&)",false
+"_ZN2al21tryGetZoneNameIfExistEPPKcRKNS_13PlacementInfoE","al::tryGetZoneNameIfExist(char const**,al::PlacementInfo const&)",false
+"_ZN2al14getPlacementIdEPNS_11PlacementIdERKNS_13PlacementInfoE","al::getPlacementId(al::PlacementId *,al::PlacementInfo const&)",false
+"_ZN2al20tryGetBoolArgOrFalseERKNS_13ActorInitInfoEPKc","al::tryGetBoolArgOrFalse(al::ActorInitInfo const&,char const*)",false
+"_ZN2al21getCountPlacementInfoERKNS_13PlacementInfoE","al::getCountPlacementInfo(al::PlacementInfo const&)",false
+"_ZN2al21getPlacementInfoByKeyEPNS_13PlacementInfoERKS0_PKc","al::getPlacementInfoByKey(al::PlacementInfo *,al::PlacementInfo const&,char const*)",false
+"_ZN2al23getPlacementInfoByIndexEPNS_13PlacementInfoERKS0_i","al::getPlacementInfoByIndex(al::PlacementInfo *,al::PlacementInfo const&,int)",false
+"_ZN2al26tryGetPlacementInfoByIndexEPNS_13PlacementInfoERKS0_i","al::tryGetPlacementInfoByIndex(al::PlacementInfo *,al::PlacementInfo const&,int)",false
+"_ZN2al33getPlacementInfoAndKeyNameByIndexEPNS_13PlacementInfoEPPKcRKS0_i","al::getPlacementInfoAndKeyNameByIndex(al::PlacementInfo *,char const**,al::PlacementInfo const&,int)",false
+"_ZN2al36tryGetPlacementInfoAndKeyNameByIndexEPNS_13PlacementInfoEPPKcRKS0_i","al::tryGetPlacementInfoAndKeyNameByIndex(al::PlacementInfo *,char const**,al::PlacementInfo const&,int)",false
+"_ZN2al17createPlacementIdERKNS_13ActorInitInfoE","al::createPlacementId(al::ActorInitInfo const&)",false
+"_ZN2al17createPlacementIdERKNS_13PlacementInfoE","al::createPlacementId(al::PlacementInfo const&)",false
+"_ZN2al17tryGetPlacementIdEPNS_11PlacementIdERKNS_13ActorInitInfoE","al::tryGetPlacementId(al::PlacementId *,al::ActorInitInfo const&)",false
+"_ZN2al17tryGetPlacementIdEPNS_11PlacementIdERKNS_13PlacementInfoE","al::tryGetPlacementId(al::PlacementId *,al::PlacementInfo const&)",false
+"_ZN2al14getPlacementIdEPNS_11PlacementIdERKNS_13ActorInitInfoE","al::getPlacementId(al::PlacementId *,al::ActorInitInfo const&)",false
+"_ZN2al18isEqualPlacementIdERKNS_11PlacementIdES2_","al::isEqualPlacementId(al::PlacementId const&,al::PlacementId const&)",false
+"_ZN2al18isEqualPlacementIdERKNS_13PlacementInfoES2_","al::isEqualPlacementId(al::PlacementInfo const&,al::PlacementInfo const&)",false
+"_ZN2al11isExistRailERKNS_13ActorInitInfoEPKc","al::isExistRail(al::ActorInitInfo const&,char const*)",false
+"_ZN2al14tryGetRailIterEPNS_13PlacementInfoERKS0_PKc","al::tryGetRailIter(al::PlacementInfo *,al::PlacementInfo const&,char const*)",false
+"_ZN2al15tryGetLinksInfoEPNS_13PlacementInfoERKS0_PKc","al::tryGetLinksInfo(al::PlacementInfo *,al::PlacementInfo const&,char const*)",false
+"_ZN2al27tryGetMoveParameterRailIterEPNS_13PlacementInfoERKS0_","al::tryGetMoveParameterRailIter(al::PlacementInfo *,al::PlacementInfo const&)",false
+"_ZN2al18tryGetRailPointPosEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::tryGetRailPointPos(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al22getRailPointHandlePrevEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::getRailPointHandlePrev(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al25tryGetRailPointHandlePrevEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::tryGetRailPointHandlePrev(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al22getRailPointHandleNextEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::getRailPointHandleNext(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al25tryGetRailPointHandleNextEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::tryGetRailPointHandleNext(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al17isExistGraphRiderERKNS_13ActorInitInfoE","al::isExistGraphRider(al::ActorInitInfo const&)",false
+"_ZN2al16calcLinkChildNumERKNS_13ActorInitInfoEPKc","al::calcLinkChildNum(al::ActorInitInfo const&,char const*)",false
+"_ZN2al16calcLinkChildNumERKNS_13PlacementInfoEPKc","al::calcLinkChildNum(al::PlacementInfo const&,char const*)",false
+"_ZN2al16isExistLinkChildERKNS_13ActorInitInfoEPKci","al::isExistLinkChild(al::ActorInitInfo const&,char const*,int)",false
+"_ZN2al16isExistLinkChildERKNS_13PlacementInfoEPKci","al::isExistLinkChild(al::PlacementInfo const&,char const*,int)",false
+"_ZN2al16isExistLinkChildERKNS_12AreaInitInfoEPKci","al::isExistLinkChild(al::AreaInitInfo const&,char const*,int)",false
+"_ZN2al15calcLinkNestNumERKNS_13ActorInitInfoEPKc","al::calcLinkNestNum(al::ActorInitInfo const&,char const*)",false
+"_ZN2al15calcLinkNestNumERKNS_13PlacementInfoEPKc","al::calcLinkNestNum(al::PlacementInfo const&,char const*)",false
+"_ZN2al12getLinksInfoEPNS_13PlacementInfoERKS0_PKc","al::getLinksInfo(al::PlacementInfo *,al::PlacementInfo const&,char const*)",false
+"_ZN2al19getLinksInfoByIndexEPNS_13PlacementInfoERKS0_PKci","al::getLinksInfoByIndex(al::PlacementInfo *,al::PlacementInfo const&,char const*,int)",false
+"_ZN2al12getLinksInfoEPNS_13PlacementInfoERKNS_13ActorInitInfoEPKc","al::getLinksInfo(al::PlacementInfo *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al19getLinksInfoByIndexEPNS_13PlacementInfoERKNS_13ActorInitInfoEPKci","al::getLinksInfoByIndex(al::PlacementInfo *,al::ActorInitInfo const&,char const*,int)",false
+"_ZN2al15tryGetLinksInfoEPNS_13PlacementInfoERKNS_13ActorInitInfoEPKc","al::tryGetLinksInfo(al::PlacementInfo *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al14getLinksMatrixEPN4sead8Matrix34IfEERKNS_13ActorInitInfoEPKc","al::getLinksMatrix(sead::Matrix34<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al21getLinksMatrixByIndexEPN4sead8Matrix34IfEERKNS_13ActorInitInfoEPKci","al::getLinksMatrixByIndex(sead::Matrix34<float> *,al::ActorInitInfo const&,char const*,int)",false
+"_ZN2al9getLinkTREPN4sead7Vector3IfEES3_RKNS_13PlacementInfoEPKc","al::getLinkTR(sead::Vector3<float> *,sead::Vector3<float> *,al::PlacementInfo const&,char const*)",false
+"_ZN2al9getLinkTREPN4sead7Vector3IfEES3_RKNS_13ActorInitInfoEPKc","al::getLinkTR(sead::Vector3<float> *,sead::Vector3<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al9getLinkTREPN4sead7Vector3IfEES3_RKNS_12AreaInitInfoEPKc","al::getLinkTR(sead::Vector3<float> *,sead::Vector3<float> *,al::AreaInitInfo const&,char const*)",false
+"_ZN2al10getLinksQTEPN4sead4QuatIfEEPNS0_7Vector3IfEERKNS_13ActorInitInfoEPKc","al::getLinksQT(sead::Quat<float> *,sead::Vector3<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al10getLinksQTEPN4sead4QuatIfEEPNS0_7Vector3IfEERKNS_13PlacementInfoEPKc","al::getLinksQT(sead::Quat<float> *,sead::Vector3<float> *,al::PlacementInfo const&,char const*)",false
+"_ZN2al13tryGetLinksQTEPN4sead4QuatIfEEPNS0_7Vector3IfEERKNS_13ActorInitInfoEPKc","al::tryGetLinksQT(sead::Quat<float> *,sead::Vector3<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al14tryGetLinksQTSEPN4sead4QuatIfEEPNS0_7Vector3IfEES6_RKNS_13ActorInitInfoEPKc","al::tryGetLinksQTS(sead::Quat<float> *,sead::Vector3<float> *,sead::Vector3<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al19tryGetLinksMatrixTREPN4sead8Matrix34IfEERKNS_13ActorInitInfoEPKc","al::tryGetLinksMatrixTR(sead::Matrix34<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al19tryGetLinksMatrixTREPN4sead8Matrix34IfEERKNS_12AreaInitInfoEPKc","al::tryGetLinksMatrixTR(sead::Matrix34<float> *,al::AreaInitInfo const&,char const*)",false
+"_ZN2al20tryGetLinksMatrixTRSEPN4sead8Matrix34IfEERKNS_13ActorInitInfoEPKc","al::tryGetLinksMatrixTRS(sead::Matrix34<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al16tryGetLinksTransEPN4sead7Vector3IfEERKNS_13ActorInitInfoEPKc","al::tryGetLinksTrans(sead::Vector3<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al16tryGetLinksTransEPN4sead7Vector3IfEERKNS_13PlacementInfoEPKc","al::tryGetLinksTrans(sead::Vector3<float> *,al::PlacementInfo const&,char const*)",false
+"_ZN2al15tryGetLinksQuatEPN4sead4QuatIfEERKNS_13ActorInitInfoEPKc","al::tryGetLinksQuat(sead::Quat<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al13tryGetLinksTREPN4sead7Vector3IfEES3_RKNS_13ActorInitInfoEPKc","al::tryGetLinksTR(sead::Vector3<float> *,sead::Vector3<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al13getChildTransEPN4sead7Vector3IfEERKNS_13PlacementInfoEPKc","al::getChildTrans(sead::Vector3<float> *,al::PlacementInfo const&,char const*)",false
+"_ZN2al13getChildTransEPN4sead7Vector3IfEERKNS_13ActorInitInfoEPKc","al::getChildTrans(sead::Vector3<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al13getChildTransEPN4sead7Vector3IfEERKNS_12AreaInitInfoEPKc","al::getChildTrans(sead::Vector3<float> *,al::AreaInitInfo const&,char const*)",false
+"_ZN2al13getChildLinkTEPN4sead7Vector3IfEERKNS_13ActorInitInfoEPKci","al::getChildLinkT(sead::Vector3<float> *,al::ActorInitInfo const&,char const*,int)",false
+"_ZN2al14getChildLinkTREPN4sead7Vector3IfEES3_RKNS_13ActorInitInfoEPKci","al::getChildLinkTR(sead::Vector3<float> *,sead::Vector3<float> *,al::ActorInitInfo const&,char const*,int)",false
+"_ZN2al22calcMatchNameLinkCountERKNS_13PlacementInfoEPKc","al::calcMatchNameLinkCount(al::PlacementInfo const&,char const*)",false
+"_ZN2al22calcLinkCountClassNameERKNS_13PlacementInfoEPKc","al::calcLinkCountClassName(al::PlacementInfo const&,char const*)",false
+"_ZN2al18tryGetZoneMatrixTREPN4sead8Matrix34IfEERKNS_13ActorInitInfoE","al::tryGetZoneMatrixTR(sead::Matrix34<float> *,al::ActorInitInfo const&)",false
+"_ZN2al19tryGetDisplayOffsetEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::tryGetDisplayOffset(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al19tryGetDisplayOffsetEPN4sead7Vector3IfEERKNS_13PlacementInfoE","al::tryGetDisplayOffset(sead::Vector3<float> *,al::PlacementInfo const&)",false
+"_ZN2al24tryGetChildDisplayOffsetEPN4sead7Vector3IfEERKNS_13ActorInitInfoEPKc","al::tryGetChildDisplayOffset(sead::Vector3<float> *,al::ActorInitInfo const&,char const*)",false
+"_ZN2al19tryGetDisplayRotateEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::tryGetDisplayRotate(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN2al18tryGetDisplayScaleEPN4sead7Vector3IfEERKNS_13ActorInitInfoE","al::tryGetDisplayScale(sead::Vector3<float> *,al::ActorInitInfo const&)",false
+"_ZN19alPlacementFunction11getCameraIdERKN2al13ActorInitInfoE","alPlacementFunction::getCameraId(al::ActorInitInfo const&)",false
+"_ZN19alPlacementFunction14getLinkGroupIdEPN2al11PlacementIdERKNS0_13ActorInitInfoEPKc","alPlacementFunction::getLinkGroupId(al::PlacementId *,al::ActorInitInfo const&,char const*)",false
+"_ZN19alPlacementFunction19isEnableLinkGroupIdERKN2al13ActorInitInfoEPKc","alPlacementFunction::isEnableLinkGroupId(al::ActorInitInfo const&,char const*)",false
+"_ZN19alPlacementFunction21isEnableGroupClippingERKN2al13ActorInitInfoE","alPlacementFunction::isEnableGroupClipping(al::ActorInitInfo const&)",false
+"_ZN19alPlacementFunction18getClippingGroupIdEPN2al11PlacementIdERKNS0_13ActorInitInfoE","alPlacementFunction::getClippingGroupId(al::PlacementId *,al::ActorInitInfo const&)",false
+"_ZN19alPlacementFunction20createClippingViewIdERKN2al13PlacementInfoE","alPlacementFunction::createClippingViewId(al::PlacementInfo const&)",false
+"_ZN19alPlacementFunction17getClippingViewIdEPN2al11PlacementIdERKNS0_13PlacementInfoE","alPlacementFunction::getClippingViewId(al::PlacementId *,al::PlacementInfo const&)",false
+"_ZN19alPlacementFunction17getClippingViewIdEPN2al11PlacementIdERKNS0_13ActorInitInfoE","alPlacementFunction::getClippingViewId(al::PlacementId *,al::ActorInitInfo const&)",false
+"_ZN19alPlacementFunction12getModelNameEPPKcRKN2al13ActorInitInfoE","alPlacementFunction::getModelName(char const**,al::ActorInitInfo const&)",false
+"_ZN19alPlacementFunction12getModelNameEPPKcRKN2al13PlacementInfoE","alPlacementFunction::getModelName(char const**,al::PlacementInfo const&)",false
+"_ZN19alPlacementFunction15tryGetModelNameEPPKcRKN2al13PlacementInfoE","alPlacementFunction::tryGetModelName(char const**,al::PlacementInfo const&)",false
+"_ZN19alPlacementFunction15tryGetModelNameEPPKcRKN2al13ActorInitInfoE","alPlacementFunction::tryGetModelName(char const**,al::ActorInitInfo const&)",false

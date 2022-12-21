@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al15SceneCameraInfoC2Ei","al::SceneCameraInfo::SceneCameraInfo(int)",false
+"_ZN2al15SceneCameraInfo12initViewInfoEPNS_14CameraViewInfoE","al::SceneCameraInfo::initViewInfo(al::CameraViewInfo *)",false
+"_ZNK2al15SceneCameraInfo11getViewNameEi","al::SceneCameraInfo::getViewName(int)const",false

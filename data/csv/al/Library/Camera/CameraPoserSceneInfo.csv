@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20CameraPoserSceneInfoC2Ev","al::CameraPoserSceneInfo::CameraPoserSceneInfo(void)",false
+"_ZN2al20CameraPoserSceneInfo4initEPNS_15AreaObjDirectorEPNS_17CollisionDirectorEPKNS_13AudioDirectorE","al::CameraPoserSceneInfo::init(al::AreaObjDirector *,al::CollisionDirector *,al::AudioDirector const*)",false
+"_ZN2al20CameraPoserSceneInfo24registerCameraRailHolderEPNS_16CameraRailHolderE","al::CameraPoserSceneInfo::registerCameraRailHolder(al::CameraRailHolder *)",false

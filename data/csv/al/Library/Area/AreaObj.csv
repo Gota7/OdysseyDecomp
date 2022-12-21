@@ -1,0 +1,12 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al7AreaObjC2EPKc","al::AreaObj::AreaObj(char const*)",false
+"_ZN2al7AreaObjC1EPKc","al::AreaObj::AreaObj(char const*)",false
+"_ZN2al7AreaObj4initERKNS_12AreaInitInfoE","al::AreaObj::init(al::AreaInitInfo const&)",false
+"_ZN2al7AreaObj8validateEv","al::AreaObj::validate(void)",false
+"_ZN2al7AreaObj10invalidateEv","al::AreaObj::invalidate(void)",false
+"_ZN2al7AreaObj21initStageSwitchKeeperEv","al::AreaObj::initStageSwitchKeeper(void)",false
+"_ZNK2al7AreaObj10isInVolumeERKN4sead7Vector3IfEE","al::AreaObj::isInVolume(sead::Vector3<float> const&)const",false
+"_ZNK2al7AreaObj16isInVolumeOffsetERKN4sead7Vector3IfEEf","al::AreaObj::isInVolumeOffset(sead::Vector3<float> const&,float)const",false
+"_ZNK2al10FunctorV0MIPNS_7AreaObjEMS1_FvvEEclEv","al::FunctorV0M<al::AreaObj *,void (al::AreaObj::*)(void)>::operator()(void)const",false
+"_ZNK2al10FunctorV0MIPNS_7AreaObjEMS1_FvvEE5cloneEv","al::FunctorV0M<al::AreaObj *,void (al::AreaObj::*)(void)>::clone(void)const",false
+"_ZN2al10FunctorV0MIPNS_7AreaObjEMS1_FvvEED0Ev","al::FunctorV0M<al::AreaObj *,void (al::AreaObj::*)(void)>::~FunctorV0M()",false

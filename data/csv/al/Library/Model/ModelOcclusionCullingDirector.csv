@@ -1,0 +1,12 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al29ModelOcclusionCullingDirectorC2Ev","al::ModelOcclusionCullingDirector::ModelOcclusionCullingDirector(void)",false
+"_ZN2al29ModelOcclusionCullingDirectorD2Ev","al::ModelOcclusionCullingDirector::~ModelOcclusionCullingDirector()",false
+"_ZN2al29ModelOcclusionCullingDirector10initializeEiPN4sead4HeapE","al::ModelOcclusionCullingDirector::initialize(int,sead::Heap *)",false
+"_ZNK2al29ModelOcclusionCullingDirector8isEnableEv","al::ModelOcclusionCullingDirector::isEnable(void)const",false
+"_ZN2al29ModelOcclusionCullingDirector8addQueryEPNS_19ModelOcclusionQueryE","al::ModelOcclusionCullingDirector::addQuery(al::ModelOcclusionQuery *)",false
+"_ZN2al29ModelOcclusionCullingDirector11removeQueryEPNS_19ModelOcclusionQueryE","al::ModelOcclusionCullingDirector::removeQuery(al::ModelOcclusionQuery *)",false
+"_ZN2al29ModelOcclusionCullingDirector12clearRequestEv","al::ModelOcclusionCullingDirector::clearRequest(void)",false
+"_ZN2al29ModelOcclusionCullingDirector6updateEv","al::ModelOcclusionCullingDirector::update(void)",false
+"_ZN2al29ModelOcclusionCullingDirector4calcEv","al::ModelOcclusionCullingDirector::calc(void)",false
+"_ZN2al29ModelOcclusionCullingDirector13updateViewGpuEiRKN4sead8Matrix34IfEERKNS1_8Matrix44IfEE","al::ModelOcclusionCullingDirector::updateViewGpu(int,sead::Matrix34<float> const&,sead::Matrix44<float> const&)",false
+"_ZNK2al29ModelOcclusionCullingDirector4drawEPN3agl11DrawContextEi","al::ModelOcclusionCullingDirector::draw(agl::DrawContext *,int)const",false

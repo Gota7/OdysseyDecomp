@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al19RandomTextureKeeperC2Ev","al::RandomTextureKeeper::RandomTextureKeeper(void)",false
+"_ZN2al19RandomTextureKeeper17makeRandomTextureEv","al::RandomTextureKeeper::makeRandomTexture(void)",false
+"_ZN2al19RandomTextureKeeperD2Ev","al::RandomTextureKeeper::~RandomTextureKeeper()",false
+"_ZNK2al19RandomTextureKeeper21getRandomTex1DSamplerEv","al::RandomTextureKeeper::getRandomTex1DSampler(void)const",false

@@ -1,0 +1,14 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al26PostProcessingFilterPresetC1EPKcPKNS_8ResourceE","al::PostProcessingFilterPreset::PostProcessingFilterPreset(char const*,al::Resource const*)",false
+"_ZNK2al26PostProcessingFilterPreset7getNameEv","al::PostProcessingFilterPreset::getName(void)const",false
+"_ZN2al20PostProcessingFilterC2EPNS_12ShaderHolderEPNS_18NoiseTextureKeeperE","al::PostProcessingFilter::PostProcessingFilter(al::ShaderHolder *,al::NoiseTextureKeeper *)",false
+"_ZN2al20PostProcessingFilterD2Ev","al::PostProcessingFilter::~PostProcessingFilter()",false
+"_ZN2al20PostProcessingFilter15incrementPresetEv","al::PostProcessingFilter::incrementPreset(void)",false
+"_ZN2al20PostProcessingFilter15decrementPresetEv","al::PostProcessingFilter::decrementPreset(void)",false
+"_ZN2al20PostProcessingFilter19initProjectResourceEv","al::PostProcessingFilter::initProjectResource(void)",false
+"_ZN2al20PostProcessingFilter7endInitEv","al::PostProcessingFilter::endInit(void)",false
+"_ZN2al20PostProcessingFilter12clearRequestEv","al::PostProcessingFilter::clearRequest(void)",false
+"_ZN2al20PostProcessingFilter6updateEv","al::PostProcessingFilter::update(void)",false
+"_ZNK2al20PostProcessingFilter10findPresetEi","al::PostProcessingFilter::findPreset(int)const",false
+"_ZN2al20PostProcessingFilter13updateViewGpuEiPKN4sead6CameraEPKNS_10ProjectionE","al::PostProcessingFilter::updateViewGpu(int,sead::Camera const*,al::Projection const*)",false
+"_ZNK2al20PostProcessingFilter10drawFilterEPN3agl11DrawContextEiPNS_14SimpleModelEnvERKNS1_12RenderBufferERKNS1_11TextureDataESB_SB_RKN4sead6CameraERKNS_10ProjectionEffb","al::PostProcessingFilter::drawFilter(agl::DrawContext *,int,al::SimpleModelEnv *,agl::RenderBuffer const&,agl::TextureData const&,agl::TextureData const&,agl::TextureData const&,sead::Camera const&,al::Projection const&,float,float,bool)const",false

@@ -1,0 +1,20 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21AtmosScatterRequesterC2EPKc","al::AtmosScatterRequester::AtmosScatterRequester(char const*)",false
+"_ZN2al21AtmosScatterRequesterC1EPKc","al::AtmosScatterRequester::AtmosScatterRequester(char const*)",false
+"_ZN2al21AtmosScatterRequester4initERKNS_13ActorInitInfoE","al::AtmosScatterRequester::init(al::ActorInitInfo const&)",false
+"_ZN2al21AtmosScatterRequester13switchOnStartEv","al::AtmosScatterRequester::switchOnStart(void)",false
+"_ZN2al21AtmosScatterRequester14switchOffStartEv","al::AtmosScatterRequester::switchOffStart(void)",false
+"_ZN2al21AtmosScatterRequester15switchWaitStartEv","al::AtmosScatterRequester::switchWaitStart(void)",false
+"_ZN2al21AtmosScatterRequester7exeWaitEv","al::AtmosScatterRequester::exeWait(void)",false
+"_ZN2al21AtmosScatterRequester5exeOnEv","al::AtmosScatterRequester::exeOn(void)",false
+"_ZN2al21AtmosScatterRequester9exeOnWaitEv","al::AtmosScatterRequester::exeOnWait(void)",false
+"_ZN2al21AtmosScatterRequester6exeOffEv","al::AtmosScatterRequester::exeOff(void)",false
+"_ZN2al21AtmosScatterRequester10exeOffWaitEv","al::AtmosScatterRequester::exeOffWait(void)",false
+"sub_71009F806C","",false
+"sub_71009F808C","",false
+"sub_71009F80A0","",false
+"sub_71009F80B4","",false
+"sub_71009F8124","",false
+"_ZNK2al10FunctorV0MIPNS_21AtmosScatterRequesterEMS1_FvvEEclEv","al::FunctorV0M<al::AtmosScatterRequester *,void (al::AtmosScatterRequester::*)(void)>::operator()(void)const",false
+"_ZNK2al10FunctorV0MIPNS_21AtmosScatterRequesterEMS1_FvvEE5cloneEv","al::FunctorV0M<al::AtmosScatterRequester *,void (al::AtmosScatterRequester::*)(void)>::clone(void)const",false
+"_ZN2al10FunctorV0MIPNS_21AtmosScatterRequesterEMS1_FvvEED0Ev","al::FunctorV0M<al::AtmosScatterRequester *,void (al::AtmosScatterRequester::*)(void)>::~FunctorV0M()",false

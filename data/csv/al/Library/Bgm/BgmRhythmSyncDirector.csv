@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21BgmRhythmSyncDirectorC2EPNS_17IUseActiveBgmLineE","al::BgmRhythmSyncDirector::BgmRhythmSyncDirector(al::IUseActiveBgmLine *)",false
+"_ZN2al21BgmRhythmSyncDirector6updateEv","al::BgmRhythmSyncDirector::update(void)",false
+"sub_7100830448","",false
+"_ZN2al21BgmRhythmSyncDirector27tryRegistTargetResourceNameEPKc","al::BgmRhythmSyncDirector::tryRegistTargetResourceName(char const*)",false
+"j_strcmp_0","",false

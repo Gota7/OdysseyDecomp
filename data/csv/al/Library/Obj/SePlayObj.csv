@@ -1,0 +1,21 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al9SePlayObjC2EPKc","al::SePlayObj::SePlayObj(char const*)",false
+"_ZN2al9SePlayObjC1EPKc","al::SePlayObj::SePlayObj(char const*)",false
+"_ZN2al9SePlayObj4initERKNS_13ActorInitInfoE","al::SePlayObj::init(al::ActorInitInfo const&)",false
+"_ZN2al9SePlayObj18initAfterPlacementEv","al::SePlayObj::initAfterPlacement(void)",false
+"_ZN2al9SePlayObj14makeActorAliveEv","al::SePlayObj::makeActorAlive(void)",false
+"_ZN2al9SePlayObj4killEv","al::SePlayObj::kill(void)",false
+"_ZN2al9SePlayObj8movementEv","al::SePlayObj::movement(void)",false
+"_ZN2al9SePlayObj10waitSwitchEv","al::SePlayObj::waitSwitch(void)",false
+"_ZN2al9SePlayObj12startPlayingEv","al::SePlayObj::startPlaying(void)",false
+"_ZN2al9SePlayObj9isPlayingEv","al::SePlayObj::isPlaying(void)",false
+"_ZN2al9SePlayObj13exeWaitSwitchEv","al::SePlayObj::exeWaitSwitch(void)",false
+"_ZN2al9SePlayObj7exePlayEv","al::SePlayObj::exePlay(void)",false
+"_ZN2al9SePlayObj12tryPlayStartEv","al::SePlayObj::tryPlayStart(void)",false
+"_ZN2al9SePlayObj13exePlayRepeatEv","al::SePlayObj::exePlayRepeat(void)",false
+"sub_710096E4B0","",false
+"sub_710096E540","",false
+"sub_710096E548","",false
+"_ZNK2al10FunctorV0MIPNS_9SePlayObjEMS1_FvvEEclEv","al::FunctorV0M<al::SePlayObj *,void (al::SePlayObj::*)(void)>::operator()(void)const",false
+"_ZNK2al10FunctorV0MIPNS_9SePlayObjEMS1_FvvEE5cloneEv","al::FunctorV0M<al::SePlayObj *,void (al::SePlayObj::*)(void)>::clone(void)const",false
+"_ZN2al10FunctorV0MIPNS_9SePlayObjEMS1_FvvEED0Ev","al::FunctorV0M<al::SePlayObj *,void (al::SePlayObj::*)(void)>::~FunctorV0M()",false

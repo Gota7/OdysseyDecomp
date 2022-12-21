@@ -1,0 +1,8 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21ModelMaterialCategoryC2EPNS_9ModelCtrlEPNS_22MaterialCategoryKeeperE","al::ModelMaterialCategory::ModelMaterialCategory(al::ModelCtrl *,al::MaterialCategoryKeeper *)",false
+"_ZN2al21ModelMaterialCategory4initEPKc","al::ModelMaterialCategory::init(char const*)",false
+"_ZN2al21ModelMaterialCategory4initERKNS_9ByamlIterE","al::ModelMaterialCategory::init(al::ByamlIter const&)",false
+"_ZNK2al21ModelMaterialCategory29getCategoryIdFromMaterialNameEPKc","al::ModelMaterialCategory::getCategoryIdFromMaterialName(char const*)const",false
+"_ZNK2al21ModelMaterialCategory30getCategoryIdFromMaterialIndexEi","al::ModelMaterialCategory::getCategoryIdFromMaterialIndex(int)const",false
+"_ZN2al21ModelMaterialCategory9tryCreateEPNS_9ModelCtrlEPKNS_8ResourceEPKcPNS_22MaterialCategoryKeeperE","al::ModelMaterialCategory::tryCreate(al::ModelCtrl *,al::Resource const*,char const*,al::MaterialCategoryKeeper *)",false
+"_ZN2al21ModelMaterialCategory9tryCreateEPNS_9ModelCtrlEPKcPNS_22MaterialCategoryKeeperE","al::ModelMaterialCategory::tryCreate(al::ModelCtrl *,char const*,al::MaterialCategoryKeeper *)",false

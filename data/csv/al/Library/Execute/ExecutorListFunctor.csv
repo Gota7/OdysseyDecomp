@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al19ExecutorListFunctorC2EPKci","al::ExecutorListFunctor::ExecutorListFunctor(char const*,int)",false
+"_ZN2al19ExecutorListFunctor15registerFunctorERKNS_11FunctorBaseE","al::ExecutorListFunctor::registerFunctor(al::FunctorBase const&)",false
+"_ZNK2al19ExecutorListFunctor11executeListEv","al::ExecutorListFunctor::executeList(void)const",false
+"_ZNK2al19ExecutorListFunctor8isActiveEv","al::ExecutorListFunctor::isActive(void)const",false
+"_ZN2al19ExecutorListFunctorD0Ev","al::ExecutorListFunctor::~ExecutorListFunctor()",false

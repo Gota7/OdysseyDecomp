@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al17CameraInputHolderC2Ei","al::CameraInputHolder::CameraInputHolder(int)",false
+"_ZN2al17CameraInputHolder18initAfterPlacementEv","al::CameraInputHolder::initAfterPlacement(void)",false
+"_ZNK2al17CameraInputHolder8getInputEi","al::CameraInputHolder::getInput(int)const",false

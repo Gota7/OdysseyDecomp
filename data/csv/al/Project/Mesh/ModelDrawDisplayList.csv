@@ -1,0 +1,8 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20ModelDrawDisplayListC2EPKcPNS_15GpuMemAllocatorEjj","al::ModelDrawDisplayList::ModelDrawDisplayList(char const*,al::GpuMemAllocator *,unsigned int,unsigned int)",false
+"_ZN2al20ModelDrawDisplayListC2Ev","al::ModelDrawDisplayList::ModelDrawDisplayList(void)",false
+"_ZN2al20ModelDrawDisplayListD2Ev","al::ModelDrawDisplayList::~ModelDrawDisplayList()",false
+"_ZN2al20ModelDrawDisplayList10invalidateEv","al::ModelDrawDisplayList::invalidate(void)",false
+"_ZNK2al20ModelDrawDisplayList14getDisplayListEi","al::ModelDrawDisplayList::getDisplayList(int)const",false
+"_ZNK2al20ModelDrawDisplayList8prepDrawEPN3agl11DrawContextEPKNS_15MeshDrawerTableEPKPKNS_9ModelCtrlEii","al::ModelDrawDisplayList::prepDraw(agl::DrawContext *,al::MeshDrawerTable const*,al::ModelCtrl const* const*,int,int)const",false
+"_ZNK2al20ModelDrawDisplayList8callDrawEPN3agl11DrawContextEPKNS_15MeshDrawerTableEPKPKNS_9ModelCtrlEii","al::ModelDrawDisplayList::callDraw(agl::DrawContext *,al::MeshDrawerTable const*,al::ModelCtrl const* const*,int,int)const",false

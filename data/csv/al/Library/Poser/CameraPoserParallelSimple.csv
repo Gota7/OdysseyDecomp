@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al25CameraPoserParallelSimpleC1EPKc","al::CameraPoserParallelSimple::CameraPoserParallelSimple(char const*)",false
+"_ZN2al25CameraPoserParallelSimple4initEv","al::CameraPoserParallelSimple::init(void)",false
+"_ZN2al25CameraPoserParallelSimple9loadParamERKNS_9ByamlIterE","al::CameraPoserParallelSimple::loadParam(al::ByamlIter const&)",false
+"_ZN2al25CameraPoserParallelSimple6updateEv","al::CameraPoserParallelSimple::update(void)",false

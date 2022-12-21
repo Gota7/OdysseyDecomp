@@ -1,0 +1,70 @@
+# StageSwitchKeeper.o
+| Symbol | Meaning 
+| ------------- | ------------- 
+| :x: | Function has not yet been started or is not matching. 
+| :white_check_mark: | Function is completed. 
+
+
+# StageSwitchKeeper.o
+| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| ------------- |  ------------- | ------------- |
+| `_ZN2al16StageSyncCounterC2Ev` | `al::StageSyncCounter::StageSyncCounter(void)` | :white_check_mark: |
+| `_ZN2al16StageSyncCounter26initAfterPlacementSceneObjERKNS_13ActorInitInfoE` | `al::StageSyncCounter::initAfterPlacementSceneObj(al::ActorInitInfo const&)` | :white_check_mark: |
+| `_ZThn8_N2al16StageSyncCounter26initAfterPlacementSceneObjERKNS_13ActorInitInfoE` | ``non-virtual thunk to'al::StageSyncCounter::initAfterPlacementSceneObj(al::ActorInitInfo const&)` | :white_check_mark: |
+| `_ZN2al16StageSyncCounter7executeEv` | `al::StageSyncCounter::execute(void)` | :white_check_mark: |
+| `_ZNK2al16StageSyncCounter15getSceneObjNameEv` | `al::StageSyncCounter::getSceneObjName(void)const` | :white_check_mark: |
+| `_ZN2al16StageSyncCounterD2Ev` | `al::StageSyncCounter::~StageSyncCounter()` | :white_check_mark: |
+| `_ZN2al16StageSyncCounterD0Ev` | `al::StageSyncCounter::~StageSyncCounter()` | :white_check_mark: |
+| `_ZThn8_NK2al16StageSyncCounter15getSceneObjNameEv` | ``non-virtual thunk to'al::StageSyncCounter::getSceneObjName(void)const` | :white_check_mark: |
+| `_ZThn8_N2al16StageSyncCounterD1Ev` | ``non-virtual thunk to'al::StageSyncCounter::~StageSyncCounter()` | :white_check_mark: |
+| `_ZThn8_N2al16StageSyncCounterD0Ev` | ``non-virtual thunk to'al::StageSyncCounter::~StageSyncCounter()` | :white_check_mark: |
+| `_ZN2al19StageSwitchDirectorC2EPNS_15ExecuteDirectorE` | `al::StageSwitchDirector::StageSwitchDirector(al::ExecuteDirector *)` | :white_check_mark: |
+| `_ZN2al19StageSwitchDirector9useSwitchEPKNS_19StageSwitchAccesserE` | `al::StageSwitchDirector::useSwitch(al::StageSwitchAccesser const*)` | :white_check_mark: |
+| `_ZN2al19StageSwitchDirector21findSwitchNoFromObjIdEPKNS_11PlacementIdE` | `al::StageSwitchDirector::findSwitchNoFromObjId(al::PlacementId const*)` | :white_check_mark: |
+| `_ZN2al19StageSwitchDirector8onSwitchEPKNS_19StageSwitchAccesserE` | `al::StageSwitchDirector::onSwitch(al::StageSwitchAccesser const*)` | :white_check_mark: |
+| `_ZN2al19StageSwitchDirector9offSwitchEPKNS_19StageSwitchAccesserE` | `al::StageSwitchDirector::offSwitch(al::StageSwitchAccesser const*)` | :white_check_mark: |
+| `_ZN2al19StageSwitchDirector10isOnSwitchEPKNS_19StageSwitchAccesserE` | `al::StageSwitchDirector::isOnSwitch(al::StageSwitchAccesser const*)` | :white_check_mark: |
+| `_ZN2al19StageSwitchDirector11addListenerEPNS_19StageSwitchListenerEPNS_19StageSwitchAccesserE` | `al::StageSwitchDirector::addListener(al::StageSwitchListener *,al::StageSwitchAccesser *)` | :white_check_mark: |
+| `_ZN2al19StageSwitchDirector7executeEv` | `al::StageSwitchDirector::execute(void)` | :white_check_mark: |
+| `_ZN2al15StageSwitchInfoC2Ev` | `al::StageSwitchInfo::StageSwitchInfo(void)` | :white_check_mark: |
+| `_ZN2al23StageSwitchAccesserListC2Ev` | `al::StageSwitchAccesserList::StageSwitchAccesserList(void)` | :white_check_mark: |
+| `_ZN2al23StageSwitchAccesserListC1EPKNS_19StageSwitchAccesserE` | `al::StageSwitchAccesserList::StageSwitchAccesserList(al::StageSwitchAccesser const*)` | :white_check_mark: |
+| `_ZN2al17StageSwitchKeeperC2Ev` | `al::StageSwitchKeeper::StageSwitchKeeper(void)` | :white_check_mark: |
+| `_ZN2al17StageSwitchKeeper4initEPNS_19StageSwitchDirectorERKNS_13PlacementInfoE` | `al::StageSwitchKeeper::init(al::StageSwitchDirector *,al::PlacementInfo const&)` | :white_check_mark: |
+| `_ZNK2al17StageSwitchKeeper25tryGetStageSwitchAccesserEPKc` | `al::StageSwitchKeeper::tryGetStageSwitchAccesser(char const*)const` | :white_check_mark: |
+| `_ZN2al15initStageSwitchEPNS_15IUseStageSwitchEPNS_19StageSwitchDirectorERKNS_13PlacementInfoE` | `al::initStageSwitch(al::IUseStageSwitch *,al::StageSwitchDirector *,al::PlacementInfo const&)` | :white_check_mark: |
+| `_ZN2al18isValidStageSwitchEPKNS_15IUseStageSwitchEPKc` | `al::isValidStageSwitch(al::IUseStageSwitch const*,char const*)` | :white_check_mark: |
+| `_ZN2al15isOnStageSwitchEPKNS_15IUseStageSwitchEPKc` | `al::isOnStageSwitch(al::IUseStageSwitch const*,char const*)` | :white_check_mark: |
+| `_ZN2al13onStageSwitchEPNS_15IUseStageSwitchEPKc` | `al::onStageSwitch(al::IUseStageSwitch *,char const*)` | :white_check_mark: |
+| `_ZN2al14offStageSwitchEPNS_15IUseStageSwitchEPKc` | `al::offStageSwitch(al::IUseStageSwitch *,char const*)` | :white_check_mark: |
+| `_ZN2al16tryOnStageSwitchEPNS_15IUseStageSwitchEPKc` | `al::tryOnStageSwitch(al::IUseStageSwitch *,char const*)` | :white_check_mark: |
+| `_ZN2al17tryOffStageSwitchEPNS_15IUseStageSwitchEPKc` | `al::tryOffStageSwitch(al::IUseStageSwitch *,char const*)` | :white_check_mark: |
+| `_ZN2al17isSameStageSwitchEPKNS_15IUseStageSwitchES2_PKc` | `al::isSameStageSwitch(al::IUseStageSwitch const*,al::IUseStageSwitch const*,char const*)` | :white_check_mark: |
+| `_ZN2al19isValidSwitchAppearEPKNS_15IUseStageSwitchE` | `al::isValidSwitchAppear(al::IUseStageSwitch const*)` | :white_check_mark: |
+| `_ZN2al16isOnSwitchAppearEPKNS_15IUseStageSwitchE` | `al::isOnSwitchAppear(al::IUseStageSwitch const*)` | :white_check_mark: |
+| `_ZN2al17isValidSwitchKillEPKNS_15IUseStageSwitchE` | `al::isValidSwitchKill(al::IUseStageSwitch const*)` | :white_check_mark: |
+| `_ZN2al19isValidSwitchDeadOnEPKNS_15IUseStageSwitchE` | `al::isValidSwitchDeadOn(al::IUseStageSwitch const*)` | :white_check_mark: |
+| `_ZN2al14onSwitchDeadOnEPNS_15IUseStageSwitchE` | `al::onSwitchDeadOn(al::IUseStageSwitch *)` | :white_check_mark: |
+| `_ZN2al15offSwitchDeadOnEPNS_15IUseStageSwitchE` | `al::offSwitchDeadOn(al::IUseStageSwitch *)` | :white_check_mark: |
+| `_ZN2al17tryOnSwitchDeadOnEPNS_15IUseStageSwitchE` | `al::tryOnSwitchDeadOn(al::IUseStageSwitch *)` | :white_check_mark: |
+| `_ZN2al18tryOffSwitchDeadOnEPNS_15IUseStageSwitchE` | `al::tryOffSwitchDeadOn(al::IUseStageSwitch *)` | :white_check_mark: |
+| `_ZN2al18isValidSwitchStartEPKNS_15IUseStageSwitchE` | `al::isValidSwitchStart(al::IUseStageSwitch const*)` | :white_check_mark: |
+| `_ZN2al15isOnSwitchStartEPKNS_15IUseStageSwitchE` | `al::isOnSwitchStart(al::IUseStageSwitch const*)` | :white_check_mark: |
+| `_ZN2al19listenStageSwitchOnEPNS_15IUseStageSwitchEPKcRKNS_11FunctorBaseE` | `al::listenStageSwitchOn(al::IUseStageSwitch *,char const*,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al20listenStageSwitchOffEPNS_15IUseStageSwitchEPKcRKNS_11FunctorBaseE` | `al::listenStageSwitchOff(al::IUseStageSwitch *,char const*,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al22listenStageSwitchOnOffEPNS_15IUseStageSwitchEPKcRKNS_11FunctorBaseES6_` | `al::listenStageSwitchOnOff(al::IUseStageSwitch *,char const*,al::FunctorBase const&,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al25listenStageSwitchOnAppearEPNS_15IUseStageSwitchERKNS_11FunctorBaseE` | `al::listenStageSwitchOnAppear(al::IUseStageSwitch *,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al28listenStageSwitchOnOffAppearEPNS_15IUseStageSwitchERKNS_11FunctorBaseES4_` | `al::listenStageSwitchOnOffAppear(al::IUseStageSwitch *,al::FunctorBase const&,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al23listenStageSwitchOnKillEPNS_15IUseStageSwitchERKNS_11FunctorBaseE` | `al::listenStageSwitchOnKill(al::IUseStageSwitch *,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al26listenStageSwitchOnOffKillEPNS_15IUseStageSwitchERKNS_11FunctorBaseES4_` | `al::listenStageSwitchOnOffKill(al::IUseStageSwitch *,al::FunctorBase const&,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al29trySyncStageSwitchOnOffAppearEPNS_15IUseStageSwitchERKNS_11FunctorBaseES4_` | `al::trySyncStageSwitchOnOffAppear(al::IUseStageSwitch *,al::FunctorBase const&,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al27trySyncStageSwitchOnOffKillEPNS_15IUseStageSwitchERKNS_11FunctorBaseES4_` | `al::trySyncStageSwitchOnOffKill(al::IUseStageSwitch *,al::FunctorBase const&,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al36trySyncStageSwitchOnOffAppearAndKillEPNS_15IUseStageSwitchERKNS_11FunctorBaseES4_` | `al::trySyncStageSwitchOnOffAppearAndKill(al::IUseStageSwitch *,al::FunctorBase const&,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al24listenStageSwitchOnStartEPNS_15IUseStageSwitchERKNS_11FunctorBaseE` | `al::listenStageSwitchOnStart(al::IUseStageSwitch *,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al27listenStageSwitchOnOffStartEPNS_15IUseStageSwitchERKNS_11FunctorBaseES4_` | `al::listenStageSwitchOnOffStart(al::IUseStageSwitch *,al::FunctorBase const&,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al23listenStageSwitchOnStopEPNS_15IUseStageSwitchERKNS_11FunctorBaseE` | `al::listenStageSwitchOnStop(al::IUseStageSwitch *,al::FunctorBase const&)` | :white_check_mark: |
+| `_ZN2al18StageSwitchWatcherC2EPNS_19StageSwitchListenerEPNS_19StageSwitchAccesserE` | `al::StageSwitchWatcher::StageSwitchWatcher(al::StageSwitchListener *,al::StageSwitchAccesser *)` | :white_check_mark: |
+| `_ZN2al18StageSwitchWatcher6updateEv` | `al::StageSwitchWatcher::update(void)` | :white_check_mark: |
+| `_ZN2al24StageSwitchWatcherHolderC2Ei` | `al::StageSwitchWatcherHolder::StageSwitchWatcherHolder(int)` | :white_check_mark: |
+| `_ZN2al24StageSwitchWatcherHolder3addEPNS_18StageSwitchWatcherE` | `al::StageSwitchWatcherHolder::add(al::StageSwitchWatcher *)` | :white_check_mark: |
+| `_ZN2al24StageSwitchWatcherHolder8movementEv` | `al::StageSwitchWatcherHolder::movement(void)` | :white_check_mark: |

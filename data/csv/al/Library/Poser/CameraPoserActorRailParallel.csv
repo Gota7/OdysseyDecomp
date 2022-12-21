@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al28CameraPoserActorRailParallelC1EPKcPKNS_10RailKeeperE","al::CameraPoserActorRailParallel::CameraPoserActorRailParallel(char const*,al::RailKeeper const*)",false
+"_ZN2al28CameraPoserActorRailParallel4initEv","al::CameraPoserActorRailParallel::init(void)",false
+"_ZN2al28CameraPoserActorRailParallel9loadParamERKNS_9ByamlIterE","al::CameraPoserActorRailParallel::loadParam(al::ByamlIter const&)",false
+"_ZN2al28CameraPoserActorRailParallel5startERKNS_15CameraStartInfoE","al::CameraPoserActorRailParallel::start(al::CameraStartInfo const&)",false
+"_ZN2al28CameraPoserActorRailParallel6updateEv","al::CameraPoserActorRailParallel::update(void)",false

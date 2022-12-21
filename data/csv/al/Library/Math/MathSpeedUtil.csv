@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al12calcSpeedMaxEff","al::calcSpeedMax(float,float)",false
+"_ZN2al9calcAccelEff","al::calcAccel(float,float)",false
+"_ZN2al12calcFrictionEff","al::calcFriction(float,float)",false

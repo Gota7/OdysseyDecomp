@@ -1,0 +1,34 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZNK2al14AcLSoundHandle7isPauseEv","al::AcLSoundHandle::isPause(void)const",false
+"_ZNK2al14AcLSoundHandle9getVolumeEv","al::AcLSoundHandle::getVolume(void)const",false
+"_ZN2al14AcLSoundHandle8setPitchEf","al::AcLSoundHandle::setPitch(float)",false
+"_ZN2al14AcLSoundHandle14setSurroundPanEf","al::AcLSoundHandle::setSurroundPan(float)",false
+"_ZN2al14AcLSoundHandle15setAudioBusSendERKNS_12AudioBusSendE","al::AcLSoundHandle::setAudioBusSend(al::AudioBusSend const&)",false
+"_ZN2al14AcLSoundHandle11setMainSendEf","al::AcLSoundHandle::setMainSend(float)",false
+"_ZN2al14AcLSoundHandle13setEffectSendEN2nn3atk6AuxBusEf","al::AcLSoundHandle::setEffectSend(nn::atk::AuxBus,float)",false
+"_ZN2al14AcLSoundHandle10setLpfFreqEf","al::AcLSoundHandle::setLpfFreq(float)",false
+"_ZN2al14AcLSoundHandle15setBiquadFilterEif","al::AcLSoundHandle::setBiquadFilter(int,float)",false
+"_ZN2al14AcLSoundHandle21readSeqGlobalVariableEiPs","al::AcLSoundHandle::readSeqGlobalVariable(int,short *)",false
+"_ZN2al14AcLSoundHandle22writeSeqGlobalVariableEis","al::AcLSoundHandle::writeSeqGlobalVariable(int,short)",false
+"_ZN2al14AcLSoundHandle20readSeqLocalVariableEiPs","al::AcLSoundHandle::readSeqLocalVariable(int,short *)",false
+"_ZN2al14AcLSoundHandle21writeSeqLocalVariableEis","al::AcLSoundHandle::writeSeqLocalVariable(int,short)",false
+"_ZN2al14AcLSoundHandle20readSeqTrackVariableEiiPs","al::AcLSoundHandle::readSeqTrackVariable(int,int,short *)",false
+"_ZN2al14AcLSoundHandle21writeSeqTrackVariableEiis","al::AcLSoundHandle::writeSeqTrackVariable(int,int,short)",false
+"_ZN2al14AcLSoundHandle16setSeqTempoRatioEf","al::AcLSoundHandle::setSeqTempoRatio(float)",false
+"_ZN2al14AcLSoundHandle28setOutputDeviceSpeakerVolumeEiffffff","al::AcLSoundHandle::setOutputDeviceSpeakerVolume(int,float,float,float,float,float,float)",false
+"_ZN2al14AcLSoundHandle31setAllOutputDeviceSpeakerVolumeEffffffii","al::AcLSoundHandle::setAllOutputDeviceSpeakerVolume(float,float,float,float,float,float,int,int)",false
+"_ZN2al14AcLSoundHandle22setChannelMixParameterEiRKN2nn3atk12MixParameterE","al::AcLSoundHandle::setChannelMixParameter(int,nn::atk::MixParameter const&)",false
+"_ZN2al14AcLSoundHandle22setChannelMixParameterERKN2nn3atk12MixParameterE","al::AcLSoundHandle::setChannelMixParameter(nn::atk::MixParameter const&)",false
+"_ZN2al14AcLSoundHandle13setMixModePanEv","al::AcLSoundHandle::setMixModePan(void)",false
+"_ZN2al14AcLSoundHandle26setStreamTrackToLRLsRsCLfeEff","al::AcLSoundHandle::setStreamTrackToLRLsRsCLfe(float,float)",false
+"_ZN2al14AcLSoundHandleC2Ev","al::AcLSoundHandle::AcLSoundHandle(void)",false
+"_ZN2al14AcLSoundHandle11detachSoundEv","al::AcLSoundHandle::detachSound(void)",false
+"_ZN2al14AcLSoundHandle4stopEi","al::AcLSoundHandle::stop(int)",false
+"_ZN2al14AcLSoundHandle5pauseEi","al::AcLSoundHandle::pause(int)",false
+"_ZN2al14AcLSoundHandle7unpauseEi","al::AcLSoundHandle::unpause(int)",false
+"_ZN2al14AcLSoundHandle9setVolumeEfi","al::AcLSoundHandle::setVolume(float,int)",false
+"_ZNK2al14AcLSoundHandle11isWaveSoundEv","al::AcLSoundHandle::isWaveSound(void)const",false
+"_ZNK2al14AcLSoundHandle13isStreamSoundEv","al::AcLSoundHandle::isStreamSound(void)const",false
+"_ZNK2al14AcLSoundHandle15isSequenceSoundEv","al::AcLSoundHandle::isSequenceSound(void)const",false
+"_ZNK2al14AcLSoundHandle17isStereoWaveSoundEv","al::AcLSoundHandle::isStereoWaveSound(void)const",false
+"_ZNK2al14AcLSoundHandle15isAttachedSoundEv","al::AcLSoundHandle::isAttachedSound(void)const",false

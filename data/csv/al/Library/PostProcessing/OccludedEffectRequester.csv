@@ -1,0 +1,15 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al23OccludedEffectRequesterC2EPKc","al::OccludedEffectRequester::OccludedEffectRequester(char const*)",false
+"_ZN2al23OccludedEffectRequesterC1EPKc","al::OccludedEffectRequester::OccludedEffectRequester(char const*)",false
+"_ZN2al23OccludedEffectRequester4initERKNS_13ActorInitInfoE","al::OccludedEffectRequester::init(al::ActorInitInfo const&)",false
+"_ZN2al23OccludedEffectRequester10switchKillEv","al::OccludedEffectRequester::switchKill(void)",false
+"_ZN2al23OccludedEffectRequester7controlEv","al::OccludedEffectRequester::control(void)",false
+"_ZN2al23OccludedEffectRequester9exeAppearEv","al::OccludedEffectRequester::exeAppear(void)",false
+"_ZN2al23OccludedEffectRequester7exeWaitEv","al::OccludedEffectRequester::exeWait(void)",false
+"_ZN2al23OccludedEffectRequester7exeKillEv","al::OccludedEffectRequester::exeKill(void)",false
+"sub_71009B73F4","",false
+"sub_71009B7408","",false
+"nullsub_488","",false
+"_ZNK2al10FunctorV0MIPNS_23OccludedEffectRequesterEMS1_FvvEEclEv","al::FunctorV0M<al::OccludedEffectRequester *,void (al::OccludedEffectRequester::*)(void)>::operator()(void)const",false
+"_ZNK2al10FunctorV0MIPNS_23OccludedEffectRequesterEMS1_FvvEE5cloneEv","al::FunctorV0M<al::OccludedEffectRequester *,void (al::OccludedEffectRequester::*)(void)>::clone(void)const",false
+"_ZN2al10FunctorV0MIPNS_23OccludedEffectRequesterEMS1_FvvEED0Ev","al::FunctorV0M<al::OccludedEffectRequester *,void (al::OccludedEffectRequester::*)(void)>::~FunctorV0M()",false

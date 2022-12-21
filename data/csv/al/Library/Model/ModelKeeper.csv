@@ -1,0 +1,21 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al11ModelKeeperC2Ev","al::ModelKeeper::ModelKeeper(void)",false
+"_ZN2al11ModelKeeperD2Ev","al::ModelKeeper::~ModelKeeper()",false
+"_ZN2al11ModelKeeperD0Ev","al::ModelKeeper::~ModelKeeper()",false
+"_ZN2al11ModelKeeper12initResourceEPKNS_13ActorResourceE","al::ModelKeeper::initResource(al::ActorResource const*)",false
+"_ZN2al11ModelKeeper23createMatAnimForProgramEi","al::ModelKeeper::createMatAnimForProgram(int)",false
+"_ZNK2al11ModelKeeper15getAnimResourceEv","al::ModelKeeper::getAnimResource(void)const",false
+"_ZNK2al11ModelKeeper16getModelResourceEv","al::ModelKeeper::getModelResource(void)const",false
+"_ZN2al11ModelKeeper25setDisplayRootJointMtxPtrEPKN4sead8Matrix34IfEE","al::ModelKeeper::setDisplayRootJointMtxPtr(sead::Matrix34<float> const*)",false
+"_ZN2al11ModelKeeper15setModelLodCtrlEPNS_12ModelLodCtrlE","al::ModelKeeper::setModelLodCtrl(al::ModelLodCtrl *)",false
+"_ZN2al11ModelKeeper17setDitherAnimatorEPNS_14DitherAnimatorE","al::ModelKeeper::setDitherAnimator(al::DitherAnimator *)",false
+"_ZN2al11ModelKeeper9initModelEiPNS_15GpuMemAllocatorEPNS_17ModelShaderHolderEPNS_29ModelOcclusionCullingDirectorEPNS_14ShadowDirectorEPNS_22PrepassTriangleCullingE","al::ModelKeeper::initModel(int,al::GpuMemAllocator *,al::ModelShaderHolder *,al::ModelOcclusionCullingDirector *,al::ShadowDirector *,al::PrepassTriangleCulling *)",false
+"sub_710094C290","",false
+"sub_710094C2A4","",false
+"_ZN2al11ModelKeeper4showEv","al::ModelKeeper::show(void)",false
+"_ZN2al11ModelKeeper4hideEv","al::ModelKeeper::hide(void)",false
+"_ZN2al11ModelKeeper6updateEv","al::ModelKeeper::update(void)",false
+"_ZN2al11ModelKeeper10updateLastEv","al::ModelKeeper::updateLast(void)",false
+"_ZN2al11ModelKeeper4calcERKN4sead8Matrix34IfEERKNS1_7Vector3IfEE","al::ModelKeeper::calc(sead::Matrix34<float> const&,sead::Vector3<float> const&)",false
+"_ZNK2al11ModelKeeper10getBaseMtxEv","al::ModelKeeper::getBaseMtx(void)const",false
+"_ZNK2al11ModelKeeper21getWorldMtxPtrByIndexEi","al::ModelKeeper::getWorldMtxPtrByIndex(int)const",false

@@ -1,0 +1,18 @@
+# CameraStartParamArea.o
+| Symbol | Meaning 
+| ------------- | ------------- 
+| :x: | Function has not yet been started or is not matching. 
+| :white_check_mark: | Function is completed. 
+
+
+# CameraStartParamArea.o
+| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| ------------- |  ------------- | ------------- |
+| `_ZN2al20CameraStartParamAreaC2EPKc` | `al::CameraStartParamArea::CameraStartParamArea(char const*)` | :white_check_mark: |
+| `_ZN2al20CameraStartParamAreaC1EPKc` | `al::CameraStartParamArea::CameraStartParamArea(char const*)` | :white_check_mark: |
+| `_ZN2al20CameraStartParamArea4initERKNS_12AreaInitInfoE` | `al::CameraStartParamArea::init(al::AreaInitInfo const&)` | :white_check_mark: |
+| `_ZN2al20CameraStartParamArea6appearEv` | `al::CameraStartParamArea::appear(void)` | :white_check_mark: |
+| `_ZN2al20CameraStartParamArea4killEv` | `al::CameraStartParamArea::kill(void)` | :white_check_mark: |
+| `_ZNK2al10FunctorV0MIPNS_20CameraStartParamAreaEMS1_FvvEEclEv` | `al::FunctorV0M<al::CameraStartParamArea *,void (al::CameraStartParamArea::*)(void)>::operator()(void)const` | :white_check_mark: |
+| `_ZNK2al10FunctorV0MIPNS_20CameraStartParamAreaEMS1_FvvEE5cloneEv` | `al::FunctorV0M<al::CameraStartParamArea *,void (al::CameraStartParamArea::*)(void)>::clone(void)const` | :white_check_mark: |
+| `_ZN2al10FunctorV0MIPNS_20CameraStartParamAreaEMS1_FvvEED0Ev` | `al::FunctorV0M<al::CameraStartParamArea *,void (al::CameraStartParamArea::*)(void)>::~FunctorV0M()` | :white_check_mark: |

@@ -1,0 +1,8 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20SwitchAreaTargetInfoC1Eii","al::SwitchAreaTargetInfo::SwitchAreaTargetInfo(int,int)",false
+"_ZN2al20SwitchAreaTargetInfoC1EPN4sead7Vector3IfEEi","al::SwitchAreaTargetInfo::SwitchAreaTargetInfo(sead::Vector3<float> *,int)",false
+"_ZN2al20SwitchAreaTargetInfo6updateEPKNS_12PlayerHolderEPKNS_15SceneCameraInfoE","al::SwitchAreaTargetInfo::update(al::PlayerHolder const*,al::SceneCameraInfo const*)",false
+"_ZN2al21SwitchKeepOnAreaGroupC1EPNS_12AreaObjGroupE","al::SwitchKeepOnAreaGroup::SwitchKeepOnAreaGroup(al::AreaObjGroup *)",false
+"_ZN2al21SwitchKeepOnAreaGroup6updateEPKNS_20SwitchAreaTargetInfoE","al::SwitchKeepOnAreaGroup::update(al::SwitchAreaTargetInfo const*)",false
+"_ZN2al21SwitchKeepOnAreaGroup6updateERKN4sead7Vector3IfEE","al::SwitchKeepOnAreaGroup::update(sead::Vector3<float> const&)",false
+"_ZN2al21SwitchKeepOnAreaGroup20selectTargetPosArrayEPbPPN4sead7Vector3IfEEPiPKNS_7AreaObjEPKNS_20SwitchAreaTargetInfoE","al::SwitchKeepOnAreaGroup::selectTargetPosArray(bool *,sead::Vector3<float> **,int *,al::AreaObj const*,al::SwitchAreaTargetInfo const*)",false

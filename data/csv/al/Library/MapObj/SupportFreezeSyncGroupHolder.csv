@@ -1,0 +1,12 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al28SupportFreezeSyncGroupHolderC2Ev","al::SupportFreezeSyncGroupHolder::SupportFreezeSyncGroupHolder(void)",false
+"_ZN2al28SupportFreezeSyncGroupHolderC1Ev","al::SupportFreezeSyncGroupHolder::SupportFreezeSyncGroupHolder(void)",false
+"_ZN2al28SupportFreezeSyncGroupHolder26initAfterPlacementSceneObjERKNS_13ActorInitInfoE","al::SupportFreezeSyncGroupHolder::initAfterPlacementSceneObj(al::ActorInitInfo const&)",false
+"_ZThn264_N2al28SupportFreezeSyncGroupHolder26initAfterPlacementSceneObjERKNS_13ActorInitInfoE","`non-virtual thunk to'al::SupportFreezeSyncGroupHolder::initAfterPlacementSceneObj(al::ActorInitInfo const&)",false
+"_ZN2al28SupportFreezeSyncGroupHolder8movementEv","al::SupportFreezeSyncGroupHolder::movement(void)",false
+"_ZN2al28SupportFreezeSyncGroupHolder6registEPNS_9LiveActorERKNS_13ActorInitInfoE","al::SupportFreezeSyncGroupHolder::regist(al::LiveActor *,al::ActorInitInfo const&)",false
+"_ZN2al28SupportFreezeSyncGroupHolder12tryFindGroupERKNS_13ActorInitInfoE","al::SupportFreezeSyncGroupHolder::tryFindGroup(al::ActorInitInfo const&)",false
+"_ZN2al28SupportFreezeSyncGroupHolderD1Ev","al::SupportFreezeSyncGroupHolder::~SupportFreezeSyncGroupHolder()",false
+"_ZN2al28SupportFreezeSyncGroupHolderD0Ev","al::SupportFreezeSyncGroupHolder::~SupportFreezeSyncGroupHolder()",false
+"_ZThn264_N2al28SupportFreezeSyncGroupHolderD1Ev","`non-virtual thunk to'al::SupportFreezeSyncGroupHolder::~SupportFreezeSyncGroupHolder()",false
+"_ZThn264_N2al28SupportFreezeSyncGroupHolderD0Ev","`non-virtual thunk to'al::SupportFreezeSyncGroupHolder::~SupportFreezeSyncGroupHolder()",false

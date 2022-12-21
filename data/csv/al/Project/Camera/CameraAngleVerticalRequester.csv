@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al28CameraAngleVerticalRequesterC2Ev","al::CameraAngleVerticalRequester::CameraAngleVerticalRequester(void)",false
+"_ZN2al28CameraAngleVerticalRequester4initEPNS_15AreaObjDirectorE","al::CameraAngleVerticalRequester::init(al::AreaObjDirector *)",false
+"_ZN2al28CameraAngleVerticalRequester18initAfterPlacementEv","al::CameraAngleVerticalRequester::initAfterPlacement(void)",false
+"_ZN2al28CameraAngleVerticalRequester6updateERKN4sead7Vector3IfEE","al::CameraAngleVerticalRequester::update(sead::Vector3<float> const&)",false
+"_ZNK2al28CameraAngleVerticalRequester18getAreaObjDirectorEv","al::CameraAngleVerticalRequester::getAreaObjDirector(void)const",false

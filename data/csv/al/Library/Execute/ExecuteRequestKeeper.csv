@@ -1,0 +1,8 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al19ExecuteRequestTableC2Ei","al::ExecuteRequestTable::ExecuteRequestTable(int)",false
+"_ZN2al20ExecuteRequestKeeperC2Ei","al::ExecuteRequestKeeper::ExecuteRequestKeeper(int)",false
+"_ZN2al20ExecuteRequestKeeper32executeRequestActorMovementAllOnEv","al::ExecuteRequestKeeper::executeRequestActorMovementAllOn(void)",false
+"_ZN2al20ExecuteRequestKeeper33executeRequestActorMovementAllOffEv","al::ExecuteRequestKeeper::executeRequestActorMovementAllOff(void)",false
+"_ZN2al20ExecuteRequestKeeper28executeRequestActorDrawAllOnEv","al::ExecuteRequestKeeper::executeRequestActorDrawAllOn(void)",false
+"_ZN2al20ExecuteRequestKeeper29executeRequestActorDrawAllOffEv","al::ExecuteRequestKeeper::executeRequestActorDrawAllOff(void)",false
+"_ZN2al20ExecuteRequestKeeper7requestEPNS_9LiveActorEi","al::ExecuteRequestKeeper::request(al::LiveActor *,int)",false

@@ -1,0 +1,9 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al15CameraPoserCartC2EPKc","al::CameraPoserCart::CameraPoserCart(char const*)",false
+"_ZN2al15CameraPoserCart5startERKNS_15CameraStartInfoE","al::CameraPoserCart::start(al::CameraStartInfo const&)",false
+"_ZN2al15CameraPoserCart4stopEv","al::CameraPoserCart::stop(void)",false
+"_ZN2al15CameraPoserCart7restartEv","al::CameraPoserCart::restart(void)",false
+"_ZN2al15CameraPoserCart9exeFollowEv","al::CameraPoserCart::exeFollow(void)",false
+"_ZN2al15CameraPoserCart7exeStopEv","al::CameraPoserCart::exeStop(void)",false
+"sub_7100975E20","",false
+"nullsub_480","",false

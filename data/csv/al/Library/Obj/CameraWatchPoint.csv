@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al16CameraWatchPointC2EPKc","al::CameraWatchPoint::CameraWatchPoint(char const*)",false
+"_ZN2al16CameraWatchPointC1EPKc","al::CameraWatchPoint::CameraWatchPoint(char const*)",false
+"_ZN2al16CameraWatchPoint4initERKNS_13ActorInitInfoE","al::CameraWatchPoint::init(al::ActorInitInfo const&)",false
+"_ZN2al16CameraWatchPoint14makeActorAliveEv","al::CameraWatchPoint::makeActorAlive(void)",false
+"_ZN2al16CameraWatchPoint4killEv","al::CameraWatchPoint::kill(void)",false

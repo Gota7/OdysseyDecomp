@@ -1,0 +1,15 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21AudioEffectCtrlPerBusC1EiN2nn3atk12OutputDeviceENS2_6AuxBusE","al::AudioEffectCtrlPerBus::AudioEffectCtrlPerBus(int,nn::atk::OutputDevice,nn::atk::AuxBus)",false
+"_ZN2al21AudioEffectCtrlPerBus4initEv","al::AudioEffectCtrlPerBus::init(void)",false
+"_ZN2al21AudioEffectCtrlPerBus8finalizeEv","al::AudioEffectCtrlPerBus::finalize(void)",false
+"_ZN2al21AudioEffectCtrlPerBus13appendEffectsEPKNS_22AudioEachBusEffectInfoE","al::AudioEffectCtrlPerBus::appendEffects(al::AudioEachBusEffectInfo const*)",false
+"_ZN2al21AudioEffectCtrlPerBus8activateEv","al::AudioEffectCtrlPerBus::activate(void)",false
+"_ZN2al21AudioEffectCtrlPerBus20releaseAllWorkBufferEv","al::AudioEffectCtrlPerBus::releaseAllWorkBuffer(void)",false
+"_ZN2al21AudioEffectCtrlPerBus10deactivateEv","al::AudioEffectCtrlPerBus::deactivate(void)",false
+"_ZN2al21AudioEffectCtrlPerBus9isThisBusEPKc","al::AudioEffectCtrlPerBus::isThisBus(char const*)",false
+"_ZN2al21AudioEffectCtrlPerBus22disableAudioEffectUnitEv","al::AudioEffectCtrlPerBus::disableAudioEffectUnit(void)",false
+"_ZNK2al21AudioEffectCtrlPerBus24isDisableAudioEffectUnitEv","al::AudioEffectCtrlPerBus::isDisableAudioEffectUnit(void)const",false
+"_ZN2al21AudioEffectCtrlPerBus18clearEffectFromBusEv","al::AudioEffectCtrlPerBus::clearEffectFromBus(void)",false
+"_ZNK2al21AudioEffectCtrlPerBus21isFinishedClearEffectEv","al::AudioEffectCtrlPerBus::isFinishedClearEffect(void)const",false
+"_ZN2al15AudioEffectUnitINS_17AudioEffectReverbENS_18SeadFxReverbParamsEE12appendEffectEPKNS_19AudioEffectProcInfoEi","al::AudioEffectUnit<al::AudioEffectReverb,al::SeadFxReverbParams>::appendEffect(al::AudioEffectProcInfo const*,int)",false
+"_ZN2al15AudioEffectUnitINS_24AudioEffectLevelDetectorENS_30AudioEffectParamsLevelDetectorEE12appendEffectEPKNS_19AudioEffectProcInfoEi","al::AudioEffectUnit<al::AudioEffectLevelDetector,al::AudioEffectParamsLevelDetector>::appendEffect(al::AudioEffectProcInfo const*,int)",false

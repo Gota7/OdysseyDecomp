@@ -1,0 +1,16 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al9RaceJudgeC2EPNS_9LiveActorEPKNS_14RaceCheckPointEi","al::RaceJudge::RaceJudge(al::LiveActor *,al::RaceCheckPoint const*,int)",false
+"_ZN2al9RaceJudge5resetEv","al::RaceJudge::reset(void)",false
+"_ZN2al9RaceJudge6updateEv","al::RaceJudge::update(void)",false
+"_ZNK2al9RaceJudge6isGoalEv","al::RaceJudge::isGoal(void)const",false
+"_ZNK2al9RaceJudge10isFinalLapEv","al::RaceJudge::isFinalLap(void)const",false
+"_ZNK2al9RaceJudge14calcTotalFrameEv","al::RaceJudge::calcTotalFrame(void)const",false
+"_ZNK2al9RaceJudge13calcIsReverseEv","al::RaceJudge::calcIsReverse(void)const",false
+"_ZN2al9RaceJudge12calcProgressEv","al::RaceJudge::calcProgress(void)",false
+"_ZN2al9RaceJudge14validateUpdateEv","al::RaceJudge::validateUpdate(void)",false
+"_ZN2al9RaceJudge16invalidateUpdateEv","al::RaceJudge::invalidateUpdate(void)",false
+"_ZNK2al9RaceJudge20getPassCheckPointPosEPN4sead7Vector3IfEE","al::RaceJudge::getPassCheckPointPos(sead::Vector3<float> *)const",false
+"_ZNK2al9RaceJudge22getPassCheckPointFrontEPN4sead7Vector3IfEE","al::RaceJudge::getPassCheckPointFront(sead::Vector3<float> *)const",false
+"_ZNK2al9RaceJudge31isPassCheckPointUseRecoverPointEv","al::RaceJudge::isPassCheckPointUseRecoverPoint(void)const",false
+"_ZNK2al9RaceJudge29getPassCheckPointRecoverTransEv","al::RaceJudge::getPassCheckPointRecoverTrans(void)const",false
+"_ZNK2al9RaceJudge28getPassCheckPointRecoverPoseEv","al::RaceJudge::getPassCheckPointRecoverPose(void)const",false

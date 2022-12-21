@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al16AudioEffectDelayD0Ev","al::AudioEffectDelay::~AudioEffectDelay()",false
+"_ZNK2nn3atk11EffectDelay25GetChannelSettingCountMaxEv","nn::atk::EffectDelay::GetChannelSettingCountMax(void)const",false
+"_ZN2al15AudioEffectUnitINS_17AudioEffectReverbENS_18SeadFxReverbParamsEE4initEii","al::AudioEffectUnit<al::AudioEffectReverb,al::SeadFxReverbParams>::init(int,int)",false
+"_ZN2al15AudioEffectUnitINS_24AudioEffectLevelDetectorENS_30AudioEffectParamsLevelDetectorEE4initEii","al::AudioEffectUnit<al::AudioEffectLevelDetector,al::AudioEffectParamsLevelDetector>::init(int,int)",false

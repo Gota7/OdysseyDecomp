@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al13ActorItemInfoC2EPKcS2_S2_i","al::ActorItemInfo::ActorItemInfo(char const*,char const*,char const*,int)",false
+"_ZNK2al13ActorItemInfo13isEqualTimingEPKc","al::ActorItemInfo::isEqualTiming(char const*)const",false
+"_ZNK2al13ActorItemInfo13isEqualFactorEPKc","al::ActorItemInfo::isEqualFactor(char const*)const",false

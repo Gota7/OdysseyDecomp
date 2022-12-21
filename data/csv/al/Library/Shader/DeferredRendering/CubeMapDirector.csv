@@ -1,0 +1,13 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al15CubeMapDirectorC2EPNS_18GraphicsSystemInfoE","al::CubeMapDirector::CubeMapDirector(al::GraphicsSystemInfo *)",false
+"_ZN2al15CubeMapDirectorD2Ev","al::CubeMapDirector::~CubeMapDirector()",false
+"_ZN2al15CubeMapDirector17initStageResourceEPKNS_8ResourceEPKcS5_PKNS_15AreaObjDirectorEPKNS_15ExecuteDirectorEPNS_15SceneCameraInfoEPNS_12EffectSystemEPNS_11SkyDirectorE","al::CubeMapDirector::initStageResource(al::Resource const*,char const*,char const*,al::AreaObjDirector const*,al::ExecuteDirector const*,al::SceneCameraInfo *,al::EffectSystem *,al::SkyDirector *)",false
+"_ZN2al15CubeMapDirector15preDrawGraphicsEv","al::CubeMapDirector::preDrawGraphics(void)",false
+"_ZN2al15CubeMapDirector7endInitEv","al::CubeMapDirector::endInit(void)",false
+"_ZN2al15CubeMapDirector18initByCapturePointEPNS_12PlayerHolderE","al::CubeMapDirector::initByCapturePoint(al::PlayerHolder *)",false
+"_ZN2al15CubeMapDirector18initByAtmosScatterEv","al::CubeMapDirector::initByAtmosScatter(void)",false
+"_ZNK2al15CubeMapDirector22activateCubeMapTextureEPN3agl11DrawContextEib","al::CubeMapDirector::activateCubeMapTexture(agl::DrawContext *,int,bool)const",false
+"_ZNK2al15CubeMapDirector25isDrawCapturePointCubeMapEv","al::CubeMapDirector::isDrawCapturePointCubeMap(void)const",false
+"_ZNK2al15CubeMapDirector15renderToCubeMapEPN3agl11DrawContextE","al::CubeMapDirector::renderToCubeMap(agl::DrawContext *)const",false
+"_ZNK2al15CubeMapDirector20getIrradianceSamplerEv","al::CubeMapDirector::getIrradianceSampler(void)const",false
+"_ZNK2al15CubeMapDirector23getCubeMapMirrorSamplerEv","al::CubeMapDirector::getCubeMapMirrorSampler(void)const",false

@@ -1,0 +1,18 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al13ParabolicPathC2Ev","al::ParabolicPath::ParabolicPath(void)",false
+"_ZN2al13ParabolicPath16initFromUpVectorERKN4sead7Vector3IfEES5_S5_","al::ParabolicPath::initFromUpVector(sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)",false
+"_ZN2al13ParabolicPath16initFromUpVectorERKN4sead7Vector3IfEES5_S5_f","al::ParabolicPath::initFromUpVector(sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)",false
+"_ZN2al13ParabolicPath17initFromMaxHeightERKN4sead7Vector3IfEES5_S5_","al::ParabolicPath::initFromMaxHeight(sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)",false
+"_ZN2al13ParabolicPath25initFromUpVectorAddHeightERKN4sead7Vector3IfEES5_S5_f","al::ParabolicPath::initFromUpVectorAddHeight(sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)",false
+"_ZNK2al13ParabolicPath9getLengthEffi","al::ParabolicPath::getLength(float,float,int)const",false
+"_ZNK2al13ParabolicPath14getTotalLengthEi","al::ParabolicPath::getTotalLength(int)const",false
+"_ZNK2al13ParabolicPath14calcPositionHVEPN4sead7Vector3IfEEff","al::ParabolicPath::calcPositionHV(sead::Vector3<float> *,float,float)const",false
+"_ZNK2al13ParabolicPath12calcPositionEPN4sead7Vector3IfEEf","al::ParabolicPath::calcPosition(sead::Vector3<float> *,float)const",false
+"_ZNK2al13ParabolicPath20calcPositionEaseOutHEPN4sead7Vector3IfEEf","al::ParabolicPath::calcPositionEaseOutH(sead::Vector3<float> *,float)const",false
+"_ZNK2al13ParabolicPath13calcDirectionEPN4sead7Vector3IfEEff","al::ParabolicPath::calcDirection(sead::Vector3<float> *,float,float)const",false
+"_ZNK2al13ParabolicPath29calcPathSpeedFromGravityAccelEf","al::ParabolicPath::calcPathSpeedFromGravityAccel(float)const",false
+"_ZNK2al13ParabolicPath29calcPathSpeedFromAverageSpeedEf","al::ParabolicPath::calcPathSpeedFromAverageSpeed(float)const",false
+"_ZNK2al13ParabolicPath32calcPathSpeedFromHorizontalSpeedEf","al::ParabolicPath::calcPathSpeedFromHorizontalSpeed(float)const",false
+"_ZNK2al13ParabolicPath28calcPathTimeFromGravityAccelEf","al::ParabolicPath::calcPathTimeFromGravityAccel(float)const",false
+"_ZNK2al13ParabolicPath28calcPathTimeFromAverageSpeedEf","al::ParabolicPath::calcPathTimeFromAverageSpeed(float)const",false
+"_ZNK2al13ParabolicPath31calcPathTimeFromHorizontalSpeedEf","al::ParabolicPath::calcPathTimeFromHorizontalSpeed(float)const",false

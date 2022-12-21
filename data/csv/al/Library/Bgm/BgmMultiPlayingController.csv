@@ -1,0 +1,12 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al25BgmMultiPlayingControllerC2Ev","al::BgmMultiPlayingController::BgmMultiPlayingController(void)",false
+"_ZN2al25BgmMultiPlayingController3useEv","al::BgmMultiPlayingController::use(void)",false
+"_ZN2al25BgmMultiPlayingController28removeAllMultiBgmPlayingInfoEv","al::BgmMultiPlayingController::removeAllMultiBgmPlayingInfo(void)",false
+"_ZN2al25BgmMultiPlayingController8activateERKNS0_10PlayParamsEib","al::BgmMultiPlayingController::activate(al::BgmMultiPlayingController::PlayParams const&,int,bool)",false
+"sub_710082FDC4","",false
+"_ZN2al25BgmMultiPlayingController10deactivateEbi","al::BgmMultiPlayingController::deactivate(bool,int)",false
+"_ZN2al25BgmMultiPlayingController6updateEv","al::BgmMultiPlayingController::update(void)",false
+"_ZN2al25BgmMultiPlayingController25tryAddMultiBgmPlayingInfoEPKcib","al::BgmMultiPlayingController::tryAddMultiBgmPlayingInfo(char const*,int,bool)",false
+"_ZN2al25BgmMultiPlayingController28tryRemoveMultiBgmPlayingInfoEPKc","al::BgmMultiPlayingController::tryRemoveMultiBgmPlayingInfo(char const*)",false
+"_ZN2al25BgmMultiPlayingController25enableMultiBgmPlayingInfoEPKc","al::BgmMultiPlayingController::enableMultiBgmPlayingInfo(char const*)",false
+"_ZN2al25BgmMultiPlayingController26disableMultiBgmPlayingInfoEPKc","al::BgmMultiPlayingController::disableMultiBgmPlayingInfo(char const*)",false

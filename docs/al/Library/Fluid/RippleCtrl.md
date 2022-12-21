@@ -1,0 +1,51 @@
+# RippleCtrl.o
+| Symbol | Meaning 
+| ------------- | ------------- 
+| :x: | Function has not yet been started or is not matching. 
+| :white_check_mark: | Function is completed. 
+
+
+# RippleCtrl.o
+| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| ------------- |  ------------- | ------------- |
+| `_ZN2al10RippleCtrlC2EPNS_9LiveActorE` | `al::RippleCtrl::RippleCtrl(al::LiveActor *)` | :white_check_mark: |
+| `_ZN2al10RippleCtrl9tryCreateEPNS_9LiveActorE` | `al::RippleCtrl::tryCreate(al::LiveActor *)` | :white_check_mark: |
+| `_ZN2al10RippleCtrl4initERKNS_13ActorInitInfoE` | `al::RippleCtrl::init(al::ActorInitInfo const&)` | :white_check_mark: |
+| `_ZNK2al10RippleCtrl12calcPoseQuatEPN4sead4QuatIfEE` | `al::RippleCtrl::calcPoseQuat(sead::Quat<float> *)const` | :white_check_mark: |
+| `_ZNK2al10RippleCtrl17calcOffsetedTransEPN4sead7Vector3IfEE` | `al::RippleCtrl::calcOffsetedTrans(sead::Vector3<float> *)const` | :white_check_mark: |
+| `_ZN2al10RippleCtrl16tryCreateFlowMapEv` | `al::RippleCtrl::tryCreateFlowMap(void)` | :white_check_mark: |
+| `_ZN2al10RippleCtrl18initAfterPlacementEv` | `al::RippleCtrl::initAfterPlacement(void)` | :white_check_mark: |
+| `_ZN2al10RippleCtrl6updateEv` | `al::RippleCtrl::update(void)` | :white_check_mark: |
+| `_ZNK2al10RippleCtrl12calcIsInAreaERKN4sead7Vector3IfEE` | `al::RippleCtrl::calcIsInArea(sead::Vector3<float> const&)const` | :white_check_mark: |
+| `_ZNK2al10RippleCtrl9isCollideEii` | `al::RippleCtrl::isCollide(int,int)const` | :white_check_mark: |
+| `_ZNK2al10RippleCtrl7calcPosEPN4sead7Vector3IfEERKS3_` | `al::RippleCtrl::calcPos(sead::Vector3<float> *,sead::Vector3<float> const&)const` | :white_check_mark: |
+| `_ZNK2al10RippleCtrl13getCollidePosEii` | `al::RippleCtrl::getCollidePos(int,int)const` | :white_check_mark: |
+| `_ZNK2al10RippleCtrl10calcNormalEPN4sead7Vector3IfEERKS3_` | `al::RippleCtrl::calcNormal(sead::Vector3<float> *,sead::Vector3<float> const&)const` | :white_check_mark: |
+| `_ZN2al10RippleCtrl12tryAddRippleERKN4sead7Vector3IfEEff` | `al::RippleCtrl::tryAddRipple(sead::Vector3<float> const&,float,float)` | :white_check_mark: |
+| `_ZN2al10RippleCtrl21tryAddRippleWithRangeERKN4sead7Vector3IfEEffff` | `al::RippleCtrl::tryAddRippleWithRange(sead::Vector3<float> const&,float,float,float,float)` | :white_check_mark: |
+| `_ZN2al10RippleCtrl16tryAddQuadRippleERKN4sead7Vector3IfEES5_S5_S5_f` | `al::RippleCtrl::tryAddQuadRipple(sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al10RippleCtrl13setFieldScaleEf` | `al::RippleCtrl::setFieldScale(float)` | :white_check_mark: |
+| `_ZNK2al10RippleCtrl11getTypeNameEv` | `al::RippleCtrl::getTypeName(void)const` | :white_check_mark: |
+| `_ZN2al10RippleCtrl15forceResetCountEv` | `al::RippleCtrl::forceResetCount(void)` | :white_check_mark: |
+| `_ZNK2al12ParameterV3f15getParamTypeStrEv` | `al::ParameterV3f::getParamTypeStr(void)const` | :white_check_mark: |
+| `_ZNK2al12ParameterV3f12getParamTypeEv` | `al::ParameterV3f::getParamType(void)const` | :white_check_mark: |
+| `_ZNK2al9ParameterIN4sead7Vector3IfEEE3ptrEv` | `al::Parameter<sead::Vector3<float>>::ptr(void)const` | :white_check_mark: |
+| `_ZN2al9ParameterIN4sead7Vector3IfEEE3ptrEv` | `al::Parameter<sead::Vector3<float>>::ptr(void)` | :white_check_mark: |
+| `_ZNK2al9ParameterIN4sead7Vector3IfEEE4sizeEv` | `al::Parameter<sead::Vector3<float>>::size(void)const` | :white_check_mark: |
+| `_ZNK2al9ParameterIN4sead7Vector3IfEEE15getParamTypeStrEv` | `al::Parameter<sead::Vector3<float>>::getParamTypeStr(void)const` | :white_check_mark: |
+| `_ZNK2al9ParameterIN4sead7Vector3IfEEE12getParamTypeEv` | `al::Parameter<sead::Vector3<float>>::getParamType(void)const` | :white_check_mark: |
+| `_ZNK2al13ParameterBool15getParamTypeStrEv` | `al::ParameterBool::getParamTypeStr(void)const` | :white_check_mark: |
+| `_ZNK2al13ParameterBool12getParamTypeEv` | `al::ParameterBool::getParamType(void)const` | :white_check_mark: |
+| `_ZNK2al9ParameterIbE3ptrEv` | `al::Parameter<bool>::ptr(void)const` | :white_check_mark: |
+| `_ZN2al9ParameterIbE3ptrEv` | `al::Parameter<bool>::ptr(void)` | :white_check_mark: |
+| `_ZNK2al9ParameterIbE4sizeEv` | `al::Parameter<bool>::size(void)const` | :white_check_mark: |
+| `_ZNK2al9ParameterIbE15getParamTypeStrEv` | `al::Parameter<bool>::getParamTypeStr(void)const` | :white_check_mark: |
+| `_ZNK2al9ParameterIbE12getParamTypeEv` | `al::Parameter<bool>::getParamType(void)const` | :white_check_mark: |
+| `_ZN2al9ParameterIN4sead15FixedSafeStringILi64EEEEC2ERKS3_RKNS1_14SafeStringBaseIcEESA_SA_PNS_12ParameterObjEb` | `al::Parameter<sead::FixedSafeString<64>>::Parameter(sead::FixedSafeString<64> const&,sead::SafeStringBase<char> const&,sead::SafeStringBase<char> const&,sead::SafeStringBase<char> const&,al::ParameterObj *,bool)` | :white_check_mark: |
+| `_ZNK2al17ParameterString6415getParamTypeStrEv` | `al::ParameterString64::getParamTypeStr(void)const` | :white_check_mark: |
+| `_ZNK2al17ParameterString6412getParamTypeEv` | `al::ParameterString64::getParamType(void)const` | :white_check_mark: |
+| `_ZNK2al9ParameterIN4sead15FixedSafeStringILi64EEEE3ptrEv` | `al::Parameter<sead::FixedSafeString<64>>::ptr(void)const` | :white_check_mark: |
+| `_ZN2al9ParameterIN4sead15FixedSafeStringILi64EEEE3ptrEv` | `al::Parameter<sead::FixedSafeString<64>>::ptr(void)` | :white_check_mark: |
+| `_ZNK2al9ParameterIN4sead15FixedSafeStringILi64EEEE4sizeEv` | `al::Parameter<sead::FixedSafeString<64>>::size(void)const` | :white_check_mark: |
+| `_ZNK2al9ParameterIN4sead15FixedSafeStringILi64EEEE15getParamTypeStrEv` | `al::Parameter<sead::FixedSafeString<64>>::getParamTypeStr(void)const` | :white_check_mark: |
+| `_ZNK2al9ParameterIN4sead15FixedSafeStringILi64EEEE12getParamTypeEv` | `al::Parameter<sead::FixedSafeString<64>>::getParamType(void)const` | :white_check_mark: |

@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al11JointMasherC1EPKNS_9LiveActorEPKbi","al::JointMasher::JointMasher(al::LiveActor const*,bool const*,int)",false
+"_ZN2al11JointMasher6appendEPKcf","al::JointMasher::append(char const*,float)",false
+"_ZN2al11JointMasher17calcJointCallbackEiPN4sead8Matrix34IfEE","al::JointMasher::calcJointCallback(int,sead::Matrix34<float> *)",false
+"_ZNK2al11JointMasher15getCtrlTypeNameEv","al::JointMasher::getCtrlTypeName(void)const",false

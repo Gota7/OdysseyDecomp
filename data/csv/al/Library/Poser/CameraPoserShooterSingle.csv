@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al24CameraPoserShooterSingleC2EPKc","al::CameraPoserShooterSingle::CameraPoserShooterSingle(char const*)",false
+"_ZN2al24CameraPoserShooterSingle9loadParamERKNS_9ByamlIterE","al::CameraPoserShooterSingle::loadParam(al::ByamlIter const&)",false
+"_ZN2al24CameraPoserShooterSingle6updateEv","al::CameraPoserShooterSingle::update(void)",false

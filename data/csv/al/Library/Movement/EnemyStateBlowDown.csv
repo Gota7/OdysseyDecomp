@@ -1,0 +1,13 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al18EnemyStateBlowDownC1EPNS_9LiveActorEPKNS_23EnemyStateBlowDownParamEPKc","al::EnemyStateBlowDown::EnemyStateBlowDown(al::LiveActor *,al::EnemyStateBlowDownParam const*,char const*)",false
+"_ZN2al18EnemyStateBlowDown5startEPKNS_9HitSensorE","al::EnemyStateBlowDown::start(al::HitSensor const*)",false
+"_ZN2al18EnemyStateBlowDown5startERKN4sead7Vector3IfEE","al::EnemyStateBlowDown::start(sead::Vector3<float> const&)",false
+"_ZN2al18EnemyStateBlowDown5startEPKNS_9HitSensorES3_","al::EnemyStateBlowDown::start(al::HitSensor const*,al::HitSensor const*)",false
+"_ZN2al18EnemyStateBlowDown5startEPKNS_9LiveActorE","al::EnemyStateBlowDown::start(al::LiveActor const*)",false
+"_ZN2al18EnemyStateBlowDown6appearEv","al::EnemyStateBlowDown::appear(void)",false
+"_ZN2al18EnemyStateBlowDown4killEv","al::EnemyStateBlowDown::kill(void)",false
+"_ZN2al18EnemyStateBlowDown7controlEv","al::EnemyStateBlowDown::control(void)",false
+"_ZN2al23EnemyStateBlowDownParamC2Ev","al::EnemyStateBlowDownParam::EnemyStateBlowDownParam(void)",false
+"_ZN2al23EnemyStateBlowDownParamC2EPKc","al::EnemyStateBlowDownParam::EnemyStateBlowDownParam(char const*)",false
+"_ZN2al23EnemyStateBlowDownParamC1EPKcffffib","al::EnemyStateBlowDownParam::EnemyStateBlowDownParam(char const*,float,float,float,float,int,bool)",false
+"_ZN2al18EnemyStateBlowDownD0Ev","al::EnemyStateBlowDown::~EnemyStateBlowDown()",false

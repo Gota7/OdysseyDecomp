@@ -1,0 +1,15 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al16ClippingDirectorC1EiPKNS_15AreaObjDirectorEPKNS_12PlayerHolderEPKNS_15SceneCameraInfoE","al::ClippingDirector::ClippingDirector(int,al::AreaObjDirector const*,al::PlayerHolder const*,al::SceneCameraInfo const*)",false
+"_ZN2al16ClippingDirectorD2Ev","al::ClippingDirector::~ClippingDirector()",false
+"_ZN2al16ClippingDirector7endInitEPKNS_15AreaObjDirectorE","al::ClippingDirector::endInit(al::AreaObjDirector const*)",false
+"_ZN2al16ClippingDirector25setDefaultFarClipDistanceEf","al::ClippingDirector::setDefaultFarClipDistance(float)",false
+"_ZN2al16ClippingDirector28setDefaultFarClipDistanceSubEf","al::ClippingDirector::setDefaultFarClipDistanceSub(float)",false
+"_ZNK2al16ClippingDirector18getFarClipDistanceEv","al::ClippingDirector::getFarClipDistance(void)const",false
+"_ZN2al16ClippingDirector13registerActorEPNS_9LiveActorEPKNS_12ViewIdHolderE","al::ClippingDirector::registerActor(al::LiveActor *,al::ViewIdHolder const*)",false
+"_ZN2al16ClippingDirector18addToGroupClippingEPNS_9LiveActorERKNS_13ActorInitInfoE","al::ClippingDirector::addToGroupClipping(al::LiveActor *,al::ActorInitInfo const&)",false
+"_ZN2al16ClippingDirector15onGroupClippingEPNS_9LiveActorE","al::ClippingDirector::onGroupClipping(al::LiveActor *)",false
+"_ZN2al16ClippingDirector16offGroupClippingEPNS_9LiveActorE","al::ClippingDirector::offGroupClipping(al::LiveActor *)",false
+"_ZN2al16ClippingDirector7executeEv","al::ClippingDirector::execute(void)",false
+"_ZN2al16ClippingDirector29startCheckViewCtrlByCameraPosEv","al::ClippingDirector::startCheckViewCtrlByCameraPos(void)",false
+"_ZN2al16ClippingDirector29startCheckViewCtrlByLookAtPosEv","al::ClippingDirector::startCheckViewCtrlByLookAtPos(void)",false
+"_ZN2al16ClippingDirector29startCheckViewCtrlByPlayerPosEv","al::ClippingDirector::startCheckViewCtrlByPlayerPos(void)",false

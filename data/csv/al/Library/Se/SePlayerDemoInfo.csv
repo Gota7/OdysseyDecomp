@@ -1,0 +1,79 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21SeDemoEventControllerC1EPNS_13AudioDirectorE","al::SeDemoEventController::SeDemoEventController(al::AudioDirector *)",false
+"_ZN2al21SeDemoEventController10startEventEPNS_22AudioInfoListWithPartsINS_14SeDemoProcInfoEEE","al::SeDemoEventController::startEvent(al::AudioInfoListWithParts<al::SeDemoProcInfo> *)",false
+"_ZN2al21SeDemoEventController8endEventEPNS_22AudioInfoListWithPartsINS_14SeDemoProcInfoEEEb","al::SeDemoEventController::endEvent(al::AudioInfoListWithParts<al::SeDemoProcInfo> *,bool)",false
+"_ZN2al21SeDemoEventController13procDemoEventEPKNS_14SeDemoProcInfoE","al::SeDemoEventController::procDemoEvent(al::SeDemoProcInfo const*)",false
+"sub_71009EF1F4","",false
+"_ZN2al21SeDemoEventController6updateEi","al::SeDemoEventController::update(int)",false
+"sub_71009EFE0C","",false
+"_ZN2al14SeDemoProcInfo9tryCreateEPKc","al::SeDemoProcInfo::tryCreate(char const*)",false
+"_ZN2al14SeDemoProcInfo17isChangeSituationEPKc","al::SeDemoProcInfo::isChangeSituation(char const*)",false
+"_ZN2al14SeDemoProcInfo7isPauseEPKc","al::SeDemoProcInfo::isPause(char const*)",false
+"_ZN2al14SeDemoProcInfo13isStopOneShotEPKc","al::SeDemoProcInfo::isStopOneShot(char const*)",false
+"_ZN2al14SeDemoProcInfo21isChnageListenerPoserEPKc","al::SeDemoProcInfo::isChnageListenerPoser(char const*)",false
+"_ZN2al14SeDemoProcInfo8isPlaySeEPKc","al::SeDemoProcInfo::isPlaySe(char const*)",false
+"_ZN2al14SeDemoProcInfo10createInfoERKNS_9ByamlIterE","al::SeDemoProcInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al19SeDemoSituationInfo10createInfoERKNS_9ByamlIterEPKcii","al::SeDemoSituationInfo::createInfo(al::ByamlIter const&,char const*,int,int)",false
+"_ZN2al15SeDemoPauseInfo10createInfoERKNS_9ByamlIterEPKcii","al::SeDemoPauseInfo::createInfo(al::ByamlIter const&,char const*,int,int)",false
+"_ZN2al21SeDemoStopOneShotInfo10createInfoERKNS_9ByamlIterEPKcii","al::SeDemoStopOneShotInfo::createInfo(al::ByamlIter const&,char const*,int,int)",false
+"_ZN2al23SeDemoListenerPoserInfo10createInfoERKNS_9ByamlIterEPKcii","al::SeDemoListenerPoserInfo::createInfo(al::ByamlIter const&,char const*,int,int)",false
+"_ZN2al16SeDemoPlaySeInfo10createInfoERKNS_9ByamlIterEPKcii","al::SeDemoPlaySeInfo::createInfo(al::ByamlIter const&,char const*,int,int)",false
+"_ZN2al20SeDemoSyncedProcInfo10createInfoERKNS_9ByamlIterE","al::SeDemoSyncedProcInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al19createAudioInfoListINS_14SeDemoProcInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SeDemoProcInfo> * al::createAudioInfoList<al::SeDemoProcInfo>(al::ByamlIter const&,int)",false
+"_ZN2al14SeDemoProcInfo11compareInfoEPKS0_S2_","al::SeDemoProcInfo::compareInfo(al::SeDemoProcInfo const*,al::SeDemoProcInfo const*)",false
+"_ZN2al19SeDemoSituationInfo11compareInfoEPKS0_S2_","al::SeDemoSituationInfo::compareInfo(al::SeDemoSituationInfo const*,al::SeDemoSituationInfo const*)",false
+"_ZN2al15SeDemoPauseInfo11compareInfoEPKS0_S2_","al::SeDemoPauseInfo::compareInfo(al::SeDemoPauseInfo const*,al::SeDemoPauseInfo const*)",false
+"_ZN2al21SeDemoStopOneShotInfo11compareInfoEPKS0_S2_","al::SeDemoStopOneShotInfo::compareInfo(al::SeDemoStopOneShotInfo const*,al::SeDemoStopOneShotInfo const*)",false
+"_ZN2al23SeDemoListenerPoserInfo11compareInfoEPKS0_S2_","al::SeDemoListenerPoserInfo::compareInfo(al::SeDemoListenerPoserInfo const*,al::SeDemoListenerPoserInfo const*)",false
+"_ZN2al16SeDemoPlaySeInfo11compareInfoEPKS0_S2_","al::SeDemoPlaySeInfo::compareInfo(al::SeDemoPlaySeInfo const*,al::SeDemoPlaySeInfo const*)",false
+"_ZN2al20SeDemoSyncedProcInfo11compareInfoEPKS0_S2_","al::SeDemoSyncedProcInfo::compareInfo(al::SeDemoSyncedProcInfo const*,al::SeDemoSyncedProcInfo const*)",false
+"_ZN2al14SeDemoProcInfoC2Ev","al::SeDemoProcInfo::SeDemoProcInfo(void)",false
+"_ZN2al19SeDemoSituationInfoC2Ev","al::SeDemoSituationInfo::SeDemoSituationInfo(void)",false
+"_ZN2al15SeDemoPauseInfoC2Ev","al::SeDemoPauseInfo::SeDemoPauseInfo(void)",false
+"_ZN2al21SeDemoStopOneShotInfoC2Ev","al::SeDemoStopOneShotInfo::SeDemoStopOneShotInfo(void)",false
+"_ZN2al23SeDemoListenerPoserInfoC2Ev","al::SeDemoListenerPoserInfo::SeDemoListenerPoserInfo(void)",false
+"_ZN2al16SeDemoPlaySeInfoC2Ev","al::SeDemoPlaySeInfo::SeDemoPlaySeInfo(void)",false
+"_ZN2al20SeDemoSyncedProcInfoC2Ev","al::SeDemoSyncedProcInfo::SeDemoSyncedProcInfo(void)",false
+"_ZN2al14SeDemoProcInfoC1ERKS0_","al::SeDemoProcInfo::SeDemoProcInfo(al::SeDemoProcInfo const&)",false
+"_ZN2al19SeDemoSituationInfoC1ERKS0_","al::SeDemoSituationInfo::SeDemoSituationInfo(al::SeDemoSituationInfo const&)",false
+"_ZN2al15SeDemoPauseInfoC1ERKS0_","al::SeDemoPauseInfo::SeDemoPauseInfo(al::SeDemoPauseInfo const&)",false
+"_ZN2al21SeDemoStopOneShotInfoC1ERKS0_","al::SeDemoStopOneShotInfo::SeDemoStopOneShotInfo(al::SeDemoStopOneShotInfo const&)",false
+"_ZN2al23SeDemoListenerPoserInfoC2ERKS0_","al::SeDemoListenerPoserInfo::SeDemoListenerPoserInfo(al::SeDemoListenerPoserInfo const&)",false
+"_ZN2al16SeDemoPlaySeInfoC1ERKS0_","al::SeDemoPlaySeInfo::SeDemoPlaySeInfo(al::SeDemoPlaySeInfo const&)",false
+"_ZN2al20SeDemoSyncedProcInfoC1ERKS0_","al::SeDemoSyncedProcInfo::SeDemoSyncedProcInfo(al::SeDemoSyncedProcInfo const&)",false
+"_ZN2al17copyAudioInfoListINS_14SeDemoProcInfoEEEPNS_22AudioInfoListWithPartsIT_EEPKS4_i","al::AudioInfoListWithParts<al::SeDemoProcInfo> * al::copyAudioInfoList<al::SeDemoProcInfo>(al::AudioInfoListWithParts<al::SeDemoProcInfo> const*,int)",false
+"_ZN2al14SeDemoProcInfoD2Ev","al::SeDemoProcInfo::~SeDemoProcInfo()",false
+"_ZN2al14SeDemoProcInfoD0Ev","al::SeDemoProcInfo::~SeDemoProcInfo()",false
+"_ZN2al14SeDemoProcInfo5dummyEv","al::SeDemoProcInfo::dummy(void)",false
+"_ZN2al19SeDemoSituationInfoD0Ev","al::SeDemoSituationInfo::~SeDemoSituationInfo()",false
+"_ZN2al15SeDemoPauseInfoD0Ev","al::SeDemoPauseInfo::~SeDemoPauseInfo()",false
+"_ZN2al21SeDemoStopOneShotInfoD0Ev","al::SeDemoStopOneShotInfo::~SeDemoStopOneShotInfo()",false
+"_ZN2al23SeDemoListenerPoserInfoD0Ev","al::SeDemoListenerPoserInfo::~SeDemoListenerPoserInfo()",false
+"_ZN2al16SeDemoPlaySeInfoD0Ev","al::SeDemoPlaySeInfo::~SeDemoPlaySeInfo()",false
+"_ZN2al26AudioInfoListCreateFunctorINS_14SeDemoProcInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SeDemoProcInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"_ZN2al16SeDuckingRequestC2Ev","al::SeDuckingRequest::SeDuckingRequest(void)",false
+"_ZN2al16SeDuckingRequest12startRequestEv","al::SeDuckingRequest::startRequest(void)",false
+"_ZN2al16SeDuckingRequest8activateEv","al::SeDuckingRequest::activate(void)",false
+"_ZN2al16SeDuckingRequest11holdRequestEfPKcS2_","al::SeDuckingRequest::holdRequest(float,char const*,char const*)",false
+"_ZN2al16SeDuckingRequest10endRequestEv","al::SeDuckingRequest::endRequest(void)",false
+"_ZN2al16SeDuckingRequest10deactivateEv","al::SeDuckingRequest::deactivate(void)",false
+"_ZN2al16SeDuckingRequest6updateEv","al::SeDuckingRequest::update(void)",false
+"_ZNK2al16SeDuckingRequest12getCurVolumeEv","al::SeDuckingRequest::getCurVolume(void)const",false
+"_ZN2al19SeDuckingControllerC2Ev","al::SeDuckingController::SeDuckingController(void)",false
+"_ZN2al19SeDuckingController6updateEv","al::SeDuckingController::update(void)",false
+"_ZN2al19SeDuckingController14requestDuckingEPKcfS2_S2_","al::SeDuckingController::requestDucking(char const*,float,char const*,char const*)",false
+"_ZN2al19SeDuckingController18findDuckingRequestEPKc","al::SeDuckingController::findDuckingRequest(char const*)",false
+"_ZN2al23SeSituationCategoryInfo10createInfoERKNS_9ByamlIterE","al::SeSituationCategoryInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al15SeSituationInfo10createInfoERKNS_9ByamlIterE","al::SeSituationInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al19createAudioInfoListINS_23SeSituationCategoryInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SeSituationCategoryInfo> * al::createAudioInfoList<al::SeSituationCategoryInfo>(al::ByamlIter const&,int)",false
+"_ZN2al23SeSituationCategoryInfo11compareInfoEPKS0_S2_","al::SeSituationCategoryInfo::compareInfo(al::SeSituationCategoryInfo const*,al::SeSituationCategoryInfo const*)",false
+"_ZN2al15SeSituationInfo11compareInfoEPKS0_S2_","al::SeSituationInfo::compareInfo(al::SeSituationInfo const*,al::SeSituationInfo const*)",false
+"_ZN2al23SeSituationCategoryInfoC2Ev","al::SeSituationCategoryInfo::SeSituationCategoryInfo(void)",false
+"_ZN2al15SeSituationInfoC2Ev","al::SeSituationInfo::SeSituationInfo(void)",false
+"_ZN2al26AudioInfoListCreateFunctorINS_23SeSituationCategoryInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SeSituationCategoryInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"_ZN2al19SeGroupVolumeKeeperC1EPNS_24AudioEffectLevelDetectorE","al::SeGroupVolumeKeeper::SeGroupVolumeKeeper(al::AudioEffectLevelDetector *)",false
+"_ZN2al19SeGroupVolumeKeeper6updateEb","al::SeGroupVolumeKeeper::update(bool)",false
+"_ZNK2al19SeGroupVolumeKeeper14getVolumeAtmosEv","al::SeGroupVolumeKeeper::getVolumeAtmos(void)const",false
+"_ZNK2al19SeGroupVolumeKeeper17getVolumeAtmosObjEv","al::SeGroupVolumeKeeper::getVolumeAtmosObj(void)const",false
+"_ZNK2al19SeGroupVolumeKeeper20getVolumePlayerVoiceEv","al::SeGroupVolumeKeeper::getVolumePlayerVoice(void)const",false
+"_ZNK2al19SeGroupVolumeKeeper15getVolumePlayerEv","al::SeGroupVolumeKeeper::getVolumePlayer(void)const",false

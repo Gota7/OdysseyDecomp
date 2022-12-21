@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al16FileLoaderThreadC2Ei","al::FileLoaderThread::FileLoaderThread(int)",false
+"_ZN2al16FileLoaderThread14threadFunctionEPN4sead6ThreadEl","al::FileLoaderThread::threadFunction(sead::Thread *,long)",false
+"_ZN2al16FileLoaderThread15requestLoadFileEPNS_13FileEntryBaseE","al::FileLoaderThread::requestLoadFile(al::FileEntryBase *)",false
+"_ZN4sead9Delegate2IN2al16FileLoaderThreadEPNS_6ThreadElE6invokeES4_l","sead::Delegate2<al::FileLoaderThread,sead::Thread *,long>::invoke(sead::Thread *,long)",false
+"_ZNK4sead9Delegate2IN2al16FileLoaderThreadEPNS_6ThreadElE5cloneEPNS_4HeapE","sead::Delegate2<al::FileLoaderThread,sead::Thread *,long>::clone(sead::Heap *)const",false

@@ -1,0 +1,26 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al13isWallPolygonERKN4sead7Vector3IfEES4_","al::isWallPolygon(sead::Vector3<float> const&,sead::Vector3<float> const&)",false
+"_ZN2al14isFloorPolygonERKN4sead7Vector3IfEES4_","al::isFloorPolygon(sead::Vector3<float> const&,sead::Vector3<float> const&)",false
+"_ZN2al17isFloorPolygonCosERKN4sead7Vector3IfEES4_f","al::isFloorPolygonCos(sead::Vector3<float> const&,sead::Vector3<float> const&,float)",false
+"_ZN2al16isCeilingPolygonERKN4sead7Vector3IfEES4_","al::isCeilingPolygon(sead::Vector3<float> const&,sead::Vector3<float> const&)",false
+"_ZN2al15calcPolygonTypeERKN4sead7Vector3IfEES4_","al::calcPolygonType(sead::Vector3<float> const&,sead::Vector3<float> const&)",false
+"_ZN2al24calcTriangleColorByAngleEPN4sead7Color4fEPfRKNS0_7Vector3IfEE","al::calcTriangleColorByAngle(sead::Color4f *,float *,sead::Vector3<float> const&)",false
+"_ZN2al8ColliderC2EPNS_17CollisionDirectorEPKN4sead8Matrix34IfEEPKNS3_7Vector3IfEESB_ffj","al::Collider::Collider(al::CollisionDirector *,sead::Matrix34<float> const*,sead::Vector3<float> const*,sead::Vector3<float> const*,float,float,unsigned int)",false
+"_ZN2al8Collider5clearEv","al::Collider::clear(void)",false
+"_ZN2al8Collider17setTriangleFilterEPKNS_18TriangleFilterBaseE","al::Collider::setTriangleFilter(al::TriangleFilterBase const*)",false
+"_ZN2al8Collider23setCollisionPartsFilterEPKNS_24CollisionPartsFilterBaseE","al::Collider::setCollisionPartsFilter(al::CollisionPartsFilterBase const*)",false
+"_ZN2al8Collider24updateRecentOnGroundInfoEv","al::Collider::updateRecentOnGroundInfo(void)",false
+"_ZN2al8Collider19clearStoredPlaneNumEv","al::Collider::clearStoredPlaneNum(void)",false
+"_ZN2al8Collider17clearContactPlaneEv","al::Collider::clearContactPlane(void)",false
+"_ZN2al8Collider12onInvalidateEv","al::Collider::onInvalidate(void)",false
+"_ZNK2al8Collider12calcCheckPosEPN4sead7Vector3IfEE","al::Collider::calcCheckPos(sead::Vector3<float> *)const",false
+"_ZNK2al8Collider23getRecentOnGroundNormalEj","al::Collider::getRecentOnGroundNormal(unsigned int)const",false
+"_ZNK2al8Collider8getPlaneEi","al::Collider::getPlane(int)const",false
+"_ZN2al8Collider22calcMovePowerByContactEPN4sead7Vector3IfEERKS3_","al::Collider::calcMovePowerByContact(sead::Vector3<float> *,sead::Vector3<float> const&)",false
+"_ZN2al8Collider19storeCurrentHitInfoEPNS_13SphereHitInfoEj","al::Collider::storeCurrentHitInfo(al::SphereHitInfo *,unsigned int)",false
+"_ZN2al8Collider23obtainMomentFixReactionEPNS_13SphereHitInfoEPN4sead7Vector3IfEES6_bj","al::Collider::obtainMomentFixReaction(al::SphereHitInfo *,sead::Vector3<float> *,sead::Vector3<float> *,bool,unsigned int)",false
+"_ZN2al8Collider17storeContactPlaneEPNS_13SphereHitInfoE","al::Collider::storeContactPlane(al::SphereHitInfo *)",false
+"_ZN2al8Collider7collideERKN4sead7Vector3IfEE","al::Collider::collide(sead::Vector3<float> const&)",false
+"_ZN2al8Collider10preCollideEPNS_18SphereInterpolatorEPN4sead7Vector3IfEEPfRKS5_PNS_13SphereHitInfoEj","al::Collider::preCollide(al::SphereInterpolator *,sead::Vector3<float> *,float *,sead::Vector3<float> const&,al::SphereHitInfo *,unsigned int)",false
+"_ZN2al8Collider14findCollidePosEPiPNS_18SphereInterpolatorEPNS_13SphereHitInfoEj","al::Collider::findCollidePos(int *,al::SphereInterpolator *,al::SphereHitInfo *,unsigned int)",false
+"_ZNK2al8Collider20getCollisionDirectorEv","al::Collider::getCollisionDirector(void)const",false

@@ -1,0 +1,21 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21getSaveDataWorkBufferEv","al::getSaveDataWorkBuffer(void)",false
+"_ZN2al21isInitializedSaveDataEv","al::isInitializedSaveData(void)",false
+"_ZN2al18requestInitSaveDirEPKcjj","al::requestInitSaveDir(char const*,unsigned int,unsigned int)",false
+"_ZN2al21requestFormatSaveDataEii","al::requestFormatSaveData(int,int)",false
+"_ZN2al19requestReadSaveDataEPKcjj","al::requestReadSaveData(char const*,unsigned int,unsigned int)",false
+"_ZN2al20requestWriteSaveDataEPKcjjb","al::requestWriteSaveData(char const*,unsigned int,unsigned int,bool)",false
+"_ZN2al20requestFlushSaveDataEv","al::requestFlushSaveData(void)",false
+"_ZN2al15initSaveDirSyncEPKcjj","al::initSaveDirSync(char const*,unsigned int,unsigned int)",false
+"_ZN2al18formatSaveDataSyncEii","al::formatSaveDataSync(int,int)",false
+"_ZN2al16readSaveDataSyncEPKcjj","al::readSaveDataSync(char const*,unsigned int,unsigned int)",false
+"_ZN2al17writeSaveDataSyncEPKcjj","al::writeSaveDataSync(char const*,unsigned int,unsigned int)",false
+"_ZN2al26copyReadSaveDataFromBufferEPvj","al::copyReadSaveDataFromBuffer(void *,unsigned int)",false
+"_ZN2al25copyWriteSaveDataToBufferEPKvj","al::copyWriteSaveDataToBuffer(void const*,unsigned int)",false
+"_ZN2al22updateSaveDataSequenceEv","al::updateSaveDataSequence(void)",false
+"_ZN2al25isSuccessSaveDataSequenceEv","al::isSuccessSaveDataSequence(void)",false
+"_ZN2al22isDoneSaveDataSequenceEv","al::isDoneSaveDataSequence(void)",false
+"_ZN2al31isCorruptedSaveDataSequenceReadEv","al::isCorruptedSaveDataSequenceRead(void)",false
+"_ZN2al33isCorruptedSaveDataSequenceResultEv","al::isCorruptedSaveDataSequenceResult(void)",false
+"_ZN2al25getSaveDataSequenceResultEv","al::getSaveDataSequenceResult(void)",false
+"_ZN2al26getLastSaveDataFSErrorCodeEv","al::getLastSaveDataFSErrorCode(void)",false

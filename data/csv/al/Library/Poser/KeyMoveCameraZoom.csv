@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al17KeyMoveCameraZoomC2EPKc","al::KeyMoveCameraZoom::KeyMoveCameraZoom(char const*)",false
+"_ZN2al17KeyMoveCameraZoom18initByPlacementObjERKNS_13PlacementInfoE","al::KeyMoveCameraZoom::initByPlacementObj(al::PlacementInfo const&)",false
+"_ZN2al17KeyMoveCameraZoom9loadParamERKNS_9ByamlIterE","al::KeyMoveCameraZoom::loadParam(al::ByamlIter const&)",false
+"_ZN2al17KeyMoveCameraZoom6updateEv","al::KeyMoveCameraZoom::update(void)",false

@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al15CameraPoserTalkC2EPKc","al::CameraPoserTalk::CameraPoserTalk(char const*)",false
+"_ZN2al15CameraPoserTalk4initEv","al::CameraPoserTalk::init(void)",false
+"_ZN2al15CameraPoserTalk9loadParamERKNS_9ByamlIterE","al::CameraPoserTalk::loadParam(al::ByamlIter const&)",false
+"_ZN2al15CameraPoserTalk5startERKNS_15CameraStartInfoE","al::CameraPoserTalk::start(al::CameraStartInfo const&)",false
+"_ZN2al15CameraPoserTalk14setMinDistanceEf","al::CameraPoserTalk::setMinDistance(float)",false

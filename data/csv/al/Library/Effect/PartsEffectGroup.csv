@@ -1,0 +1,7 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al16PartsEffectGroupC2Ev","al::PartsEffectGroup::PartsEffectGroup(void)",false
+"_ZN2al16PartsEffectGroup4initEiPKNS_16EffectSystemInfoEPKcPKN4sead7Vector3IfEESA_PKNS6_8Matrix34IfEEPKNS_10IUseCameraE","al::PartsEffectGroup::init(int,al::EffectSystemInfo const*,char const*,sead::Vector3<float> const*,sead::Vector3<float> const*,sead::Matrix34<float> const*,al::IUseCamera const*)",false
+"_ZNK2al16PartsEffectGroup9getEffectEi","al::PartsEffectGroup::getEffect(int)const",false
+"_ZNK2al16PartsEffectGroup12getEffectNumEv","al::PartsEffectGroup::getEffectNum(void)const",false
+"_ZN2al16PartsEffectGroup6updateEv","al::PartsEffectGroup::update(void)",false
+"_ZN2al16PartsEffectGroup4killEv","al::PartsEffectGroup::kill(void)",false

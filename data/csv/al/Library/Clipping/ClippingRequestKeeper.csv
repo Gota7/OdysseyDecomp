@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20ClippingRequestTableC2Ei","al::ClippingRequestTable::ClippingRequestTable(int)",false
+"_ZN2al21ClippingRequestKeeperC2Ei","al::ClippingRequestKeeper::ClippingRequestKeeper(int)",false
+"_ZN2al21ClippingRequestKeeper14executeRequestEv","al::ClippingRequestKeeper::executeRequest(void)",false
+"_ZN2al21ClippingRequestKeeper7requestEPNS_9LiveActorENS_19ClippingRequestTypeE","al::ClippingRequestKeeper::request(al::LiveActor *,al::ClippingRequestType)",false

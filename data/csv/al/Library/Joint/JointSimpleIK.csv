@@ -1,0 +1,9 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al13JointSimpleIKC1EPKNS_9LiveActorEPKc","al::JointSimpleIK::JointSimpleIK(al::LiveActor const*,char const*)",false
+"_ZN2al13JointSimpleIK17calcJointCallbackEiPN4sead8Matrix34IfEE","al::JointSimpleIK::calcJointCallback(int,sead::Matrix34<float> *)",false
+"_ZN2al13JointSimpleIK9requestIkERKN4sead7Vector3IfEE","al::JointSimpleIK::requestIk(sead::Vector3<float> const&)",false
+"_ZNK2al13JointSimpleIK15isNeedTwiceCalcEib","al::JointSimpleIK::isNeedTwiceCalc(int,bool)const",false
+"_ZN2al13JointSimpleIK22calcJointCallbackTwiceEiPN4sead8Matrix34IfEE","al::JointSimpleIK::calcJointCallbackTwice(int,sead::Matrix34<float> *)",false
+"_ZN2al13JointSimpleIK10calcIkInfoEv","al::JointSimpleIK::calcIkInfo(void)",false
+"sub_71008AD508","",false
+"_ZNK2al13JointSimpleIK15getCtrlTypeNameEv","al::JointSimpleIK::getCtrlTypeName(void)const",false

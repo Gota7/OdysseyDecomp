@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al10EffectHeap6createEjPKc","al::EffectHeap::create(unsigned int,char const*)",false
+"_ZN2al10EffectHeapC1EPKcPvj","al::EffectHeap::EffectHeap(char const*,void *,unsigned int)",false
+"_ZN2al10EffectHeap8tryAllocEmi","al::EffectHeap::tryAlloc(unsigned long,int)",false
+"_ZN2al10EffectHeapD0Ev","al::EffectHeap::~EffectHeap()",false

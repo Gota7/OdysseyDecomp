@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21SaveDataSequenceWriteC2Eh","al::SaveDataSequenceWrite::SaveDataSequenceWrite(unsigned char)",false
+"_ZN2al21SaveDataSequenceWrite5startEPhjjb","al::SaveDataSequenceWrite::start(unsigned char *,unsigned int,unsigned int,bool)",false
+"_ZN2al21SaveDataSequenceWrite14startFlushOnlyEv","al::SaveDataSequenceWrite::startFlushOnly(void)",false
+"_ZN2al21SaveDataSequenceWrite10threadFuncEPKc","al::SaveDataSequenceWrite::threadFunc(char const*)",false
+"_ZN2al21SaveDataSequenceWrite5writeEPN4sead10FileDeviceEPKc","al::SaveDataSequenceWrite::write(sead::FileDevice *,char const*)",false

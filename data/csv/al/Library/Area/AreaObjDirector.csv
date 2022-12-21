@@ -1,0 +1,16 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al15AreaObjDirectorC2Ev","al::AreaObjDirector::AreaObjDirector(void)",false
+"_ZN2al15AreaObjDirector4initEPKNS_14AreaObjFactoryE","al::AreaObjDirector::init(al::AreaObjFactory const*)",false
+"_ZN2al15AreaObjDirector7endInitEv","al::AreaObjDirector::endInit(void)",false
+"_ZN2al15AreaObjDirector6updateEv","al::AreaObjDirector::update(void)",false
+"_ZN2al15AreaObjDirector9placementERKNS_12AreaInitInfoE","al::AreaObjDirector::placement(al::AreaInitInfo const&)",false
+"_ZN2al15AreaObjDirector9placementEPKNS_12AreaInitInfoEi","al::AreaObjDirector::placement(al::AreaInitInfo const*,int)",false
+"_ZN2al15AreaObjDirector18createAreaObjGroupERKNS_12AreaInitInfoE","al::AreaObjDirector::createAreaObjGroup(al::AreaInitInfo const&)",false
+"_ZN2al15AreaObjDirector24createAreaObjGroupBufferEv","al::AreaObjDirector::createAreaObjGroupBuffer(void)",false
+"_ZN2al15AreaObjDirector16placementAreaObjERKNS_12AreaInitInfoE","al::AreaObjDirector::placementAreaObj(al::AreaInitInfo const&)",false
+"_ZNK2al15AreaObjDirector15getAreaObjGroupEPKc","al::AreaObjDirector::getAreaObjGroup(char const*)const",false
+"_ZNK2al15AreaObjDirector16isExistAreaGroupEPKc","al::AreaObjDirector::isExistAreaGroup(char const*)const",false
+"_ZN2al15AreaObjDirector18getInVolumeAreaObjEPKcRKN4sead7Vector3IfEE","al::AreaObjDirector::getInVolumeAreaObj(char const*,sead::Vector3<float> const&)",false
+"_ZNK2al15AreaObjDirector21getMtxConnecterHolderEv","al::AreaObjDirector::getMtxConnecterHolder(void)const",false
+"_ZN2al14AreaObjFactoryC2EPKc","al::AreaObjFactory::AreaObjFactory(char const*)",false
+"_ZNK2al14AreaObjFactory20tryFindAddBufferSizeEPKc","al::AreaObjFactory::tryFindAddBufferSize(char const*)const",false

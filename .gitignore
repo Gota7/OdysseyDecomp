@@ -5,3 +5,4 @@ data/*.py
 .vscode/*
 build/*
 __pycache__
+splitCSV.py

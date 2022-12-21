@@ -1,0 +1,7 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al19SubActorLodMapPartsC2EPKc","al::SubActorLodMapParts::SubActorLodMapParts(char const*)",false
+"_ZN2al19SubActorLodMapPartsC1EPKc","al::SubActorLodMapParts::SubActorLodMapParts(char const*)",false
+"_ZN2al19SubActorLodMapParts4initERKNS_13ActorInitInfoE","al::SubActorLodMapParts::init(al::ActorInitInfo const&)",false
+"_ZN2al19SubActorLodMapParts7controlEv","al::SubActorLodMapParts::control(void)",false
+"_ZN2al19SubActorLodMapParts8movementEv","al::SubActorLodMapParts::movement(void)",false
+"_ZN2al19SubActorLodMapParts8calcAnimEv","al::SubActorLodMapParts::calcAnim(void)",false

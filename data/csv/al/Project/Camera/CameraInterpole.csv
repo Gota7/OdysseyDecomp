@@ -1,0 +1,20 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al15CameraInterpoleC2Ev","al::CameraInterpole::CameraInterpole(void)",false
+"_ZN2al15CameraInterpole5startEPKNS_12CameraTicketEfi","al::CameraInterpole::start(al::CameraTicket const*,float,int)",false
+"_ZN2al15CameraInterpole6updateERKN4sead12LookAtCameraE","al::CameraInterpole::update(sead::LookAtCamera const&)",false
+"_ZNK2al15CameraInterpole8isActiveEv","al::CameraInterpole::isActive(void)const",false
+"_ZNK2al15CameraInterpole16makeLookAtCameraEPN4sead12LookAtCameraE","al::CameraInterpole::makeLookAtCamera(sead::LookAtCamera *)const",false
+"_ZN2al15CameraInterpole14lerpFovyDegreeEf","al::CameraInterpole::lerpFovyDegree(float)",false
+"_ZN2al15CameraInterpole11exeDeactiveEv","al::CameraInterpole::exeDeactive(void)",false
+"_ZN2al15CameraInterpole16exeActiveHermiteEv","al::CameraInterpole::exeActiveHermite(void)",false
+"sub_7100A4ADB0","",false
+"_ZN2al15CameraInterpole26exeActiveHermiteDistanceHVEv","al::CameraInterpole::exeActiveHermiteDistanceHV(void)",false
+"_ZN2al15CameraInterpole20exeActiveRotateAxisYEv","al::CameraInterpole::exeActiveRotateAxisY(void)",false
+"_ZN2al15CameraInterpole16exeActiveBrigadeEv","al::CameraInterpole::exeActiveBrigade(void)",false
+"_ZN2al15CameraInterpoleD2Ev","al::CameraInterpole::~CameraInterpole()",false
+"_ZN2al15CameraInterpoleD0Ev","al::CameraInterpole::~CameraInterpole()",false
+"sub_7100A4BA78","",false
+"sub_7100A4BAE8","",false
+"sub_7100A4BAF0","",false
+"sub_7100A4BAF8","",false
+"sub_7100A4BB00","",false

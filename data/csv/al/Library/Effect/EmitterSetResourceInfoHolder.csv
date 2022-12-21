@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al28EmitterSetResourceInfoHolder14createDataBaseEPNS_10PtclSystemE","al::EmitterSetResourceInfoHolder::createDataBase(al::PtclSystem *)",false
+"sub_710088862C","",false
+"_ZNK2al28EmitterSetResourceInfoHolder24tryFindEffectResouceInfoEPKc","al::EmitterSetResourceInfoHolder::tryFindEffectResouceInfo(char const*)const",false
+"sub_710088868C","",false
+"_ZNK2al28EmitterSetResourceInfoHolder21findEffectResouceInfoEPKc","al::EmitterSetResourceInfoHolder::findEffectResouceInfo(char const*)const",false

@@ -1,0 +1,11 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al12FlashingCtrlC2EPNS_9LiveActorEbb","al::FlashingCtrl::FlashingCtrl(al::LiveActor *,bool,bool)",false
+"_ZN2al12FlashingCtrl8movementEv","al::FlashingCtrl::movement(void)",false
+"_ZN2al12FlashingCtrl3endEv","al::FlashingCtrl::end(void)",false
+"_ZNK2al12FlashingCtrl13isNowFlashingEv","al::FlashingCtrl::isNowFlashing(void)const",false
+"_ZN2al12FlashingCtrl14updateFlashingEv","al::FlashingCtrl::updateFlashing(void)",false
+"_ZN2al12FlashingCtrl5startEi","al::FlashingCtrl::start(int)",false
+"_ZNK2al12FlashingCtrl18getCurrentIntervalEv","al::FlashingCtrl::getCurrentInterval(void)const",false
+"_ZNK2al12FlashingCtrl19getFlashingAnimRateEv","al::FlashingCtrl::getFlashingAnimRate(void)const",false
+"_ZNK2al12FlashingCtrl16isNowJustFlashedEv","al::FlashingCtrl::isNowJustFlashed(void)const",false
+"_ZNK2al12FlashingCtrl7isNowOnEv","al::FlashingCtrl::isNowOn(void)const",false

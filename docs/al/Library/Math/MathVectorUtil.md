@@ -1,0 +1,133 @@
+# MathVectorUtil.o
+| Symbol | Meaning 
+| ------------- | ------------- 
+| :x: | Function has not yet been started or is not matching. 
+| :white_check_mark: | Function is completed. 
+
+
+# MathVectorUtil.o
+| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| ------------- |  ------------- | ------------- |
+| `_ZN2al26separateScalarAndDirectionEPfPN4sead7Vector2IfEERKS3_` | `al::separateScalarAndDirection(float *,sead::Vector2<float> *,sead::Vector2<float> const&)` | :white_check_mark: |
+| `_ZN2al26separateScalarAndDirectionEPfPN4sead7Vector3IfEERKS3_` | `al::separateScalarAndDirection(float *,sead::Vector3<float> *,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al21limitVectorSeparateHVEPN4sead7Vector3IfEERKS2_ff` | `al::limitVectorSeparateHV(sead::Vector3<float> *,sead::Vector3<float> const&,float,float)` | :white_check_mark: |
+| `_ZN2al14parallelizeVecEPN4sead7Vector3IfEERKS2_S5_` | `al::parallelizeVec(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al20calcVectorSeparateHVEPN4sead7Vector3IfEERKS2_S5_ff` | `al::calcVectorSeparateHV(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float,float)` | :white_check_mark: |
+| `_ZN2al27limitVectorParallelVerticalEPN4sead7Vector3IfEERKS2_ff` | `al::limitVectorParallelVertical(sead::Vector3<float> *,sead::Vector3<float> const&,float,float)` | :white_check_mark: |
+| `_ZN2al30separateVectorParallelVerticalEPN4sead7Vector3IfEES3_RKS2_S5_` | `al::separateVectorParallelVertical(sead::Vector3<float> *,sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al14addVectorLimitEPN4sead7Vector3IfEERKS2_f` | `al::addVectorLimit(sead::Vector3<float> *,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18alongVectorNormalHEPN4sead7Vector3IfEERKS2_S5_S5_` | `al::alongVectorNormalH(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al22calcDistanceVecToPlaneERKN4sead7Vector3IfEES4_S4_S4_` | `al::calcDistanceVecToPlane(sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al13limitPlanePosEPN4sead7Vector3IfEERKS2_S5_S5_` | `al::limitPlanePos(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al18limitCylinderInPosEPN4sead7Vector3IfEERKS2_S5_S5_f` | `al::limitCylinderInPos(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18limitCylinderInDirEPN4sead7Vector3IfEERKS2_S5_S5_S5_` | `al::limitCylinderInDir(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al18limitCylinderInPosEPN4sead7Vector3IfEERKS2_S5_f` | `al::limitCylinderInPos(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18limitCylinderInDirEPN4sead7Vector3IfEERKS2_S5_S5_` | `al::limitCylinderInDir(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al11roundOffVecEPN4sead7Vector3IfEERKS2_` | `al::roundOffVec(sead::Vector3<float> *,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al11roundOffVecEPN4sead7Vector3IfEE` | `al::roundOffVec(sead::Vector3<float> *)` | :white_check_mark: |
+| `_ZN2al11roundOffVecEPN4sead7Vector2IfEERKS2_` | `al::roundOffVec(sead::Vector2<float> *,sead::Vector2<float> const&)` | :white_check_mark: |
+| `_ZN2al11roundOffVecEPN4sead7Vector2IfEE` | `al::roundOffVec(sead::Vector2<float> *)` | :white_check_mark: |
+| `_ZN2al10snapToGridEfff` | `al::snapToGrid(float,float,float)` | :white_check_mark: |
+| `_ZN2al13snapVecToGridEPN4sead7Vector3IfEERKS2_fS5_` | `al::snapVecToGrid(sead::Vector3<float> *,sead::Vector3<float> const&,float,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al13snapVecToGridEPN4sead7Vector3IfEERKS2_S5_S5_` | `al::snapVecToGrid(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al22limitVectorOppositeDirEPN4sead7Vector3IfEERKS2_S5_f` | `al::limitVectorOppositeDir(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al20scaleVectorDirectionEPN4sead7Vector3IfEERKS2_S5_f` | `al::scaleVectorDirection(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al26scaleVectorExceptDirectionEPN4sead7Vector3IfEERKS2_S5_f` | `al::scaleVectorExceptDirection(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al17snapVecToDirAxisYEPN4sead7Vector3IfEERKS2_i` | `al::snapVecToDirAxisY(sead::Vector3<float> *,sead::Vector3<float> const&,int)` | :white_check_mark: |
+| `_ZN2al7calcDirEPN4sead7Vector3IfEERKS2_S5_` | `al::calcDir(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al8calcDirHEPN4sead7Vector3IfEERKS2_S5_` | `al::calcDirH(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al14calcDirOnPlaneEPN4sead7Vector3IfEERKS2_S5_S5_` | `al::calcDirOnPlane(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al19mapRangeLogarithmicEffffff` | `al::mapRangeLogarithmic(float,float,float,float,float,float)` | :white_check_mark: |
+| `_ZN2al28calcDirFromLongitudeLatitudeEPN4sead7Vector3IfEEff` | `al::calcDirFromLongitudeLatitude(sead::Vector3<float> *,float,float)` | :white_check_mark: |
+| `_ZN2al28calcLongitudeLatitudeFromDirEPfS0_RKN4sead7Vector3IfEE` | `al::calcLongitudeLatitudeFromDir(float *,float *,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al21getMaxAbsElementIndexERKN4sead7Vector3IiEE` | `al::getMaxAbsElementIndex(sead::Vector3<int> const&)` | :white_check_mark: |
+| `_ZN2al21getMaxAbsElementValueERKN4sead7Vector3IfEE` | `al::getMaxAbsElementValue(sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al21getMaxAbsElementValueERKN4sead7Vector3IiEE` | `al::getMaxAbsElementValue(sead::Vector3<int> const&)` | :white_check_mark: |
+| `_ZN2al21getMinAbsElementIndexERKN4sead7Vector3IfEE` | `al::getMinAbsElementIndex(sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al21getMinAbsElementIndexERKN4sead7Vector3IiEE` | `al::getMinAbsElementIndex(sead::Vector3<int> const&)` | :white_check_mark: |
+| `_ZN2al21getMinAbsElementValueERKN4sead7Vector3IfEE` | `al::getMinAbsElementValue(sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al21getMinAbsElementValueERKN4sead7Vector3IiEE` | `al::getMinAbsElementValue(sead::Vector3<int> const&)` | :white_check_mark: |
+| `_ZN2al20calcNearVecFromAxis2EPN4sead7Vector3IfEERKS2_S5_S5_` | `al::calcNearVecFromAxis2(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al20calcNearVecFromAxis3EPN4sead7Vector3IfEERKS2_S5_S5_S5_` | `al::calcNearVecFromAxis3(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al18calcDirVerticalAnyEPN4sead7Vector3IfEERKS2_` | `al::calcDirVerticalAny(sead::Vector3<float> *,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al12calcDirSlideEPN4sead7Vector3IfEERKS2_S5_` | `al::calcDirSlide(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al20calcNearVecFromAxis3EPN4sead7Vector3IfEERKS2_RKNS0_4QuatIfEE` | `al::calcNearVecFromAxis3(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al20calcQuatLocalAxisAllERKN4sead4QuatIfEEPNS0_7Vector3IfEES7_S7_` | `al::calcQuatLocalAxisAll(sead::Quat<float> const&,sead::Vector3<float> *,sead::Vector3<float> *,sead::Vector3<float> *)` | :white_check_mark: |
+| `_ZN2al15addRandomVectorEPN4sead7Vector3IfEERKS2_f` | `al::addRandomVector(sead::Vector3<float> *,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al16turnRandomVectorEPN4sead7Vector3IfEERKS2_f` | `al::turnRandomVector(sead::Vector3<float> *,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al15makeAxisFrontUpEPN4sead7Vector3IfEES3_RKS2_S5_` | `al::makeAxisFrontUp(sead::Vector3<float> *,sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al17makeAxisFrontSideEPN4sead7Vector3IfEES3_RKS2_S5_` | `al::makeAxisFrontSide(sead::Vector3<float> *,sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al15makeAxisUpFrontEPN4sead7Vector3IfEES3_RKS2_S5_` | `al::makeAxisUpFront(sead::Vector3<float> *,sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al14makeAxisUpSideEPN4sead7Vector3IfEES3_RKS2_S5_` | `al::makeAxisUpSide(sead::Vector3<float> *,sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al19makeQuatFromTwoAxisEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_ii` | `al::makeQuatFromTwoAxis(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,int,int)` | :white_check_mark: |
+| `_ZN2al15makeQuatFrontUpEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_` | `al::makeQuatFrontUp(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al17makeQuatFrontSideEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_` | `al::makeQuatFrontSide(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al22makeQuatFrontNoSupportEPN4sead4QuatIfEERKNS0_7Vector3IfEE` | `al::makeQuatFrontNoSupport(sead::Quat<float> *,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al15makeQuatUpFrontEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_` | `al::makeQuatUpFront(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al14makeQuatUpSideEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_` | `al::makeQuatUpSide(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al19makeQuatUpNoSupportEPN4sead4QuatIfEERKNS0_7Vector3IfEE` | `al::makeQuatUpNoSupport(sead::Quat<float> *,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al14makeQuatSideUpEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_` | `al::makeQuatSideUp(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al17makeQuatSideFrontEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_` | `al::makeQuatSideFront(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al21makeQuatSideNoSupportEPN4sead4QuatIfEERKNS0_7Vector3IfEE` | `al::makeQuatSideNoSupport(sead::Quat<float> *,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al18makeQuatFromToQuatEPN4sead4QuatIfEERKS2_S5_` | `al::makeQuatFromToQuat(sead::Quat<float> *,sead::Quat<float> const&,sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al20makeQuatRotationRateEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_f` | `al::makeQuatRotationRate(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `sub_7100926C0C` | `` | :white_check_mark: |
+| `_ZN2al21makeQuatRotationLimitEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_f` | `al::makeQuatRotationLimit(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al20makeQuatAxisRotationEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_S7_f` | `al::makeQuatAxisRotation(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al20makeQuatRotateDegreeEPN4sead4QuatIfEERKNS0_7Vector3IfEEf` | `al::makeQuatRotateDegree(sead::Quat<float> *,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al9slerpQuatEPN4sead4QuatIfEERKS2_S5_f` | `al::slerpQuat(sead::Quat<float> *,sead::Quat<float> const&,sead::Quat<float> const&,float)` | :white_check_mark: |
+| `_ZN2al12calcQuatSideEPN4sead7Vector3IfEERKNS0_4QuatIfEE` | `al::calcQuatSide(sead::Vector3<float> *,sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al10calcQuatUpEPN4sead7Vector3IfEERKNS0_4QuatIfEE` | `al::calcQuatUp(sead::Vector3<float> *,sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al15calcQuatGravityEPN4sead7Vector3IfEERKNS0_4QuatIfEE` | `al::calcQuatGravity(sead::Vector3<float> *,sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al13calcQuatFrontEPN4sead7Vector3IfEERKNS0_4QuatIfEE` | `al::calcQuatFront(sead::Vector3<float> *,sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al11calcQuatUpYERKN4sead4QuatIfEE` | `al::calcQuatUpY(sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al14calcQuatFrontYERKN4sead4QuatIfEE` | `al::calcQuatFrontY(sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al17calcQuatLocalAxisEPN4sead7Vector3IfEERKNS0_4QuatIfEEi` | `al::calcQuatLocalAxis(sead::Vector3<float> *,sead::Quat<float> const&,int)` | :white_check_mark: |
+| `_ZN2al21calcQuatLocalSignAxisEPN4sead7Vector3IfEERKNS0_4QuatIfEEi` | `al::calcQuatLocalSignAxis(sead::Vector3<float> *,sead::Quat<float> const&,int)` | :white_check_mark: |
+| `_ZN2al20calcQuatRotateDegreeEPN4sead7Vector3IfEERKNS0_4QuatIfEE` | `al::calcQuatRotateDegree(sead::Vector3<float> *,sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al20calcQuatRotateRadianEPN4sead7Vector3IfEERKNS0_4QuatIfEE` | `al::calcQuatRotateRadian(sead::Vector3<float> *,sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al27calcQuatRotateAxisAndDegreeEPN4sead7Vector3IfEEPfRKNS0_4QuatIfEE` | `al::calcQuatRotateAxisAndDegree(sead::Vector3<float> *,float *,sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al27calcQuatRotateAxisAndDegreeEPN4sead7Vector3IfEEPfRKNS0_4QuatIfEES8_` | `al::calcQuatRotateAxisAndDegree(sead::Vector3<float> *,float *,sead::Quat<float> const&,sead::Quat<float> const&)` | :white_check_mark: |
+| `_ZN2al16rotateQuatRadianEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::rotateQuatRadian(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al15makeQuatXDegreeEPN4sead4QuatIfEEf` | `al::makeQuatXDegree(sead::Quat<float> *,float)` | :white_check_mark: |
+| `_ZN2al15makeQuatYDegreeEPN4sead4QuatIfEEf` | `al::makeQuatYDegree(sead::Quat<float> *,float)` | :white_check_mark: |
+| `_ZN2al15makeQuatZDegreeEPN4sead4QuatIfEEf` | `al::makeQuatZDegree(sead::Quat<float> *,float)` | :white_check_mark: |
+| `_ZN2al20rotateQuatXDirDegreeEPN4sead4QuatIfEERKS2_f` | `al::rotateQuatXDirDegree(sead::Quat<float> *,sead::Quat<float> const&,float)` | :white_check_mark: |
+| `_ZN2al20rotateQuatYDirDegreeEPN4sead4QuatIfEERKS2_f` | `al::rotateQuatYDirDegree(sead::Quat<float> *,sead::Quat<float> const&,float)` | :white_check_mark: |
+| `_ZN2al20rotateQuatZDirDegreeEPN4sead4QuatIfEERKS2_f` | `al::rotateQuatZDirDegree(sead::Quat<float> *,sead::Quat<float> const&,float)` | :white_check_mark: |
+| `_ZN2al24rotateQuatLocalDirDegreeEPN4sead4QuatIfEERKS2_if` | `al::rotateQuatLocalDirDegree(sead::Quat<float> *,sead::Quat<float> const&,int,float)` | :white_check_mark: |
+| `_ZN2al16rotateQuatMomentEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEE` | `al::rotateQuatMoment(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al22rotateQuatMomentDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEE` | `al::rotateQuatMomentDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&)` | :white_check_mark: |
+| `_ZN2al18rotateQuatRollBallEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEES9_f` | `al::rotateQuatRollBall(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18calcMomentRollBallEPN4sead7Vector3IfEERKS2_S5_f` | `al::calcMomentRollBall(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al8turnQuatEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEES9_f` | `al::turnQuat(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18turnQuatXDirRadianEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatXDirRadian(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18turnQuatYDirRadianEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatYDirRadian(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18turnQuatZDirRadianEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatZDirRadian(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al16turnQuatXDirRateEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatXDirRate(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al16turnQuatYDirRateEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatYDirRate(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al16turnQuatZDirRateEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatZDirRate(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al14tiltQuatDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEES9_f` | `al::tiltQuatDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18tiltQuatXDirDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::tiltQuatXDirDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18tiltQuatYDirDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::tiltQuatYDirDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18tiltQuatZDirDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::tiltQuatZDirDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al22turnQuatWithAxisDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEES9_S9_f` | `al::turnQuatWithAxisDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al26turnQuatXDirWithYDirDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatXDirWithYDirDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al26turnQuatXDirWithZDirDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatXDirWithZDirDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al26turnQuatYDirWithZDirDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatYDirWithZDirDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al26turnQuatYDirWithXDirDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatYDirWithXDirDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al26turnQuatZDirWithXDirDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatZDirWithXDirDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al26turnQuatZDirWithYDirDegreeEPN4sead4QuatIfEERKS2_RKNS0_7Vector3IfEEf` | `al::turnQuatZDirWithYDirDegree(sead::Quat<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al28turnQuatZDirToTargetWithAxisEPN4sead4QuatIfEERKNS0_7Vector3IfEES7_f` | `al::turnQuatZDirToTargetWithAxis(sead::Quat<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al25turnQuatFrontToDirDegreeHEPN4sead4QuatIfEERKNS0_7Vector3IfEEf` | `al::turnQuatFrontToDirDegreeH(sead::Quat<float> *,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al24rotateQuatAndTransDegreeEPN4sead4QuatIfEEPNS0_7Vector3IfEERKS2_RKS5_SA_SA_f` | `al::rotateQuatAndTransDegree(sead::Quat<float> *,sead::Vector3<float> *,sead::Quat<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al18turnVecToVecDegreeEPN4sead7Vector3IfEERKS2_S5_f` | `al::turnVecToVecDegree(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al16turnVecToVecRateEPN4sead7Vector3IfEERKS2_S5_f` | `al::turnVecToVecRate(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al15turnVecToVecCosEPN4sead7Vector3IfEERKS2_S5_fS5_f` | `al::turnVecToVecCos(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al22turnVecToVecCosOnPlaneEPN4sead7Vector3IfEERKS2_S5_S5_f` | `al::turnVecToVecCosOnPlane(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al22turnVecToVecCosOnPlaneEPN4sead7Vector3IfEERKS2_S5_f` | `al::turnVecToVecCosOnPlane(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al24rotateVectorCenterDegreeEPN4sead7Vector3IfEERKS2_S5_S5_f` | `al::rotateVectorCenterDegree(sead::Vector3<float> *,sead::Vector3<float> const&,sead::Vector3<float> const&,sead::Vector3<float> const&,float)` | :white_check_mark: |
+| `_ZN2al19rotateVectorDegreeXEPN4sead7Vector3IfEEf` | `al::rotateVectorDegreeX(sead::Vector3<float> *,float)` | :white_check_mark: |
+| `_ZN2al19rotateVectorDegreeYEPN4sead7Vector3IfEEf` | `al::rotateVectorDegreeY(sead::Vector3<float> *,float)` | :white_check_mark: |
+| `_ZN2al19rotateVectorDegreeZEPN4sead7Vector3IfEEf` | `al::rotateVectorDegreeZ(sead::Vector3<float> *,float)` | :white_check_mark: |
+| `_ZN2al16rotateVectorQuatEPN4sead7Vector3IfEERKNS0_4QuatIfEE` | `al::rotateVectorQuat(sead::Vector3<float> *,sead::Quat<float> const&)` | :white_check_mark: |

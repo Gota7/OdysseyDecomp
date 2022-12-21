@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al3SkyC2EPKc","al::Sky::Sky(char const*)",false
+"_ZN2al3SkyC1EPKc","al::Sky::Sky(char const*)",false
+"_ZN2al3Sky4initERKNS_13ActorInitInfoE","al::Sky::init(al::ActorInitInfo const&)",false
+"_ZN2al3Sky14initFromPresetERKNS_13ActorInitInfoE","al::Sky::initFromPreset(al::ActorInitInfo const&)",false
+"_ZN2al3Sky7controlEv","al::Sky::control(void)",false

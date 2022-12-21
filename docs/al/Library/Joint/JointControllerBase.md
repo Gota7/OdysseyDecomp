@@ -1,0 +1,14 @@
+# JointControllerBase.o
+| Symbol | Meaning 
+| ------------- | ------------- 
+| :x: | Function has not yet been started or is not matching. 
+| :white_check_mark: | Function is completed. 
+
+
+# JointControllerBase.o
+| Symbol (Demangled) | Symbol (Mangled) | Decompiled? |
+| ------------- |  ------------- | ------------- |
+| `_ZN2al19JointControllerBaseC2Ei` | `al::JointControllerBase::JointControllerBase(int)` | :white_check_mark: |
+| `_ZN2al19JointControllerBase13appendJointIdEi` | `al::JointControllerBase::appendJointId(int)` | :white_check_mark: |
+| `_ZNK2al19JointControllerBase10findNextIdEPii` | `al::JointControllerBase::findNextId(int *,int)const` | :white_check_mark: |
+| `_ZNK2al19JointControllerBase9isExistIdEi` | `al::JointControllerBase::isExistId(int)const` | :white_check_mark: |

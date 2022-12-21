@@ -1,14 +1,17 @@
 #pragma once
 
 #include <nn/types.h>
+#include <sead/sead.h>
 
 namespace al {
     class HitSensor;
+    class LiveActor;
 
     class HitSensorKeeper {
     public:
         HitSensorKeeper(int);
 
+        void addSensor(LiveActor *, const char *, u32, f32, u16, const Vector3f *, const Matrix34f *, const Vector3f &);
         void update();
         int getSensorNum() const;
         HitSensor* getSensor(int) const;
@@ -20,7 +23,8 @@ namespace al {
         void invalidateBySystem();
         HitSensor* getSensor(const char *) const;
 
-        int mMaxSensorNum;      // _0
-        int mCurSensorNum;      // _4
+        int mMaxSensorNum;          // _0
+        int mCurSensorNum;          // _4
+        HitSensor** mSensors;       // _8
     };
 };

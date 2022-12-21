@@ -1,0 +1,10 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al18tryGetComputerNameEPN4sead22BufferedSafeStringBaseIcEE","al::tryGetComputerName(sead::BufferedSafeStringBase<char> *)",false
+"_ZN2al15getComputerNameEPN4sead22BufferedSafeStringBaseIcEE","al::getComputerName(sead::BufferedSafeStringBase<char> *)",false
+"_ZN2al11getUserNameEPN4sead22BufferedSafeStringBaseIcEE","al::getUserName(sead::BufferedSafeStringBase<char> *)",false
+"_ZN2al27makeUniqueTemporaryFilenameEPN4sead22BufferedSafeStringBaseIcEEPKc","al::makeUniqueTemporaryFilename(sead::BufferedSafeStringBase<char> *,char const*)",false
+"_ZN2al23expandEnvironmentStringEPN4sead22BufferedSafeStringBaseIcEERKNS0_14SafeStringBaseIcEE","al::expandEnvironmentString(sead::BufferedSafeStringBase<char> *,sead::SafeStringBase<char> const&)",false
+"sub_710086F65C","",false
+"_ZN2al30makeTmpExpandEnvironmentStringERKN4sead14SafeStringBaseIcEE","al::makeTmpExpandEnvironmentString(sead::SafeStringBase<char> const&)",false
+"_ZN2al19makeTmpFileFullPathEPKc","al::makeTmpFileFullPath(char const*)",false
+"_ZN2al11getALCommonEv","al::getALCommon(void)",false

@@ -1,0 +1,16 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al16KeyMoveCameraObjC2EPKc","al::KeyMoveCameraObj::KeyMoveCameraObj(char const*)",false
+"_ZN2al16KeyMoveCameraObjC1EPKc","al::KeyMoveCameraObj::KeyMoveCameraObj(char const*)",false
+"_ZN2al16KeyMoveCameraObj4initERKNS_13ActorInitInfoE","al::KeyMoveCameraObj::init(al::ActorInitInfo const&)",false
+"_ZN2al16KeyMoveCameraObj18initAfterPlacementEv","al::KeyMoveCameraObj::initAfterPlacement(void)",false
+"_ZN2al16KeyMoveCameraObj12switchCameraEi","al::KeyMoveCameraObj::switchCamera(int)",false
+"_ZN2al16KeyMoveCameraObj6appearEv","al::KeyMoveCameraObj::appear(void)",false
+"_ZN2al16KeyMoveCameraObj7controlEv","al::KeyMoveCameraObj::control(void)",false
+"_ZNK2al16KeyMoveCameraObj16getCurrentCameraEv","al::KeyMoveCameraObj::getCurrentCamera(void)const",false
+"_ZNK2al16KeyMoveCameraObj22getCurrentCameraTicketEv","al::KeyMoveCameraObj::getCurrentCameraTicket(void)const",false
+"_ZN2al16KeyMoveCameraObj4killEv","al::KeyMoveCameraObj::kill(void)",false
+"_ZN2al16KeyMoveCameraObj39setFirstCameraStartInterpoleStepDefaultEv","al::KeyMoveCameraObj::setFirstCameraStartInterpoleStepDefault(void)",false
+"_ZN2al16KeyMoveCameraObj30validateStartAtNearestPositionEv","al::KeyMoveCameraObj::validateStartAtNearestPosition(void)",false
+"_ZN2al16KeyMoveCameraObj14setPlaySumStepEi","al::KeyMoveCameraObj::setPlaySumStep(int)",false
+"_ZN2al16KeyMoveCameraObj14setEndWaitStepEi","al::KeyMoveCameraObj::setEndWaitStep(int)",false
+"sub_710096B504","",false

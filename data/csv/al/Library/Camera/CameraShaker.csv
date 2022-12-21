@@ -1,0 +1,14 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al12CameraShakerC2Ev","al::CameraShaker::CameraShaker(void)",false
+"_ZN2al12CameraShaker6updateEPKc","al::CameraShaker::update(char const*)",false
+"_ZN2al12CameraShaker18startShakeByActionEPKcS2_S2_i","al::CameraShaker::startShakeByAction(char const*,char const*,char const*,int)",false
+"_ZN2al12CameraShaker16startShakeByNameEPKci","al::CameraShaker::startShakeByName(char const*,int)",false
+"_ZN2al12CameraShaker23startShakeByHitReactionEPKcS2_S2_i","al::CameraShaker::startShakeByHitReaction(char const*,char const*,char const*,int)",false
+"_ZN2al12CameraShaker7exeWaitEv","al::CameraShaker::exeWait(void)",false
+"_ZN2al12CameraShaker8exeShakeEv","al::CameraShaker::exeShake(void)",false
+"_ZN2al12CameraShaker12exeShakeLoopEv","al::CameraShaker::exeShakeLoop(void)",false
+"_ZN2al12CameraShaker17startShakeByIndexEii","al::CameraShaker::startShakeByIndex(int,int)",false
+"_ZN2al12CameraShakerD0Ev","al::CameraShaker::~CameraShaker()",false
+"sub_71008399D4","",false
+"sub_7100839A04","",false
+"sub_7100839A84","",false

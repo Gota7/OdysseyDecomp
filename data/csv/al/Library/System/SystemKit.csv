@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al9SystemKitC2Ev","al::SystemKit::SystemKit(void)",false
+"_ZN2al9SystemKit18createMemorySystemEPN4sead4HeapE","al::SystemKit::createMemorySystem(sead::Heap *)",false
+"_ZN2al9SystemKit16createFileLoaderEi","al::SystemKit::createFileLoader(int)",false
+"_ZN2al9SystemKit20createResourceSystemEPKciib","al::SystemKit::createResourceSystem(char const*,int,int,bool)",false
+"_ZN2al9SystemKit20createSaveDataSystemEji","al::SystemKit::createSaveDataSystem(unsigned int,int)",false

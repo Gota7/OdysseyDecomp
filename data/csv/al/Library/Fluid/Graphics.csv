@@ -1,0 +1,13 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al17IUsePartsGraphics7endInitEv","al::IUsePartsGraphics::endInit(void)",false
+"_ZNK2al17IUsePartsGraphics19doCommandBufferCopyEPKNS_16GraphicsCopyInfoE","al::IUsePartsGraphics::doCommandBufferCopy(al::GraphicsCopyInfo const*)const",false
+"_ZNK2al17IUsePartsGraphics15doComputeShaderEPKNS_19GraphicsComputeInfoE","al::IUsePartsGraphics::doComputeShader(al::GraphicsComputeInfo const*)const",false
+"_ZNK2al17IUsePartsGraphics19drawGBufferAfterSkyERKNS_18GraphicsRenderInfoE","al::IUsePartsGraphics::drawGBufferAfterSky(al::GraphicsRenderInfo const&)const",false
+"_ZNK2al17IUsePartsGraphics11drawForwardERKNS_18GraphicsRenderInfoERKNS_15RenderVariablesE","al::IUsePartsGraphics::drawForward(al::GraphicsRenderInfo const&,al::RenderVariables const&)const",false
+"_ZNK2al17IUsePartsGraphics12drawDeferredERKNS_18GraphicsRenderInfoE","al::IUsePartsGraphics::drawDeferred(al::GraphicsRenderInfo const&)const",false
+"_ZNK2al17IUsePartsGraphics7drawLdrERKNS_18GraphicsRenderInfoE","al::IUsePartsGraphics::drawLdr(al::GraphicsRenderInfo const&)const",false
+"_ZNK2al17IUsePartsGraphics12drawIndirectERKNS_18GraphicsRenderInfoERKNS_15RenderVariablesE","al::IUsePartsGraphics::drawIndirect(al::GraphicsRenderInfo const&,al::RenderVariables const&)const",false
+"_ZNK2al17IUsePartsGraphics11drawCubemapERKNS_18GraphicsRenderInfoE","al::IUsePartsGraphics::drawCubemap(al::GraphicsRenderInfo const&)const",false
+"_ZNK2al17FluidSimulateWave7getNameEv","al::FluidSimulateWave::getName(void)const",false
+"_ZN2al17FluidSimulateWaveD2Ev","al::FluidSimulateWave::~FluidSimulateWave()",false
+"_ZN2al17FluidSimulateWaveD0Ev","al::FluidSimulateWave::~FluidSimulateWave()",false

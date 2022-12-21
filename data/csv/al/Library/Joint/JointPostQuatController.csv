@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al23JointPostQuatControllerC1EPKN4sead4QuatIfEE","al::JointPostQuatController::JointPostQuatController(sead::Quat<float> const*)",false
+"_ZN2al23JointPostQuatController17calcJointCallbackEiPN4sead8Matrix34IfEE","al::JointPostQuatController::calcJointCallback(int,sead::Matrix34<float> *)",false
+"_ZNK2al23JointPostQuatController15getCtrlTypeNameEv","al::JointPostQuatController::getCtrlTypeName(void)const",false

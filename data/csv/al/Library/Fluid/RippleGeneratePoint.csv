@@ -1,0 +1,10 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al19RippleGeneratePointC2EPKc","al::RippleGeneratePoint::RippleGeneratePoint(char const*)",false
+"_ZN2al19RippleGeneratePointC1EPKc","al::RippleGeneratePoint::RippleGeneratePoint(char const*)",false
+"_ZN2al19RippleGeneratePoint4initERKNS_13ActorInitInfoE","al::RippleGeneratePoint::init(al::ActorInitInfo const&)",false
+"_ZN2al19RippleGeneratePoint18initAfterPlacementEv","al::RippleGeneratePoint::initAfterPlacement(void)",false
+"_ZN2al19RippleGeneratePoint7controlEv","al::RippleGeneratePoint::control(void)",false
+"_ZN2al19RippleGeneratePoint7exeWaitEv","al::RippleGeneratePoint::exeWait(void)",false
+"_ZN2al19RippleGeneratePoint11exeGenerateEv","al::RippleGeneratePoint::exeGenerate(void)",false
+"sub_710089F2EC","",false
+"sub_710089F330","",false

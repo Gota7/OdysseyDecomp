@@ -1,0 +1,18 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al10SeListenerC2Ev","al::SeListener::SeListener(void)",false
+"_ZN2al10SeListener10startPoserEPKci","al::SeListener::startPoser(char const*,int)",false
+"_ZN2al10SeListener8endPoserEPKci","al::SeListener::endPoser(char const*,int)",false
+"_ZN2al10SeListener6updateERKNS_16ISeListenerParamE","al::SeListener::update(al::ISeListenerParam const&)",false
+"_ZNK2al10SeListener15getCurrentPoserEv","al::SeListener::getCurrentPoser(void)const",false
+"_ZNK2al10SeListener17isUseLineListenerEv","al::SeListener::isUseLineListener(void)const",false
+"_ZNK2al10SeListener21calcDirectivityVolumeEff","al::SeListener::calcDirectivityVolume(float,float)const",false
+"_ZNK2al10SeListener9getMatrixEv","al::SeListener::getMatrix(void)const",false
+"_ZNK2al10SeListener11getPositionEv","al::SeListener::getPosition(void)const",false
+"_ZNK2al10SeListener14getPositionPtrEv","al::SeListener::getPositionPtr(void)const",false
+"_ZNK2al10SeListener14getPositionSubEv","al::SeListener::getPositionSub(void)const",false
+"_ZNK2al10SeListener17getPositionSubPtrEv","al::SeListener::getPositionSubPtr(void)const",false
+"_ZNK2al10SeListener14getMtxForAngleEv","al::SeListener::getMtxForAngle(void)const",false
+"_ZNK2al10SeListener11getVelocityEv","al::SeListener::getVelocity(void)const",false
+"_ZNK2al10SeListener15getInteriorSizeEv","al::SeListener::getInteriorSize(void)const",false
+"_ZN2al10SeListener15setInteriorSizeEf","al::SeListener::setInteriorSize(float)",false
+"_ZN4sead14QuatCalcCommonIfE10slerpToIdxERNS_8BaseQuatIfEERKS3_S6_f","sead::QuatCalcCommon<float>::slerpToIdx(sead::BaseQuat<float> &,sead::BaseQuat<float> const&,sead::BaseQuat<float> const&,float)",false

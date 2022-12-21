@@ -1,0 +1,23 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al17GraphicsAreaParamC2Ev","al::GraphicsAreaParam::GraphicsAreaParam(void)",false
+"_ZNK2al17GraphicsAreaParam11getAreaNameEv","al::GraphicsAreaParam::getAreaName(void)const",false
+"_ZNK2al17GraphicsAreaParam13getSuffixNameEv","al::GraphicsAreaParam::getSuffixName(void)const",false
+"_ZNK2al17GraphicsAreaParam13getPresetNameEv","al::GraphicsAreaParam::getPresetName(void)const",false
+"_ZNK2al17GraphicsAreaParam13getLerpStepInEv","al::GraphicsAreaParam::getLerpStepIn(void)const",false
+"_ZNK2al17GraphicsAreaParam14getLerpStepOutEv","al::GraphicsAreaParam::getLerpStepOut(void)const",false
+"_ZNK2al17GraphicsAreaParam12getBaseAngleEv","al::GraphicsAreaParam::getBaseAngle(void)const",false
+"_ZNK2al17GraphicsAreaParam31getAdditionalCubeMapArchiveNameEv","al::GraphicsAreaParam::getAdditionalCubeMapArchiveName(void)const",false
+"_ZNK2al17GraphicsAreaParam28getAdditionalCubeMapUnitNameEv","al::GraphicsAreaParam::getAdditionalCubeMapUnitName(void)const",false
+"_ZNK2al17GraphicsAreaParam18getCubeMapUnitNameEv","al::GraphicsAreaParam::getCubeMapUnitName(void)const",false
+"_ZNK2al17GraphicsAreaParam11getPriorityEv","al::GraphicsAreaParam::getPriority(void)const",false
+"_ZN2al17GraphicsAreaParam9copyParamEPS0_","al::GraphicsAreaParam::copyParam(al::GraphicsAreaParam*)",false
+"_ZN2al20GraphicsAreaDirectorC1EPKNS_18GraphicsSystemInfoE","al::GraphicsAreaDirector::GraphicsAreaDirector(al::GraphicsSystemInfo const*)",false
+"_ZN2al20GraphicsAreaDirector4initEPNS_15AreaObjDirectorEPKNS_15SceneCameraInfoEPKNS_12PlayerHolderE","al::GraphicsAreaDirector::init(al::AreaObjDirector *,al::SceneCameraInfo const*,al::PlayerHolder const*)",false
+"_ZN2al20GraphicsAreaDirector17initStageResourceEPKNS_8ResourceEPKcS5_","al::GraphicsAreaDirector::initStageResource(al::Resource const*,char const*,char const*)",false
+"sub_7100A51010","",false
+"_ZN2al20GraphicsAreaDirector18initAfterPlacementEv","al::GraphicsAreaDirector::initAfterPlacement(void)",false
+"sub_7100A51510","",false
+"_ZN2al20GraphicsAreaDirector7endInitEv","al::GraphicsAreaDirector::endInit(void)",false
+"_ZN2al20GraphicsAreaDirector6updateEv","al::GraphicsAreaDirector::update(void)",false
+"_ZNK2al20GraphicsAreaDirector17isExistPresetNameEPKc","al::GraphicsAreaDirector::isExistPresetName(char const*)const",false
+"_ZNK2al20GraphicsAreaDirector18getAreaObjDirectorEv","al::GraphicsAreaDirector::getAreaObjDirector(void)const",false

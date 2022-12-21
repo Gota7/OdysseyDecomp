@@ -1,0 +1,9 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al25AudioResourcePlayerKeeperC2Ev","al::AudioResourcePlayerKeeper::AudioResourcePlayerKeeper(void)",false
+"_ZN2al25AudioResourcePlayerKeeperD2Ev","al::AudioResourcePlayerKeeper::~AudioResourcePlayerKeeper()",false
+"_ZN2al25AudioResourcePlayerKeeperD0Ev","al::AudioResourcePlayerKeeper::~AudioResourcePlayerKeeper()",false
+"_ZN2al25AudioResourcePlayerKeeper34createAndAppendAudioResourcePlayerEPKcS2_PNS_21AudioSoundArchiveInfoEPNS_26IAudioResourceInfoAccessorE","al::AudioResourcePlayerKeeper::createAndAppendAudioResourcePlayer(char const*,char const*,al::AudioSoundArchiveInfo *,al::IAudioResourceInfoAccessor *)",false
+"_ZN2al25AudioResourcePlayerKeeper4initEibb","al::AudioResourcePlayerKeeper::init(int,bool,bool)",false
+"_ZNK2al25AudioResourcePlayerKeeper25tryGetAudioResourcePlayerEPKc","al::AudioResourcePlayerKeeper::tryGetAudioResourcePlayer(char const*)const",false
+"_ZNK2al25AudioResourcePlayerKeeper21tryGetSeadAudioPlayerEPKc","al::AudioResourcePlayerKeeper::tryGetSeadAudioPlayer(char const*)const",false
+"_ZN2al25AudioResourcePlayerKeeper6updateEv","al::AudioResourcePlayerKeeper::update(void)",false

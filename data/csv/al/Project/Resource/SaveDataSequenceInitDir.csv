@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al23SaveDataSequenceInitDirC2Eh","al::SaveDataSequenceInitDir::SaveDataSequenceInitDir(unsigned char)",false
+"_ZN2al23SaveDataSequenceInitDir5startEPhjj","al::SaveDataSequenceInitDir::start(unsigned char *,unsigned int,unsigned int)",false
+"_ZN2al23SaveDataSequenceInitDir10threadFuncEPKc","al::SaveDataSequenceInitDir::threadFunc(char const*)",false

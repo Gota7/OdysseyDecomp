@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al16BgmEventProcInfo10createInfoEPS0_RKNS_9ByamlIterE","al::BgmEventProcInfo::createInfo(al::BgmEventProcInfo*,al::ByamlIter const&)",false
+"_ZN2al16BgmEventProcInfo11compareInfoEPKS0_S2_","al::BgmEventProcInfo::compareInfo(al::BgmEventProcInfo const*,al::BgmEventProcInfo const*)",false
+"_ZN2al16BgmEventProcInfoC2Ev","al::BgmEventProcInfo::BgmEventProcInfo(void)",false

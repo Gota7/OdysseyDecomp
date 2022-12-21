@@ -1,0 +1,15 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20FootPrintRequestInfoC2Ev","al::FootPrintRequestInfo::FootPrintRequestInfo(void)",false
+"_ZN2al20FootPrintRequestInfo6appearEv","al::FootPrintRequestInfo::appear(void)",false
+"_ZN2al20FootPrintRequestInfo9disappearEv","al::FootPrintRequestInfo::disappear(void)",false
+"_ZN2al20FootPrintRequestInfo6updateEv","al::FootPrintRequestInfo::update(void)",false
+"_ZNK2al20FootPrintRequestInfo11isDisappearEv","al::FootPrintRequestInfo::isDisappear(void)const",false
+"_ZNK2al20FootPrintRequestInfo8isAppearEv","al::FootPrintRequestInfo::isAppear(void)const",false
+"_ZNK2al20FootPrintRequestInfo12calcStrengthEv","al::FootPrintRequestInfo::calcStrength(void)const",false
+"_ZN2al22FootPrintTextureKeeperC2EPNS_22MaterialCategoryKeeperE","al::FootPrintTextureKeeper::FootPrintTextureKeeper(al::MaterialCategoryKeeper *)",false
+"_ZN2al22FootPrintTextureKeeperD2Ev","al::FootPrintTextureKeeper::~FootPrintTextureKeeper()",false
+"_ZN2al22FootPrintTextureKeeper7endInitEv","al::FootPrintTextureKeeper::endInit(void)",false
+"_ZN2al22FootPrintTextureKeeper6updateEv","al::FootPrintTextureKeeper::update(void)",false
+"_ZN2al22FootPrintTextureKeeper15appearFootPrintEPNS_20FootPrintRequestInfoE","al::FootPrintTextureKeeper::appearFootPrint(al::FootPrintRequestInfo *)",false
+"_ZN2al22FootPrintTextureKeeper18disappearFootPrintEPNS_20FootPrintRequestInfoE","al::FootPrintTextureKeeper::disappearFootPrint(al::FootPrintRequestInfo *)",false
+"_ZNK2al22FootPrintTextureKeeper15activateTextureEPN3agl11DrawContextE","al::FootPrintTextureKeeper::activateTexture(agl::DrawContext *)const",false

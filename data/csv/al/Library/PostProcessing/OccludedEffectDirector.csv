@@ -1,0 +1,19 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al25OccludedEffectRequestInfoC1EPN3agl2fx19OfxLensFlareDynamicEPNS2_17OccludedEffectMgrEi","al::OccludedEffectRequestInfo::OccludedEffectRequestInfo(agl::fx::OfxLensFlareDynamic *,agl::fx::OccludedEffectMgr *,int)",false
+"_ZN2al25OccludedEffectRequestInfo12requestByPosERKN4sead7Vector3IfEE","al::OccludedEffectRequestInfo::requestByPos(sead::Vector3<float> const&)",false
+"_ZN2al25OccludedEffectRequestInfo9setRotateEf","al::OccludedEffectRequestInfo::setRotate(float)",false
+"_ZN2al22OccludedEffectDirectorC2EPNS_18GraphicsSystemInfoEi","al::OccludedEffectDirector::OccludedEffectDirector(al::GraphicsSystemInfo *,int)",false
+"_ZN2al22OccludedEffectDirector5clearEv","al::OccludedEffectDirector::clear(void)",false
+"_ZN3agl2fx17OccludedEffectMgr9CreateArgD2Ev","agl::fx::OccludedEffectMgr::CreateArg::~CreateArg()",false
+"_ZN2al22OccludedEffectDirectorD2Ev","al::OccludedEffectDirector::~OccludedEffectDirector()",false
+"_ZN2al22OccludedEffectDirector21findPresetIndexByNameEPKc","al::OccludedEffectDirector::findPresetIndexByName(char const*)",false
+"_ZN2al22OccludedEffectDirector22createInfoByPresetNameEPKc","al::OccludedEffectDirector::createInfoByPresetName(char const*)",false
+"_ZN3agl2fx17OccludedEffectMgr6getOfxINS0_19OfxLensFlareDynamicEEEPT_i","agl::fx::OfxLensFlareDynamic * agl::fx::OccludedEffectMgr::getOfx<agl::fx::OfxLensFlareDynamic>(int)",false
+"_ZN2al22OccludedEffectDirector8movementEv","al::OccludedEffectDirector::movement(void)",false
+"_ZN2al22OccludedEffectDirector8calcViewEiPKN4sead6CameraEPKNS_10ProjectionE","al::OccludedEffectDirector::calcView(int,sead::Camera const*,al::Projection const*)",false
+"_ZNK2al22OccludedEffectDirector4drawEPN3agl11DrawContextEiRKNS1_12RenderBufferERKN4sead8ViewportERKNS1_17RenderTargetDepthE","al::OccludedEffectDirector::draw(agl::DrawContext *,int,agl::RenderBuffer const&,sead::Viewport const&,agl::RenderTargetDepth const&)const",false
+"_ZN11OfxFunction25getOccludedEffectDirectorEPKN2al9LiveActorE","OfxFunction::getOccludedEffectDirector(al::LiveActor const*)",false
+"_ZNK4sead15RuntimeTypeInfo6DeriveIN3agl2fx7OfxBase10PresetBaseEE9isDerivedEPKNS0_9InterfaceE","sead::RuntimeTypeInfo::Derive<agl::fx::OfxBase::PresetBase>::isDerived(sead::RuntimeTypeInfo::Interface const*)const",false
+"_ZN3agl2fx17OccludedEffectMgr9CreateArgD0Ev","agl::fx::OccludedEffectMgr::CreateArg::~CreateArg()",false
+"_ZNK4sead15RuntimeTypeInfo6DeriveIN3agl2fx12OfxLensFlareEE9isDerivedEPKNS0_9InterfaceE","sead::RuntimeTypeInfo::Derive<agl::fx::OfxLensFlare>::isDerived(sead::RuntimeTypeInfo::Interface const*)const",false
+"_ZNK4sead15RuntimeTypeInfo6DeriveIN3agl2fx7OfxBaseEE9isDerivedEPKNS0_9InterfaceE","sead::RuntimeTypeInfo::Derive<agl::fx::OfxBase>::isDerived(sead::RuntimeTypeInfo::Interface const*)const",false

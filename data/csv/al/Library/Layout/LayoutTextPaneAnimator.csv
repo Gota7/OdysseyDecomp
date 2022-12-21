@@ -1,0 +1,24 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al22LayoutTextPaneAnimatorC2EPN2nn4ui2d7TextBoxEPNS_11LayoutActorE","al::LayoutTextPaneAnimator::LayoutTextPaneAnimator(nn::ui2d::TextBox *,al::LayoutActor *)",false
+"_ZN2al22LayoutTextPaneAnimator21initEuiLetterAnimCtrlEPN3eui8LayoutExE","al::LayoutTextPaneAnimator::initEuiLetterAnimCtrl(eui::LayoutEx *)",false
+"_ZN2al22LayoutTextPaneAnimator31initEuiLetterAnimCtrlWithShadowEPN3eui8LayoutExEPN2nn4ui2d7TextBoxE","al::LayoutTextPaneAnimator::initEuiLetterAnimCtrlWithShadow(eui::LayoutEx *,nn::ui2d::TextBox *)",false
+"_ZN2al22LayoutTextPaneAnimator5startEPKDsPKNS_20MessageTagDataHolderEPKNS_23ReplaceTagProcessorBaseE","al::LayoutTextPaneAnimator::start(char16_t const*,al::MessageTagDataHolder const*,al::ReplaceTagProcessorBase const*)",false
+"sub_71008B64EC","",false
+"_ZN2al22LayoutTextPaneAnimator3endEv","al::LayoutTextPaneAnimator::end(void)",false
+"_ZN2al22LayoutTextPaneAnimator6updateEv","al::LayoutTextPaneAnimator::update(void)",false
+"_ZN2al22LayoutTextPaneAnimator10updateTextEv","al::LayoutTextPaneAnimator::updateText(void)",false
+"_ZN2al22LayoutTextPaneAnimator4skipEv","al::LayoutTextPaneAnimator::skip(void)",false
+"_ZN2al22LayoutTextPaneAnimator5flushEv","al::LayoutTextPaneAnimator::flush(void)",false
+"_ZN2al22LayoutTextPaneAnimator14changeNextPageEPKNS_20MessageTagDataHolderEPKNS_23ReplaceTagProcessorBaseE","al::LayoutTextPaneAnimator::changeNextPage(al::MessageTagDataHolder const*,al::ReplaceTagProcessorBase const*)",false
+"_ZNK2al22LayoutTextPaneAnimator17getCurrentMessageEv","al::LayoutTextPaneAnimator::getCurrentMessage(void)const",false
+"_ZNK2al22LayoutTextPaneAnimator17tryGetNextMessageEv","al::LayoutTextPaneAnimator::tryGetNextMessage(void)const",false
+"_ZN2al22LayoutTextPaneAnimator10startVoiceEPKc","al::LayoutTextPaneAnimator::startVoice(char const*)",false
+"_ZN2al17EuiLetterAnimCtrlD0Ev","al::EuiLetterAnimCtrl::~EuiLetterAnimCtrl()",false
+"_ZN2al17EuiLetterAnimCtrl6UpdateEf","al::EuiLetterAnimCtrl::Update(float)",false
+"sub_71008B6FFC","",false
+"_ZNK4sead10IDelegate1IPKNS_10MessageSetIDsE7TagInfoEE5cloneEPNS_4HeapE","sead::IDelegate1<sead::MessageSet<char16_t>::TagInfo const*>::clone(sead::Heap *)const",false
+"sub_71008B7130","",false
+"sub_71008B7154","",false
+"sub_71008B71A0","",false
+"sub_71008B71EC","",false
+"sub_71008B7238","",false

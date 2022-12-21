@@ -1,0 +1,9 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al10BreakModelC2EPKNS_9LiveActorEPKcS5_S5_PKN4sead8Matrix34IfEES5_","al::BreakModel::BreakModel(al::LiveActor const*,char const*,char const*,char const*,sead::Matrix34<float> const*,char const*)",false
+"_ZN2al10BreakModelC1EPKNS_9LiveActorEPKcS5_S5_PKN4sead8Matrix34IfEES5_","al::BreakModel::BreakModel(al::LiveActor const*,char const*,char const*,char const*,sead::Matrix34<float> const*,char const*)",false
+"_ZN2al10BreakModel4initERKNS_13ActorInitInfoE","al::BreakModel::init(al::ActorInitInfo const&)",false
+"_ZN2al10BreakModel6appearEv","al::BreakModel::appear(void)",false
+"_ZN2al10BreakModel7exeWaitEv","al::BreakModel::exeWait(void)",false
+"_ZN2al10BreakModel8exeBreakEv","al::BreakModel::exeBreak(void)",false
+"nullsub_476","",false
+"sub_7100963BE8","",false

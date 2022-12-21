@@ -1,0 +1,7 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al14ActorScoreInfoC2Ev","al::ActorScoreInfo::ActorScoreInfo(void)",false
+"_ZN2al14ActorScoreInfo4initERKNS_9ByamlIterE","al::ActorScoreInfo::init(al::ByamlIter const&)",false
+"_ZN2al16ActorScoreKeeperC2Ev","al::ActorScoreKeeper::ActorScoreKeeper(void)",false
+"_ZN2al16ActorScoreKeeper4initERKNS_9ByamlIterE","al::ActorScoreKeeper::init(al::ByamlIter const&)",false
+"_ZNK2al16ActorScoreKeeper15getCategoryNameEv","al::ActorScoreKeeper::getCategoryName(void)const",false
+"_ZNK2al16ActorScoreKeeper18tryGetCategoryNameEPKc","al::ActorScoreKeeper::tryGetCategoryName(char const*)const",false

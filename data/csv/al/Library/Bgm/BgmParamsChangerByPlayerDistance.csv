@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al32BgmParamsChangerByPlayerDistanceC2EPKNS_9LiveActorEPS1_bfffPKcPNS0_15IFunctorCreatorE","al::BgmParamsChangerByPlayerDistance::BgmParamsChangerByPlayerDistance(al::LiveActor const*,al::LiveActor*,bool,float,float,float,char const*,al::BgmParamsChangerByPlayerDistance::IFunctorCreator *)",false
+"_ZN2al32BgmParamsChangerByPlayerDistance6updateEv","al::BgmParamsChangerByPlayerDistance::update(void)",false
+"_ZN2al32BgmParamsChangerByPlayerDistance17startChangeParamsEv","al::BgmParamsChangerByPlayerDistance::startChangeParams(void)",false
+"_ZN2al32BgmParamsChangerByPlayerDistance15endChangeParamsEv","al::BgmParamsChangerByPlayerDistance::endChangeParams(void)",false

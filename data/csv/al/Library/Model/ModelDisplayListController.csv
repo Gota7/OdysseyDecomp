@@ -1,0 +1,3 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al26ModelDisplayListControllerC1EPNS_10ModelGroupE","al::ModelDisplayListController::ModelDisplayListController(al::ModelGroup *)",false
+"_ZN2al26ModelDisplayListController6updateEv","al::ModelDisplayListController::update(void)",false

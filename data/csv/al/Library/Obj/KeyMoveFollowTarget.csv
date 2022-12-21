@@ -1,0 +1,15 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al19KeyMoveFollowTargetC2EPKc","al::KeyMoveFollowTarget::KeyMoveFollowTarget(char const*)",false
+"_ZN2al19KeyMoveFollowTargetC1EPKc","al::KeyMoveFollowTarget::KeyMoveFollowTarget(char const*)",false
+"_ZN2al19KeyMoveFollowTarget23initKeyMoveFollowTargetERKNS_13ActorInitInfoEPKcS5_","al::KeyMoveFollowTarget::initKeyMoveFollowTarget(al::ActorInitInfo const&,char const*,char const*)",false
+"_ZN2al19KeyMoveFollowTarget7exeWaitEv","al::KeyMoveFollowTarget::exeWait(void)",false
+"_ZN2al19KeyMoveFollowTarget7exeMoveEv","al::KeyMoveFollowTarget::exeMove(void)",false
+"_ZN2al19KeyMoveFollowTarget7exeStopEv","al::KeyMoveFollowTarget::exeStop(void)",false
+"_ZN2al19KeyMoveFollowTarget4initERKNS_13ActorInitInfoE","al::KeyMoveFollowTarget::init(al::ActorInitInfo const&)",false
+"sub_710096B8DC","",false
+"sub_710096B8E4","",false
+"sub_710096B8F0","",false
+"sub_710096B8F8","",false
+"sub_710096B904","",false
+"sub_710096B948","",false
+"sub_710096B954","",false

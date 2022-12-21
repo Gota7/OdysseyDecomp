@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al16TraceActorHolderC2Ev","al::TraceActorHolder::TraceActorHolder(void)",false
+"_ZN2al16TraceActorHolder4initEPKciRKNS_13ActorInitInfoES2_S2_S2_","al::TraceActorHolder::init(char const*,int,al::ActorInitInfo const&,char const*,char const*,char const*)",false
+"_ZN2al16TraceActorHolder9findTraceEv","al::TraceActorHolder::findTrace(void)",false
+"_ZN2al16TraceActorHolder11appearTraceERKN4sead4QuatIfEERKNS1_7Vector3IfEEPKNS_14CollisionPartsE","al::TraceActorHolder::appearTrace(sead::Quat<float> const&,sead::Vector3<float> const&,al::CollisionParts const*)",false

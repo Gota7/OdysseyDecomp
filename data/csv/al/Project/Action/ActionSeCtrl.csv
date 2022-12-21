@@ -1,0 +1,11 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al12ActionSeCtrl9tryCreateEPNS_11AudioKeeperE","al::ActionSeCtrl::tryCreate(al::AudioKeeper *)",false
+"_ZN2al12ActionSeCtrlC2EPNS_8SeKeeperEPKNS_10SeUserInfoE","al::ActionSeCtrl::ActionSeCtrl(al::SeKeeper *,al::SeUserInfo const*)",false
+"_ZN2al12ActionSeCtrl4initEv","al::ActionSeCtrl::init(void)",false
+"_ZN2al12ActionSeCtrl11resetActionEb","al::ActionSeCtrl::resetAction(bool)",false
+"_ZN2al12ActionSeCtrl13restartActionEv","al::ActionSeCtrl::restartAction(void)",false
+"_ZN2al12ActionSeCtrl11startActionEPKc","al::ActionSeCtrl::startAction(char const*)",false
+"_ZN2al12ActionSeCtrl17checkAndPlayStartEfffb","al::ActionSeCtrl::checkAndPlayStart(float,float,float,bool)",false
+"_ZN2al12ActionSeCtrl6updateEfffb","al::ActionSeCtrl::update(float,float,float,bool)",false
+"_ZN2al12ActionSeCtrl10resetStateEv","al::ActionSeCtrl::resetState(void)",false
+"_ZN2al13AudioInfoListINS_12SeActionInfoEE17compareInfoAndKeyEPKS1_PKc","al::AudioInfoList<al::SeActionInfo>::compareInfoAndKey(al::SeActionInfo const*,char const*)",false

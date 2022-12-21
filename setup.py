@@ -10,14 +10,14 @@ def install(what):
     subprocess.check_call([sys.executable, '-m', 'pip', 'install', what])
 
 if not os.path.exists("odyssey.nso"):
-    print("odyssey.nso does not exist. Place a Super Mario Odyssey v1.2.0 NSO named odyssey.nso in the root.")
+    print("odyssey.nso does not exist. Place a Super Mario Odyssey v1.0.0 NSO named odyssey.nso in the root.")
     sys.exit(1)
 else:
     print("Found odyssey.nso, checking hash...")
 
     with open("odyssey.nso", "rb") as f:
         b = f.read()
-        if hashlib.sha256(b).hexdigest().upper() == "6D22647134B241641BF4DF5E596BDE48FC0AD81EDF1856FFBBDF3F49B71D1219":
+        if hashlib.sha256(b).hexdigest().upper() == "E21692D90F8FD2DEF2D2D22D983D62AC81DF3B8B3C762D1F2DCA9D9AB7B3053A":
             print("Hash is correct, continuing...")
         else:
             print("Hash is NOT correct. All checks will fail!")

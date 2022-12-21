@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al17SceneEventFlowMsgC2Ev","al::SceneEventFlowMsg::SceneEventFlowMsg(void)",false
+"_ZN2al17SceneEventFlowMsg14requestCommandEPKc","al::SceneEventFlowMsg::requestCommand(char const*)",false
+"_ZNK2al17SceneEventFlowMsg16isReceiveCommandEPKc","al::SceneEventFlowMsg::isReceiveCommand(char const*)const",false

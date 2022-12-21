@@ -1,0 +1,7 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al26AudioSystemPauseController27getAudioSystemPauseTypeNameENS0_20AudioSystemPauseTypeE","al::AudioSystemPauseController::getAudioSystemPauseTypeName(al::AudioSystemPauseController::AudioSystemPauseType)",false
+"_ZN2al26AudioSystemPauseController23getAudioSystemPauseTypeEPKc","al::AudioSystemPauseController::getAudioSystemPauseType(char const*)",false
+"_ZN2al26AudioSystemPauseControllerC2Ev","al::AudioSystemPauseController::AudioSystemPauseController(void)",false
+"_ZN2al26AudioSystemPauseController6registEPNS_17IAudioSystemPauseE","al::AudioSystemPauseController::regist(al::IAudioSystemPause *)",false
+"_ZN2al26AudioSystemPauseController8unregistEPNS_17IAudioSystemPauseE","al::AudioSystemPauseController::unregist(al::IAudioSystemPause *)",false
+"_ZN2al26AudioSystemPauseController11pauseSystemEbPKcbf","al::AudioSystemPauseController::pauseSystem(bool,char const*,bool,float)",false

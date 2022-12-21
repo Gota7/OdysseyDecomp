@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al12CameraEffectC2Ev","al::CameraEffect::CameraEffect(void)",false
+"_ZNK2al10HdrCompose19isUsingAutoExposureEv","al::HdrCompose::isUsingAutoExposure(void)const",false
+"_ZNK2al10HdrCompose15getCurrentParamEv","al::HdrCompose::getCurrentParam(void)const",false
+"_ZNK2al10HdrCompose11getExposureEv","al::HdrCompose::getExposure(void)const",false
+"_ZNK2al10HdrCompose14getExposureExpEv","al::HdrCompose::getExposureExp(void)const",false

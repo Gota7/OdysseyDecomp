@@ -1,0 +1,3 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al26CameraCollisionPartsFilterC2Ev","al::CameraCollisionPartsFilter::CameraCollisionPartsFilter(void)",false
+"_ZNK2al26CameraCollisionPartsFilter14isInvalidPartsERKNS_14CollisionPartsE","al::CameraCollisionPartsFilter::isInvalidParts(al::CollisionParts const&)const",false

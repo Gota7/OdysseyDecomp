@@ -1,0 +1,16 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21CameraPoserSubjectiveC2EPKc","al::CameraPoserSubjective::CameraPoserSubjective(char const*)",false
+"_ZN2al21CameraPoserSubjective4initEv","al::CameraPoserSubjective::init(void)",false
+"_ZN2al21CameraPoserSubjective9loadParamERKNS_9ByamlIterE","al::CameraPoserSubjective::loadParam(al::ByamlIter const&)",false
+"_ZN2al21CameraPoserSubjective5startERKNS_15CameraStartInfoE","al::CameraPoserSubjective::start(al::CameraStartInfo const&)",false
+"_ZN2al21CameraPoserSubjective8movementEv","al::CameraPoserSubjective::movement(void)",false
+"_ZN2al21CameraPoserSubjective6updateEv","al::CameraPoserSubjective::update(void)",false
+"_ZN2al21CameraPoserSubjective17startSnapShotModeEv","al::CameraPoserSubjective::startSnapShotMode(void)",false
+"_ZN2al21CameraPoserSubjective15endSnapShotModeEv","al::CameraPoserSubjective::endSnapShotMode(void)",false
+"_ZN2al21CameraPoserSubjective7exeWaitEv","al::CameraPoserSubjective::exeWait(void)",false
+"_ZN2al21CameraPoserSubjective8exeResetEv","al::CameraPoserSubjective::exeReset(void)",false
+"_ZN2al21CameraPoserSubjective20getCameraOffsetFrontEv","al::CameraPoserSubjective::getCameraOffsetFront(void)",false
+"_ZNK2al21CameraPoserSubjective9isZoomingEv","al::CameraPoserSubjective::isZooming(void)const",false
+"_ZNK2al21CameraPoserSubjective19isEnableRotateByPadEv","al::CameraPoserSubjective::isEnableRotateByPad(void)const",false
+"sub_710097C59C","",false
+"sub_710097C5B0","",false

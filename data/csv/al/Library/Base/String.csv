@@ -1,0 +1,35 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21createStringIfInStackEPKc","al::createStringIfInStack(char const*)",false
+"_ZN2al18createConcatStringEPKcS1_","al::createConcatString(char const*,char const*)",false
+"_ZN2al22createFileNameBySuffixEPN4sead22BufferedSafeStringBaseIcEEPKcS5_","al::createFileNameBySuffix(sead::BufferedSafeStringBase<char> *,char const*,char const*)",false
+"_ZN2al20outputValueWithCommaEPcjmbb","al::outputValueWithComma(char *,unsigned int,unsigned long,bool,bool)",false
+"_ZN2al13extractStringEPcPKcjj","al::extractString(char *,char const*,unsigned int,unsigned int)",false
+"_ZN2al15searchSubStringEPKcS1_","al::searchSubString(char const*,char const*)",false
+"_ZN2al15searchSubStringEPKcS1_i","al::searchSubString(char const*,char const*,int)",false
+"_ZN2al21getSubStringUnmatchedEPPKcS1_RKNS_8MatchStrEPFvS1_S1_PvES6_","al::getSubStringUnmatched(char const**,char const*,al::MatchStr const&,void (*)(char const*,char const*,void *),void *)",false
+"_ZN2al21getSubStringUnmatchedEPKcRKNS_8MatchStrE","al::getSubStringUnmatched(char const*,al::MatchStr const&)",false
+"_ZN2al16extractBaseNameWEPN4sead22BufferedSafeStringBaseIDsEERKNS0_14SafeStringBaseIDsEE","al::extractBaseNameW(sead::BufferedSafeStringBase<char16_t> *,sead::SafeStringBase<char16_t> const&)",false
+"_ZNK4sead14SafeStringBaseIDsE14token_iterator3getEPNS_22BufferedSafeStringBaseIDsEE","sead::SafeStringBase<char16_t>::token_iterator::get(sead::BufferedSafeStringBase<char16_t> *)const",false
+"_ZN2al21removeExtensionStringEPcjPKc","al::removeExtensionString(char *,unsigned int,char const*)",false
+"_ZN2al19removeStringFromEndEPcjPKcS2_","al::removeStringFromEnd(char *,unsigned int,char const*,char const*)",false
+"_ZN2al19translateCharactersEPcPKcS2_","al::translateCharacters(char *,char const*,char const*)",false
+"_ZN2al16tryReplaceStringEPN4sead22BufferedSafeStringBaseIcEEPKcS5_","al::tryReplaceString(sead::BufferedSafeStringBase<char> *,char const*,char const*)",false
+"_ZN2al16tryReplaceStringEPN4sead22BufferedSafeStringBaseIcEEPKcS5_S5_","al::tryReplaceString(sead::BufferedSafeStringBase<char> *,char const*,char const*,char const*)",false
+"_ZN2al27tryReplaceStringNoRecursiveEPN4sead22BufferedSafeStringBaseIcEEPKcS5_S5_","al::tryReplaceStringNoRecursive(sead::BufferedSafeStringBase<char> *,char const*,char const*,char const*)",false
+"_ZN2al13isEqualStringEPKDsS1_","al::isEqualString(char16_t const*,char16_t const*)",false
+"_ZN2al16isEqualSubStringEPKcS1_","al::isEqualSubString(char const*,char const*)",false
+"_ZN2al16isEqualSubStringERKN4sead14SafeStringBaseIcEES4_","al::isEqualSubString(sead::SafeStringBase<char> const&,sead::SafeStringBase<char> const&)",false
+"_ZN2al17isStartWithStringEPKcS1_","al::isStartWithString(char const*,char const*)",false
+"_ZN2al15isEndWithStringEPKcS1_","al::isEndWithString(char const*,char const*)",false
+"_ZN2al13isMatchStringEPKcRKNS_8MatchStrE","al::isMatchString(char const*,al::MatchStr const&)",false
+"_ZN2al23compareStringIgnoreCaseEPKcS1_","al::compareStringIgnoreCase(char const*,char const*)",false
+"_ZN2al19makeUrlEncodeStringEPcjPKc","al::makeUrlEncodeString(char *,unsigned int,char const*)",false
+"_ZN2al19makeUrlDecodeStringEPcjPKc","al::makeUrlDecodeString(char *,unsigned int,char const*)",false
+"_ZN2al10copyStringEPcPKcj","al::copyString(char *,char const*,unsigned int)",false
+"_ZN2al11copyStringWEPDsPKDsj","al::copyStringW(char16_t *,char16_t const*,unsigned int)",false
+"_ZN2al9StringTmpILi1024EED0Ev","al::StringTmp<1024>::~StringTmp()",false
+"_ZN2al9isInStackEPKv","al::isInStack(void const*)",false
+"_ZN2al13isEqualStringEPKcS1_","al::isEqualString(char const*,char const*)",false
+"_ZN2al13isEqualStringERKN4sead14SafeStringBaseIcEES4_","al::isEqualString(sead::SafeStringBase<char> const&,sead::SafeStringBase<char> const&)",false
+"_ZN2al17isEqualStringCaseEPKcS1_","al::isEqualStringCase(char const*,char const*)",false
+"_ZN2al17isEqualStringCaseERKN4sead14SafeStringBaseIcEES4_","al::isEqualStringCase(sead::SafeStringBase<char> const&,sead::SafeStringBase<char> const&)",false

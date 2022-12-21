@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al17SwitchOnAreaGroupC2EPNS_12AreaObjGroupE","al::SwitchOnAreaGroup::SwitchOnAreaGroup(al::AreaObjGroup *)",false
+"_ZN2al17SwitchOnAreaGroup6updateEPKN4sead7Vector3IfEEi","al::SwitchOnAreaGroup::update(sead::Vector3<float> const*,int)",false
+"_ZN2al17SwitchOnAreaGroup6updateERKN4sead7Vector3IfEE","al::SwitchOnAreaGroup::update(sead::Vector3<float> const&)",false
+"_ZNK2al17SwitchOnAreaGroup19isExternalConditionEv","al::SwitchOnAreaGroup::isExternalCondition(void)const",false

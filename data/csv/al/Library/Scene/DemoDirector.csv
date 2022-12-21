@@ -1,0 +1,26 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al11AddDemoInfoC2Ei","al::AddDemoInfo::AddDemoInfo(int)",false
+"_ZN2al11AddDemoInfo4initERKNS_11PlacementIdE","al::AddDemoInfo::init(al::PlacementId const&)",false
+"_ZN2al11AddDemoInfo12addDemoActorEPNS_9LiveActorE","al::AddDemoInfo::addDemoActor(al::LiveActor *)",false
+"_ZNK2al11AddDemoInfo11getDemoNameEv","al::AddDemoInfo::getDemoName(void)const",false
+"_ZN2al12DemoDirector24addDemoActorWithSubActorEPNS_9LiveActorE","al::DemoDirector::addDemoActorWithSubActor(al::LiveActor *)",false
+"_ZN2al12DemoDirector12addDemoActorEPNS_9LiveActorE","al::DemoDirector::addDemoActor(al::LiveActor *)",false
+"_ZN2al11AddDemoInfo5resetEv","al::AddDemoInfo::reset(void)",false
+"_ZNK2al11AddDemoInfo12getDemoActorEi","al::AddDemoInfo::getDemoActor(int)const",false
+"_ZN2al12DemoDirectorC2Ei","al::DemoDirector::DemoDirector(int)",false
+"_ZN2al12DemoDirector7endInitERKNS_13ActorInitInfoE","al::DemoDirector::endInit(al::ActorInitInfo const&)",false
+"_ZNK2al12DemoDirector12isActiveDemoEv","al::DemoDirector::isActiveDemo(void)const",false
+"_ZNK2al12DemoDirector17getActiveDemoNameEv","al::DemoDirector::getActiveDemoName(void)const",false
+"_ZN2al12DemoDirector16requestStartDemoEPKc","al::DemoDirector::requestStartDemo(char const*)",false
+"_ZN2al12DemoDirector14requestEndDemoEPKc","al::DemoDirector::requestEndDemo(char const*)",false
+"_ZN2al12DemoDirector15tryAddDemoActorEPNS_9LiveActorE","al::DemoDirector::tryAddDemoActor(al::LiveActor *)",false
+"_ZNK2al12DemoDirector16getDemoActorListEv","al::DemoDirector::getDemoActorList(void)const",false
+"_ZNK2al12DemoDirector15getDemoActorNumEv","al::DemoDirector::getDemoActorNum(void)const",false
+"_ZN2al12DemoDirector15updateDemoActorEPNS_12EffectSystemE","al::DemoDirector::updateDemoActor(al::EffectSystem *)",false
+"_ZN2al12DemoDirector32registDemoRequesterToAddDemoInfoERKNS_11PlacementIdE","al::DemoDirector::registDemoRequesterToAddDemoInfo(al::PlacementId const&)",false
+"_ZN2al12DemoDirector23findOrCreateAddDemoInfoERKNS_11PlacementIdE","al::DemoDirector::findOrCreateAddDemoInfo(al::PlacementId const&)",false
+"_ZN2al12DemoDirector24registActorToAddDemoInfoEPNS_9LiveActorERKNS_11PlacementIdE","al::DemoDirector::registActorToAddDemoInfo(al::LiveActor *,al::PlacementId const&)",false
+"_ZNK2al12DemoDirector18tryFindAddDemoInfoERKNS_11PlacementIdE","al::DemoDirector::tryFindAddDemoInfo(al::PlacementId const&)const",false
+"_ZNK2al12DemoDirector15findAddDemoInfoERKNS_11PlacementIdE","al::DemoDirector::findAddDemoInfo(al::PlacementId const&)const",false
+"_ZN2al12DemoDirector9startDemoEPKc","al::DemoDirector::startDemo(char const*)",false
+"_ZN2al12DemoDirector7endDemoEPKc","al::DemoDirector::endDemo(char const*)",false

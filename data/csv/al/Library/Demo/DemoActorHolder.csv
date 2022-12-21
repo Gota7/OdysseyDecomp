@@ -1,0 +1,21 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al15DesignActorInfoC2EPNS_9LiveActorERKNS_13ActorInitInfoES5_RKN4sead8Matrix34IfEE","al::DesignActorInfo::DesignActorInfo(al::LiveActor *,al::ActorInitInfo const&,al::ActorInitInfo const&,sead::Matrix34<float> const&)",false
+"_ZN2al15DemoActorHolderC2Eb","al::DemoActorHolder::DemoActorHolder(bool)",false
+"_ZN2al15DemoActorHolder22initPlacementDemoActorERKNS_13PlacementInfoERKNS_13ActorInitInfoEPKN4sead8Matrix34IfEE","al::DemoActorHolder::initPlacementDemoActor(al::PlacementInfo const&,al::ActorInitInfo const&,sead::Matrix34<float> const*)",false
+"_ZN2al15DemoActorHolder24initPlacementDesignActorERKNS_13PlacementInfoERKNS_13ActorInitInfoEPKN4sead8Matrix34IfEE","al::DemoActorHolder::initPlacementDesignActor(al::PlacementInfo const&,al::ActorInitInfo const&,sead::Matrix34<float> const*)",false
+"_ZN2al15DemoActorHolder6appearEv","al::DemoActorHolder::appear(void)",false
+"_ZN2al15DemoActorHolder4killEv","al::DemoActorHolder::kill(void)",false
+"_ZN2al15DemoActorHolder28setEndCameraInterpolateFrameEi","al::DemoActorHolder::setEndCameraInterpolateFrame(int)",false
+"_ZN2al15DemoActorHolder11startActionEi","al::DemoActorHolder::startAction(int)",false
+"_ZN2al15DemoActorHolder13startSequenceEv","al::DemoActorHolder::startSequence(void)",false
+"_ZN2al15DemoActorHolder14updateSequenceEv","al::DemoActorHolder::updateSequence(void)",false
+"_ZN2al15DemoActorHolder14updateGraphicsEv","al::DemoActorHolder::updateGraphics(void)",false
+"_ZNK2al15DemoActorHolder17isActionEndCameraEi","al::DemoActorHolder::isActionEndCamera(int)const",false
+"_ZNK2al15DemoActorHolder13isEndSequenceEv","al::DemoActorHolder::isEndSequence(void)const",false
+"_ZNK2al15DemoActorHolder16getDemoCameraNumEv","al::DemoActorHolder::getDemoCameraNum(void)const",false
+"_ZNK2al15DemoActorHolder13isExistCameraEv","al::DemoActorHolder::isExistCamera(void)const",false
+"_ZN2al15DemoActorHolder16tryFindDemoActorEPKc","al::DemoActorHolder::tryFindDemoActor(char const*)",false
+"_ZNK2al15DemoActorHolder24getCurrentDemoActionNameEv","al::DemoActorHolder::getCurrentDemoActionName(void)const",false
+"_ZNK2al15DemoActorHolder19getCurrentDemoFrameEv","al::DemoActorHolder::getCurrentDemoFrame(void)const",false
+"_ZNK2al15DemoActorHolder22getCurrentDemoFrameMaxEv","al::DemoActorHolder::getCurrentDemoFrameMax(void)const",false
+"_ZNK2al15DemoActorHolder12getDemoActorEi","al::DemoActorHolder::getDemoActor(int)const",false

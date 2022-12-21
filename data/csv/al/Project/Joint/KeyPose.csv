@@ -1,0 +1,3 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al7KeyPoseC2Ev","al::KeyPose::KeyPose(void)",false
+"_ZN2al7KeyPose4initERKNS_13PlacementInfoE","al::KeyPose::init(al::PlacementInfo const&)",false

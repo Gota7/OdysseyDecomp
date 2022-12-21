@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al23JointLocalDirControllerC2EPKNS_18JointDirectionInfoE","al::JointLocalDirController::JointLocalDirController(al::JointDirectionInfo const*)",false
+"_ZN2al23JointLocalDirController17calcJointCallbackEiPN4sead8Matrix34IfEE","al::JointLocalDirController::calcJointCallback(int,sead::Matrix34<float> *)",false
+"_ZNK2al23JointLocalDirController15getCtrlTypeNameEv","al::JointLocalDirController::getCtrlTypeName(void)const",false

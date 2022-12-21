@@ -1,0 +1,8 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al13FileEntryBaseC2Ev","al::FileEntryBase::FileEntryBase(void)",false
+"_ZN2al13FileEntryBase11setFileNameERKN4sead14SafeStringBaseIcEE","al::FileEntryBase::setFileName(sead::SafeStringBase<char> const&)",false
+"_ZNK2al13FileEntryBase11getFileNameEv","al::FileEntryBase::getFileName(void)const",false
+"_ZN2al13FileEntryBase15sendMessageDoneEv","al::FileEntryBase::sendMessageDone(void)",false
+"_ZN2al13FileEntryBase12waitLoadDoneEv","al::FileEntryBase::waitLoadDone(void)",false
+"_ZN2al13FileEntryBase5clearEv","al::FileEntryBase::clear(void)",false
+"_ZN2al13FileEntryBase21setLoadStateRequestedEv","al::FileEntryBase::setLoadStateRequested(void)",false

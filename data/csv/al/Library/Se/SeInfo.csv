@@ -1,0 +1,126 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al19createAudioInfoListINS_22SeResourceCategoryInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SeResourceCategoryInfo> * al::createAudioInfoList<al::SeResourceCategoryInfo>(al::ByamlIter const&,int)",false
+"_ZN2al19createAudioInfoListINS_20SeDemoSyncedProcInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SeDemoSyncedProcInfo> * al::createAudioInfoList<al::SeDemoSyncedProcInfo>(al::ByamlIter const&,int)",false
+"_ZN2al19createAudioInfoListINS_15SeSituationInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SeSituationInfo> * al::createAudioInfoList<al::SeSituationInfo>(al::ByamlIter const&,int)",false
+"_ZNK2al22AudioInfoListWithPartsINS_22SeResourceSpecificInfoEE11tryFindInfoEPKc","al::AudioInfoListWithParts<al::SeResourceSpecificInfo>::tryFindInfo(char const*)const",false
+"_ZN2al13AudioInfoListINS_22SeResourceSpecificInfoEE17compareInfoAndKeyEPKS1_PKc","al::AudioInfoList<al::SeResourceSpecificInfo>::compareInfoAndKey(al::SeResourceSpecificInfo const*,char const*)",false
+"_ZN2al26AudioInfoListCreateFunctorINS_22SeResourceCategoryInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SeResourceCategoryInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"_ZNK2al22AudioInfoListWithPartsINS_22SeResourceCategoryInfoEE15tryGetInfoIndexEPKc","al::AudioInfoListWithParts<al::SeResourceCategoryInfo>::tryGetInfoIndex(char const*)const",false
+"_ZN2al26AudioInfoListCreateFunctorINS_20SeDemoSyncedProcInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SeDemoSyncedProcInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"_ZN2al26AudioInfoListCreateFunctorINS_15SeSituationInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SeSituationInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"sub_71009D818C","",false
+"_ZN2al10SeUserInfo10createInfoERKNS_9ByamlIterERKN4sead14SafeStringBaseIcEE","al::SeUserInfo::createInfo(al::ByamlIter const&,sead::SafeStringBase<char> const&)",false
+"_ZN2al19createAudioInfoListINS_12SeActionInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SeActionInfo> * al::createAudioInfoList<al::SeActionInfo>(al::ByamlIter const&,int)",false
+"_ZN2al10SeUserInfo22isIncludingSePartsUserEPKS0_","al::SeUserInfo::isIncludingSePartsUser(al::SeUserInfo const*)",false
+"_ZN2al19createAudioInfoListINS_10SePlayInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SePlayInfo> * al::createAudioInfoList<al::SePlayInfo>(al::ByamlIter const&,int)",false
+"_ZN2al19createAudioInfoListINS_13SeEmitterInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SeEmitterInfo> * al::createAudioInfoList<al::SeEmitterInfo>(al::ByamlIter const&,int)",false
+"_ZN2al36createAudioInfoListWithRedundantInfoINS_13SeEmitterInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEiib","al::AudioInfoListWithParts<al::SeEmitterInfo> * al::createAudioInfoListWithRedundantInfo<al::SeEmitterInfo>(al::ByamlIter const&,int,int,bool)",false
+"_ZN2al19createAudioInfoListINS_17SeHitReactionInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SeHitReactionInfo> * al::createAudioInfoList<al::SeHitReactionInfo>(al::ByamlIter const&,int)",false
+"_ZN2al10SeUserInfoC2Ev","al::SeUserInfo::SeUserInfo(void)",false
+"_ZN2al10SeUserInfoD2Ev","al::SeUserInfo::~SeUserInfo()",false
+"_ZN2al10SeUserInfo11compareInfoEPKS0_S2_","al::SeUserInfo::compareInfo(al::SeUserInfo const*,al::SeUserInfo const*)",false
+"_ZN2al26AudioInfoListCreateFunctorINS_12SeActionInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SeActionInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"_ZN2al26AudioInfoListCreateFunctorINS_10SePlayInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SePlayInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"sub_71009D8C68","",false
+"_ZN2al26AudioInfoListCreateFunctorINS_13SeEmitterInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SeEmitterInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"_ZN2al26AudioInfoListCreateFunctorINS_17SeHitReactionInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SeHitReactionInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"_ZN2al12SeActionInfo10createInfoERKNS_9ByamlIterE","al::SeActionInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al19createAudioInfoListINS_18SePlayInfoInActionEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SePlayInfoInAction> * al::createAudioInfoList<al::SePlayInfoInAction>(al::ByamlIter const&,int)",false
+"_ZN2al12SeActionInfoC2Ev","al::SeActionInfo::SeActionInfo(void)",false
+"_ZN2al12SeActionInfoC1ERKS0_","al::SeActionInfo::SeActionInfo(al::SeActionInfo const&)",false
+"_ZN2al12SeActionInfoaSERKS0_","al::SeActionInfo::operator=(al::SeActionInfo const&)",false
+"_ZN2al12SeActionInfo11compareInfoEPKS0_S2_","al::SeActionInfo::compareInfo(al::SeActionInfo const*,al::SeActionInfo const*)",false
+"_ZN2al26AudioInfoListCreateFunctorINS_18SePlayInfoInActionEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SePlayInfoInAction>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"_ZN2al18SePlayInfoInAction10createInfoERKNS_9ByamlIterE","al::SePlayInfoInAction::createInfo(al::ByamlIter const&)",false
+"_ZN2al18SePlayInfoInActionC2Ev","al::SePlayInfoInAction::SePlayInfoInAction(void)",false
+"_ZN2al18SePlayInfoInActionC1ERKS0_","al::SePlayInfoInAction::SePlayInfoInAction(al::SePlayInfoInAction const&)",false
+"_ZN2al18SePlayInfoInActionaSERKS0_","al::SePlayInfoInAction::operator=(al::SePlayInfoInAction const&)",false
+"_ZN2al18SePlayInfoInAction11compareInfoEPKS0_S2_","al::SePlayInfoInAction::compareInfo(al::SePlayInfoInAction const*,al::SePlayInfoInAction const*)",false
+"_ZN2al10SePlayInfoC2Ev","al::SePlayInfo::SePlayInfo(void)",false
+"_ZN2al10SePlayInfoC1ERKS0_","al::SePlayInfo::SePlayInfo(al::SePlayInfo const&)",false
+"_ZN2al17copyAudioInfoListINS_14SeResourceInfoEEEPNS_22AudioInfoListWithPartsIT_EEPKS4_i","al::AudioInfoListWithParts<al::SeResourceInfo> * al::copyAudioInfoList<al::SeResourceInfo>(al::AudioInfoListWithParts<al::SeResourceInfo> const*,int)",false
+"_ZN2al10SePlayInfo10createInfoERKNS_9ByamlIterE","al::SePlayInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al19createAudioInfoListINS_14SeResourceInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SeResourceInfo> * al::createAudioInfoList<al::SeResourceInfo>(al::ByamlIter const&,int)",false
+"_ZN2al10SePlayInfo11compareInfoEPKS0_S2_","al::SePlayInfo::compareInfo(al::SePlayInfo const*,al::SePlayInfo const*)",false
+"_ZNK2al10SePlayInfo7isEmptyEv","al::SePlayInfo::isEmpty(void)const",false
+"_ZN2al26AudioInfoListCreateFunctorINS_14SeResourceInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SeResourceInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"_ZN2al13SeRtpcSettingC2EPKc","al::SeRtpcSetting::SeRtpcSetting(char const*)",false
+"_ZN2al13SeRtpcSettingC1ERKS0_","al::SeRtpcSetting::SeRtpcSetting(al::SeRtpcSetting const&)",false
+"_ZN2al14SeResourceInfo10createInfoERKNS_9ByamlIterE","al::SeResourceInfo::createInfo(al::ByamlIter const&)",false
+"sub_71009DA2A0","",false
+"_ZN2al14SeResourceInfoC1Ev","al::SeResourceInfo::SeResourceInfo(void)",false
+"_ZN2al14SeResourceInfoC1ERKS0_","al::SeResourceInfo::SeResourceInfo(al::SeResourceInfo const&)",false
+"_ZN2al18SeResourceRtpcInfoC2ERKS0_","al::SeResourceRtpcInfo::SeResourceRtpcInfo(al::SeResourceRtpcInfo const&)",false
+"_ZNK2al14SeResourceInfo16getUsingRtpcInfoEv","al::SeResourceInfo::getUsingRtpcInfo(void)const",false
+"_ZN2al14SeResourceInfo11compareInfoEPKS0_S2_","al::SeResourceInfo::compareInfo(al::SeResourceInfo const*,al::SeResourceInfo const*)",false
+"_ZN2al23SePlayInfoInHitReaction10createInfoERKNS_9ByamlIterE","al::SePlayInfoInHitReaction::createInfo(al::ByamlIter const&)",false
+"_ZN2al23SePlayInfoInHitReactionC2Ev","al::SePlayInfoInHitReaction::SePlayInfoInHitReaction(void)",false
+"_ZN2al23SePlayInfoInHitReactionC1ERKS0_","al::SePlayInfoInHitReaction::SePlayInfoInHitReaction(al::SePlayInfoInHitReaction const&)",false
+"_ZN2al23SePlayInfoInHitReactionaSERKS0_","al::SePlayInfoInHitReaction::operator=(al::SePlayInfoInHitReaction const&)",false
+"_ZN2al23SePlayInfoInHitReaction11compareInfoEPKS0_S2_","al::SePlayInfoInHitReaction::compareInfo(al::SePlayInfoInHitReaction const*,al::SePlayInfoInHitReaction const*)",false
+"_ZN2al17SeHitReactionInfo10createInfoERKNS_9ByamlIterE","al::SeHitReactionInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al19createAudioInfoListINS_23SePlayInfoInHitReactionEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SePlayInfoInHitReaction> * al::createAudioInfoList<al::SePlayInfoInHitReaction>(al::ByamlIter const&,int)",false
+"_ZN2al17SeHitReactionInfoC2Ev","al::SeHitReactionInfo::SeHitReactionInfo(void)",false
+"_ZN2al17SeHitReactionInfoC1ERS0_","al::SeHitReactionInfo::SeHitReactionInfo(al::SeHitReactionInfo&)",false
+"_ZN2al17SeHitReactionInfo11compareInfoEPKS0_S2_","al::SeHitReactionInfo::compareInfo(al::SeHitReactionInfo const*,al::SeHitReactionInfo const*)",false
+"_ZN2al26AudioInfoListCreateFunctorINS_23SePlayInfoInHitReactionEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SePlayInfoInHitReaction>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false
+"_ZN2al13SeEmitterInfo10createInfoERKNS_9ByamlIterE","al::SeEmitterInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al13SeEmitterInfoC2Ev","al::SeEmitterInfo::SeEmitterInfo(void)",false
+"_ZN2al13SeEmitterInfoC2EPKc","al::SeEmitterInfo::SeEmitterInfo(char const*)",false
+"_ZN2al13SeEmitterInfoC1ERKS0_","al::SeEmitterInfo::SeEmitterInfo(al::SeEmitterInfo const&)",false
+"_ZN2al13SeEmitterInfo11compareInfoEPKS0_S2_","al::SeEmitterInfo::compareInfo(al::SeEmitterInfo const*,al::SeEmitterInfo const*)",false
+"_ZN2al11SeShapeInfoC2EPKc","al::SeShapeInfo::SeShapeInfo(char const*)",false
+"_ZN2al11SeShapeInfoC1ERKS0_","al::SeShapeInfo::SeShapeInfo(al::SeShapeInfo const&)",false
+"_ZN2al11SeShapeInfo10createInfoERKNS_9ByamlIterE","al::SeShapeInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al18SeShapeInfo3DPoint10createInfoERKNS_9ByamlIterE","al::SeShapeInfo3DPoint::createInfo(al::ByamlIter const&)",false
+"_ZN2al19SeShapeInfo3DSphere10createInfoERKNS_9ByamlIterE","al::SeShapeInfo3DSphere::createInfo(al::ByamlIter const&)",false
+"_ZN2al19SeShapeInfo3DVector10createInfoERKNS_9ByamlIterE","al::SeShapeInfo3DVector::createInfo(al::ByamlIter const&)",false
+"_ZN2al18SeShapeInfo3DPlane10createInfoERKNS_9ByamlIterE","al::SeShapeInfo3DPlane::createInfo(al::ByamlIter const&)",false
+"_ZN2al17SeShapeInfo3DRing10createInfoERKNS_9ByamlIterE","al::SeShapeInfo3DRing::createInfo(al::ByamlIter const&)",false
+"_ZN2al17SeShapeInfo3DCube10createInfoERKNS_9ByamlIterE","al::SeShapeInfo3DCube::createInfo(al::ByamlIter const&)",false
+"_ZN2al11SeShapeInfo10createInfoEPS0_","al::SeShapeInfo::createInfo(al::SeShapeInfo*)",false
+"sub_71009DC3EC","",false
+"_ZN2al18SeShapeInfo3DPointC2Ev","al::SeShapeInfo3DPoint::SeShapeInfo3DPoint(void)",false
+"_ZN2al19SeShapeInfo3DSphereC2Ev","al::SeShapeInfo3DSphere::SeShapeInfo3DSphere(void)",false
+"_ZN2al19SeShapeInfo3DVectorC2Ev","al::SeShapeInfo3DVector::SeShapeInfo3DVector(void)",false
+"_ZN2al18SeShapeInfo3DPlaneC2Ev","al::SeShapeInfo3DPlane::SeShapeInfo3DPlane(void)",false
+"_ZN2al17SeShapeInfo3DRingC2Ev","al::SeShapeInfo3DRing::SeShapeInfo3DRing(void)",false
+"_ZN2al17SeShapeInfo3DCubeC1Ev","al::SeShapeInfo3DCube::SeShapeInfo3DCube(void)",false
+"_ZN2al18SeShapeInfo3DPointC1ERKNS_11SeShapeInfoE","al::SeShapeInfo3DPoint::SeShapeInfo3DPoint(al::SeShapeInfo const&)",false
+"_ZN2al19SeShapeInfo3DSphereC1ERKNS_11SeShapeInfoE","al::SeShapeInfo3DSphere::SeShapeInfo3DSphere(al::SeShapeInfo const&)",false
+"_ZN2al19SeShapeInfo3DVectorC1ERKNS_11SeShapeInfoE","al::SeShapeInfo3DVector::SeShapeInfo3DVector(al::SeShapeInfo const&)",false
+"_ZN2al18SeShapeInfo3DPlaneC2ERKNS_11SeShapeInfoE","al::SeShapeInfo3DPlane::SeShapeInfo3DPlane(al::SeShapeInfo const&)",false
+"_ZN2al17SeShapeInfo3DRingC1ERKNS_11SeShapeInfoE","al::SeShapeInfo3DRing::SeShapeInfo3DRing(al::SeShapeInfo const&)",false
+"_ZN2al17SeShapeInfo3DCubeC1ERKNS_11SeShapeInfoE","al::SeShapeInfo3DCube::SeShapeInfo3DCube(al::SeShapeInfo const&)",false
+"_ZN2al18SeShapeInfo3DPointC1ERKS0_","al::SeShapeInfo3DPoint::SeShapeInfo3DPoint(al::SeShapeInfo3DPoint const&)",false
+"_ZN2al19SeShapeInfo3DSphereC1ERKS0_","al::SeShapeInfo3DSphere::SeShapeInfo3DSphere(al::SeShapeInfo3DSphere const&)",false
+"_ZN2al19SeShapeInfo3DVectorC1ERKS0_","al::SeShapeInfo3DVector::SeShapeInfo3DVector(al::SeShapeInfo3DVector const&)",false
+"_ZN2al18SeShapeInfo3DPlaneC1ERKS0_","al::SeShapeInfo3DPlane::SeShapeInfo3DPlane(al::SeShapeInfo3DPlane const&)",false
+"_ZN2al17SeShapeInfo3DRingC1ERKS0_","al::SeShapeInfo3DRing::SeShapeInfo3DRing(al::SeShapeInfo3DRing const&)",false
+"_ZN2al17SeShapeInfo3DCubeC1ERKS0_","al::SeShapeInfo3DCube::SeShapeInfo3DCube(al::SeShapeInfo3DCube const&)",false
+"_ZN2al11SeShapeInfo20applyCurveNameToTypeEv","al::SeShapeInfo::applyCurveNameToType(void)",false
+"_ZN2al11SeShapeInfoD0Ev","al::SeShapeInfo::~SeShapeInfo()",false
+"_ZN2al11SeShapeInfo5dummyEv","al::SeShapeInfo::dummy(void)",false
+"_ZN2al18SeShapeInfo3DPointD0Ev","al::SeShapeInfo3DPoint::~SeShapeInfo3DPoint()",false
+"_ZN2al19SeShapeInfo3DSphereD0Ev","al::SeShapeInfo3DSphere::~SeShapeInfo3DSphere()",false
+"_ZN2al19SeShapeInfo3DVectorD0Ev","al::SeShapeInfo3DVector::~SeShapeInfo3DVector()",false
+"_ZN2al18SeShapeInfo3DPlaneD0Ev","al::SeShapeInfo3DPlane::~SeShapeInfo3DPlane()",false
+"_ZN2al11SeShapeInfoD2Ev","al::SeShapeInfo::~SeShapeInfo()",false
+"_ZN2al17SeShapeInfo3DRingD0Ev","al::SeShapeInfo3DRing::~SeShapeInfo3DRing()",false
+"_ZN2al17SeShapeInfo3DCubeD0Ev","al::SeShapeInfo3DCube::~SeShapeInfo3DCube()",false
+"_ZN2al18SeRollOffCurveType5text_Ei","al::SeRollOffCurveType::text_(int)",false
+"_ZN4sead15FixedSafeStringILi93EED0Ev","sead::FixedSafeString<93>::~FixedSafeString()",false
+"_ZN4sead15FixedSafeStringILi93EEaSERKNS_14SafeStringBaseIcEE","sead::FixedSafeString<93>::operator=(sead::SafeStringBase<char> const&)",false
+"_ZN4sead19FixedSafeStringBaseIcLi93EED0Ev","sead::FixedSafeStringBase<char,93>::~FixedSafeStringBase()",false
+"_ZN4sead19FixedSafeStringBaseIcLi93EEaSERKNS_14SafeStringBaseIcEE","sead::FixedSafeStringBase<char,93>::operator=(sead::SafeStringBase<char> const&)",false
+"_ZN2al14SeMaterialInfo10createInfoERKNS_9ByamlIterE","al::SeMaterialInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al14SeMaterialInfo11compareInfoEPKS0_S2_","al::SeMaterialInfo::compareInfo(al::SeMaterialInfo const*,al::SeMaterialInfo const*)",false
+"_ZN2al14SeMaterialInfoC2Ev","al::SeMaterialInfo::SeMaterialInfo(void)",false
+"_ZN2al14SeMaterialInfoC1ERKS0_","al::SeMaterialInfo::SeMaterialInfo(al::SeMaterialInfo const&)",false
+"_ZN2al22SeResourceSpecificInfo10createInfoERKNS_9ByamlIterE","al::SeResourceSpecificInfo::createInfo(al::ByamlIter const&)",false
+"_ZN2al19createAudioInfoListINS_14SeMaterialInfoEEEPNS_22AudioInfoListWithPartsIT_EERKNS_9ByamlIterEi","al::AudioInfoListWithParts<al::SeMaterialInfo> * al::createAudioInfoList<al::SeMaterialInfo>(al::ByamlIter const&,int)",false
+"_ZN2al22SeResourceSpecificInfo11compareInfoEPKS0_S2_","al::SeResourceSpecificInfo::compareInfo(al::SeResourceSpecificInfo const*,al::SeResourceSpecificInfo const*)",false
+"_ZN2al22SeResourceSpecificInfoC2Ev","al::SeResourceSpecificInfo::SeResourceSpecificInfo(void)",false
+"_ZN2al22SeResourceSpecificInfoC1ERKS0_","al::SeResourceSpecificInfo::SeResourceSpecificInfo(al::SeResourceSpecificInfo const&)",false
+"_ZN2al17copyAudioInfoListINS_14SeMaterialInfoEEEPNS_22AudioInfoListWithPartsIT_EEPKS4_i","al::AudioInfoListWithParts<al::SeMaterialInfo> * al::copyAudioInfoList<al::SeMaterialInfo>(al::AudioInfoListWithParts<al::SeMaterialInfo> const*,int)",false
+"_ZN2al26AudioInfoListCreateFunctorINS_14SeMaterialInfoEE30tryCreateAudioInfoAndSetToListERKNS_9ByamlIterE","al::AudioInfoListCreateFunctor<al::SeMaterialInfo>::tryCreateAudioInfoAndSetToList(al::ByamlIter const&)",false

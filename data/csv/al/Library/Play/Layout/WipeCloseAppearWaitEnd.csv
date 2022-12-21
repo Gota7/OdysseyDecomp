@@ -1,0 +1,17 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al22WipeCloseAppearWaitEndC2EPKcS2_RKNS_14LayoutInitInfoES2_b","al::WipeCloseAppearWaitEnd::WipeCloseAppearWaitEnd(char const*,char const*,al::LayoutInitInfo const&,char const*,bool)",false
+"_ZN2al22WipeCloseAppearWaitEndC1EPKcS2_RKNS_14LayoutInitInfoES2_b","al::WipeCloseAppearWaitEnd::WipeCloseAppearWaitEnd(char const*,char const*,al::LayoutInitInfo const&,char const*,bool)",false
+"_ZN2al22WipeCloseAppearWaitEnd10startCloseEi","al::WipeCloseAppearWaitEnd::startClose(int)",false
+"_ZN2al22WipeCloseAppearWaitEnd13startCloseEndEv","al::WipeCloseAppearWaitEnd::startCloseEnd(void)",false
+"_ZN2al22WipeCloseAppearWaitEnd9startOpenEi","al::WipeCloseAppearWaitEnd::startOpen(int)",false
+"_ZNK2al22WipeCloseAppearWaitEnd10isCloseEndEv","al::WipeCloseAppearWaitEnd::isCloseEnd(void)const",false
+"_ZN2al22WipeCloseAppearWaitEnd13exeCloseStartEv","al::WipeCloseAppearWaitEnd::exeCloseStart(void)",false
+"_ZN2al22WipeCloseAppearWaitEnd12exeCloseWaitEv","al::WipeCloseAppearWaitEnd::exeCloseWait(void)",false
+"_ZN2al22WipeCloseAppearWaitEnd11exeCloseEndEv","al::WipeCloseAppearWaitEnd::exeCloseEnd(void)",false
+"_ZN2al22WipeCloseAppearWaitEnd7exeWaitEv","al::WipeCloseAppearWaitEnd::exeWait(void)",false
+"_ZN2al22WipeCloseAppearWaitEnd7exeOpenEv","al::WipeCloseAppearWaitEnd::exeOpen(void)",false
+"sub_710099D4B0","",false
+"sub_710099D4F4","",false
+"sub_710099D55C","",false
+"sub_710099D5A0","",false
+"sub_710099D5E4","",false

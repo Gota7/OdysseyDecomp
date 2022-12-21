@@ -1,0 +1,11 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al14PadTouchDeviceC1EPN4sead13ControllerMgrE","al::PadTouchDevice::PadTouchDevice(sead::ControllerMgr *)",false
+"_ZN2al14PadTouchDeviceD2Ev","al::PadTouchDevice::~PadTouchDevice()",false
+"_ZN2al14PadTouchDeviceD0Ev","al::PadTouchDevice::~PadTouchDevice()",false
+"_ZN2al14PadTouchDevice4calcEv","al::PadTouchDevice::calc(void)",false
+"_ZN2al18PadTouchControllerC2EPN4sead13ControllerMgrE","al::PadTouchController::PadTouchController(sead::ControllerMgr *)",false
+"_ZN2al18PadTouchControllerD2Ev","al::PadTouchController::~PadTouchController()",false
+"_ZN2al18PadTouchControllerD0Ev","al::PadTouchController::~PadTouchController()",false
+"_ZN2al18PadTouchController9calcImpl_Ev","al::PadTouchController::calcImpl_(void)",false
+"_ZNK4sead13ControlDevice27checkDerivedRuntimeTypeInfoEPKNS_15RuntimeTypeInfo9InterfaceE","sead::ControlDevice::checkDerivedRuntimeTypeInfo(sead::RuntimeTypeInfo::Interface const*)const",false
+"_ZNK4sead13ControlDevice18getRuntimeTypeInfoEv","sead::ControlDevice::getRuntimeTypeInfo(void)const",false

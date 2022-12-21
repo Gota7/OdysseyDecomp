@@ -1,0 +1,3 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20AreaCameraSwitchInfoC2Ev","al::AreaCameraSwitchInfo::AreaCameraSwitchInfo(void)",false
+"_ZN2al20AreaCameraSwitchInfo8initAreaEPKNS_7AreaObjEibb","al::AreaCameraSwitchInfo::initArea(al::AreaObj const*,int,bool,bool)",false

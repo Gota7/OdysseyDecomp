@@ -1,0 +1,7 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al25FarDistanceDitherAnimator9tryCreateEPNS_9LiveActorEPKNS_8ResourceEPKc","al::FarDistanceDitherAnimator::tryCreate(al::LiveActor *,al::Resource const*,char const*)",false
+"_ZN2al25FarDistanceDitherAnimator9loadParamERKNS_9ByamlIterE","al::FarDistanceDitherAnimator::loadParam(al::ByamlIter const&)",false
+"_ZN2al25FarDistanceDitherAnimatorC1EPNS_9LiveActorE","al::FarDistanceDitherAnimator::FarDistanceDitherAnimator(al::LiveActor *)",false
+"_ZN2al25FarDistanceDitherAnimator6updateEv","al::FarDistanceDitherAnimator::update(void)",false
+"_ZN2al25FarDistanceDitherAnimator4showEv","al::FarDistanceDitherAnimator::show(void)",false
+"_ZN2al25FarDistanceDitherAnimatorD0Ev","al::FarDistanceDitherAnimator::~FarDistanceDitherAnimator()",false

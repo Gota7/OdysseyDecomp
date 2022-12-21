@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al12SeBarrierObjC2EPKc","al::SeBarrierObj::SeBarrierObj(char const*)",false
+"_ZN2al12SeBarrierObjC1EPKc","al::SeBarrierObj::SeBarrierObj(char const*)",false
+"_ZN2al12SeBarrierObj4initERKNS_13ActorInitInfoE","al::SeBarrierObj::init(al::ActorInitInfo const&)",false
+"_ZN2al12SeBarrierObj8movementEv","al::SeBarrierObj::movement(void)",false

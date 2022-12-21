@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al13FlashingTimerC2Eiiii","al::FlashingTimer::FlashingTimer(int,int,int,int)",false
+"_ZN2al13FlashingTimer5startEiiii","al::FlashingTimer::start(int,int,int,int)",false
+"_ZN2al13FlashingTimer6updateEv","al::FlashingTimer::update(void)",false
+"_ZNK2al13FlashingTimer12isHurryStartEv","al::FlashingTimer::isHurryStart(void)const",false
+"_ZNK2al13FlashingTimer11getLastTimeEv","al::FlashingTimer::getLastTime(void)const",false

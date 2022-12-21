@@ -1,0 +1,9 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al11AnimResInfoC2Ev","al::AnimResInfo::AnimResInfo(void)",false
+"_ZNK2al11AnimResInfo11getFrameMaxEv","al::AnimResInfo::getFrameMax(void)const",false
+"_ZNK2al11AnimResInfo6isLoopEv","al::AnimResInfo::isLoop(void)const",false
+"_ZN2al13AnimInfoTableC2Ei","al::AnimInfoTable::AnimInfoTable(int)",false
+"_ZN2al13AnimInfoTable3addEPKcPvfb","al::AnimInfoTable::add(char const*,void *,float,bool)",false
+"_ZNK2al13AnimInfoTable12findAnimInfoEPKc","al::AnimInfoTable::findAnimInfo(char const*)const",false
+"_ZNK2al13AnimInfoTable15tryFindAnimInfoEPKc","al::AnimInfoTable::tryFindAnimInfo(char const*)const",false
+"_ZN2al13AnimInfoTable4sortEv","al::AnimInfoTable::sort(void)",false

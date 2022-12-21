@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20CameraParamMoveLimit6createEPKNS_11CameraPoserE","al::CameraParamMoveLimit::create(al::CameraPoser const*)",false
+"_ZN2al20CameraParamMoveLimit4loadERKNS_9ByamlIterE","al::CameraParamMoveLimit::load(al::ByamlIter const&)",false
+"_ZNK2al20CameraParamMoveLimit5applyEPN4sead12LookAtCameraE","al::CameraParamMoveLimit::apply(sead::LookAtCamera *)const",false
+"_ZN2al20CameraParamMoveLimitC2Ev","al::CameraParamMoveLimit::CameraParamMoveLimit(void)",false

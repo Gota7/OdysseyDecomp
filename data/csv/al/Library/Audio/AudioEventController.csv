@@ -1,0 +1,29 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20AudioEventControllerC1EPKNS_13AudioDirectorEPKc","al::AudioEventController::AudioEventController(al::AudioDirector const*,char const*)",false
+"_ZN2al20AudioEventController6init3DEPNS_15AreaObjDirectorEPNS_21AudioEffectControllerE","al::AudioEventController::init3D(al::AreaObjDirector *,al::AudioEffectController *)",false
+"_ZN2al20AudioEventController22initAfterInitPlacementEPKNS_13AudioDirectorE","al::AudioEventController::initAfterInitPlacement(al::AudioDirector const*)",false
+"_ZN2al20AudioEventController6updateEv","al::AudioEventController::update(void)",false
+"_ZNK2al20AudioEventController18isEnableAudioEventEi","al::AudioEventController::isEnableAudioEvent(int)const",false
+"_ZN2al20AudioEventController8finalizeEv","al::AudioEventController::finalize(void)",false
+"_ZN2al20AudioEventController15setPlayerHolderEPKNS_12PlayerHolderE","al::AudioEventController::setPlayerHolder(al::PlayerHolder const*)",false
+"_ZN2al20AudioEventController8activateEv","al::AudioEventController::activate(void)",false
+"_ZN2al20AudioEventController10deactivateEv","al::AudioEventController::deactivate(void)",false
+"_ZN2al20AudioEventController22activateEachAudioEventEib","al::AudioEventController::activateEachAudioEvent(int,bool)",false
+"_ZN2al20AudioEventController24deactivateEachAudioEventEib","al::AudioEventController::deactivateEachAudioEvent(int,bool)",false
+"_ZN2al20AudioEventController15isInBgmStopAreaEPKc","al::AudioEventController::isInBgmStopArea(char const*)",false
+"_ZN2al20AudioEventController32getBgmSituationNameByAreaCheckerEv","al::AudioEventController::getBgmSituationNameByAreaChecker(void)",false
+"_ZN2al20AudioEventController31getAudioEffectNameByAreaCheckerEv","al::AudioEventController::getAudioEffectNameByAreaChecker(void)",false
+"_ZNK2al20AudioEventController22isEnableBgmChangeEventEv","al::AudioEventController::isEnableBgmChangeEvent(void)const",false
+"_ZNK2al20AudioEventController31isEnableBgmSituationChangeEventEv","al::AudioEventController::isEnableBgmSituationChangeEvent(void)const",false
+"_ZNK2al20AudioEventController21isEnableAllAudioEventEv","al::AudioEventController::isEnableAllAudioEvent(void)const",false
+"_ZNK2al20AudioEventController22isDisableAllAudioEventEv","al::AudioEventController::isDisableAllAudioEvent(void)const",false
+"_ZN30alAudioEventControllerFunction19tryRegistBgmPlayObjEPN2al20AudioEventControllerEPNS0_10BgmPlayObjE","alAudioEventControllerFunction::tryRegistBgmPlayObj(al::AudioEventController *,al::BgmPlayObj *)",false
+"_ZN30alAudioEventControllerFunction27getBgmPlayNameInCurPositionEPN2al20AudioEventControllerEb","alAudioEventControllerFunction::getBgmPlayNameInCurPosition(al::AudioEventController *,bool)",false
+"_ZN30alAudioEventControllerFunction30getBgmPlayNameInTargetPositionEPN2al20AudioEventControllerERKN4sead7Vector3IfEE","alAudioEventControllerFunction::getBgmPlayNameInTargetPosition(al::AudioEventController *,sead::Vector3<float> const&)",false
+"_ZN30alAudioEventControllerFunction31tryStartAndStopBgmInCurPositionEPN2al20AudioEventControllerEbb","alAudioEventControllerFunction::tryStartAndStopBgmInCurPosition(al::AudioEventController *,bool,bool)",false
+"_ZN30alAudioEventControllerFunction22activateAudioEventCtrlEPN2al13AudioDirectorE","alAudioEventControllerFunction::activateAudioEventCtrl(al::AudioDirector *)",false
+"_ZN30alAudioEventControllerFunction24deactivateAudioEventCtrlEPN2al13AudioDirectorE","alAudioEventControllerFunction::deactivateAudioEventCtrl(al::AudioDirector *)",false
+"_ZN30alAudioEventControllerFunction37tryActivateOrDeactivateAudioEventCtrlEPN2al13AudioDirectorEbi","alAudioEventControllerFunction::tryActivateOrDeactivateAudioEventCtrl(al::AudioDirector *,bool,int)",false
+"_ZNK2al20AudioEventController14getAudioKeeperEv","al::AudioEventController::getAudioKeeper(void)const",false
+"_ZNK2al20AudioEventController18getAreaObjDirectorEv","al::AudioEventController::getAreaObjDirector(void)const",false
+"_ZThn8_NK2al20AudioEventController18getAreaObjDirectorEv","`non-virtual thunk to'al::AudioEventController::getAreaObjDirector(void)const",false

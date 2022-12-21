@@ -1,0 +1,12 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al19HostSyncTowerCameraC1EPNS_9LiveActorEPNS_12AreaObjGroupERKNS_13ActorInitInfoE","al::HostSyncTowerCamera::HostSyncTowerCamera(al::LiveActor *,al::AreaObjGroup *,al::ActorInitInfo const&)",false
+"_ZN2al19HostSyncTowerCamera6updateEv","al::HostSyncTowerCamera::update(void)",false
+"_ZN2al19HostSyncTowerCamera8activateEv","al::HostSyncTowerCamera::activate(void)",false
+"_ZN2al19HostSyncTowerCamera10deactivateEv","al::HostSyncTowerCamera::deactivate(void)",false
+"_ZN2al19HostSyncTowerCamera12tryEndCameraEv","al::HostSyncTowerCamera::tryEndCamera(void)",false
+"_ZN2al19HostSyncTowerCamera9exeActiveEv","al::HostSyncTowerCamera::exeActive(void)",false
+"_ZN2al19HostSyncTowerCamera14tryStartCameraEv","al::HostSyncTowerCamera::tryStartCamera(void)",false
+"_ZN2al19HostSyncTowerCamera11exeDeactiveEv","al::HostSyncTowerCamera::exeDeactive(void)",false
+"_ZN2al19HostSyncTowerCameraD0Ev","al::HostSyncTowerCamera::~HostSyncTowerCamera()",false
+"nullsub_489","",false
+"sub_7100A727C4","",false

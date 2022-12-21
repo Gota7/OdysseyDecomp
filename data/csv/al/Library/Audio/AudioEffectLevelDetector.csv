@@ -1,0 +1,8 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al24AudioEffectLevelDetectorC2Ev","al::AudioEffectLevelDetector::AudioEffectLevelDetector(void)",false
+"_ZN2al24AudioEffectLevelDetector9setParamsEPKNS_19AudioEffectProcInfoE","al::AudioEffectLevelDetector::setParams(al::AudioEffectProcInfo const*)",false
+"_ZN2al24AudioEffectLevelDetector15updateGameFrameEv","al::AudioEffectLevelDetector::updateGameFrame(void)",false
+"_ZNK2al24AudioEffectLevelDetector24getCalcedAudioFrameRatioEv","al::AudioEffectLevelDetector::getCalcedAudioFrameRatio(void)const",false
+"_ZN2al24AudioEffectLevelDetector18GetRequiredMemSizeEv","al::AudioEffectLevelDetector::GetRequiredMemSize(void)",false
+"_ZN2al24AudioEffectLevelDetector13UpdateSamplesEPiRKN2nn3atk9EffectAux16UpdateSamplesArgE","al::AudioEffectLevelDetector::UpdateSamples(int *,nn::atk::EffectAux::UpdateSamplesArg const&)",false
+"_ZN2al24AudioEffectLevelDetectorD0Ev","al::AudioEffectLevelDetector::~AudioEffectLevelDetector()",false

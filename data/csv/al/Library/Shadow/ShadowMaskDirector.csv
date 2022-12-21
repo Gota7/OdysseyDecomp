@@ -1,0 +1,168 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al19isShadowMaskLbufAddEi","al::isShadowMaskLbufAdd(int)",false
+"_ZN2al21isShadowMaskLbufScaleEi","al::isShadowMaskLbufScale(int)",false
+"_ZN2al14isShadowMaskAOEi","al::isShadowMaskAO(int)",false
+"_ZN2al18isShadowMaskShadowEi","al::isShadowMaskShadow(int)",false
+"_ZN2al14ShadowMaskBaseC2EPKc","al::ShadowMaskBase::ShadowMaskBase(char const*)",false
+"_ZN2al14ShadowMaskBase18initAfterPlacementEv","al::ShadowMaskBase::initAfterPlacement(void)",false
+"_ZN2al14ShadowMaskBase18createMtxConnectorEv","al::ShadowMaskBase::createMtxConnector(void)",false
+"_ZN2al14ShadowMaskBase7setHostEPKNS_9LiveActorE","al::ShadowMaskBase::setHost(al::LiveActor const*)",false
+"_ZN2al14ShadowMaskBase15setDrawCategoryEPKc","al::ShadowMaskBase::setDrawCategory(char const*)",false
+"_ZN2al14ShadowMaskBase9readParamERKNS_9ByamlIterE","al::ShadowMaskBase::readParam(al::ByamlIter const&)",false
+"_ZN2al14ShadowMaskBaseD2Ev","al::ShadowMaskBase::~ShadowMaskBase()",false
+"_ZN2al14ShadowMaskBaseD0Ev","al::ShadowMaskBase::~ShadowMaskBase()",false
+"_ZN2al22ShadowMaskDrawCategory5text_Ei","al::ShadowMaskDrawCategory::text_(int)",false
+"_ZN2al26ShadowMaskCastOvalCylinderC2EPKc","al::ShadowMaskCastOvalCylinder::ShadowMaskCastOvalCylinder(char const*)",false
+"_ZN2al26ShadowMaskCastOvalCylinder7declareENS_22ShadowMaskDrawCategoryE","al::ShadowMaskCastOvalCylinder::declare(al::ShadowMaskDrawCategory)",false
+"_ZN2al26ShadowMaskCastOvalCylinder16calcShadowMatrixEPN4sead8Matrix34IfEE","al::ShadowMaskCastOvalCylinder::calcShadowMatrix(sead::Matrix34<float> *)",false
+"_ZNK2al26ShadowMaskCastOvalCylinder23calcOvalWrapMtxCylinderEPN4sead8Matrix34IfEES3_RKNS1_7Vector3IfEEf","al::ShadowMaskCastOvalCylinder::calcOvalWrapMtxCylinder(sead::Matrix34<float> *,sead::Matrix34<float>,sead::Vector3<float> const&,float)const",false
+"_ZN2al26ShadowMaskCastOvalCylinder6updateEv","al::ShadowMaskCastOvalCylinder::update(void)",false
+"_ZN2al26ShadowMaskCastOvalCylinder11updateMultiEv","al::ShadowMaskCastOvalCylinder::updateMulti(void)",false
+"_ZN2al26ShadowMaskCastOvalCylinder8addMultiEv","al::ShadowMaskCastOvalCylinder::addMulti(void)",false
+"_ZN2al26ShadowMaskCastOvalCylinderD0Ev","al::ShadowMaskCastOvalCylinder::~ShadowMaskCastOvalCylinder()",false
+"_ZNK2al26ShadowMaskCastOvalCylinder17getShadowMaskTypeEv","al::ShadowMaskCastOvalCylinder::getShadowMaskType(void)const",false
+"_ZN2al12ShadowKeeperC2Ev","al::ShadowKeeper::ShadowKeeper(void)",false
+"_ZN2al12ShadowKeeper18initAfterPlacementEPNS_18GraphicsSystemInfoE","al::ShadowKeeper::initAfterPlacement(al::GraphicsSystemInfo *)",false
+"_ZN2al12ShadowKeeper6updateEv","al::ShadowKeeper::update(void)",false
+"_ZNK2al12ShadowKeeper6isHideEv","al::ShadowKeeper::isHide(void)const",false
+"_ZN2al12ShadowKeeper4hideEv","al::ShadowKeeper::hide(void)",false
+"_ZN2al12ShadowKeeper4showEv","al::ShadowKeeper::show(void)",false
+"_ZNK2al14ShadowMaskCtrl26setupShadowMaskSphereParamEPNS_16ShadowMaskSphereE","al::ShadowMaskCtrl::setupShadowMaskSphereParam(al::ShadowMaskSphere *)const",false
+"_ZN15alYamlMacroUtil14YamlParamGroup11setParamPtrIfEEvPKcPT_","void alYamlMacroUtil::YamlParamGroup::setParamPtr<float>(char const*,float *)",false
+"_ZN15alYamlMacroUtil14YamlParamGroup11setParamPtrIbEEvPKcPT_","void alYamlMacroUtil::YamlParamGroup::setParamPtr<bool>(char const*,bool *)",false
+"_ZNK2al14ShadowMaskCtrl28setupShadowMaskCylinderParamEPNS_18ShadowMaskCylinderE","al::ShadowMaskCtrl::setupShadowMaskCylinderParam(al::ShadowMaskCylinder *)const",false
+"_ZNK2al14ShadowMaskCtrl24setupShadowMaskCubeParamEPNS_14ShadowMaskCubeE","al::ShadowMaskCtrl::setupShadowMaskCubeParam(al::ShadowMaskCube *)const",false
+"_ZN15alYamlMacroUtil14YamlParamGroup11setParamPtrIN4sead7Vector3IfEEEEvPKcPT_","void alYamlMacroUtil::YamlParamGroup::setParamPtr<sead::Vector3<float>>(char const*,sead::Vector3<float> *)",false
+"_ZN15alYamlMacroUtil14YamlParamGroup11setParamPtrIPKcEEvS3_PT_","void alYamlMacroUtil::YamlParamGroup::setParamPtr<char const*>(char const*,char const* *)",false
+"_ZN15alYamlMacroUtil14YamlParamGroup11setParamPtrIN4sead7Vector2IfEEEEvPKcPT_","void alYamlMacroUtil::YamlParamGroup::setParamPtr<sead::Vector2<float>>(char const*,sead::Vector2<float> *)",false
+"_ZNK2al14ShadowMaskCtrl36setupShadowMaskCastOvalCylinderParamEPNS_26ShadowMaskCastOvalCylinderE","al::ShadowMaskCtrl::setupShadowMaskCastOvalCylinderParam(al::ShadowMaskCastOvalCylinder *)const",false
+"_ZN2al14ShadowMaskCtrl18ShadowMaskBaseInfo6setPtrEv","al::ShadowMaskCtrl::ShadowMaskBaseInfo::setPtr(void)",false
+"_ZN15alYamlMacroUtil14YamlParamGroup11setParamPtrIN4sead7Color4fEEEvPKcPT_","void alYamlMacroUtil::YamlParamGroup::setParamPtr<sead::Color4f>(char const*,sead::Color4f *)",false
+"_ZN15alYamlMacroUtil14YamlParamGroup11setParamPtrIhEEvPKcPT_","void alYamlMacroUtil::YamlParamGroup::setParamPtr<unsigned char>(char const*,unsigned char *)",false
+"_ZN2al14ShadowMaskCtrl18ShadowMaskBaseInfo8readIterERKNS_9ByamlIterE","al::ShadowMaskCtrl::ShadowMaskBaseInfo::readIter(al::ByamlIter const&)",false
+"_ZN2al14ShadowMaskCtrlC2Eb","al::ShadowMaskCtrl::ShadowMaskCtrl(bool)",false
+"_ZN2al14ShadowMaskCtrl17initShadowMaskNumEi","al::ShadowMaskCtrl::initShadowMaskNum(int)",false
+"_ZN2al14ShadowMaskCtrl4initEPNS_9LiveActorERKNS_13ActorInitInfoERKNS_9ByamlIterE","al::ShadowMaskCtrl::init(al::LiveActor *,al::ActorInitInfo const&,al::ByamlIter const&)",false
+"_ZNK2al14ShadowMaskCtrl14findShadowMaskEPKc","al::ShadowMaskCtrl::findShadowMask(char const*)const",false
+"_ZN2al14ShadowMaskCtrl4showEv","al::ShadowMaskCtrl::show(void)",false
+"_ZN2al14ShadowMaskCtrl4initEPNS_9LiveActorEi","al::ShadowMaskCtrl::init(al::LiveActor *,int)",false
+"_ZN2al14ShadowMaskCtrl18initAfterPlacementEv","al::ShadowMaskCtrl::initAfterPlacement(void)",false
+"_ZN2al14ShadowMaskCtrl4hideEv","al::ShadowMaskCtrl::hide(void)",false
+"_ZN2al14ShadowMaskCtrl8validateEv","al::ShadowMaskCtrl::validate(void)",false
+"_ZN2al14ShadowMaskCtrl10invalidateEv","al::ShadowMaskCtrl::invalidate(void)",false
+"_ZNK2al14ShadowMaskCtrl6isHideEv","al::ShadowMaskCtrl::isHide(void)const",false
+"_ZN2al14ShadowMaskCtrl16appendShadowMaskEPNS_14ShadowMaskBaseE","al::ShadowMaskCtrl::appendShadowMask(al::ShadowMaskBase *)",false
+"_ZN15alYamlMacroUtil13YamlParamBaseIPKcE8clearPtrEv","alYamlMacroUtil::YamlParamBase<char const*>::clearPtr(void)",false
+"_ZNK15alYamlMacroUtil20YamlParam_YamlString10getClassIdEv","alYamlMacroUtil::YamlParam_YamlString::getClassId(void)const",false
+"_ZNK15alYamlMacroUtil13YamlParamBaseIPKcE10isValidPtrEv","alYamlMacroUtil::YamlParamBase<char const*>::isValidPtr(void)const",false
+"_ZN15alYamlMacroUtil13IUseYamlParam9setPtr_u8EPh","alYamlMacroUtil::IUseYamlParam::setPtr_u8(unsigned char *)",false
+"_ZN15alYamlMacroUtil13IUseYamlParam10setPtr_u16EPt","alYamlMacroUtil::IUseYamlParam::setPtr_u16(unsigned short *)",false
+"_ZN15alYamlMacroUtil13IUseYamlParam10setPtr_s16EPs","alYamlMacroUtil::IUseYamlParam::setPtr_s16(short *)",false
+"_ZN15alYamlMacroUtil13IUseYamlParam10setPtr_V2fEPN4sead7Vector2IfEE","alYamlMacroUtil::IUseYamlParam::setPtr_V2f(sead::Vector2<float> *)",false
+"_ZN15alYamlMacroUtil13IUseYamlParam10setPtr_V3fEPN4sead7Vector3IfEE","alYamlMacroUtil::IUseYamlParam::setPtr_V3f(sead::Vector3<float> *)",false
+"_ZN15alYamlMacroUtil13IUseYamlParam16setPtr_YamlColorEPN4sead7Color4fE","alYamlMacroUtil::IUseYamlParam::setPtr_YamlColor(sead::Color4f *)",false
+"_ZN15alYamlMacroUtil13IUseYamlParam10setPtr_s32EPi","alYamlMacroUtil::IUseYamlParam::setPtr_s32(int *)",false
+"_ZN15alYamlMacroUtil13IUseYamlParam10setPtr_f32EPf","alYamlMacroUtil::IUseYamlParam::setPtr_f32(float *)",false
+"_ZN15alYamlMacroUtil13IUseYamlParam11setPtr_boolEPb","alYamlMacroUtil::IUseYamlParam::setPtr_bool(bool *)",false
+"_ZN15alYamlMacroUtil20YamlParam_YamlString17setPtr_YamlStringEPPKc","alYamlMacroUtil::YamlParam_YamlString::setPtr_YamlString(char const**)",false
+"_ZN15alYamlMacroUtil13IUseYamlParam17setPtr_YamlStringEPPKc","alYamlMacroUtil::IUseYamlParam::setPtr_YamlString(char const**)",false
+"_ZN15alYamlMacroUtil13YamlParamBaseIN4sead7Vector3IfEEE8clearPtrEv","alYamlMacroUtil::YamlParamBase<sead::Vector3<float>>::clearPtr(void)",false
+"_ZNK15alYamlMacroUtil13YamlParam_V3f10getClassIdEv","alYamlMacroUtil::YamlParam_V3f::getClassId(void)const",false
+"_ZNK15alYamlMacroUtil13YamlParamBaseIN4sead7Vector3IfEEE10isValidPtrEv","alYamlMacroUtil::YamlParamBase<sead::Vector3<float>>::isValidPtr(void)const",false
+"_ZN15alYamlMacroUtil13YamlParam_V3f10setPtr_V3fEPN4sead7Vector3IfEE","alYamlMacroUtil::YamlParam_V3f::setPtr_V3f(sead::Vector3<float> *)",false
+"_ZN15alYamlMacroUtil13YamlParamBaseIN4sead7Color4fEE8clearPtrEv","alYamlMacroUtil::YamlParamBase<sead::Color4f>::clearPtr(void)",false
+"_ZNK15alYamlMacroUtil19YamlParam_YamlColor10getClassIdEv","alYamlMacroUtil::YamlParam_YamlColor::getClassId(void)const",false
+"_ZNK15alYamlMacroUtil13YamlParamBaseIN4sead7Color4fEE10isValidPtrEv","alYamlMacroUtil::YamlParamBase<sead::Color4f>::isValidPtr(void)const",false
+"_ZN15alYamlMacroUtil19YamlParam_YamlColor16setPtr_YamlColorEPN4sead7Color4fE","alYamlMacroUtil::YamlParam_YamlColor::setPtr_YamlColor(sead::Color4f *)",false
+"_ZN15alYamlMacroUtil13YamlParamBaseIbE8clearPtrEv","alYamlMacroUtil::YamlParamBase<bool>::clearPtr(void)",false
+"_ZNK15alYamlMacroUtil14YamlParam_bool10getClassIdEv","alYamlMacroUtil::YamlParam_bool::getClassId(void)const",false
+"_ZNK15alYamlMacroUtil13YamlParamBaseIbE10isValidPtrEv","alYamlMacroUtil::YamlParamBase<bool>::isValidPtr(void)const",false
+"_ZN15alYamlMacroUtil14YamlParam_bool11setPtr_boolEPb","alYamlMacroUtil::YamlParam_bool::setPtr_bool(bool *)",false
+"_ZN15alYamlMacroUtil13YamlParamBaseIhE8clearPtrEv","alYamlMacroUtil::YamlParamBase<unsigned char>::clearPtr(void)",false
+"_ZNK15alYamlMacroUtil12YamlParam_u810getClassIdEv","alYamlMacroUtil::YamlParam_u8::getClassId(void)const",false
+"_ZNK15alYamlMacroUtil13YamlParamBaseIhE10isValidPtrEv","alYamlMacroUtil::YamlParamBase<unsigned char>::isValidPtr(void)const",false
+"_ZN15alYamlMacroUtil12YamlParam_u89setPtr_u8EPh","alYamlMacroUtil::YamlParam_u8::setPtr_u8(unsigned char *)",false
+"_ZN15alYamlMacroUtil13YamlParamBaseIfE8clearPtrEv","alYamlMacroUtil::YamlParamBase<float>::clearPtr(void)",false
+"_ZNK15alYamlMacroUtil13YamlParam_f3210getClassIdEv","alYamlMacroUtil::YamlParam_f32::getClassId(void)const",false
+"_ZNK15alYamlMacroUtil13YamlParamBaseIfE10isValidPtrEv","alYamlMacroUtil::YamlParamBase<float>::isValidPtr(void)const",false
+"_ZN15alYamlMacroUtil13YamlParam_f3210setPtr_f32EPf","alYamlMacroUtil::YamlParam_f32::setPtr_f32(float *)",false
+"_ZN15alYamlMacroUtil13YamlParamBaseIN4sead7Vector2IfEEE8clearPtrEv","alYamlMacroUtil::YamlParamBase<sead::Vector2<float>>::clearPtr(void)",false
+"_ZNK15alYamlMacroUtil13YamlParam_V2f10getClassIdEv","alYamlMacroUtil::YamlParam_V2f::getClassId(void)const",false
+"_ZNK15alYamlMacroUtil13YamlParamBaseIN4sead7Vector2IfEEE10isValidPtrEv","alYamlMacroUtil::YamlParamBase<sead::Vector2<float>>::isValidPtr(void)const",false
+"_ZN15alYamlMacroUtil13YamlParam_V2f10setPtr_V2fEPN4sead7Vector2IfEE","alYamlMacroUtil::YamlParam_V2f::setPtr_V2f(sead::Vector2<float> *)",false
+"_ZN2al14ShadowMaskType5text_Ei","al::ShadowMaskType::text_(int)",false
+"_ZN4sead15FixedSafeStringILi81EED0Ev","sead::FixedSafeString<81>::~FixedSafeString()",false
+"_ZN4sead15FixedSafeStringILi81EEaSERKNS_14SafeStringBaseIcEE","sead::FixedSafeString<81>::operator=(sead::SafeStringBase<char> const&)",false
+"_ZN4sead19FixedSafeStringBaseIcLi81EED0Ev","sead::FixedSafeStringBase<char,81>::~FixedSafeStringBase()",false
+"_ZN4sead19FixedSafeStringBaseIcLi81EEaSERKNS_14SafeStringBaseIcEE","sead::FixedSafeStringBase<char,81>::operator=(sead::SafeStringBase<char> const&)",false
+"sub_7100A20E30","",false
+"_ZN2al14ShadowMaskCubeC2EPKc","al::ShadowMaskCube::ShadowMaskCube(char const*)",false
+"_ZN2al14ShadowMaskCubeD2Ev","al::ShadowMaskCube::~ShadowMaskCube()",false
+"_ZN2al14ShadowMaskCubeD0Ev","al::ShadowMaskCube::~ShadowMaskCube()",false
+"_ZN2al14ShadowMaskCube14tryInitTextureEPKc","al::ShadowMaskCube::tryInitTexture(char const*)",false
+"_ZN2al14ShadowMaskCube7declareENS_22ShadowMaskDrawCategoryE","al::ShadowMaskCube::declare(al::ShadowMaskDrawCategory)",false
+"_ZN2al14ShadowMaskCube6updateEv","al::ShadowMaskCube::update(void)",false
+"_ZN2al14ShadowMaskCube11updateMultiEv","al::ShadowMaskCube::updateMulti(void)",false
+"_ZN2al14ShadowMaskCube8addMultiEv","al::ShadowMaskCube::addMulti(void)",false
+"_ZN2al14ShadowMaskCube16calcShadowMatrixEPN4sead8Matrix34IfEE","al::ShadowMaskCube::calcShadowMatrix(sead::Matrix34<float> *)",false
+"_ZNK2al14ShadowMaskCube17getShadowMaskTypeEv","al::ShadowMaskCube::getShadowMaskType(void)const",false
+"_ZN2al18ShadowMaskCylinderC2EPKc","al::ShadowMaskCylinder::ShadowMaskCylinder(char const*)",false
+"_ZN2al18ShadowMaskCylinder7declareENS_22ShadowMaskDrawCategoryE","al::ShadowMaskCylinder::declare(al::ShadowMaskDrawCategory)",false
+"_ZN2al18ShadowMaskCylinder16calcShadowMatrixEPN4sead8Matrix34IfEE","al::ShadowMaskCylinder::calcShadowMatrix(sead::Matrix34<float> *)",false
+"_ZN2al18ShadowMaskCylinder6updateEv","al::ShadowMaskCylinder::update(void)",false
+"_ZN2al18ShadowMaskCylinder11updateMultiEv","al::ShadowMaskCylinder::updateMulti(void)",false
+"_ZN2al18ShadowMaskCylinder8addMultiEv","al::ShadowMaskCylinder::addMulti(void)",false
+"_ZN2al18ShadowMaskCylinderD0Ev","al::ShadowMaskCylinder::~ShadowMaskCylinder()",false
+"_ZNK2al18ShadowMaskCylinder17getShadowMaskTypeEv","al::ShadowMaskCylinder::getShadowMaskType(void)const",false
+"_ZN2al18ShadowMaskDirectorC2EhPNS_18GraphicsSystemInfoE","al::ShadowMaskDirector::ShadowMaskDirector(unsigned char,al::GraphicsSystemInfo *)",false
+"_ZN2al18ShadowMaskDirectorD2Ev","al::ShadowMaskDirector::~ShadowMaskDirector()",false
+"_ZN2al18ShadowMaskDirector7endInitEv","al::ShadowMaskDirector::endInit(void)",false
+"_ZN2al18ShadowMaskDirector10initializeEjh","al::ShadowMaskDirector::initialize(unsigned int,unsigned char)",false
+"_ZN2al18ShadowMaskDirector5clearEv","al::ShadowMaskDirector::clear(void)",false
+"_ZN2al18ShadowMaskDirector16updateShadowMaskEv","al::ShadowMaskDirector::updateShadowMask(void)",false
+"_ZN2al18ShadowMaskDirector15updateMultiCoreEi","al::ShadowMaskDirector::updateMultiCore(int)",false
+"_ZN2al18ShadowMaskDirector24updateGpuBufferMultiCoreEi","al::ShadowMaskDirector::updateGpuBufferMultiCore(int)",false
+"_ZN2al18ShadowMaskDirector16setUniformSphereEPN3agl12UniformBlockERKNS0_8PrimInfoERKN4sead8Matrix34IfEERKNS7_8Matrix44IfEE","al::ShadowMaskDirector::setUniformSphere(agl::UniformBlock *,al::ShadowMaskDirector::PrimInfo const&,sead::Matrix34<float> const&,sead::Matrix44<float> const&)",false
+"_ZN2al18ShadowMaskDirector18setUniformCylinderEPN3agl12UniformBlockERKNS0_8PrimInfoERKN4sead8Matrix34IfEERKNS7_8Matrix44IfEE","al::ShadowMaskDirector::setUniformCylinder(agl::UniformBlock *,al::ShadowMaskDirector::PrimInfo const&,sead::Matrix34<float> const&,sead::Matrix44<float> const&)",false
+"_ZN2al18ShadowMaskDirector14setUniformCubeEPN3agl12UniformBlockERKNS0_8PrimInfoERKN4sead8Matrix34IfEERKNS7_8Matrix44IfEE","al::ShadowMaskDirector::setUniformCube(agl::UniformBlock *,al::ShadowMaskDirector::PrimInfo const&,sead::Matrix34<float> const&,sead::Matrix44<float> const&)",false
+"_ZN2al18ShadowMaskDirector18registerShadowMaskEPNS_14ShadowMaskBaseE","al::ShadowMaskDirector::registerShadowMask(al::ShadowMaskBase *)",false
+"_ZN2al18ShadowMaskDirector24registerUpdateShadowMaskEPNS_14ShadowMaskBaseE","al::ShadowMaskDirector::registerUpdateShadowMask(al::ShadowMaskBase *)",false
+"_ZN2al18ShadowMaskDirector22removeUpdateShadowMaskEPNS_14ShadowMaskBaseE","al::ShadowMaskDirector::removeUpdateShadowMask(al::ShadowMaskBase *)",false
+"_ZN2al18ShadowMaskDirector4initEv","al::ShadowMaskDirector::init(void)",false
+"_ZN2al18ShadowMaskDirector10initShaderEPNS_12ShaderHolderE","al::ShadowMaskDirector::initShader(al::ShaderHolder *)",false
+"_ZN2al18ShadowMaskDirector9addSphereERKN4sead8Matrix34IfEERKNS1_7Color4fEfi","al::ShadowMaskDirector::addSphere(sead::Matrix34<float> const&,sead::Color4f const&,float,int)",false
+"_ZN2al18ShadowMaskDirector11addCylinderERKN4sead8Matrix34IfEERKNS1_7Color4fEfffbi","al::ShadowMaskDirector::addCylinder(sead::Matrix34<float> const&,sead::Color4f const&,float,float,float,bool,int)",false
+"_ZN2al18ShadowMaskDirector19addCastOvalCylinderERKN4sead8Matrix34IfEERKNS1_7Color4fEfffbi","al::ShadowMaskDirector::addCastOvalCylinder(sead::Matrix34<float> const&,sead::Color4f const&,float,float,float,bool,int)",false
+"_ZN2al18ShadowMaskDirector7addCubeERKN4sead8Matrix34IfEES5_S5_RKNS1_7Color4fERKNS1_7Vector3IfEEfbiPN3agl14TextureSamplerEbbRKNS1_7Vector2IfEESJ_SJ_i","al::ShadowMaskDirector::addCube(sead::Matrix34<float> const&,sead::Matrix34<float> const&,sead::Matrix34<float> const&,sead::Color4f const&,sead::Vector3<float> const&,float,bool,int,agl::TextureSampler *,bool,bool,sead::Vector2<float> const&,sead::Vector2<float> const&,sead::Vector2<float> const&,int)",false
+"_ZN2al18ShadowMaskDirector22addCastInterpolateCubeERKN4sead8Matrix34IfEERKNS1_7Color4fERKNS1_7Vector3IfEEfbi","al::ShadowMaskDirector::addCastInterpolateCube(sead::Matrix34<float> const&,sead::Color4f const&,sead::Vector3<float> const&,float,bool,int)",false
+"_ZN2al18ShadowMaskDirector16setUniformCommonEiii","al::ShadowMaskDirector::setUniformCommon(int,int,int)",false
+"_ZN2al18ShadowMaskDirector15updateGpuBufferEiPKN4sead8Matrix34IfEEPKNS1_8Matrix44IfEE","al::ShadowMaskDirector::updateGpuBuffer(int,sead::Matrix34<float> const*,sead::Matrix44<float> const*)",false
+"_ZN2al18ShadowMaskDirector8flushUboEi","al::ShadowMaskDirector::flushUbo(int)",false
+"_ZN2al18ShadowMaskDirector13swapGpuBufferEv","al::ShadowMaskDirector::swapGpuBuffer(void)",false
+"_ZN2al18ShadowMaskDirector14drawPrimSphereEiRNS0_7ContextEPKN3agl13ShaderProgramERKNS3_11TextureDataERKN4sead8Matrix34IfEERKNSA_8Matrix44IfEEib","al::ShadowMaskDirector::drawPrimSphere(int,al::ShadowMaskDirector::Context &,agl::ShaderProgram const*,agl::TextureData const&,sead::Matrix34<float> const&,sead::Matrix44<float> const&,int,bool)",false
+"_ZN2al18ShadowMaskDirector16drawPrimCylinderEiRNS0_7ContextEPKN3agl13ShaderProgramERKNS3_11TextureDataERKN4sead8Matrix34IfEERKNSA_8Matrix44IfEEib","al::ShadowMaskDirector::drawPrimCylinder(int,al::ShadowMaskDirector::Context &,agl::ShaderProgram const*,agl::TextureData const&,sead::Matrix34<float> const&,sead::Matrix44<float> const&,int,bool)",false
+"_ZN2al18ShadowMaskDirector12drawPrimCubeEiRNS0_7ContextEPKN3agl13ShaderProgramERKNS3_11TextureDataERKN4sead8Matrix34IfEERKNSA_8Matrix44IfEEib","al::ShadowMaskDirector::drawPrimCube(int,al::ShadowMaskDirector::Context &,agl::ShaderProgram const*,agl::TextureData const&,sead::Matrix34<float> const&,sead::Matrix44<float> const&,int,bool)",false
+"_ZN2al18ShadowMaskDirector15drawPrimTexCubeEiRNS0_7ContextEPKN3agl13ShaderProgramERKNS3_11TextureDataERKN4sead8Matrix34IfEERKNSA_8Matrix44IfEEib","al::ShadowMaskDirector::drawPrimTexCube(int,al::ShadowMaskDirector::Context &,agl::ShaderProgram const*,agl::TextureData const&,sead::Matrix34<float> const&,sead::Matrix44<float> const&,int,bool)",false
+"_ZN2al18ShadowMaskDirector11setViewInfoEiPNS_12GBufferArrayEPN3agl3sdw13ShadowPrePassEPKN4sead8Matrix34IfEEPKNS7_8Matrix44IfEE","al::ShadowMaskDirector::setViewInfo(int,al::GBufferArray *,agl::sdw::ShadowPrePass *,sead::Matrix34<float> const*,sead::Matrix44<float> const*)",false
+"_ZNK2al18ShadowMaskDirector21isExistDrawShadowMaskEv","al::ShadowMaskDirector::isExistDrawShadowMask(void)const",false
+"_ZNK2al18ShadowMaskDirector29isExistDrawShadowMaskCategoryEi","al::ShadowMaskDirector::isExistDrawShadowMaskCategory(int)const",false
+"_ZN2al18ShadowMaskDirector4drawEiPKN3agl13ShaderProgramERKNS1_11TextureDataERKN4sead8Matrix34IfEERKNS8_8Matrix44IfEEi","al::ShadowMaskDirector::draw(int,agl::ShaderProgram const*,agl::TextureData const&,sead::Matrix34<float> const&,sead::Matrix44<float> const&,int)",false
+"_ZNK2al18ShadowMaskDirector14drawShadowMaskEPN3agl11DrawContextEiPKNS1_17RenderTargetDepthES6_PKNS1_11TextureDataE","al::ShadowMaskDirector::drawShadowMask(agl::DrawContext *,int,agl::RenderTargetDepth const*,agl::RenderTargetDepth const*,agl::TextureData const*)const",false
+"_ZN18ShadowMaskFunction21getShadowMaskDirectorEPKN2al9LiveActorE","ShadowMaskFunction::getShadowMaskDirector(al::LiveActor const*)",false
+"sub_7100A25F44","",false
+"_ZN2al16ShadowMaskDrawerC2EPNS_18ShadowMaskDirectorEi","al::ShadowMaskDrawer::ShadowMaskDrawer(al::ShadowMaskDirector *,int)",false
+"_ZNK2al16ShadowMaskDrawer6isDrawEv","al::ShadowMaskDrawer::isDraw(void)const",false
+"_ZNK2al16ShadowMaskDrawer4drawEv","al::ShadowMaskDrawer::draw(void)const",false
+"_ZNK2al16ShadowMaskDrawer14drawShadowMaskEPN3agl11DrawContextEiPKNS1_17RenderTargetDepthES6_PKNS1_11TextureDataE","al::ShadowMaskDrawer::drawShadowMask(agl::DrawContext *,int,agl::RenderTargetDepth const*,agl::RenderTargetDepth const*,agl::TextureData const*)const",false
+"_ZNK2al16ShadowMaskDrawer17drawToTextureDataEPN3agl11DrawContextEPKNS1_11TextureDataES6_PKNS1_17RenderTargetDepthE","al::ShadowMaskDrawer::drawToTextureData(agl::DrawContext *,agl::TextureData const*,agl::TextureData const*,agl::RenderTargetDepth const*)const",false
+"_ZN2al16ShadowMaskDrawer7executeEv","al::ShadowMaskDrawer::execute(void)",false
+"_ZN2al16ShadowMaskDrawerD2Ev","al::ShadowMaskDrawer::~ShadowMaskDrawer()",false
+"_ZN2al16ShadowMaskDrawerD0Ev","al::ShadowMaskDrawer::~ShadowMaskDrawer()",false
+"_ZN2al16ShadowMaskSphereC2EPKc","al::ShadowMaskSphere::ShadowMaskSphere(char const*)",false
+"_ZN2al16ShadowMaskSphere7declareENS_22ShadowMaskDrawCategoryE","al::ShadowMaskSphere::declare(al::ShadowMaskDrawCategory)",false
+"_ZN2al16ShadowMaskSphere16calcShadowMatrixEPN4sead8Matrix34IfEE","al::ShadowMaskSphere::calcShadowMatrix(sead::Matrix34<float> *)",false
+"_ZN2al16ShadowMaskSphere6updateEv","al::ShadowMaskSphere::update(void)",false
+"_ZN2al16ShadowMaskSphere11updateMultiEv","al::ShadowMaskSphere::updateMulti(void)",false
+"_ZN2al16ShadowMaskSphere8addMultiEv","al::ShadowMaskSphere::addMulti(void)",false
+"_ZN2al16ShadowMaskSphereD0Ev","al::ShadowMaskSphere::~ShadowMaskSphere()",false
+"_ZNK2al16ShadowMaskSphere17getShadowMaskTypeEv","al::ShadowMaskSphere::getShadowMaskType(void)const",false

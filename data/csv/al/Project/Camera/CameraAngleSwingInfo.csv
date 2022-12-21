@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20CameraAngleSwingInfoC2Ev","al::CameraAngleSwingInfo::CameraAngleSwingInfo(void)",false
+"_ZN2al20CameraAngleSwingInfo4loadERKNS_9ByamlIterE","al::CameraAngleSwingInfo::load(al::ByamlIter const&)",false
+"_ZN2al20CameraAngleSwingInfo6updateERKN4sead7Vector2IfEEf","al::CameraAngleSwingInfo::update(sead::Vector2<float> const&,float)",false
+"_ZNK2al20CameraAngleSwingInfo16makeLookAtCameraEPN4sead12LookAtCameraE","al::CameraAngleSwingInfo::makeLookAtCamera(sead::LookAtCamera *)const",false

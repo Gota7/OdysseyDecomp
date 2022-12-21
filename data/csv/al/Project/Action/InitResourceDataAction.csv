@@ -1,0 +1,3 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al22InitResourceDataAction9tryCreateEPNS_8ResourceEPKNS_20InitResourceDataAnimEPKc","al::InitResourceDataAction::tryCreate(al::Resource *,al::InitResourceDataAnim const*,char const*)",false
+"_ZN2al22InitResourceDataActionC2EPNS_26InitResourceDataActionAnimE","al::InitResourceDataAction::InitResourceDataAction(al::InitResourceDataActionAnim *)",false

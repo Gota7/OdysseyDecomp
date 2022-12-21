@@ -1,0 +1,6 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21DspSinValueControllerC2Eff","al::DspSinValueController::DspSinValueController(float,float)",false
+"_ZN2al21DspSinValueController4initEf","al::DspSinValueController::init(float)",false
+"_ZN2al21DspSinValueController6updateEv","al::DspSinValueController::update(void)",false
+"_ZN2al21DspSinValueController12changeTargetEfi","al::DspSinValueController::changeTarget(float,int)",false
+"_ZN2al21DspSinValueController10changeFreqEf","al::DspSinValueController::changeFreq(float)",false

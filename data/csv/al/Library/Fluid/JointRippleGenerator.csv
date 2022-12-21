@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20JointRippleGeneratorC2EPKNS_9LiveActorE","al::JointRippleGenerator::JointRippleGenerator(al::LiveActor const*)",false
+"_ZN2al20JointRippleGenerator5resetEv","al::JointRippleGenerator::reset(void)",false
+"_ZN2al20JointRippleGenerator17updateAndGenerateEv","al::JointRippleGenerator::updateAndGenerate(void)",false

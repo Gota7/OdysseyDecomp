@@ -1,0 +1,3 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al20DisplayListSuspenderC2EPN3agl11DrawContextEPNS1_11DisplayListEb","al::DisplayListSuspender::DisplayListSuspender(agl::DrawContext *,agl::DisplayList *,bool)",false
+"_ZN2al20DisplayListSuspenderD2Ev","al::DisplayListSuspender::~DisplayListSuspender()",false

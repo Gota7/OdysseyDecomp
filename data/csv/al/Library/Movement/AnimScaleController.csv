@@ -1,0 +1,35 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al14AnimScaleParamC2Ev","al::AnimScaleParam::AnimScaleParam(void)",false
+"_ZN2al14AnimScaleParamC1Efffffffiffff","al::AnimScaleParam::AnimScaleParam(float,float,float,float,float,float,float,int,float,float,float,float)",false
+"_ZN2al19AnimScaleControllerC1EPKNS_14AnimScaleParamE","al::AnimScaleController::AnimScaleController(al::AnimScaleParam const*)",false
+"_ZN2al19AnimScaleController17setAnimScaleParamEPKNS_14AnimScaleParamE","al::AnimScaleController::setAnimScaleParam(al::AnimScaleParam const*)",false
+"_ZN2al19AnimScaleController9startAnimEv","al::AnimScaleController::startAnim(void)",false
+"_ZN2al19AnimScaleController14startVibrationEv","al::AnimScaleController::startVibration(void)",false
+"_ZN2al19AnimScaleController16startHitReactionEv","al::AnimScaleController::startHitReaction(void)",false
+"_ZN2al19AnimScaleController17startAndSetScaleYEf","al::AnimScaleController::startAndSetScaleY(float)",false
+"_ZN2al19AnimScaleController28startAndSetScaleAnsVelocityYEff","al::AnimScaleController::startAndSetScaleAnsVelocityY(float,float)",false
+"_ZN2al19AnimScaleController25startAndSetScaleVelocityYEf","al::AnimScaleController::startAndSetScaleVelocityY(float)",false
+"_ZN2al19AnimScaleController25startAndAddScaleVelocityYEf","al::AnimScaleController::startAndAddScaleVelocityY(float)",false
+"_ZN2al19AnimScaleController10startCrushEv","al::AnimScaleController::startCrush(void)",false
+"_ZN2al19AnimScaleController8stopAnimEv","al::AnimScaleController::stopAnim(void)",false
+"_ZN2al19AnimScaleController12stopAndResetEv","al::AnimScaleController::stopAndReset(void)",false
+"_ZN2al19AnimScaleController10resetScaleEv","al::AnimScaleController::resetScale(void)",false
+"_ZN2al19AnimScaleController15stopAndSetScaleERKN4sead7Vector3IfEE","al::AnimScaleController::stopAndSetScale(sead::Vector3<float> const&)",false
+"_ZN2al19AnimScaleController17setScaleVelocityYEf","al::AnimScaleController::setScaleVelocityY(float)",false
+"_ZN2al19AnimScaleController17addScaleVelocityYEf","al::AnimScaleController::addScaleVelocityY(float)",false
+"_ZN2al19AnimScaleController7exeStopEv","al::AnimScaleController::exeStop(void)",false
+"_ZN2al19AnimScaleController7exeAnimEv","al::AnimScaleController::exeAnim(void)",false
+"_ZN2al19AnimScaleController11updateScaleEff","al::AnimScaleController::updateScale(float,float)",false
+"_ZN2al19AnimScaleController7tryStopEv","al::AnimScaleController::tryStop(void)",false
+"_ZN2al19AnimScaleController12exeVibrationEv","al::AnimScaleController::exeVibration(void)",false
+"_ZN2al19AnimScaleController14exeHitReactionEv","al::AnimScaleController::exeHitReaction(void)",false
+"_ZN2al19AnimScaleController8exeCrushEv","al::AnimScaleController::exeCrush(void)",false
+"_ZNK2al19AnimScaleController13isHitReactionEi","al::AnimScaleController::isHitReaction(int)const",false
+"_ZN2al19AnimScaleController16setOriginalScaleERKN4sead7Vector3IfEE","al::AnimScaleController::setOriginalScale(sead::Vector3<float> const&)",false
+"_ZN2al19AnimScaleController6updateEv","al::AnimScaleController::update(void)",false
+"_ZN2al19AnimScaleControllerD0Ev","al::AnimScaleController::~AnimScaleController()",false
+"nullsub_471","",false
+"sub_7100952788","",false
+"sub_7100952790","",false
+"sub_710095284C","",false
+"sub_7100952854","",false

@@ -1,0 +1,4 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al21EventFlowMovementWaitC2EPNS_9LiveActorE","al::EventFlowMovementWait::EventFlowMovementWait(al::LiveActor *)",false
+"_ZN2al21EventFlowMovementWait6appearEv","al::EventFlowMovementWait::appear(void)",false
+"_ZNK2al21EventFlowMovementWait21isWaitAtPointMovementEv","al::EventFlowMovementWait::isWaitAtPointMovement(void)const",false

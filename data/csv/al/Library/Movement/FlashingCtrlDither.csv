@@ -1,0 +1,5 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al18FlashingCtrlDitherC1EPNS_9LiveActorE","al::FlashingCtrlDither::FlashingCtrlDither(al::LiveActor *)",false
+"_ZN2al18FlashingCtrlDither5startEi","al::FlashingCtrlDither::start(int)",false
+"_ZN2al18FlashingCtrlDither3endEv","al::FlashingCtrlDither::end(void)",false
+"_ZN2al18FlashingCtrlDither8movementEv","al::FlashingCtrlDither::movement(void)",false

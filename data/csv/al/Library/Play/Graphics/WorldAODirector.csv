@@ -1,0 +1,11 @@
+Mangled Symbol, Demangled Symbol, Is Matched
+"_ZN2al12WorldAoParamC2Ev","al::WorldAoParam::WorldAoParam(void)",false
+"_ZN2al15WorldAODirectorC1EPKNS_18GraphicsSystemInfoEPNS_15ExecuteDirectorE","al::WorldAODirector::WorldAODirector(al::GraphicsSystemInfo const*,al::ExecuteDirector *)",false
+"_ZN2al15WorldAODirectorD2Ev","al::WorldAODirector::~WorldAODirector()",false
+"_ZN2al15WorldAODirector17initStageResourceEPKNS_8ResourceEPKcS5_","al::WorldAODirector::initStageResource(al::Resource const*,char const*,char const*)",false
+"_ZN2al15WorldAODirector7endInitEv","al::WorldAODirector::endInit(void)",false
+"_ZNK2al15WorldAODirector8isEnableEv","al::WorldAODirector::isEnable(void)const",false
+"_ZN2al15WorldAODirector16tryDrawAoTextureEPN3agl11DrawContextE","al::WorldAODirector::tryDrawAoTexture(agl::DrawContext *)",false
+"_ZN2al15WorldAODirector11drawWorldAoEPN3agl11DrawContextEPKNS_18GraphicsSystemInfoEPNS1_3sdw13ShadowPrePassEPNS_12GBufferArrayE","al::WorldAODirector::drawWorldAo(agl::DrawContext *,al::GraphicsSystemInfo const*,agl::sdw::ShadowPrePass *,al::GBufferArray *)",false
+"_ZN2al15WorldAODirector7calcGpuEv","al::WorldAODirector::calcGpu(void)",false
+"_ZNK2al15WorldAODirector14getWorldAoTypeEv","al::WorldAODirector::getWorldAoType(void)const",false
