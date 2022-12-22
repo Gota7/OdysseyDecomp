@@ -32,8 +32,9 @@ Then run this command to clone the repository along with the submodules under `l
 Building has only been tested on WSL2 running Ubuntu 20.04.4.
 
 * `setup.py` - download and install required Python modules and Clang 3.9.1
-* `build.py [-non-matching]` - build the repository and generate `.o` files under the `build` directory
+* `build.py [-non-matching] [-clean]` - build the repository and generate `.o` files under the `build` directory
 * - `-non-matching` - also builds non-matching functions enclosed in the `NON_MATCHING` macro
+* - `-clean` - Compiles every source file, even if nothing has been changed.
 
 * `check.py [-no-diff] <mangled symbol>` - checks for differences in the specified compiled function
 * - `-no-diff` - disables printing differences
