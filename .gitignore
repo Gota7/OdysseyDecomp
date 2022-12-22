@@ -7,3 +7,6 @@ __pycache__
 splitCSV.py
 map/*
 compile_commands.json
+.ninja_log
+.ninja_deps
+build.ninja

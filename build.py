@@ -3,8 +3,13 @@ import sys
 import os
 import pathlib
 import shutil
+from ninja import ninja_syntax
 
 nonmatching_str = ""
+clean_ninja = False
+
+if "-clean" in sys.argv:
+    clean_ninja = True
 
 if "-non-matching" in sys.argv:
     nonmatching_str = "-DNON_MATCHING"
@@ -32,12 +37,16 @@ for root, dirs, files in os.walk("source"):
             os.makedirs(os.path.dirname(map_path), exist_ok=True)
             tasks.append((source_path, build_path, map_path))
 
+bo = open("build.ninja", "w")
+nw = ninja_syntax.Writer(bo)
+
+nw.rule("cc", f"{COMPILER_PATH} $flags $in -o $out", "Compiling $in...")
+nw.newline()
+
 for task in tasks:
     source_path, build_path, map_path = task     
 
-    print(f"Compiling {source_path}...")
-    if subprocess.call(f"{COMPILER_PATH} {COMPILER_CMD} {source_path} -o {build_path}", shell=True) == 1:
-            sys.exit(1)
+    nw.build(build_path, "cc", source_path, variables= { 'flags': COMPILER_CMD })
 
     mapFileOutput = subprocess.check_output([OBJDUMP_PATH, build_path, "-t"]).decode("utf-8").replace("\r", "")
     lines = mapFileOutput.split("\n")
@@ -61,3 +70,11 @@ for task in tasks:
 
     with open(map_path, "w") as w:
         w.writelines(newOutput)
+
+nw.close()
+
+if clean_ninja:
+    subprocess.call("ninja -t clean", shell=True)
+
+if subprocess.call("ninja", shell=True) == 1:
+    sys.exit(1)
