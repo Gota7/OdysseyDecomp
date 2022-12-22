@@ -1,6 +1,6 @@
 #pragma once
 
-#include <nn/types.h>
+#include <basis/seadTypes.h>
 
 namespace al {
     class ByamlData;

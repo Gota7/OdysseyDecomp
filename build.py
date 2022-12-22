@@ -45,8 +45,18 @@ nw.newline()
 
 for task in tasks:
     source_path, build_path, map_path = task     
-
     nw.build(build_path, "cc", source_path, variables= { 'flags': COMPILER_CMD })
+
+nw.close()
+
+if clean_ninja:
+    subprocess.call("ninja -t clean", shell=True)
+
+if subprocess.call("ninja", shell=True) == 1:
+    sys.exit(1)
+
+for task in tasks:
+    source_path, build_path, map_path = task
 
     mapFileOutput = subprocess.check_output([OBJDUMP_PATH, build_path, "-t"]).decode("utf-8").replace("\r", "")
     lines = mapFileOutput.split("\n")
@@ -70,11 +80,3 @@ for task in tasks:
 
     with open(map_path, "w") as w:
         w.writelines(newOutput)
-
-nw.close()
-
-if clean_ninja:
-    subprocess.call("ninja -t clean", shell=True)
-
-if subprocess.call("ninja", shell=True) == 1:
-    sys.exit(1)

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "basis/seadTypes.h"
+#include <basis/seadTypes.h>
 
 class ProjectNfpDirector;
 class ApplicationMessageReceiver;

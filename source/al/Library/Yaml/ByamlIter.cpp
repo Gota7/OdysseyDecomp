@@ -2,6 +2,38 @@
 
 namespace al {
 
+    ByamlIter::ByamlIter() : mData(nullptr), mRootNode(nullptr) { 
+
+    }
+
+    ByamlIter::ByamlIter(const u8 *pData, const u8 *pRootNode) : mData(pData), mRootNode(pRootNode) {
+
+    }
+
+    bool ByamlIter::isValid() const {
+        return mData != nullptr;
+    }
+
+    bool ByamlIter::isTypeHash() const {
+        if (mRootNode == nullptr) {
+            return false;
+        }
+
+        return mRootNode[0] == 0xC1;
+    }
+
+    bool ByamlIter::isTypeArray() const {
+        if (mRootNode == nullptr) {
+            return false;
+        }
+
+        return mRootNode[0] == 0xC0;
+    }
+
+    bool ByamlIter::isTypeContainer() const {
+        return isTypeHash() || isTypeArray();
+    }
+
     bool ByamlIter::tryGetUInt64ByIndex(u64 *pOut, int idx) const {
         ByamlData byml;
 
