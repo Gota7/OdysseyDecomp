@@ -4,18 +4,12 @@
 
 namespace al {
     class ByamlData;
-    class ByamlHeader;
 
     class ByamlIter {
     public:
         ByamlIter();
         ByamlIter(const u8 *);
         ByamlIter(const u8 *, const u8 *);
-
-        inline void set(const u8 *pData, const u8 *pRoot) {
-            mData = pData;
-            mRootNode = pRoot;
-        }
 
         bool isValid() const;
         bool isTypeHash() const;
@@ -50,8 +44,8 @@ namespace al {
         bool tryGetInt64ByKey(s64 *, const char *) const;
         bool tryConvertInt64(s64 *, const ByamlData *) const;
         bool tryConvertUInt64ByKey(u64 *, const char *) const;
-        bool tryConvertUInt64(u64 *, const ByamlData *) const;
-        bool tryGetDoubleByKey(f64 *, const char * const) const;
+        bool tryConvertUInt64(u32 *, const ByamlData *) const;
+        bool tryGetDoubleByKey(f64 *, const char *const) const;
         bool tryConvertDouble(f64 *, const ByamlData *) const;
         bool tryGetStringByIndex(const char **, int) const;
         bool tryGetBinaryByIndex(const u8 **, int *, int) const;
@@ -60,23 +54,19 @@ namespace al {
         bool tryGetUIntByIndex(u32 *, int) const;
         bool tryGetFloatByIndex(f32 *, int) const;
         bool tryGetInt64ByIndex(s32 *, int) const;
-        bool tryGetUInt64ByIndex(u64 *, int) const;
+        bool tryGetUInt64ByIndex(u32 *, int) const;
         bool tryGetDoubleByIndex(f64 *, int) const;
         bool tryConvertIter(ByamlIter *, const ByamlData *) const;
-        bool isEqualData(const ByamlIter &) const;
+        bool isEqualData(const ByamlIter &);
 
-        union {
-            const u8* mData;                // _0
-            const ByamlHeader* mHeader;
-        };
-        
-        const u8* mRootNode;               // _8
+        const u8 *mData = nullptr;        // _0
+        const u8 *mRootNode = nullptr;    // _8
     };
 
     class ByamlHeader {
     public:
         u16 getTag() const;
-        bool isInvertOrder() const;
+        bool isInvertHeader();
         u64 getVersion() const;
         u32 getHashKeyTableOffset() const;
         u32 getStringTableOffset() const;
@@ -90,20 +80,4 @@ namespace al {
 
         u32 mData;
     };
-
-    class ByamlData {
-    public:
-        ByamlData();
-
-        u8 getType() const;
-        u32 getValue() const;
-
-        u32 mValue = 0;
-        u8 mType = 0;
-    };
-};
-
-class alByamlLocalUtil {
-public:
-    static u64 getData64Bit(const u8 *, u32, bool);
-};
+};    // namespace al
