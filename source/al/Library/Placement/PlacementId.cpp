@@ -1,4 +1,5 @@
 #include "al/Library/Placement/PlacementId.h"
+#include "al/Library/Base/String.h"
 
 namespace al {
     PlacementId::PlacementId() = default;
