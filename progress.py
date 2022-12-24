@@ -11,10 +11,6 @@ prev_address = 0
 # Start of the symbol for functions we want to skip
 skip_funcs = ("_ZN2nn", "_ZThn32_N2nn", "_ZN4sead")
 
-def truncate(number, digits) -> float:
-    stepper = 10.0 ** digits
-    return math.trunc(stepper * number) / stepper
-
 with open('data/functions.csv', 'r') as f:
     reader = csv.reader(f)
 
@@ -50,7 +46,7 @@ json = []
 json.append("{\n")
 json.append("\t\"schemaVersion\": 1,\n")
 json.append("\t\"label\": \"decompiled\",\n")
-json.append(f"\t\"message\": \"{truncate(prog, 4)}%\",\n")
+json.append(f"\t\"message\": \"{prog:.5f}%\",\n")
 json.append("\t\"color\": \"blue\"\n")
 json.append("}")
 
