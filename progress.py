@@ -18,11 +18,11 @@ with open('data/functions.csv', 'r') as f:
 
     for row in reader:
         address, symbol_name, matching = row
-        total_funcs += 1
 
         if symbol_name.startswith(skip_funcs):
             continue
         else:
+            total_funcs += 1
             func_size = int(address, 16) - prev_address
             total_size += func_size
             prev_address = int(address, 16)
