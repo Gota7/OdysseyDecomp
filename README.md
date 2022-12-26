@@ -60,3 +60,6 @@ The [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-ex
 
 ### Contributing
 * TODO
+
+### Ports
+**We have no involvement in any ports of any kind. We will not be making a port ourselves to any other platform, please do not ask.**
