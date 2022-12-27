@@ -3,6 +3,7 @@ import math, os, sys, csv
 TOTAL_GAME_SIZE = 0x7100A991D8 # Stop at the end of this
 
 total_size = 0 # Size of all functions that we count
+completed_size = 0 # Size (in bytes) of the functions completed
 total_funcs = 0 # Amount of functions
 completed_funcs = 0 # Size of completed functions
 
@@ -29,6 +30,7 @@ with open('data/functions.csv', 'r') as f:
             
             if matching == "true":
                 completed_funcs += 1
+                completed_size += func_size
 
 
         if total_size >= TOTAL_GAME_SIZE:
@@ -37,7 +39,7 @@ with open('data/functions.csv', 'r') as f:
 prog = (completed_funcs / total_funcs) * 100
 
 print("Progress:")
-print(f"{prog:.5f}% [{completed_funcs} / {total_funcs}]")
+print(f"{prog:.5f}% [{completed_funcs} / {total_funcs} functions]")
 
 print("Generating JSON...")
 

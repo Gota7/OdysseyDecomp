@@ -2,6 +2,7 @@
 
 #include "al/Library/Placement/PlacementId.h"
 #include "al/Library/Placement/PlacementInfo.h"
+#include <gfx/seadColor.h>
 #include <math/seadMatrix.h>
 #include <math/seadQuat.h>
 #include <math/seadVector.h>
@@ -79,4 +80,40 @@ namespace al {
     bool tryGetStringArg(const char **, const AreaInitInfo &, const char *);
     bool tryGetArgV2f(sead::Vector2f *, const ActorInitInfo &, const char *);
     bool tryGetArgV2f(sead::Vector2f *, const PlacementInfo &, const char *);
+    bool tryGetArgColor(sead::Color4f *, const ActorInitInfo &, const char *);
+    bool tryGetArgColor(sead::Color4f *, const PlacementInfo &, const char *);
+    void getLayerConfigName(const char **, const ActorInitInfo &);
+    void getLayerConfigName(const char **, const PlacementInfo &);
+    bool tryGetZoneNameIfExist(const char **, const PlacementInfo &);
+    void getPlacementId(PlacementId *, const PlacementInfo &);
+    bool tryGetBoolArgOrFalse(const ActorInitInfo &, const char *);
+    s32 getCountPlacementInfo(const PlacementInfo &);
+    void getPlacementInfoByKey(PlacementInfo *, const PlacementInfo &, const char *);
+    void getPlacementInfoByIndex(PlacementInfo *, const PlacementInfo &, int);
+    bool tryGetPlacementInfoByIndex(PlacementInfo *, const PlacementInfo &, int);
+    void getPlacementInfoAndKeyNameByIndex(PlacementInfo *, const char **, const PlacementInfo &, int);
+    bool tryGetPlacementInfoAndKeyNameByIndex(PlacementInfo *, const char **, const PlacementInfo &, int);
+    PlacementId* createPlacementId(const ActorInitInfo &);
+    PlacementId* createPlacementId(const PlacementInfo &);
+    bool tryGetPlacementId(PlacementId *, const ActorInitInfo &);
+    bool tryGetPlacementId(PlacementId *, const PlacementInfo &);
+    void getPlacementId(PlacementId *, const ActorInitInfo &);
+    bool isEqualPlacementId(const PlacementId &, const PlacementId &);
+    bool isEqualPlacementId(const PlacementInfo &, const PlacementInfo &);
+    bool isExistRail(const ActorInitInfo &, const char *);
+    bool tryGetRailIter(PlacementInfo *, const PlacementInfo *, const char *);
+    bool tryGetLinksInfo(PlacementInfo *, const PlacementInfo &, const char *);
+    bool tryGetMoveParameterRailIter(PlacementInfo *, const PlacementInfo &);
+    bool tryGetRailPointPos(sead::Vector3f *, const PlacementInfo &);
+    void getRailPointHandlePrev(sead::Vector3f *, const PlacementInfo &);
+    bool tryGetRailPointHandlePrev(sead::Vector3f *, const PlacementInfo &);
+    void getRailPointHandleNext(sead::Vector3f *, const PlacementInfo &);
+    bool tryGetRailPointHandleNext(sead::Vector3f *, const PlacementInfo &);
+    bool isExistGraphRider(const ActorInitInfo &);
+    int calcLinkChildNum(const ActorInitInfo &, const char *);
+    int calcLinkChildNum(const PlacementInfo &, const char *);
+    bool isExistLinkChild(const ActorInitInfo &, const char *, int);
+    bool isExistLinkChild(const PlacementInfo &, const char *, int);
+
+    bool tryGetDisplayScale(sead::Vector3f *, const ActorInitInfo &);
 };
