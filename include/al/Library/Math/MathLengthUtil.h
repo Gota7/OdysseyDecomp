@@ -1,8 +1,8 @@
 #pragma once
 
-#include "gfx/seadColor.h"
-#include "math/seadMatrix.h"
-#include "math/seadVector.h"
+#include <gfx/seadColor.h>
+#include <math/seadMatrix.h>
+#include <math/seadVector.h>
 
 namespace al {
     bool isNear(float, float, float);

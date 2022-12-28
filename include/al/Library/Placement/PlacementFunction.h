@@ -1,7 +1,7 @@
 #pragma once
 
-#include "al/Library/Placement/PlacementId.h"
-#include "al/Library/Placement/PlacementInfo.h"
+#include "Placement/PlacementId.h"
+#include "Placement/PlacementInfo.h"
 #include <gfx/seadColor.h>
 #include <math/seadMatrix.h>
 #include <math/seadQuat.h>

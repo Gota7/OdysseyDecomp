@@ -1,8 +1,8 @@
 #pragma once
 
-#include "al/Library/HitSensor/HitSensorKeeper.h"
-#include "al/Library/IUse/IUse.h"
-#include "al/Project/HitSensor/HitSensor.h"
+#include "HitSensor/HitSensorKeeper.h"
+#include "IUse/IUse.h"
+#include "HitSensor/HitSensor.h"
 #include <math/seadMatrix.h>
 
 namespace al {

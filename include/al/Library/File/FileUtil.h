@@ -1,6 +1,6 @@
 #pragma once
 
-#include "prim/seadSafeString.h"
+#include <prim/seadSafeString.h>
 
 namespace al {
     class IAudioResourceLoader;

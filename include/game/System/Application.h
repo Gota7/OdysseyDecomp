@@ -3,7 +3,7 @@
 #include <basis/seadTypes.h>
 #include <heap/seadDisposer.h>
 
-#include <al/Library/System/SystemKit.h>
+#include <System/SystemKit.h>
 
 #include "RootTask.h"
 

@@ -1,7 +1,7 @@
 #pragma once
 
-#include "gfx/seadColor.h"
-#include "math/seadVector.h"
+#include <gfx/seadColor.h>
+#include <math/seadVector.h>
 
 namespace al {
     float easeIn(float);

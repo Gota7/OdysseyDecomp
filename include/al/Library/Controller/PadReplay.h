@@ -1,6 +1,7 @@
 #pragma once
 
-#include "controller/seadController.h"
+#include <controller/seadController.h>
+
 namespace al {
     class IUsePadDataReader;
     class IUsePadDataWriter;

@@ -1,7 +1,7 @@
 #pragma once
 
 #include <prim/seadSafeString.h>
-#include "al/Library/Placement/PlacementInfo.h"
+#include "Placement/PlacementInfo.h"
 
 namespace al {
 

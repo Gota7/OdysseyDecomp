@@ -1,6 +1,6 @@
 #pragma once
 
-#include "math/seadVector.h"
+#include <math/seadVector.h>
 
 namespace al {
     void calcAngleRadian(sead::Vector3<float> const &, sead::Vector3<float> const &);

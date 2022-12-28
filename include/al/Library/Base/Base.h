@@ -1,6 +1,6 @@
 #pragma once
 
-#include "cstdarg"
+#include <cstdarg>
 
 namespace al {
     char const *calcHashCode(char const *);
