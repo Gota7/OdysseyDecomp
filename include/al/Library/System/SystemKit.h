@@ -16,7 +16,7 @@ namespace al {
         SystemKit();
         MemorySystem *createMemorySystem(sead::Heap *heap);
         FileLoader *createFileLoader(int priority);
-        ResourceSystem *createResourceSystem(char const *archiveLocation, int priority, int heapSize, bool isSzs);
+        ResourceSystem *createResourceSystem(const char *archiveLocation, int priority, int heapSize, bool isSzs);
         SaveDataDirector *createSaveDataSystem(uint, int priority);
 
         MemorySystem *mMemorySystem;

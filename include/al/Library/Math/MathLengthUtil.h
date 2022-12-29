@@ -3,6 +3,8 @@
 #include <gfx/seadColor.h>
 #include <math/seadMatrix.h>
 #include <math/seadVector.h>
+#include <math/seadMathCalcCommon.h>
+#include <cmath>
 
 namespace al {
     bool isNear(float, float, float);

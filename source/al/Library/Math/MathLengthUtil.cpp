@@ -1,6 +1,4 @@
 #include "Math/MathLengthUtil.h"
-#include "math/seadMathCalcCommon.h"
-#include <cmath>
 
 namespace al {
     bool isNear(float n, float n2, float t) {

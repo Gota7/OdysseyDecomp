@@ -1,11 +1,13 @@
 #pragma once
 
+#include <basis/seadTypes.h>
+#include <cstring>
 #include <cstdarg>
 
 namespace al {
-    char const *calcHashCode(char const *);
-    char const *calcHashCodeLower(char const *);
-    char const *calcHashCodeFmt(char const *, std::va_list);
-    char const *calcHashCodeFmt(char const *, ...);
-    char const *getBaseName(char const *);
+    const char *calcHashCode(const char *);
+    const char *calcHashCodeLower(const char *);
+    const char *calcHashCodeFmt(const char *, std::va_list);
+    const char *calcHashCodeFmt(const char *, ...);
+    const char *getBaseName(const char *);
 }    // namespace al

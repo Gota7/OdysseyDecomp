@@ -10,7 +10,7 @@ namespace al {
     void unregistReplayController(unsigned int);
     sead::Controller *getReplayController(unsigned int);
     void setPadDataReader(al::IUsePadDataReader *,unsigned int);
-    void createAndSetPadDataArcReader(char const*,char const*,unsigned int);
+    void createAndSetPadDataArcReader(const char*,const char*,unsigned int);
     void startPadReplay(unsigned int);
     void pausePadReplay(unsigned int);
     void endPadReplay(unsigned int);

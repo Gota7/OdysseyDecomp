@@ -1,8 +1,4 @@
-#include "al/Library/Placement/PlacementFunction.h"
-#include "al/Library/Base/String.h"
-#include "al/Library/LiveActor/ActorInitFunction.h"
-#include "al/Library/Yaml/ByamlIter.h"
-#include "math/seadMatrixCalcCommon.h"
+#include "Placement/PlacementFunction.h"
 
 namespace al {
 

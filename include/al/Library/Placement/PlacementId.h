@@ -2,6 +2,7 @@
 
 #include <prim/seadSafeString.h>
 #include "Placement/PlacementInfo.h"
+#include "Base/String.h"
 
 namespace al {
 

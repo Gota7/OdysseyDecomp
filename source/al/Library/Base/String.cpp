@@ -1,6 +1,4 @@
 #include "Base/String.h"
-#include "prim/seadStringUtil.h"
-#include <strings.h>
 
 namespace al {
 
@@ -20,10 +18,10 @@ namespace al {
         return false;
     }
 
-    bool isEqualSubString(char const *a, char const *b) { return strstr(a, b); }
+    bool isEqualSubString(const char *a, const char *b) { return strstr(a, b); }
     bool isEqualSubString(sead::SafeStringBase<char> const &a, sead::SafeStringBase<char> const &b) { return strstr(a.cstr(), b.cstr()); }
 
-    bool isStartWithString(char const *str, char const *prefix) {
+    bool isStartWithString(const char *str, const char *prefix) {
         if (prefix[0] == '\0')
             return true;
 
@@ -40,7 +38,7 @@ namespace al {
         return false;
     }
 
-    bool isMatchString(char const *str, al::MatchStr const &match) {
+    bool isMatchString(const char *str, al::MatchStr const &match) {
         auto result = al::getSubStringUnmatched(str, match);
         if (result) {
             return result[0] == 0;
@@ -48,14 +46,14 @@ namespace al {
         return false;
     }
 
-    int compareStringIgnoreCase(char const *a, char const *b) { return strcasecmp(a, b); }
+    int compareStringIgnoreCase(const char *a, const char *b) { return strcasecmp(a, b); }
 
-    void copyString(char *str, char const *copy, unsigned int range) { strncpy(str, copy, range); }
+    void copyString(char *str, const char *copy, unsigned int range) { strncpy(str, copy, range); }
     void copyStringW(char16_t *str, char16_t const *copy, unsigned int range) { sead::StringUtil::wcs16cpy(str, range, copy); }
 
     bool isInStack(void const *addr) { return sead::MemUtil::isStack(addr); }
 
-    bool isEqualString(char const *a, char const *b) {
+    bool isEqualString(const char *a, const char *b) {
         while (*a == *b) {
             char cur = *a;
 
@@ -82,6 +80,6 @@ namespace al {
         return false;
     }
 
-    bool isEqualStringCase(char const *a, char const *b) { return !strcasecmp(a, b); }
+    bool isEqualStringCase(const char *a, const char *b) { return !strcasecmp(a, b); }
     bool isEqualStringCase(sead::SafeStringBase<char> const &a, sead::SafeStringBase<char> const &b) { return !strcasecmp(a.cstr(), b.cstr()); }
 }    // namespace al

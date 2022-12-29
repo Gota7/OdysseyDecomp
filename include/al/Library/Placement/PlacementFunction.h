@@ -6,6 +6,10 @@
 #include <math/seadMatrix.h>
 #include <math/seadQuat.h>
 #include <math/seadVector.h>
+#include "Base/String.h"
+#include "LiveActor/ActorInitFunction.h"
+#include "Yaml/ByamlIter.h"
+#include <math/seadMatrixCalcCommon.h>
 
 namespace al {
     class ActorInitInfo;

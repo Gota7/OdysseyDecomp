@@ -3,6 +3,8 @@
 #include <math/seadMatrix.h>
 #include <math/seadVector.h>
 #include <basis/seadTypes.h>
+#include "Base/String.h"
+#include "HitSensor/HitSensor.h"
 
 namespace al {
     class HitSensor;

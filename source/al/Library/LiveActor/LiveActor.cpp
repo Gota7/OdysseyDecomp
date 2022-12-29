@@ -1,4 +1,4 @@
-#include "al/Library/LiveActor/LiveActor.h"
+#include "LiveActor/LiveActor.h"
 
 namespace al {
     LiveActorFlag::LiveActorFlag() = default;

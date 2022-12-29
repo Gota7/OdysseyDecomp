@@ -1,9 +1,7 @@
 #include "Base/Base.h"
-#include "basis/seadTypes.h"
-#include <cstring>
 
 namespace al {
-    char const *getBaseName(char const *str) {
+    const char *getBaseName(const char *str) {
         auto s = strchr(str, 47);
         if (s)
             return s + 1;
