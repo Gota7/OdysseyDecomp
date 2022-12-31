@@ -9,9 +9,6 @@ completed_funcs = 0 # Size of completed functions
 
 prev_address = 0
 
-# Start of the symbol for functions we want to skip
-skip_funcs = ("_ZN2nn", "_ZThn32_N2nn", "_ZN4sead")
-
 with open('data/functions.csv', 'r') as f:
     reader = csv.reader(f)
 
@@ -20,17 +17,14 @@ with open('data/functions.csv', 'r') as f:
     for row in reader:
         address, symbol_name, matching = row
 
-        if symbol_name.startswith(skip_funcs):
-            continue
-        else:
-            total_funcs += 1
-            func_size = int(address, 16) - prev_address
-            total_size += func_size
-            prev_address = int(address, 16)
-            
-            if matching == "true":
-                completed_funcs += 1
-                completed_size += func_size
+        total_funcs += 1
+        func_size = int(address, 16) - prev_address
+        total_size += func_size
+        prev_address = int(address, 16)
+        
+        if matching == "true":
+            completed_funcs += 1
+            completed_size += func_size
 
 
         if total_size >= TOTAL_GAME_SIZE:
