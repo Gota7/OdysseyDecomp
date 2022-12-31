@@ -15,7 +15,7 @@ namespace al {
     }
 
     void getObjectName(const char **pOutName, const PlacementInfo &rInfo) {
-        const char* unitConf = "";
+        const char *unitConf = "";
 
         if (rInfo._0.tryGetStringByKey(&unitConf, "UnitConfigName")) {
             if (!al::isEqualString(unitConf, "")) {
@@ -25,7 +25,7 @@ namespace al {
     }
 
     bool tryGetObjectName(const char **pOutName, const PlacementInfo &rInfo) {
-        const char* unitConf = "";
+        const char *unitConf = "";
 
         if (rInfo._0.tryGetStringByKey(&unitConf, "UnitConfigName")) {
             if (!al::isEqualString(unitConf, "")) {
@@ -42,7 +42,7 @@ namespace al {
     }
 
     bool tryGetStringArg(const char **pOutName, const PlacementInfo &rInfo, const char *pArg) {
-        const char* arg = "";
+        const char *arg = "";
 
         if (rInfo._0.tryGetStringByKey(&arg, pArg)) {
             if (!al::isEqualString(arg, "")) {
@@ -59,7 +59,7 @@ namespace al {
     }
 
     bool isObjectName(const PlacementInfo &rInfo, const char *pObjName) {
-        const char* unitConf = "";
+        const char *unitConf = "";
 
         if (rInfo._0.tryGetStringByKey(&unitConf, "UnitConfigName")) {
             if (!al::isEqualString("", unitConf)) {
@@ -75,7 +75,7 @@ namespace al {
     }
 
     bool isObjectNameSubStr(const PlacementInfo &rInfo, const char *pObjName) {
-        const char* unitConf = "";
+        const char *unitConf = "";
 
         if (rInfo._0.tryGetStringByKey(&unitConf, "UnitConfigName")) {
             if (!al::isEqualString("", unitConf)) {
@@ -92,19 +92,19 @@ namespace al {
 
     bool tryGetClassName(const char **pClassName, const PlacementInfo &rInfo) {
         PlacementInfo info;
-        
+
         if (!tryGetPlacementInfoByKey(&info, rInfo, "UnitConfig")) {
             return false;
         }
-        
-        const char* paramConf = "";
+
+        const char *paramConf = "";
 
         if (!info._0.tryGetStringByKey(&paramConf, "ParameterConfigName")) {
             return false;
         }
 
         if (al::isEqualString("", paramConf)) {
-            return false;   
+            return false;
         }
 
         *pClassName = paramConf;
@@ -135,7 +135,7 @@ namespace al {
     }
 
     bool isClassName(const PlacementInfo &rInfo, const char *pClassName) {
-        const char* className = nullptr;
+        const char *className = nullptr;
 
         if (tryGetClassName(&className, rInfo)) {
             return isEqualString(className, pClassName);
@@ -158,19 +158,19 @@ namespace al {
 
     bool tryGetDisplayName(const char **pDispName, const PlacementInfo &rInfo) {
         PlacementInfo info;
-        
+
         if (!tryGetPlacementInfoByKey(&info, rInfo, "UnitConfig")) {
             return false;
         }
-        
-        const char* disp = "";
+
+        const char *disp = "";
 
         if (!info._0.tryGetStringByKey(&disp, "DisplayName")) {
             return false;
         }
 
         if (al::isEqualString("", disp)) {
-            return false;   
+            return false;
         }
 
         *pDispName = disp;
@@ -188,7 +188,7 @@ namespace al {
     }
 
     bool tryGetTrans(sead::Vector3f *pTrans, const ActorInitInfo &rInfo) {
-        PlacementInfo* info = rInfo.mPlacementInfo;
+        PlacementInfo *info = rInfo.mPlacementInfo;
 
         if (!tryGetByamlV3f(pTrans, info->_0, "Translate")) {
             return false;
@@ -226,22 +226,22 @@ namespace al {
     }
 
     void getTrans(sead::Vector3f *pTrans, const ActorInitInfo &rInfo) {
-        PlacementInfo* plInf = rInfo.mPlacementInfo;
+        PlacementInfo *plInf = rInfo.mPlacementInfo;
 
         if (!tryGetByamlV3f(pTrans, plInf->_0, "Translate")) {
             return;
         }
 
-         multZoneMtx(pTrans, *plInf);
+        multZoneMtx(pTrans, *plInf);
     }
 
     bool tryGetRotate(sead::Vector3f *pRotate, const ActorInitInfo &rInfo) {
         return tryGetRotate(pRotate, *rInfo.mPlacementInfo);
     }
 
-    // al::tryGetRotate(sead::Vector3<float> *, al::PlacementInfo const&)
+    // al::tryGetRotate(sead::Vector3f *, al::PlacementInfo const&)
 
-    #ifdef NON_MATCHING
+#ifdef NON_MATCHING
     // some scheduling issues
     bool tryGetZoneMatrixTR(sead::Matrix34f *pOutMtx, const PlacementInfo &rInfo) {
         ByamlIter iter = rInfo._10;
@@ -265,7 +265,7 @@ namespace al {
         pOutMtx->makeRT(rotate * 0.017453f, translate);
         return true;
     }
-    #endif
+#endif
 
     bool tryGetArg(int *pOut, const ActorInitInfo &rInfo, const char *pKey) {
         return rInfo.mPlacementInfo->_0.tryGetIntByKey(pOut, pKey);
@@ -327,8 +327,6 @@ namespace al {
         return ret;
     }
 
-
-
     bool tryGetRailPointPos(sead::Vector3f *pPoint, const PlacementInfo &rInfo) {
         if (!tryGetByamlV3f(pPoint, rInfo._0, "Translate")) {
             return false;
@@ -338,4 +336,4 @@ namespace al {
         return true;
     }
 
-};
+};    // namespace al

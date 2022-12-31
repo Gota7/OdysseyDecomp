@@ -1,10 +1,10 @@
 #pragma once
 
-#include <math/seadMatrix.h>
-#include <math/seadVector.h>
-#include <basis/seadTypes.h>
 #include "Base/String.h"
 #include "HitSensor/HitSensor.h"
+#include <basis/seadTypes.h>
+#include <math/seadMatrix.h>
+#include <math/seadVector.h>
 
 namespace al {
     class HitSensor;
@@ -12,12 +12,12 @@ namespace al {
 
     class HitSensorKeeper {
     public:
-        HitSensorKeeper(int);
+        HitSensorKeeper(s32);
 
         HitSensor *addSensor(LiveActor *, const char *, u32, f32, u16, const sead::Vector3f *, const sead::Matrix34f *, const sead::Vector3f &);
         void update();
-        int getSensorNum() const;
-        HitSensor *getSensor(int) const;
+        s32 getSensorNum() const;
+        HitSensor *getSensor(s32) const;
         void attackSensor();
         void clear();
         void validate();
@@ -26,8 +26,8 @@ namespace al {
         void invalidateBySystem();
         HitSensor *getSensor(const char *) const;
 
-        int mMaxSensorNum;       // _0
-        int mCurSensorNum;       // _4
+        s32 mMaxSensorNum;       // _0
+        s32 mCurSensorNum;       // _4
         HitSensor **mSensors;    // _8
     };
 };    // namespace al

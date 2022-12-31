@@ -33,5 +33,6 @@ SpaceBeforeParens: ControlStatements
 SpacesBeforeTrailingComments: '4'
 TabWidth: '4'
 UseTab: Never
+QualifierAlignment: Left
 
 ...
