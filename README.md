@@ -8,6 +8,7 @@ A decompilation of Super Mario Odyssey v1.0.0 for the Nintendo Switch
 **This project will not generate a complete binary of the game, and is only meant as a place for research. Game assets are not needed, nor included in this repository.**
 
 *Discord server can be found [here](https://discord.gg/WHbGwKyH8m)*
+
 *In progress functions can be found [here](https://docs.google.com/spreadsheets/d/198vrkkDqktrRDLInSAkK2HsG5hy1Fl8cmCNRMND3nCY/edit?usp=sharing)*
 
 ### Setup
@@ -20,7 +21,9 @@ A decompilation of Super Mario Odyssey v1.0.0 for the Nintendo Switch
 * - `libncurses5-dev g++-multilib libc6 libc6-dev`
 
 ***Windows users: cloning inside of a WSL directory will greatly improve build performance***
+
 Then run this command to clone the repository along with the submodules under `lib`. These include `sead`, `nnheaders`, and `agl` from [open-ead](https://github.com/open-ead/).
+
 `git clone --recurse-submodules https://github.com/shibbo/OdysseyDecomp.git`
 
 
@@ -29,15 +32,16 @@ Then run this command to clone the repository along with the submodules under `l
 * [Clang 3.9.1 debian build](https://releases.llvm.org/3.9.1/clang+llvm-3.9.1-x86_64-linux-gnu-debian8.tar.xz)
 
 ### Building
-Building has only been tested on WSL2 running Ubuntu 20.04.4.
+Building has been tested on WSL2 running Ubuntu 22.04.1.
 
 * `setup.py` - download and install required Python modules and Clang 3.9.1
 * `build.py [-non-matching] [-clean]` - build the repository and generate `.o` files under the `build` directory
 * - `-non-matching` - also builds non-matching functions enclosed in the `NON_MATCHING` macro
 * - `-clean` - Compiles every source file, even if nothing has been changed.
 
-* `check.py [-no-diff] <mangled symbol>` - checks for differences in the specified compiled function
-* - `-no-diff` - disables printing differences
+* `check.py [-all] [-force-csv] <mangled symbol>` - checks for differences in a compiled function
+* - `-force-csv` - remakes/clears the csv, even if it exists
+* - `-all` - checks every compiled function and updates the csv
 * `progress.py` - prints and updates the progress of the repository
 
 ### Using this repository
