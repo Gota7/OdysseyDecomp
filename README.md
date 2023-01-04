@@ -55,7 +55,7 @@ The [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-ex
 [
     {
       "directory": "/home/user/path/to/OdysseyDecomp",
-      "command": "clang++ -x c++ -O3 -std=gnu++1z --target=aarch64-linux-elf -mcpu=cortex-a57+fp+simd+crypto+crc -fno-exceptions -mno-implicit-float -fno-strict-aliasing -fno-short-enums -fdata-sections -fPIC -g -Wall -I include -I incldue/al/Library -I include/al/Project -I lib/agl/include -I lib/nnheaders/include -I lib/sead/include -I tools/clang/include/c++/v1 -D NNSDK -c",
+      "command": "clang++ -x c++ -O3 -std=gnu++1z --target=aarch64-linux-elf -mcpu=cortex-a57+fp+simd+crypto+crc -fno-exceptions -mno-implicit-float -fno-strict-aliasing -fno-short-enums -fdata-sections -fPIC -g -Wall -I include -I include/al/Library -I include/al/Project -I lib/agl/include -I lib/nnheaders/include -I lib/sead/include -I tools/clang/include/c++/v1 -D NNSDK -c",
       "file": "required/line.cpp"
     }
   ]
