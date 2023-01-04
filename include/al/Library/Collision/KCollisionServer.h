@@ -58,10 +58,19 @@ namespace al {
         void objectSpaceToAreaOffsetSpace(sead::Vector3<u32> *, const sead::Vector3f &, const KCPrismHeader *) const;
         void areaOffsetSpaceToObjectSpace(sead::Vector3f *, const sead::Vector3<u32> &, const KCPrismHeader *) const;
 
+        void getMinMax(sead::Vector3f *, sead::Vector3f *) const;
+        void getAreaSpaceSize(sead::Vector3f *, const KCPrismHeader *) const;
+        void getAreaSpaceSize(s32 *, s32 *, s32 *, const KCPrismHeader *) const;
+        void getAreaSpaceSize(sead::Vector3<u32> *, const KCPrismHeader *) const;
+
         u32 calcAreaBlockOffset(const sead::Vector3<u32> &, const KCPrismHeader *) const;
 
         u32 getTriangleNum(const KCPrismHeader *) const;
         KCPrismData* getPrismData(u32, const KCPrismHeader *) const;
+
+        inline KCHeader* getHeader() const {
+            return reinterpret_cast<KCHeader*>(mKCLData);
+        }
 
         sead::PtrArray<KCPrismData*> mPrismArray;   // _0
         void* mKCLData;                             // _10

@@ -5,7 +5,7 @@ from elftools.elf.elffile import ELFFile
 
 TOTAL_GAME_SIZE = 0x7100A991D8  # Decomp ends here!
 
-skip_funcs = ("nn", "sead", "agl", "eui")
+skip_funcs = ("_ZN2nn", "_ZN4sead", "_ZN3agl", "_ZN3eui")
 
 def getModule(sym):
     for root, dirs, files in os.walk("map"):
@@ -108,7 +108,7 @@ def compare(sym, addr, original_size):
     return 0
 
 
-def is_needed_symbol(symbol):
+def is_skipped_symbol(symbol):
     if any(s in symbol for s in skip_funcs):
 
         if re.search(r'\d', symbol):
@@ -117,7 +117,6 @@ def is_needed_symbol(symbol):
 
 
 def generate_csv_base(match_sym="", clear=False):
-
     with open("data/main.map", 'r') as f:
         lines = f.readlines()
 
@@ -136,7 +135,6 @@ def generate_csv_base(match_sym="", clear=False):
             writer.writerows(modified_rows)
 
     else:  # if match_sym is empty
-
         print("Generating CSV file...")
         with open('data/functions.csv', 'w') as f:
             writer = csv.writer(f)
@@ -146,10 +144,11 @@ def generate_csv_base(match_sym="", clear=False):
             for line in lines:
                 address, symbol = line.strip().split('=')
 
-                if is_needed_symbol(symbol):
+                if is_skipped_symbol(symbol):
                     continue
                 if int(address, 16) > TOTAL_GAME_SIZE:
                     continue
+
                 writer.writerow([address, symbol, 'false'])
 
 
