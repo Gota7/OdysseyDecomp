@@ -1,6 +1,6 @@
 #pragma once
 
-#include "al/Library/IUse/IUseHioNode.h"
+#include "IUse/IUseHioNode.h"
 
 namespace al {
     class IUseGridMesh : public HioNode {

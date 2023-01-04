@@ -1,6 +1,4 @@
-#include "al/Library/HitSensor/HitSensorKeeper.h"
-#include "al/Library/Base/String.h"
-#include "al/Project/HitSensor/HitSensor.h"
+#include "HitSensor/HitSensorKeeper.h"
 
 namespace al {
     HitSensorKeeper::HitSensorKeeper(int maxCount) {

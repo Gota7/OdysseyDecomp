@@ -1,9 +1,9 @@
 #pragma once
 
-#include "al/Library/IUse/IUse.h"
-#include "al/Library/IUse/IUseAreaObj.h"
-#include "al/Library/IUse/IUseCamera.h"
-#include "al/Library/Placement/PlacementInfo.h"
+#include "IUse/IUse.h"
+#include "IUse/IUseAreaObj.h"
+#include "IUse/IUseCamera.h"
+#include "Placement/PlacementInfo.h"
 
 namespace al {
     class AudioDirector;
