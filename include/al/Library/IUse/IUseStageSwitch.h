@@ -1,6 +1,6 @@
 #pragma once
 
-#include "al/Library/IUse/IUseName.h"
+#include "IUse/IUseName.h"
 
 namespace al {
     class StageSwitchKeeper;

@@ -1,11 +1,15 @@
 #pragma once
 
-#include "al/Library/Placement/PlacementId.h"
-#include "al/Library/Placement/PlacementInfo.h"
+#include "Placement/PlacementId.h"
+#include "Placement/PlacementInfo.h"
 #include <gfx/seadColor.h>
 #include <math/seadMatrix.h>
 #include <math/seadQuat.h>
 #include <math/seadVector.h>
+#include "Base/String.h"
+#include "LiveActor/ActorInitFunction.h"
+#include "Yaml/ByamlIter.h"
+#include <math/seadMatrixCalcCommon.h>
 
 namespace al {
     class ActorInitInfo;
