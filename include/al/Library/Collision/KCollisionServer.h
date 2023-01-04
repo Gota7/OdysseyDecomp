@@ -53,7 +53,7 @@ namespace al {
         void initKCollisionServer(void *, const void *);
         void setData(void *);
         void* getInnerKcl(int) const;
-        s32 getNumInnerKcl() const;
+        u32 getNumInnerKcl() const;
 
         void objectSpaceToAreaOffsetSpace(sead::Vector3<u32> *, const sead::Vector3f &, const KCPrismHeader *) const;
         void areaOffsetSpaceToObjectSpace(sead::Vector3f *, const sead::Vector3<u32> &, const KCPrismHeader *) const;
