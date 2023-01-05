@@ -49,4 +49,33 @@ namespace al {
         pOut->y = ~pHeader->mYMask;
         pOut->z = ~pHeader->mZMask;
     }
+
+    sead::Vector3f& KCollisionServer::getFaceNormal(const KCPrismData *pPrism, const KCPrismHeader *pHeader) const {
+        s32 normalIdx = pPrism->mDirIdx;
+        return *(reinterpret_cast<sead::Vector3f*>((s64)pHeader + (s64)pHeader->mSection2Offs + normalIdx * 0xC));
+    }
+
+    sead::Vector3f& KCollisionServer::getEdgeNormal1(const KCPrismData *pPrism, const KCPrismHeader *pHeader) const {
+        s32 normalIdx = pPrism->mNormAIdx;
+        return *(reinterpret_cast<sead::Vector3f*>((s64)pHeader + (s64)pHeader->mSection2Offs + normalIdx * 0xC));
+    }
+
+    sead::Vector3f& KCollisionServer::getEdgeNormal2(const KCPrismData *pPrism, const KCPrismHeader *pHeader) const {
+        s32 normalIdx = pPrism->mNormBIdx;
+        return *(reinterpret_cast<sead::Vector3f*>((s64)pHeader + (s64)pHeader->mSection2Offs + normalIdx * 0xC));
+    }
+
+    sead::Vector3f& KCollisionServer::getEdgeNormal3(const KCPrismData *pPrism, const KCPrismHeader *pHeader) const {
+        s32 normalIdx = pPrism->mNormCIdx;
+        return *(reinterpret_cast<sead::Vector3f*>((s64)pHeader + (s64)pHeader->mSection2Offs + normalIdx * 0xC));
+    }
+
+    sead::Vector3f& KCollisionServer::getNormal(u32 idx, const KCPrismHeader *pHeader) const {
+        return *(reinterpret_cast<sead::Vector3f*>((s64)pHeader + (s64)pHeader->mSection2Offs) + (s32)idx);
+    }
+
+    sead::Vector3f& KCollisionServer::getVertexData(u32 idx, const KCPrismHeader *pHeader) const {
+        return *(reinterpret_cast<sead::Vector3f*>((s64)pHeader + (s64)pHeader->mSection1Offs) + (s32)idx);
+    }
+
 };

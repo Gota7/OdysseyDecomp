@@ -68,6 +68,15 @@ namespace al {
         u32 getTriangleNum(const KCPrismHeader *) const;
         KCPrismData* getPrismData(u32, const KCPrismHeader *) const;
 
+        sead::Vector3f& getFaceNormal(const KCPrismData *, const KCPrismHeader *) const;
+        sead::Vector3f& getEdgeNormal1(const KCPrismData *, const KCPrismHeader *) const;
+        sead::Vector3f& getEdgeNormal2(const KCPrismData *, const KCPrismHeader *) const;
+        sead::Vector3f& getEdgeNormal3(const KCPrismData *, const KCPrismHeader *) const;
+
+        sead::Vector3f& getNormal(u32, const KCPrismHeader *) const;
+
+        sead::Vector3f& getVertexData(u32, const KCPrismHeader *) const;
+
         inline KCHeader* getHeader() const {
             return reinterpret_cast<KCHeader*>(mKCLData);
         }
